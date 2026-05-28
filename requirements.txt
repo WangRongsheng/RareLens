@@ -1,0 +1,19 @@
+# Rarelens_demo — Python 3.10+
+# pip install -r requirements.txt
+
+openai>=1.40.0
+pydantic>=2.5.0
+PyYAML>=6.0.1
+numpy>=1.24.0
+pandas>=2.0.0
+xgboost>=2.0.0
+scikit-learn==1.7.2
+catboost==1.2.8
+tqdm>=4.65.0
+sentence-transformers>=2.6.0
+
+# Optional: OrphaCode RAG 向量检索（rare_diagnosis/orphacode_rag.py 在缺少 faiss 时会降级）
+faiss-cpu>=1.7.4
+
+# JSON 修复：处理 LLM 输出中漏括号、尾逗号等常见语法错误（json_extractor.py 的兜底策略）
+json-repair>=0.30.0

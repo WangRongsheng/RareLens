@@ -1,0 +1,61 @@
+# ---------- Secrets ----------
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ---------- Virtual envs ----------
+.venv/
+venv/
+env/
+ENV/
+
+# ---------- IDE ----------
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ---------- Notebook ----------
+.ipynb_checkpoints/
+
+# ---------- Project artifacts ----------
+# Generated training outputs (override with explicit add if a checkpoint must ship)
+outputs/
+runs/
+logs/
+*.log
+
+# Heavy / regeneratable model artifacts
+# (keep rare_*/models/<best>.{pkl,json,cbm} since those are the released params;
+#  ignore everything else under outputs/)
+*.tmp
+*.bak
+
+# ---------- Data / Eval / Reproduce ----------
+data_demo/
+eval/
+reproduce_module/
+
+# ---------- Reference / misc ----------
+2601.18132v1.pdf
+README_ref.md

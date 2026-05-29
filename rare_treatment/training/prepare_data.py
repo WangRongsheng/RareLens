@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Prepare demo data for the treatment ranking pipeline.
+Prepare data for the treatment ranking pipeline.
 
-Converts the compact demo format into the directory structure expected by
+Converts raw case outputs and LLM predictions into the directory structure expected by
 build_features.py, train_ranker.py, and eval scripts.
 
 Inputs (from data_demo/):

@@ -81,7 +81,7 @@ echo ""
 
 # ── Step 0: Prepare data ─────────────────────────────────────────────────
 echo "[Step 0/5] Preparing data..."
-"${PYTHON}" "${SCRIPT_DIR}/prepare_demo_data.py" \
+"${PYTHON}" "${SCRIPT_DIR}/prepare_data.py" \
     --case-root "${CASE_ROOT}" \
     --llm-output-root "${LLM_OUTPUT_ROOT}" \
     --out-dir "${PREPARED}"

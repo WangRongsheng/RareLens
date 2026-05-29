@@ -1,0 +1,6 @@
+{
+  "embedding_model": "BAAI/bge-base-en-v1.5",
+  "entries_path": "D:\\research\\RareLens_backendv2\\rare_diagnosis\\orphacode_rag_cache\\entries.json",
+  "entries_count": 15772,
+  "dimension": 768
+}

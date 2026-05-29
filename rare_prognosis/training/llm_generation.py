@@ -14,8 +14,9 @@ from functools import lru_cache
 from pathlib import Path
 from typing import Any, Callable, Dict, Iterable, List, Optional, Tuple
 
+from configs.models import PROGNOSIS_MODELS
 from core_tool.io_utils import dump_json, read_json
-from core_tool.llm.client import LLMClient
+from core_tool.llm.client import LLMClient, _load_dotenv_if_present
 from core_tool.llm.credential_resolver import resolve_prognosis
 from core_tool.llm.token_tracker import stats_from_client
 from core_tool.parser.json_extractor import extract
@@ -142,8 +143,7 @@ def _call_prognosis_model_sync(
         extra_body = {"reasoning_effort": "medium"}
     else:
         extra_body = None
-    # gemini-2.5-flash is a reasoning model whose internal thinking tokens consume
-    # the max_tokens budget, causing JSON output truncation. Use 16384 to avoid this.
+
     effective_max_tokens = 16384 if "gemini" in model_norm else max_tokens
     # Reasoning models that don't accept temperature: gpt-5, deepseek-r1-*.
     effective_temperature = None if model_norm in ("gpt-5",) or model_norm.startswith("deepseek-r1") else temperature
@@ -180,7 +180,7 @@ def _resolve_generation_models(
     elif isinstance(raw, (list, tuple, set)):
         items = [str(part).strip() for part in raw]
     else:
-        raise ValueError("generation_models must be specified (via config or parameter)")
+        items = list(PROGNOSIS_MODELS)
     seen = set()
     out: List[str] = []
     for item in items:
@@ -301,7 +301,7 @@ async def _generate_case_bundle_prognosis_llm(
                 if stats:
                     model_token_stats[model_name] = stats
                 if callable(progress_hook):
-                    progress_hook(f"  ✓ {model_name}: prognosis_prediction_output generated")
+                    progress_hook(f"  ✓ {model_name}: prognosis_prediction_output 已生成")
             elif error:
                 failed_models[model_name] = error
                 if callable(progress_hook):
@@ -375,8 +375,8 @@ async def ensure_bundle_with_prognosis_llm(
         if existing:
             return existing, meta
         raise ValueError(
-            "case_bundle is missing llm_outputs and online generation is not enabled. "
-            "Please provide per-model prognosis_prediction_output.json on disk, or add --generate-llm-if-missing."
+            "case_bundle 缺少 llm_outputs，且未开启在线生成。"
+            "请提供磁盘上的各模型 prognosis_prediction_output.json，或在 CLI 加 --generate-llm-if-missing。"
         )
 
     aggregated = _load_aggregated_prognosis_input(case_bundle)
@@ -390,8 +390,8 @@ async def ensure_bundle_with_prognosis_llm(
 
     if not aggregated:
         raise ValueError(
-            "Cannot auto-generate prognosis LLM output: missing prognosis_prediction.json "
-            "(or prognosis_prediction_input). Place it alongside patient-json, or pass --prognosis-input-json."
+            "无法自动生成预后 LLM 输出：缺少 prognosis_prediction.json（或 prognosis_prediction_input）。"
+            "请将其放在与 patient-json 同目录，或传入 --prognosis-input-json。"
         )
 
     meta["mode"] = "real" if not dry_run_llm_generation else "dry_run"
@@ -417,7 +417,7 @@ async def ensure_bundle_with_prognosis_llm(
 
     if callable(progress_hook):
         progress_hook(
-            f"Prognosis LLM generation: preparing {len(target_models)} models "
+            f"预后 LLM 生成：准备 {len(target_models)} 个模型 "
             f"(mode={meta['mode']}, per_model_timeout={per_model_timeout:.0f}s, concurrency={max_concurrency})",
         )
 

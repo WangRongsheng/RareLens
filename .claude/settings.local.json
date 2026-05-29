@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(D:/Anaconda/envs/raredis/python.exe -m rare_diagnosis.training.build_features_primary --query_root data_demo/pipeline_data/primary_visit/query_data --primary_models_root data_demo/pipeline_data/primary_visit/primary_diagnosis_test_llm --gt_root data_demo/eval_score/primary_diag/llm --out_dir outputs/demo_diagnosis_features_primary --train_ids data_demo/pipeline_data/primary_visit/splits/train.json --test_ids data_demo/pipeline_data/primary_visit/splits/test.json --primary_fname most_likely_diagnosis_orphacode.json --gt_fname primary_diagnosis_score.json --workers 1)",
+      "Bash(D:/Anaconda/envs/raredis/python.exe -m rare_diagnosis.training.train_ranker --input-dir outputs/demo_diagnosis_features_primary --config rare_diagnosis/training/best_hyperopt_config_primary.json --out-dir outputs/demo_diagnosis_model_primary)",
+      "Bash(D:/Anaconda/envs/raredis/python.exe -m rare_diagnosis.training.eval.eval_ml --json outputs/demo_diagnosis_model_primary/test_predictions_ranked.json --out-csv outputs/demo_diagnosis_model_primary/eval_results/ml_metrics.csv)",
+      "Bash(D:/Anaconda/envs/raredis/python.exe -m rare_diagnosis.training.eval.eval_llm --score-root data_demo/eval_score/primary_diag/llm --test-ids data_demo/pipeline_data/primary_visit/splits/test.json --out-dir outputs/demo_diagnosis_model_primary/eval_results)",
+      "Bash(bash rare_diagnosis/training/reproduce_diag.sh --python D:/Anaconda/envs/raredis/python.exe --visit-type primary --query-root data_demo/pipeline_data/primary_visit/query_data --gt-root data_demo/eval_score/primary_diag/llm --models-root data_demo/pipeline_data/primary_visit/primary_diagnosis_test_llm --train-ids data_demo/pipeline_data/primary_visit/splits/train.json --test-ids data_demo/pipeline_data/primary_visit/splits/test.json --score-root data_demo/eval_score/primary_diag/llm --work-dir outputs/demo_repro_features_primary --out-dir outputs/demo_repro_model_primary --no-gpu)",
+      "Bash(D:/Anaconda/envs/raredis/python.exe -m rare_diagnosis.training.infer_ranker --input-dir outputs/demo_repro_features_primary --model-dir outputs/demo_repro_model_primary/models --config rare_diagnosis/training/best_hyperopt_config_primary.json --out-dir outputs/demo_repro_infer_primary)",
+      "Bash(D:/Anaconda/envs/raredis/python.exe -c ':*)",
+      "Bash(D:/Anaconda/envs/raredis/python.exe -m rare_diagnosis.training.infer_ranker --input-dir outputs/demo_repro_features_primary --model-dir rare_diagnosis/models/primary_aligned --config rare_diagnosis/training/best_hyperopt_config_primary.json --out-dir outputs/demo_infer_primary_aligned)"
+    ]
+  }
+}

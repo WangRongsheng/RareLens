@@ -30,6 +30,7 @@ ENV/
 # ---------- IDE ----------
 .idea/
 .vscode/
+.claude/
 *.swp
 *.swo
 .DS_Store
@@ -53,7 +54,7 @@ logs/
 
 # ---------- Data / Eval / Reproduce ----------
 data_demo/
-eval/
+/eval/
 reproduce_module/
 
 # ---------- Reference / misc ----------

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pulmonary embolism",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient developed acute shortness of breath and tachycardia post-operatively, with a CTA revealing PE extending into right and left upper lobe pulmonary branches as well as the left lower lobe pulmonary branch."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Clozapine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "75mg PO Daily",
+            "treatment_response": "Positive response to clozapine"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Modafinil",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100mg PO Daily",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient stopped medications due to side effects approximately ___ weeks ago."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient presented with concerns of developing mania."
+        },
+        {
+            "date": "Not specified",
+            "event": "Clozapine treatment noted with a positive response."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient admitted requiring inpatient hospitalization."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental Status: Clear and coherent.",
+        "follow_up_details": "Please follow up with all outpatient appointments as listed.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Activity Status: Ambulatory - Independent.",
+        "patient_perspective": "Patient expresses ambivalence about being hospitalized."
+    }
+}

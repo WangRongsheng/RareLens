@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Bowel perforation with resection with ileostomy",
+        "differential_diagnosis": "Obstructive hydrocephalus, Toxic Metabolic Encephalopathy, Seizure, Vancomycin resistant enterococcus meningitis/ventriculitis",
+        "diagnostic_reasoning": "The patient was transferred for bowel perforation confirmed by CT imaging showing pneumoperitoneum and extraluminal oral contrast consistent with perforation. Additionally, the patient exhibited increasing white blood cell count, ongoing intubation, and temperature spikes indicative of infection. Surgical intervention included exploration and bowel resection due to perforations."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Gastritis",
+        "differential_diagnosis": "Alcoholic cirrhosis",
+        "diagnostic_reasoning": "The endoscopy showed no active bleeding or varices, but evidence of changes in the stomach mucosa related to liver disease, as well as gastritis. The dark stools were likely attributed to iron supplementation rather than bleeding."
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "basic_information": {
+        "age": "55",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Kauffrau (businesswoman)"
+    },
+    "medical_history": {
+        "chief_complaint": "chronic facial pain and ptosis on her left side",
+        "history_of_present_illness": "The patient reported suffering from a burning constant pain above the left eyebrow for about 10 years, which was sometimes accompanied by feelings of heat, redness, and tingling. The pain suddenly stopped three weeks before admission, leaving only a slight left-sided facial hypaesthesia.",
+        "past_medical_history": "Hypertension, glaucoma, and iron deficiency. The patient had undergone several MRI scans and treatments for suspected trigeminal neuralgia, migraine, and cluster headache without success.",
+        "family_history": "Not specified",
+        "social_history": "Married, mother of a daughter, and professionally successful as a businesswoman. No mention of substance use or occupational exposures."
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Left-sided mild ptosis and hypaesthesia and disturbance of thermoceception in the entire left trigeminal nerve area. The rest of the neurological and general clinical status was normal."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serology for Varizella Zoster and Borreliosis",
+            "date": "Not specified",
+            "findings": "No association with infection or autoimmune disease",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Acetyl-Cholin-Receptor and thyroid antibodies",
+            "date": "Not specified",
+            "findings": "No association with autoimmune disease",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood tests including vasculitis parameters",
+            "date": "Not specified",
+            "findings": "Mild hyperlipoproteinemia, otherwise normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Unremarkable in terms of laboratory chemistry and cytology",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI (multiple over 10 years)",
+            "date": "Not specified",
+            "findings": "Initially, no morphological correlate found. Later, a 2 mm signal alteration in the caudal part of the left trigeminal nucleus was noted. Finally, a 5–6 mm subacute hemorrhaged cavernoma was detected.",
+            "changes_over_time": "Signal alteration was constant over the years. Later, a subacute hemorrhage into a small brainstem cavernoma was found."
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "VEP (Visual Evoked Potentials)",
+            "date": "Not specified",
+            "findings": "No significant findings",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Edrophonium test",
+            "date": "Not specified",
+            "findings": "No significant findings",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Orbicularis Oculi Reflex",
+            "date": "Not specified",
+            "findings": "Conduction delay on the left side (R1r, 8.8 ms, R2r 29.8 ms, R2’l 28.8 ms, stimulation left: R1 l 8.7 ms, R2 l 32.7 ms, R2’r 31.0 ms)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Trigeminus-SEP (Somatosensory Evoked Potentials)",
+            "date": "Not specified",
+            "findings": "Delayed and less pronounced on the left side (right 18.9 ms, left 19.9 ms)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Brainstem cavernoma",
+        "diagnostic_reasoning": "The final diagnosis was supported by MRI findings showing a subacute hemorrhage into a small brainstem cavernoma. The patient's chronic facial pain and subsequent hypesthesia were attributed to the cavernoma affecting the trigeminal nerve nucleus. Previous diagnostic attempts under various suspected conditions (Trigeminal neuralgia, Migraine, Cluster headache, Erythroprosopalgia) were unsuccessful, and the cavernoma was only identified upon reevaluation of MRI images with specific sequences."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Pregabalin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Antidepressant",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Low-dose"
+        }
+    ]
+}

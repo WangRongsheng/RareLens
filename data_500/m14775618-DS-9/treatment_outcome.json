@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "81 mg PO Q48H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Heparin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "gtt",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Nitroglycerin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "SL x2",
+            "treatment_response": "Helpful in relieving chest tightness"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with dizziness and chest tightness"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received aspirin and heparin gtt"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received nitroglycerin SL x2"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient reported feeling well after treatment"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged feeling overall well",
+        "follow_up_details": "Follow up with primary care provider in ___ weeks for possible further stress testing and workup for dizziness",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient felt the nitroglycerin was helpful in relieving chest tightness"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Endoscopic ultrasound with biopsy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Results of this biopsy were inconclusive."
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Endoscopic placement of NJ tube",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Started on tube feeds.",
+            "treatment_response": "Allowed pancreas to heal."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Dilaudid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Take as needed for pain; minimize use by using Tylenol as directed.",
+            "treatment_response": "Expected to need less as inflammation in pancreas improves."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Antibiotic",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Continue as noted in discharge papers.",
+            "treatment_response": "Not specified."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Endoscopic ultrasound with biopsy performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Endoscopic placement of NJ tube performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on tube feeds."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged with prescription for Dilaudid."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged with a prescription for antibiotic."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Not specified; ongoing monitoring expected.",
+        "follow_up_details": "Plan to repeat MRI in the next few weeks.",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Not specified."
+    }
+}

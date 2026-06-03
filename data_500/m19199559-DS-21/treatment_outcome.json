@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Dilaudid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Symptom management"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Zofran",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Symptom management"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ciprofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Flagyl",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Allergic reaction noted"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "amoxicillin-pot clavulanate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO BID for 15 doses",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Dilaudid and Zofran administered for symptom management"
+        },
+        {
+            "date": "Not specified",
+            "event": "Ciprofloxacin and Flagyl administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications prescribed including amoxicillin-pot clavulanate"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged with clear cognitive status and mild abdominal tenderness",
+        "follow_up_details": "Follow-up with Dr. ___ for chronic constipation management and colonoscopy referral approximately 1 month after healing",
+        "complications": "Allergic reaction to Flagyl or ciprofloxacin",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Able to eat a clear liquid diet without pain; ambulating independently",
+        "patient_perspective": "Not specified"
+    }
+}

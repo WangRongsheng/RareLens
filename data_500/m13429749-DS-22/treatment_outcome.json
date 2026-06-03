@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Furosemide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg PO BID",
+            "treatment_response": "Patient received IV medication to reduce water weight."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Valsartan",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "160 mg PO DAILY",
+            "treatment_response": "Continued as part of discharge medications."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Carvedilol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "12.5 mg PO BID",
+            "treatment_response": "Continued as part of discharge medications."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Insulin (Glargine)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "24 Units Bedtime Insulin SC",
+            "treatment_response": "Continued as part of discharge medications."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with heart failure exacerbation."
+        },
+        {
+            "date": "Not specified",
+            "event": "IV medication administered for fluid reduction."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications prescribed."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient discharged home, alert and interactive.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Ambulatory - Independent.",
+        "patient_perspective": "Patient instructed to monitor weight and call if weight increases more than 3 lbs."
+    }
+}

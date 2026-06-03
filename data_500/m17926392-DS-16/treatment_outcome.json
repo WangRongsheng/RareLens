@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "angiogram of right renal artery and CO2 angiogram of left lower extremity",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Inpatient admission for hydration prior to planned angiogram"
+        },
+        {
+            "date": "Not specified",
+            "event": "Angiogram performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Call and schedule an appointment to be seen in ___ weeks for post procedure check and ultrasound.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient's mental status was clear and coherent, activity status was ambulatory - independent.",
+        "patient_perspective": "Not specified"
+    }
+}

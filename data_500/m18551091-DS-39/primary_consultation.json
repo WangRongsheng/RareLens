@@ -1,0 +1,30 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Dyspnea on exertion",
+        "history_of_present_illness": "Patient with a history of atrial fibrillation on warfarin, diastolic CHF, severe AS w/ mild-moderate aortic regurgitation, moderate pulmonary artery systolic hypertension, chronic bronchitis, hypertension, and TIAs presenting with bilateral lower extremity erythema/swelling (R>L) and worsening shortness of breath over the past 5 days with increased bilateral leg swelling. Hematocrit drop of 26.2 from 32 earlier this month. Increased fatigue after walking a known distance. Recent hospitalization with cellulitis treated with antibiotics.",
+        "past_medical_history": "- a-fib with RVR (dx Not specified, rate controlled, on warfarin)\n- diastolic CHF\n- severe aortic stenosis\n- mild/moderate aortic regurgitation\n- moderate pulmonary hypertension\n- RLE cellulitis\n- Hypertension\n- H/o TIAs\n- Chronic bronchitis\n- History of anemia\n- PUD\n- Hyponatremia attributed to SIADH (Na 125-131)\n- s/p septic joint (Not specified)\n- Chronic bilateral rotator cuff tears\n- Zoster and postherpetic neuralgia (Not specified)",
+        "family_history": "His grandparents died of strokes. His grandfather had a complicated foot ulcer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": {
+            "vital_signs": "BP 124/68, HR 67, RR 18, Temp 94 RA",
+            "notable_findings": "Thin, elderly male, Alert, oriented, no acute distress",
+            "constitutional_symptoms": "Not specified"
+        },
+        "specialty_examination": {
+            "neurological": "CNs 2-12 intact, motor function grossly normal",
+            "cardiovascular": "Irregular rhythm, crescendo-decrescendo systolic murmur radiating to carotids, bilateral leg edema",
+            "other_findings": "Diffuse wheezes and rhonchi with basilar rales"
+        }
+    }
+}

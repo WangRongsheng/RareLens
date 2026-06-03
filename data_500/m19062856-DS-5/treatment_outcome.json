@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "EGD",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Pain significantly improved and tolerating a stage 4 bariatric diet"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient experienced epigastric pain and chest pain radiating to left arm with associated diaphoresis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Taken to emergency department where symptoms improved with baby ASA, O2, and nitroglycerin"
+        },
+        {
+            "date": "Not specified",
+            "event": "Transferral to another facility for further care due to need for GI workup"
+        },
+        {
+            "date": "Not specified",
+            "event": "Abdominal CT scan performed, showing multiple ventral wall hernias"
+        },
+        {
+            "date": "Not specified",
+            "event": "EGD was obtained, which was not revealing as a source of pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged home with improved condition and dietary instructions"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent with significantly improved pain",
+        "follow_up_details": "Follow-up with Hematologist for low iron saturation and ferritin recommended",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Mental status clear and coherent, alert and interactive",
+        "patient_perspective": "Patient's pain has significantly improved"
+    }
+}

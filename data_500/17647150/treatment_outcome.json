@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Pregabalin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "The neuropathic pain syndrome was well controlled with Pregabalin and a low-dose antidepressant."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Antidepressant",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Low-dose",
+            "treatment_response": "The neuropathic pain syndrome was well controlled with Pregabalin and a low-dose antidepressant."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient experienced chronic facial pain and left ptosis for about 10 years."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent multiple MRI examinations without finding a morphological correlate."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient tried various neurological therapy attempts under different suspected diagnoses (e.g., trigeminal neuralgia, migraine, cluster headache) without success."
+        },
+        {
+            "date": "3 weeks before admission",
+            "event": "The pain suddenly disappeared, leaving only slight left-sided facial hypesthesia."
+        },
+        {
+            "date": "Not specified",
+            "event": "A new MRI showed a subacute hemorrhage into a small brainstem cavernoma."
+        },
+        {
+            "date": "Not specified",
+            "event": "Neurosurgical evaluation deemed the operation of the superficially located cavernoma possible but too risky due to the well-documented benign course over 10 years."
+        },
+        {
+            "date": "2 months after hemorrhage",
+            "event": "Patient developed a new massive neuropathic pain syndrome."
+        },
+        {
+            "date": "6 months after treatment",
+            "event": "Patient remained symptom-free under reduced medication."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Symptom-free",
+        "follow_up_details": "Regular check-ups were scheduled.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Patient remained symptom-free about 6 months after treatment.",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

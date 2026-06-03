@@ -1,0 +1,23 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "Case 2: \"The patient (presently one year old) is well, and biochemical and hematological testing show no signs of liver failure.\"",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Follow-up notes state \"biochemical and hematological testing show no signs of liver failure,\" indicating absence of ongoing liver-related symptoms.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "\"The patient’s clinical conditions began to progressively improve as of the first month of life.\""
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At one year: \"The patient ... is well,\" indicating sustained recovery in clinical status."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The report includes two siblings with neonatal hemochromatosis; this extraction focuses on Case 2, who had documented follow-up to one year. Structural liver status at long term is uncertain because parents refused control liver biopsy, despite earlier biopsy showing cirrhosis. Timing is approximated relative to the documented diagnosis at 1 day of life."
+}

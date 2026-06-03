@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Ultimately, she improved back to her motor baseline and only mild residual speech deficits... Three-month follow-up MRI demonstrated recanalisation of the occluded DVA.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Ongoing mild residual speech deficits noted after clinical improvement; no further complications reported.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "She was treated acutely with propofol... able to be weaned off of the propofol, until she was extubated."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Ultimately, she improved back to her motor baseline and only mild residual speech deficits, and was discharged home after extensive physical therapy."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Three-month follow-up MRI demonstrated recanalisation of the occluded DVA."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Long-term outcomes beyond approximately 3 months are not described. Persistence of seizures and duration of antiepileptic therapy after discharge are not reported. Index time approximated to the angiographic diagnosis and initiation of supportive/antiepileptic management during the presenting admission."
+}

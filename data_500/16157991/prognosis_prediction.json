@@ -1,0 +1,106 @@
+{
+    "basic_information": {
+        "age": "19",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hyperkalemia (7.0 mEq/l) that had been incidentally identified when she was treated for a cold",
+        "history_of_present_illness": "In August 2002, hyperkalemia (7.0 mEq/l) was incidentally identified. In March 2003, she was again diagnosed as having hyperkalemia (6.0 mEq/l). She was admitted to the hospital for evaluation of the cause of hyperkalemia on May 8, 2003. She did not have any history of disease and did not take any medications.",
+        "past_medical_history": "No history of disease",
+        "family_history": "Her father also had elevated plasma potassium levels at 4°C and 25°C, particularly at 4°C.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Temperature was 36.0°C, pulse rate was 70 beats per minute, respiratory rate was 14 breaths per minute, and blood pressure was 111/60 mmHg. The chest was clear on auscultation, heart sounds were regular, and no murmur was heard. Abdominal examination revealed no abnormalities. No edema of the extremities was found.",
+        "specialty_examination": "No neurological abnormalities, such as paresthesia or muscle weakness, were identified."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum potassium level",
+            "date": "August 2002",
+            "findings": "7.0 mEq/l (hyperkalemia)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum potassium level",
+            "date": "March 2003",
+            "findings": "6.0 mEq/l (hyperkalemia)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematological examination",
+            "date": "May 8, 2003",
+            "findings": "No leucocytosis, thrombocytosis or morphological abnormalities of red blood cells",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "May 8, 2003",
+            "findings": "Protein: Negative, Occult blood: Negative, Sugar: Negative, Sediments: Erythrocyte: Negative, Granular cast: Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Peripheral blood",
+            "date": "May 8, 2003",
+            "findings": "Hematocrit: 43.5%, Hemoglobin: 14.2 g/dl, Red blood cells: 4,790,000/μl, White blood cells: 5,200/μl, Platelets: 282,000/μl, Segments: 40.5%, Eosinophils: 8.2%, Basophils: 0.5%, Lymphocytes: 43.0%, Monocytes: 7.8%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood chemistry",
+            "date": "May 8, 2003",
+            "findings": "Total protein: 7.1 g/dl, Albumin: 4.3 g/dl, AST: 15 IU/l, ALT: 8 IU/l, LDH: 116 IU/l, Alkaline phosphatase: 202 IU/l, Total bilirubin: 0.77 mg/dl, CPK: 49 IU/l, Sodium: 136 mEq/l, Potassium: 5.6 mEq/l, Chloride: 101 mEq/l, BUN: 12 mg/dl, Creatinine: 0.65 mg/dl, Uric acid: 5.1 mg/dl, Calcium: 9.2 mg/dl, Phosphate: 4.2 mg/dl, Glucose: 75 mg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial blood gases",
+            "date": "May 8, 2003",
+            "findings": "pH: 7.402, pCO2: 36.7 mmHg, pO2: 108.2 mmHg, HCO3: 23.0 mEq/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum and plasma potassium levels",
+            "date": "May 8, 2003",
+            "findings": "Serum potassium: 5.3 mEq/l, Plasma potassium: 4.3 mEq/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma potassium assays after incubation",
+            "date": "May 8, 2003",
+            "findings": "Plasma potassium levels at 0 hours: 4.1 mEq/l, at 6 hours: 7.5 mEq/l",
+            "changes_over_time": "Excessive potassium was released from red blood cells without coagulation over 6 hours"
+        },
+        {
+            "procedure_name": "Plasma potassium and LDH levels under various incubation conditions",
+            "date": "May 8, 2003",
+            "findings": "Plasma potassium levels of the patient were markedly elevated at 4°C and 25°C, but not at 37°C. LDH activities remained constant.",
+            "changes_over_time": "Plasma potassium levels increased over time at lower temperatures (4°C and 25°C), but not at 37°C"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiography",
+            "date": "May 8, 2003",
+            "findings": "No signs of hyperkalemia",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "familial pseudohyperkalemia syndrome",
+        "diagnostic_reasoning": "The patient presented with hyperkalemia without symptoms, and initial tests ruled out common causes. A marked difference between serum and plasma potassium levels indicated pseudohyperkalemia. Further testing showed excessive potassium release from red blood cells at lower temperatures (4°C and 25°C) but not at 37°C, consistent with familial pseudohyperkalemia. The patient's father showed similar results, supporting a familial pattern. No hemolysis or hematological abnormalities were found, ruling out other causes like hereditary spherocytosis."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "Not specified",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

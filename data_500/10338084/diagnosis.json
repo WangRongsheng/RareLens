@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Anaplastic ganglioglioma",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The tumor was diagnosed as an anaplastic ganglioglioma based on its microscopic features, including a mixture of atypical glial cells and ganglion cells, with the glial cells showing features of anaplasia such as cellular pleomorphism, high cellularity, and mitotic figures. Immunohistochemical staining supported the diagnosis, with ganglion cells positive for neuron-specific enolase (NSE) and neurofilament, and glial cells positive for glial fibrillary acidic protein (GFAP) and vimentin."
+    }
+}

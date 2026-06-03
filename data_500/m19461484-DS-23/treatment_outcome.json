@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lovenox",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg SC Q12H",
+            "treatment_response": "No evidence of DVTs"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with worsening slurred speech and unsteady walking."
+        },
+        {
+            "date": "Not specified",
+            "event": "MRI of the brain performed, no evidence of a new stroke."
+        },
+        {
+            "date": "Not specified",
+            "event": "Ultrasound of legs performed, no DVTs found but identified a small area of inflammation behind left knee."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent.",
+        "follow_up_details": "Follow up with PCP and specialist for treatment.",
+        "complications": "No complications",
+        "long_term_prognosis": "Symptoms likely related to fluctuation in previous stroke deficits.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Mental Status: Clear and coherent.",
+        "patient_perspective": "Patient expressed acknowledgment of worsening symptoms associated with stress."
+    }
+}

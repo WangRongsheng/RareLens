@@ -1,0 +1,177 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "failure to thrive",
+        "history_of_present_illness": "Patient was sent in from rehab for failure to thrive and abnormal labs. He reports feeling depressed and losing significant amounts of weight over the last few years. He states that he has lost 20 pounds over the past month and has been eating less because food tastes off. He denies dysphagia and any gastrointestinal bleeding history. At rehab, it was noted that his blood pressures were historically low and sugars were unstable. Albumin was <1.5, and CBC/diff showed many smudge cells. Labs significant for hemoglobin 11, platelet 110, fibrinogen 98, INR 5.6. Although smudge cells were noted, they were attributed to hypoalbuminemia and no evidence of malignancy was found.",
+        "past_medical_history": "Celiac disease, vitamin D deficiency, hypocalcemia, peripheral vascular disease, type 2 diabetes mellitus with neuropathy, gastroparesis, bipolar disorder with psychotic features, panic disorder, major depressive disorder, restless leg syndrome, functional dyspepsia, bilateral cataracts, anxiety disorder, rosacea, schizoaffective disorder.",
+        "family_history": "Reviewed and found to be not relevant to this illness/reason for hospitalization.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Afebrile and vital signs notable for systolic blood pressure in the low ranges. Patient appears alert and in no apparent distress with a depressed affect. No significant distress noted.",
+        "specialty_examination": "Neurological: Alert, oriented, symmetric face, grossly intact motor function with full strength in all limbs. Cardiovascular: Heart regular with no murmurs and no jugular venous distention. Edema noted bilaterally. Lungs clear with good air movement. Abdomen soft, non-distended, non-tender, and bowel sounds present."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "WBC": 6.9,
+                "RBC": 4.2,
+                "Hgb": 11.6,
+                "Hct": 34.7,
+                "MCV": 83,
+                "MCH": 27.6,
+                "MCHC": 33.4,
+                "RDW": 21.0,
+                "Plt": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT/INR",
+            "date": "Not specified",
+            "findings": {
+                "PTT": 61.2,
+                "INR": 5.6
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Comprehensive metabolic panel",
+            "date": "Not specified",
+            "findings": {
+                "Glucose": 62,
+                "Urea Nitrogen": 24,
+                "Creatinine": 0.7,
+                "Sodium": 131,
+                "Potassium": 5.9,
+                "Chloride": 93,
+                "HCO3": 29,
+                "Anion Gap": 9,
+                "Albumin": 1.7,
+                "Calcium": 7.3,
+                "Phosphorus": 2.8,
+                "Magnesium": 1.2,
+                "ALT": 56,
+                "AST": 57,
+                "Alkaline Phosphatase": 329,
+                "Total Bilirubin": 1.3
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vitamin D level",
+            "date": "Not specified",
+            "findings": {
+                "Vitamin D": 11
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial blood gases",
+            "date": "Not specified",
+            "findings": {
+                "pO2": 126,
+                "pCO2": 32,
+                "pH": 7.55,
+                "Base Excess": -6
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": {
+                "Lactate": 1.2
+            },
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest CT",
+            "date": "Not specified",
+            "findings": {
+                "Impression": [
+                    "Bilateral effusion, large on the left and small to moderate on the right.",
+                    "Associated atelectasis and scarring, most likely chronic especially in the right lower lobe.",
+                    "No lymphadenopathy, no pulmonary nodules or consolidations to suggest infection or malignancy."
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen and pelvis",
+            "date": "Not specified",
+            "findings": {
+                "Impression": [
+                    "No evidence of intraabdominal and intrapelvic malignancy.",
+                    "Moderate volume ascites and diffuse anasarca."
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": {
+                "Impression": [
+                    "Small circumferential pericardial effusion without echocardiographic evidence for tamponade physiology.",
+                    "Normal biventricular wall thicknesses, cavity sizes, and regional/global systolic function."
+                ]
+            },
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Esophagogastroduodenoscopy with Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Celiac crisis",
+        "diagnostic_reasoning": "The patient's severe laboratory abnormalities and rapid weight loss were likely due to his severe celiac disease."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40mg/day tapered down by 10mg per week, total of 4 weeks"
+        },
+        {
+            "treatment_type": "nutrition support",
+            "specific_treatment": "IV supplemental nutrition",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Enoxaparin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg SC Q12H for at least 3 months"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Furosemide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO DAILY"
+        }
+    ]
+}

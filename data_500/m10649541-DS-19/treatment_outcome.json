@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "thoracentesis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "pericardiocentesis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lasix (furosemide)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for shortness of breath and evaluated for fluid around the lung and heart."
+        },
+        {
+            "date": "Not specified",
+            "event": "Thoracentesis performed to drain pleural effusion."
+        },
+        {
+            "date": "Not specified",
+            "event": "Pericardiocentesis performed to drain pericardial effusion."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient monitored in cardiac intensive care unit overnight post-surgery."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive, discharged to an extended care facility.",
+        "follow_up_details": "Requires follow-up appointments with the 'Structural Heart Team' and 'Cardiac Surgery Team' for evaluation of valve repair.",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Further evaluation for heart surgery and valve repair will continue as an outpatient.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Patient had to stay in the hospital due to shortness of breath and fluid around the lungs and heart."
+    }
+}

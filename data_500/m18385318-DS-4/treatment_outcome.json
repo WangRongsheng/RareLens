@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "apixaban",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg PO BID",
+            "treatment_response": "Heart rate was well-controlled"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "metoprolol succinate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg PO DAILY",
+            "treatment_response": "Heart rate was well-controlled"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with palpitations, dizziness, and weakness; found to have atrial fibrillation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 1L NS and admitted for further management."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient's dizziness and palpitations resolved."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge with new medications including apixaban and metoprolol."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent; Mental Status: Clear and coherent.",
+        "follow_up_details": "Follow-up with outpatient providers as recommended.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

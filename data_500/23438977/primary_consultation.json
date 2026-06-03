@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "55",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Chinese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "decreased vision and floaters for five years",
+        "history_of_present_illness": "paresthesia and weakness in his hands and legs to the level of the knees, with reflexes absent for seven years. A moderately severe autonomic neuropathy (alternating painless diarrhea and constipation) was present. At later stage the patient developed syncope, which responded to orthostatic hypotension. Cardiac ultrasound revealed mild degenerative membrane changes.",
+        "past_medical_history": "uveitis",
+        "family_history": "three-generation family with eleven members. The primary ocular signs were vitreous opacities, beginning from the third or fourth decade, accompanied by retinal vasculitis, hemorrhages, and widespread pinpoint deposits in the peripheral retina.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "visual acuity for patient III:1 was 20/1000 in both eyes. The ocular anterior segment and intraocular pressure were normal. Glass, wool-like vitreous opacities were observed in both eyes, which obscured the view to the posterior pole. Peripheral dot-blot hemorrhages were also observed. FFA showed small tufts of neovascularization, vascular fluorescein leakage and staining, and a possible non-perfusion area."
+    }
+}

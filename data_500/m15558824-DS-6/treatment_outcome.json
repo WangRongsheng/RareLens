@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ciprofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO Q12H",
+            "treatment_response": "Pain was controlled and patient was able to eat regular food."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metronidazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO Q8H",
+            "treatment_response": "Pain was controlled and patient was able to eat regular food."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Morphine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg IV x3",
+            "treatment_response": "Pain was controlled."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ketorolac",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "30 mg IV x1",
+            "treatment_response": "Pain was controlled."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the ED with abdominal pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Received IV cipro 400 mg, IV flagyl 500 mg, 5 IV morphine, ketorolac 30 mg, and 1 L NS."
+        },
+        {
+            "date": "Not specified",
+            "event": "Pain was controlled and patient was able to eat regular food."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home, pain controlled.",
+        "follow_up_details": "Outpatient colonoscopy recommended.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient was able to eat regular food and was ambulatory.",
+        "patient_perspective": "Patient expressed satisfaction with pain control and care received."
+    }
+}

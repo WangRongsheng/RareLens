@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "cardiac catheterization",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "One vessel coronary artery disease was identified; the blockage was too complex for stenting, requiring medication management."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient transferred for further management of chest pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Coronary catheterization performed, revealing single vessel coronary artery disease"
+        },
+        {
+            "date": "Not specified",
+            "event": "Medication adjustments made upon discharge"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable angina",
+        "follow_up_details": "Ongoing management with cardiologist for coronary disease",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient is ambulatory and independent",
+        "patient_perspective": "The patient was informed that managing coronary disease through medications is essential for health."
+    }
+}

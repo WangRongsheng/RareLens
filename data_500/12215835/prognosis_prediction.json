@@ -1,0 +1,101 @@
+{
+    "basic_information": {
+        "age": "11 months",
+        "gender": "Male",
+        "weight": "7160 g",
+        "height": "70 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Dysmorphic face, ambiguous external genitalia, and cryptorchidism",
+        "history_of_present_illness": "At birth, the propositus (2480 g body weight) showed a dysmorphic face, ambiguous external genitalia, and cryptorchidism. When examined at the age of 11 months, his height was 70 cm (3rd centile), his weight was 7160 g (<3rd centile), and his head circumference was 45 cm (10th centile). He presented muscular hypotrophy, hypotonia and triangular elongated face, synophris, micrognathia, thin upper lip, cupid bow shape of mouth, hypoplasia of alae nasi, large low-set ears, pale skin, abnormal dermatoglyphic pattern, proximal placement of the thumbs, valgi and flat feet, and recurrent respiratory infections. He also presented bilateral cryptorchidism and glandular hypospadias.",
+        "past_medical_history": "Not specified",
+        "family_history": "The mother suffered from obesity, follicular hyperkeratosis, and alopecia. She also shows a mild mental retardation. No additional maternal relatives were mentally retarded or presented KFSD.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Dysmorphic face, ambiguous external genitalia, cryptorchidism, muscular hypotrophy, hypotonia, triangular elongated face, synophris, micrognathia, thin upper lip, cupid bow shape of mouth, hypoplasia of alae nasi, large low-set ears, pale skin, abnormal dermatoglyphic pattern, proximal placement of the thumbs, valgi and flat feet.",
+        "specialty_examination": "The propositus suffered from KFSD, showing follicular and interfollicular hyperkeratosis on the outer aspects of his upper arms, cheeks, and legs. He showed a thickening of the skin of palms and soles, and his hair were sparse and thin with loss. No eye anomalies or photophobia was revealed by ophthalmological examination."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum cholesterol test",
+            "date": "At the age of 6 years",
+            "findings": "91 mg/dl (normal range for age: 96–200 mg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Triglycerides test",
+            "date": "At the age of 6 years",
+            "findings": "53 mg/dl (normal range for age: 30–154 mg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Apolipoprotein A1 test",
+            "date": "At the age of 6 years",
+            "findings": "109 mg/dl (normal range for age: 120–176 mg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Apolipoprotein B test",
+            "date": "At the age of 6 years",
+            "findings": "43 mg/dl (normal range for age: 63–114 mg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Polyamine metabolism analysis",
+            "date": "Not specified",
+            "findings": "Levels of metabolites including putrescine, spermidine, and spermine were consistent with the overexpression of the SSAT gene as in the murine model.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "SSAT activity measurement",
+            "date": "Not specified",
+            "findings": "Fibroblasts from the propositus showed three times the SSAT activity shown by the control cells.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computerized tomography scan",
+            "date": "At the age of 11 months",
+            "findings": "Slight enlarged ventricular system.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Chromosome analysis",
+            "date": "Not specified",
+            "findings": "Male karyotype with the short arm of the X chromosome being 1/3 longer than usual.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluorescence in situ hybridization (FISH) analysis",
+            "date": "Not specified",
+            "findings": "Defined the rearranged X chromosome as a duplication of Xp21.1p22.12.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genotyping",
+            "date": "Not specified",
+            "findings": "Heterozygous pattern for markers DXS1226 and DXS1214, and the same microsatellites showed three alleles in the DNA of the patient’s mother demonstrating that the duplicated region arises from a chromosomal insertion and is not a duplication of the same Xp chromosome.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Keratosis follicularis spinulosa decalvans (KFSD) and dosage-sensitive sex reversal (DSS)",
+        "diagnostic_reasoning": "The patient's phenotype included features of both KFSD and DSS, supported by cytogenetic analysis revealing a duplication of Xp21.1p22.12, which includes the DAX1 gene (associated with DSS) and the SSAT gene (associated with KFSD). Biochemical analysis showed elevated SSAT activity and putrescine accumulation, consistent with the KFSD phenotype observed in murine models."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "Not specified",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

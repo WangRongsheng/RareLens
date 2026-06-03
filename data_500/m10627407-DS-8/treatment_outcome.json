@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "various medications",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Multiple medications including Alendronate, Dipyridamole-Aspirin, Ezetimibe, Insulin, Isosorbide Mononitrate, etc.",
+            "treatment_response": "Patient was alert and interactive upon discharge; no acute distress noted."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with syncope and increased left sided weakness."
+        },
+        {
+            "date": "Not specified",
+            "event": "MRI conducted; negative for a new stroke."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received extensive monitoring and evaluation including ECG and heart monitoring."
+        },
+        {
+            "date": "Not specified",
+            "event": "Physical therapy evaluated patient; deemed safe to return home."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert, oriented, and independent ambulation.",
+        "follow_up_details": "Follow up with doctors as per the discharge instructions.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient was able to return home with physical therapy.",
+        "patient_perspective": "Patient expressed no immediate complaints upon discharge."
+    }
+}

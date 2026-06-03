@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "laparoscopic proctocolectomy with J-pouch and diverting ileostomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient has recovered from this procedure well."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV steroids (solumedrol)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg IV q8hrs",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg PO daily",
+            "treatment_response": "No improvement in symptoms while on prednisone."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with symptoms of ulcerative colitis flare."
+        },
+        {
+            "date": "Not specified",
+            "event": "Initial treatment with budesonide started; no improvement."
+        },
+        {
+            "date": "Not specified",
+            "event": "Changed to prednisone 40 mg daily; symptoms persisted."
+        },
+        {
+            "date": "Not specified",
+            "event": "ED visit received IV HYDROmorphone and IV Ondansetron."
+        },
+        {
+            "date": "Not specified",
+            "event": "IV solumedrol initiated based on GI consultation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent laparoscopic proctocolectomy with J-pouch and diverting ileostomy."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged home with service after recovery."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "In recovery and ready to return home.",
+        "follow_up_details": "Pathology results to be reviewed at follow-up appointment.",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Patient expected to have a quick return to life and usual activities.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient has tolerated a regular diet and is passing gas.",
+        "patient_perspective": "Not specified."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "total gastrectomy, splenectomy, partial esophagectomy, distal pancreatectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Good response to neoadjuvant chemotherapy; subsequent resection was performed."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Neoadjuvant chemotherapy initiated."
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery performed including total gastrectomy, splenectomy, partial esophagectomy, distal pancreatectomy."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for surgery."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged after recovery from surgery."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Recovered and ready for discharge.",
+        "follow_up_details": "Follow-up with surgeon at next visit.",
+        "complications": "No complications reported.",
+        "long_term_prognosis": "Not specified, but close follow-up recommended due to new or enlarging lymph nodes.",
+        "recovery_timeline": "Not specified, but recovery ongoing after surgery.",
+        "quality_of_life": "Patient's condition after surgery noted as alert and interactive.",
+        "patient_perspective": "Patient able to return home after recovery and is recommended to follow discharge instructions."
+    }
+}

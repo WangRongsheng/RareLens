@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "By age 32, echocardiography revealed a mildly dilated aortic root and ascending aorta with mild aortic regurgitation; she also continues to have thrombocytopenia with easy bruising and prolonged bleeding.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "She has episodic headache with photophobia and phonophobia and continues to have easy bruising and prolonged bleeding time.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "An echocardiography at age 32 years revealed a mildly dilated aortic root and ascending aorta with mild aortic regurgitation."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "She continues to have easy bruising and prolonged bleeding time (persistent thrombocytopenia)."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "She has episodic headache with photophobia and phonophobia."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time was approximated to the PNH diagnosis at age 24 after MRI obtained for a first seizure. The report provides limited longitudinal detail on seizure control and exact onset timing of headaches; thrombocytopenia was noted before index time but is documented as persistent afterward. Cardiac findings were detected at age 32; prior cardiac status for dilation/regurgitation was not documented, so this was treated as a long-term complication."
+}

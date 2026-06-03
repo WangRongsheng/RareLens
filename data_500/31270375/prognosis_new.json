@@ -1,0 +1,12 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "At 7 years, hypertension was well controlled on multiple antihypertensives (BP ~110/60), and no further seizure episodes were reported; however, renovascular stenosis persisted and neurological exam showed mild cognitive impairment, indicating improvement with residual deficits.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Chronic hypertension requiring ongoing medication with documented bilateral renal artery stenosis; seizure-free on antiepileptic therapy. Persistent disease findings with limited day-to-day impact reported.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The definitive diagnosis (Grange syndrome via YY1AP1 variant) was made at 7 years. The report provides limited or no follow-up after this diagnostic time point; improvements (seizure control and BP control) largely occurred before diagnosis and were ongoing at the time of diagnosis. No post-diagnosis events beyond the index time are clearly documented, so timeline events are not listed and outcome/quality-of-life categories are conservatively inferred from status at the diagnostic evaluation."
+}

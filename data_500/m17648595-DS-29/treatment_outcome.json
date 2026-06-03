@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Protonix",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg IV in ED",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ferrous Sulfate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "325 mg (65 mg Elemental Iron) Tablet, one Tablet PO daily",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with fatigue and right hip pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Protonix 40 mg IV administered in ED"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications prescribed including Ferrous Sulfate"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Good",
+        "follow_up_details": "Routine blood checks by Dr. ___ to follow anemia",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

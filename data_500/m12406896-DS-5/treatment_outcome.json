@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "high-dose steroids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Improved"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "oral steroid taper",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Tapering after discharge",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted due to worsening of NMO condition"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received high-dose steroids during hospitalization"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged on oral steroid taper"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

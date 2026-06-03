@@ -1,0 +1,48 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "After bladder stone removal and vesicostomy, follow-up showed normal kidneys without hydronephrosis, stable left renal calculi, a completely decompressed bladder, normal eGFR (~120 mL/min/1.73 m2), and proteinuria partially improved with enalapril. No nephrotic syndrome developed.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Ongoing tubular dysfunction with hypomagnesemia, significant proteinuria, recurrent UTIs associated with seizures, multidrug-resistant organisms, and need for open lithotomy and vesicostomy; residual left renal calculi and continued prophylactic management.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Recurrent UTIs associated with seizures; cultures with multidrug-resistant organisms despite antibiotic prophylaxis, prompting change to methenamine hippurate."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Developed significant kyphoscoliosis."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "At age 7, imaging revealed a large bladder calculus (3.3 × 3.2 cm) and three non‑obstructing left renal calculi."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Underwent cystoscopy with incomplete laser lithotripsy of the bladder stone (struvite)."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Subsequently had open lithotomy to remove the remaining bladder stone and creation of a vesicostomy for low-pressure emptying."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Post‑operative follow-up showed a completely decompressed bladder and normal kidneys without hydronephrosis; left renal calculi remained stable."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Proteinuria partially responded to enalapril 2.5 mg daily."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time was inferred as the exome-confirmed OSGEP diagnosis; some initial management (magnesium supplementation) preceded this. Exact dates are not provided; ages were mapped to relative periods (mid-term ~1 year; long-term ~>2 years post-diagnosis). Frequency of UTIs after vesicostomy is not explicitly documented, so sustained improvement is inferred from imaging and bladder decompression rather than infection counts."
+}

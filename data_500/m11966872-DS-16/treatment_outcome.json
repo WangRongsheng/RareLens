@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "coiling of AComm aneurysm",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Coiled anterior communicating aneurysm with grade 2A obliteration."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV Rocephin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient transferred for evaluation of AComm aneurysm."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient s/p suboccipital craniectomy."
+        },
+        {
+            "date": "Not specified",
+            "event": "VP shunt placed during readmission."
+        },
+        {
+            "date": "Not specified",
+            "event": "Coiling of anterior communicating aneurysm performed."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused but alert and interactive.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications mentioned",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Requires assistance or aid (walker or cane).",
+        "patient_perspective": "Not specified"
+    }
+}

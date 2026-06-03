@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "pneumonia",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with worsening productive cough for 2 weeks and bibasilar opacities on chest imaging, which could reflect pneumonia or aspiration. The diagnosis of pneumonia was supported by the need for antibiotics and the patient's condition upon admission."
+    }
+}

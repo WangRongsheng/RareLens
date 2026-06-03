@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "lateral medullary syndrome",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient was diagnosed with lateral medullary syndrome due to an infarction in the posterior inferior cerebellar artery area. The diagnosis was supported by clinical features such as severe vertigo, ataxia, and dysphasia, along with imaging findings showing an infarction in the right dorsolateral medulla. Diffusion tensor tractography (DTT) revealed injury to the right lateral vestibulospinal tract (VST), which was not reconstructed, while the medial VSTs and left lateral VST were intact. This neural injury was considered the main cause of the patient's vertigo and ataxia."
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ventriculocisternostomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "good clinical result"
+        },
+        {
+            "treatment_type": "embolization",
+            "specific_treatment": "neurointerventional embolization",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "acrylic glue used to embolize two different branches of the right postero-lateral choroidal artery",
+            "treatment_response": "improved circulation pattern of the brain"
+        },
+        {
+            "treatment_type": "embolization",
+            "specific_treatment": "interventional embolization sessions",
+            "start_date": "6 months of age",
+            "end_date": "2.5 years of age",
+            "dosage_or_details": "four interventional treatment sessions",
+            "treatment_response": "cure of her vein of Galen malformation"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "1 month of age",
+            "event": "echocardiogram revealing a persistent foramen ovale but no cardiac insufficiency and two suspected left partial epileptic seizures"
+        },
+        {
+            "date": "2 months of age",
+            "event": "developmental delay noted with lack of eye contact, no smiles, and feeding difficulties"
+        },
+        {
+            "date": "3.5 months of age",
+            "event": "increase in head circumference noted"
+        },
+        {
+            "date": "6 months of age",
+            "event": "opisthotonus-like attacks with an increasing frequency and head extended when placed in bed"
+        },
+        {
+            "date": "6 months of age",
+            "event": "admission to the neuropaediatric department, radiological evaluation with transfontanellar ultrasound and MRI revealed a vein of Galen malformation with hydrocephalus, and tonsillar prolapse"
+        },
+        {
+            "date": "6 months of age",
+            "event": "underwent successful acute ventriculocisternostomy for her hydrocephalus"
+        },
+        {
+            "date": "6 months of age",
+            "event": "cerebral angiography and neurointerventional embolization"
+        },
+        {
+            "date": "12 months of age",
+            "event": "second embolization session"
+        },
+        {
+            "date": "20 months of age",
+            "event": "third embolization session"
+        },
+        {
+            "date": "2.5 years of age",
+            "event": "fourth embolization session"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "somewhat delayed psychomotor development with regard to motor milestones as well as speech and cognition, but can follow normal day-care activities",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Fever, lassitude",
+        "history_of_present_illness": "M with bicuspid aortic valve and 2 previous episodes of endocarditis after dental procedures presents with fevers to 102, chills, fatigue, weakness x2 days. Patient had root canal for which he took slightly expired clindamycin as ppx. Called PCP and reported fever of 101. She had him come in for blood cultures and ESR, CRP which came back as 120 and 55 respectively. Blood cultures still pending. Referred to ED. In the ED his initial VS were 99.2 104/33 64 16 100% on RA. Blood cultures were repeated and he was given 1g IV vancomycin and gentamicin. CXR demonstrated possible lingular pneumonia and he was started on azithromycin as well for possible CAP. Patient also had fever to 101.6 and was given Tylenol in the ED. Vitals prior to transfer were 101.6 PO (given 1g Tylenol), 79, 132/67, 16, 97% RA. Given 1L fluid bolus overnight. On arrival to the floor patient complaining of general malaise. He states that this is similar to how he previously felt when he experienced previous episodes of endocarditis, but he feels sicker, and generally lousy. Reports that the onset of his fatigue was sudden. Patient notes that he also developed a cough over the past few days, dry in quality without production.",
+        "past_medical_history": "Bicuspid aortic valve, endocarditis treated with pen/gent, polymyalgia rheumatica treated with steroids, hypertension, aortic regurgitation, mitral regurgitation, hypercholesterolemia, right tib-fib fracture repair.",
+        "family_history": "Mother - breast cancer early, Father - died of cerebral disease age not specified, high blood pressure, obesity, smoking. One daughter with genetic syndrome.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: T98.8 Tmax 100.6 130/47 65 18 97% RA. Middle-aged gentleman in NAD, quite lethargic and dry appearing but alert and arousable. Pulsus measured as 4 for concern of pericardial effusion on CXR.",
+        "specialty_examination": "Heart: RRR, systolic murmur across precordium best at RUSB, non-peaking holosystolic murmur best at apex. Lung exam showed left-sided crackles after start of antibiotic administration."
+    }
+}

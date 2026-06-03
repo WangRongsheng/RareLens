@@ -1,0 +1,99 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "sildenafil",
+            "start_date": "Not specified",
+            "end_date": "18 months of age",
+            "dosage_or_details": "Started at 0.5 g/kg every 6 hours, increased to 2 g/kg every 6 hours over the next week",
+            "treatment_response": "Improvement in pulmonary hypertension, decrease in oxygen requirement from 80% to 40%, decrease in PIP from 30 to 22, decrease in OI from 23.7 to 4.4"
+        },
+        {
+            "treatment_type": "respiratory support",
+            "specific_treatment": "inhaled nitric oxide (iNO)",
+            "start_date": "Not specified",
+            "end_date": "4 days after commencing sildenafil",
+            "dosage_or_details": "20 ppm",
+            "treatment_response": "Slight decrease in oxygen requirement to 80% and decrease of the OI to 23.7"
+        },
+        {
+            "treatment_type": "respiratory support",
+            "specific_treatment": "high frequency oscillatory ventilation",
+            "start_date": "At birth",
+            "end_date": "Not specified",
+            "dosage_or_details": "Up to 60% oxygen",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "respiratory support",
+            "specific_treatment": "nasopharyngeal continuous positive airway pressure (CPAP)",
+            "start_date": "Day 4",
+            "end_date": "Day 5",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Required reintubation the next day for increasing oxygen requirement and CO2 retention"
+        },
+        {
+            "treatment_type": "respiratory support",
+            "specific_treatment": "CPAP",
+            "start_date": "3 months of age",
+            "end_date": "6 months of age",
+            "dosage_or_details": "Started at 10 cm H2O, decreased over the next 3 months to 3 cm H2O",
+            "treatment_response": "Successful extubation to CPAP"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "At birth",
+            "event": "Intubated for respiratory distress and transferred to the neonatal intensive care unit"
+        },
+        {
+            "date": "Day 4",
+            "event": "Extubated to nasopharyngeal continuous positive airway pressure (CPAP)"
+        },
+        {
+            "date": "Day 5",
+            "event": "Reintubated for increasing oxygen requirement and CO2 retention"
+        },
+        {
+            "date": "Not specified",
+            "event": "Inhaled nitric oxide (iNO) commenced at 20 ppm"
+        },
+        {
+            "date": "10 days later",
+            "event": "Sildenafil commenced at a dose of 0.5 g/kg every 6 hours"
+        },
+        {
+            "date": "Next week",
+            "event": "Sildenafil dose increased to 2 g/kg every 6 hours"
+        },
+        {
+            "date": "4 days after commencing sildenafil",
+            "event": "iNO successfully weaned"
+        },
+        {
+            "date": "3 months of age",
+            "event": "Successfully extubated to a CPAP of 10 cm H2O"
+        },
+        {
+            "date": "6 months of age",
+            "event": "Discharged home on intermittent CPAP"
+        },
+        {
+            "date": "1 year of age",
+            "event": "CPAP discontinued, remained on oxygen 0.5 L/min via subnasal prongs"
+        },
+        {
+            "date": "18 months of age",
+            "event": "Sildenafil discontinued"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "No echocardiographic evidence of pulmonary hypertension, requires glasses for myopia, hearing aids for severe hearing impairment, oxygen for intercurrent respiratory tract infections",
+        "follow_up_details": "Planned to have a repair of the cleft palate in the next year",
+        "complications": "Upper airway obstruction related to the cleft palate, laryngomalacia",
+        "long_term_prognosis": "Motor development is delayed, communicates with sign language, no current concerns regarding mental development",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Requires glasses for myopia, hearing aids for severe hearing impairment, oxygen for intercurrent respiratory tract infections",
+        "patient_perspective": "Not specified"
+    }
+}

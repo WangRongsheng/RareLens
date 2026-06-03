@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "left distal tibia external fixator placement, revision ex-fixator and fibula plating",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Acyclovir",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "400 mg PO Q12H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Enoxaparin Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg SC DAILY",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Cephalexin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO Q12H for 21 Days",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oxycodone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg PO Q4H PRN Pain",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "topical treatment",
+            "specific_treatment": "Silver Sulfadiazine Cream",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "apply to skin surrounding pin sites twice daily",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Surgery for left distal tibia external fixator placement and fibula plating performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Medication regimen initiated including Acyclovir, Enoxaparin Sodium, Cephalexin, Oxycodone, and Silver Sulfadiazine"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental status clear and coherent; patient ambulatory and independent",
+        "follow_up_details": "Follow-up appointment in 2 weeks",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

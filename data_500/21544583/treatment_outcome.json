@@ -1,0 +1,95 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "nonsteroidal anti-inflammatory drugs",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Fever persisted, clinical condition deteriorated"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "methylprednisolone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Three intravenous boluses of 30 mg/kg for the first 3 days, followed by 1 mg/kg/day IV",
+            "treatment_response": "Clinical and inflammatory parameters remained unchanged"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "anakinra",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg/d subcutaneous",
+            "treatment_response": "Dramatic and immediate improvement; patient was apyretic at 24 hours, cardiac and respiratory rates improved, oxygen saturation increased to 98%"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "methotrexate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15 mg/wk subcutaneous",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "triamcinolone hexacetonide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Two local injections",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Initial echocardiography was normal"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient treated with nonsteroidal anti-inflammatory drugs"
+        },
+        {
+            "date": "Not specified",
+            "event": "Three intravenous boluses of 30 mg/kg methylprednisolone administered for the first 3 days, followed by 1 mg/kg/day IV methylprednisolone"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient's condition worsened, admitted to ICU"
+        },
+        {
+            "date": "Not specified",
+            "event": "Subcutaneous anakinra started at 100 mg/d"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient's condition improved within 12 hours of first anakinra dose"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged from ICU 1 day after anakinra treatment"
+        },
+        {
+            "date": "Not specified",
+            "event": "Diffuse arthritis appeared, subcutaneous methotrexate started at 15 mg/wk"
+        },
+        {
+            "date": "Not specified",
+            "event": "Two local injections of triamcinolone hexacetonide performed during follow-up"
+        },
+        {
+            "date": "6 months after diagnosis",
+            "event": "Patient was well, pericardial effusion disappeared, inflammatory parameters normalized"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Well, pericardial effusion disappeared, inflammatory parameters normalized",
+        "follow_up_details": "Steroid therapy was tapered down to 0.2 mg/kg/d, anakinra and methotrexate were continued",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

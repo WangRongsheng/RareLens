@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "62",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Complete loss of motor function including ocular movement and eye blinking",
+        "history_of_present_illness": "Diagnosed with clinically probable ALS in November 2012, rapid progression of motor weakness leading to complete loss of voluntary motor functions by early 2015, mechanical ventilator and transcutaneous endoscopic gastrostomy needed since late 2013",
+        "past_medical_history": "Amyotrophic lateral sclerosis (ALS), mechanical ventilator and transcutaneous endoscopic gastrostomy",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "No voluntary or involuntary eye movements, including blinking and corneal reflexes, with verbal commands or external stimuli such as light, tactile, and auditory stimuli. Pupillary light reflexes and cardiovascular response with stimulation were intact. Normal EEG alpha rhythms observed.",
+        "specialty_examination": "Not specified"
+    }
+}

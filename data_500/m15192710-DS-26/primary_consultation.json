@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "206.3 kg",
+        "height": "180 cm",
+        "BMI": "28.8",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "shortness of breath, productive cough, fevers",
+        "history_of_present_illness": "Mr. ___ is a ___ y/o male with a history of AML diagnosed in ___ s/p allo SCT ___, chronic GVHD on immunosuppression, who presented with a 2 day history of fevers, chills and productive cough. He notes that symptoms started 2 days prior to admission with a sinus type infection. He notes that he subsequently developed a cough and had night sweats and chills. He had a measured temperature of 100.5 at home. He denies any sick contacts or travel. He presented to his outpatient oncologist who sent off blood cultures, nasal swab and gave him a dose of vancomycin and aztreonam. He was admitted for further evaluation for possible pneumonia. He denies any chest pain, abdominal pain, dysuria, nausea or vomiting. Of note, he was admitted in ___ with similar symptoms and was treated for pneumonia with levaquin and tessolon perles for 1 week.",
+        "past_medical_history": "1. AML s/p allo SCT D+105: - ___: presented to ___ with fatigue and weakness. His Hgb was 4.9, WBC 14.8 (16% neutrophils, 2% bands, 26% lymphocytes, and 55% monocytes). BMBx was notable for a population of monoblasts and promonocytes which appeared to approach 20%. He was diagnosed with AML-M5. Cytogenetics were notable for +8. - initially treated with 7 and 3 (idarubicin and ARA-C, however, day 14 marrow showed persistent blasts. He was enrolled in the randomized trial of HiDAC with or without clofarabine and began treatment on ___. This course was c/b fevers to 105, rashes, LFTs 300s. - ___: Bone marrow showed a mildly hypercellular erythroid dominant bone marrow with no morphologic evidence of leukemia. - ___: received single cycle Dacogen due to donor issues - ___: started reduced intensity conditioning with Fludarabine-Busulfan and ATG. Day 0 was ___. He received one bag CD34/kg x 10e6= 8.40. His post-transplant course was uncomplicated with the exception of a mild transaminitis. He was discharged to the apartments on Day +14. Donor Info: recipient is CMV(+), ABO: Opos donor ___ male CMV(-), ABO: Apos. 2. EBV-related lymphoproliferative disease 3. ABO mismatch 4. Testicular Cancer: s/p orchiectomy and chemotherapy ___ years ago at ___ 5. Hypertension 6. Renal insufficiency",
+        "family_history": "Father died from gastric CA at age ___. All siblings have HTN.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "BP: 150/90. Heart Rate: 85. Temperature: 98.7, Resp. Rate: 24. O2 Saturation%: 97 2L. GENERAL: Well-appearing ___ man in no acute distress. SKIN: Scattered ecchymotic areas.",
+        "specialty_examination": "LUNGS: Diffuse wheezes noted bilaterally, bibasilar rales."
+    }
+}

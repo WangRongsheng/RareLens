@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "assault",
+        "history_of_present_illness": "Year old female with hx. alcohol abuse, PTSD, multiple episodes domestic violence presenting to ED intoxicated s/p assault. Patient was found by EMS in lobby of apartment building s/p assault. Patient reports getting into argument with her friend after asking that her friend leave her apartment. As per EMS report, boyfriend apparently held her down while friend hit her in the face several times. Patient, however, reports it was only her friend who attacked her. Patient sustained injury to head/face and hands. No LOC, no significant blood loss. In the ED, initial vs were T97.4, HR 86, BP 139/86, 18 98%. CT orbit revealed minimally displaced left nasal bone fracture. CT torso and plain films of the upper extremities were negative. Patient received morphine 5mg IV x1, ativan 1mg IV x1, percocet 2 tabs, diazepam 5mg PO x 1, and tylenol ___ x1. Social work was consulted and made recommendations re: safe dispo. Trauma surgery was also conslted. Patient was initially observed but had increasing pain, reported inability to work, so is being admitted to medicine for pain control.",
+        "past_medical_history": "Pulmonary Embolism - s/p 2 PEs, last in ___, patient not on coumadin x2 months due to frequent alcohol use and risk for falls. ALCOHOL ABUSE - prior hx. 2.5 L vodka a day, prior detox attempts have failed. DEPRESSION. OBESITY. PTSD. Ovarian cysts.",
+        "family_history": "Mother: ___ from alcohol abuse, breast cancer. She died at age ___ apparently of cirrhosis. Father: ___. He died at age ___ of an MI. Siblings: She has just one brother, who died at age ___ of polysubstance abuse.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "ADMISSION EXAM VS 98.4 100/75 84 20 99% RA GEN awake, alert, oriented, no acute distress, refusing to move in bed due to pain although sitting comfortably. HEENT NCAT MMM EOMI sclera anicteric, OP clear left periorbital area swollen and ecchymotic. NECK supple, no JVD, no LAD. PULM Good aeration, CTABL anteriorly, will not sit forward for posterior auscultation. CV RRR normal S1/S2, no mrg. ABD soft NT ND normoactive bowel sounds, no r/g. EXT WWP 2+ pulses palpable bilaterally, no c/c/e.",
+        "specialty_examination": "MSK: has full ROM neck in all planes, full ROM of upper extremities, endorses pain to light palpation left wrist. NEURO CNs2-12 intact, motor function intact with no sensory deficits."
+    }
+}

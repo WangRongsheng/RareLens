@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "CT abdomen/pelvis concerning for biliary tract malignancy with hepatic masses and possible portal vein occlusion; family chose comfort-focused care. Patient was discharged with a hospice comfort medication bundle, indicating transition to an irreversible terminal state.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Presented with severe abdominal pain; discharged on hospice comfort medications including concentrated oral morphine PRN q1h for pain, olanzapine for delirium/restlessness, and scopolamine for secretions.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "MRI head showed punctate new acute/subacute infarcts in the right frontal and parietal lobes."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Decision to focus on comfort care and discharge with hospice medication bundle due to likely cholangiocarcinoma with hepatic masses and omental caking."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Discharge exam noted the patient 'appears comfortable'; pain managed with morphine and supportive measures."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "No post-discharge follow-up is provided; death is inferred from transition to hospice as an irreversible terminal state. Long-term functional and symptom assessments are based on discharge status and comfort-focused plan."
+}

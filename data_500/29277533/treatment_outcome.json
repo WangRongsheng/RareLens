@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "endovascular embolization",
+            "specific_treatment": "n-butyl-cyanoacrylate (nBCA) glue injection",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "external ventricular drain placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ventriculoperitoneal shunt",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed due to posthemorrhagic hydrocephalus",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted to hospital intubated and unconscious with GCS of 8"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT of the brain revealed massive intraventricular hemorrhage"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT angiography of the brain performed, revealing a 4mm saccular aneurysm"
+        },
+        {
+            "date": "Not specified",
+            "event": "Emergent endovascular embolization with nBCA glue injection and external ventricular drain placement performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Ventriculoperitoneal shunt performed due to posthemorrhagic hydrocephalus"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with full neurologic recovery"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Full neurologic recovery",
+        "follow_up_details": "Control computed tomography in sixth month follow up showed resolution of the ventricular dilatation",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

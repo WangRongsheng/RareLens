@@ -1,0 +1,64 @@
+{
+    "basic_information": {
+        "age": "3",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hemifacial asymmetry with flattening of the right forehead and limited opening of the mouth with trismus",
+        "history_of_present_illness": "A few months after birth, her parents noticed hemifacial asymmetry with flattening of the right forehead and limited opening of the mouth with trismus. At the age of 1 year, the patient was treated for TMJ arthrosis in another center, where she underwent surgery consisting in masseter muscle weakening. This operation was unsuccessful.",
+        "past_medical_history": "TMJ arthrosis, masseter muscle weakening surgery at age 1",
+        "family_history": "No history of trauma to the mandible or familiar occurrence of similar abnormalities",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Mandibular lock with incisal clearance of 5 mm, associated with extremely limited protrusion and lateral mandibular movements. On palpation of the masticatory muscles, the masseter was found to be enlarged and very tense.",
+        "specialty_examination": "Preoperative three-dimensional CT reconstructions showed an enlarged coronoid process protruding at least 1 cm above the inferior rim of the zygomatic arch, accompanied by bone sclerosis. The zygomatic bone had an abnormal shape with an excess in the lower part."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Histological examination",
+            "date": "Not specified",
+            "findings": "Hyperplastic growth of the coronoid process with reactive new woven bone formation. Biopsy from the temporal bone consistent with a hyperplastic reactive process, with no evidence of inflammation. The periosteum of the temporal region showed dense fibrotic tissue, with rare sparse regenerating fibers of striated muscles; the bone showed cortical lamellar tissue including some medullary spaces containing hematopoietic marrow. The resected medial portion of the masseter muscle was hypertrophic.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Three-dimensional computed tomographic (CT) reconstructions",
+            "date": "October 2007",
+            "findings": "An enlarged coronoid process protruding at least 1 cm above the inferior rim of the zygomatic arch, accompanied by bone sclerosis. The zygomatic bone had an abnormal shape with an excess in the lower part.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postoperative CT scan",
+            "date": "Not specified",
+            "findings": "Confirmed the resected area and partial removal of the lower zygomatic body.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Physical examination",
+            "date": "October 2007",
+            "findings": "Mandibular lock with incisal clearance of 5 mm, associated with extremely limited protrusion and lateral mandibular movements. Restricted translation of the TMJ was possible with the mouth kept in a strained open position. Intraoral examination revealed a well-aligned class 1 occlusion. No clinical evidence of infection or scarring. On palpation of the masticatory muscles, the masseter was found to be enlarged and very tense.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Surgical procedure",
+            "date": "Not specified",
+            "findings": "Coronoidectomy with fasciotomy and myotomy, muscular stripping and stretching, forced mouth opening, repositioning and plating of the zygomatic arch, resection of the lower border of the enlarged malar body.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postoperative physiotherapy",
+            "date": "December 2007",
+            "findings": "Mouth opening of 30 mm achieved.",
+            "changes_over_time": "Mouth opening after an 18-month follow-up was 35 mm (May 2009)."
+        }
+    ]
+}

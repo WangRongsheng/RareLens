@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Shortness of breath",
+        "history_of_present_illness": "___ yo F with a PMH of bronchiectasis, COPD, and persistent pneumonia w/ chronic pseudomonas on tobramycin neb treatment. Pt reports feeling night sweats for the last week. She was last admitted in ___ for Cefepime IV treatment and discharged after PICC placement w/ ~ 2 wks of cefepime. Since then she has been compliant with the pulmonary toilet routine. In ___, she started a 4 weeks on, 4weeks off of tobramycin, but was causing some discomfort, so it was brought down to 2 wk cycles. After the cycles, she reported improvement, but never completely. She has also been taking azithromycin 250mg po daily.",
+        "past_medical_history": "- COPD on 2L home O2, sat low ___\n- Hypercholesterolemia\n- Vertigo\n- multiple allergies including to yeast, mushrooms, and aspergillus\n- Osteoporosis\n- Hypertension\n- Persistent low weight\n- History of cataract extraction\n- aspergillus sputum on 1 occasion\n- chronic sinusitis\n- Pneumonia history: pseudomonas sensitive to quinolones in ___, pseudomonas resistant to quinolones in ___, IV cefepime, and inhaled tobra treatments.",
+        "family_history": "Breast cancer in her mother and prostate cancer in her father. Her daughter and brother have hypertension.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vs: 98.0F, 138/68, 88, 18, 97% 2L nc. General: thin elderly woman in mild respiratory distress.",
+        "specialty_examination": "HEENT: PERRL, EOMI, dry mucous membranes; Lungs: coarse breath sounds bilaterally; CV: RRR, nl s1, s2, no m/r/g; Abdomen: soft, non-tender, normal bowel sounds; Ext: thin, no edema; Neuro: CN2-12 intact, no focal motor or sensory deficits."
+    }
+}

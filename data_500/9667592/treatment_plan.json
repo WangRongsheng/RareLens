@@ -1,0 +1,79 @@
+{
+    "basic_information": {
+        "age": "54",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "numbness and burning pain initially confined to the toes and the balls of her feet",
+        "history_of_present_illness": "3-year history of numbness and burning pain initially confined to the toes and the balls of her feet. When walking, she felt as though she had rocks in her shoes, and she preferred to walk barefoot. She developed marked allodynia, shooting pains in her feet and legs, and painful calf cramps. These symptoms slowly spread proximally to involve the whole foot and distal calf.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "sensitivity to pinprick and temperature was diminished on the feet and distal calves. She had normal strength, reflexes (including ankle jerks), vibratory sensitivity, and proprioception.",
+        "specialty_examination": "Results of nerve conduction studies were normal. QST thermal thresholds to cooling were abnormally elevated both at the foot (96th percentile) and hand (>99th percentile), whereas vibratory thresholds were normal. Skin biopsy specimens showed reduced IENF densities more marked in skin from distal than proximal sites (IENF densities: calf skin: 0 mm-’ [normal 2 3.81; thigh skin: 12.5 mm-' [normal 2 5.21). A sural nerve biopsy specimen taken from the calf was normal at the light microscopic level."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Intraepidermal nerve fiber (IENF) density",
+            "date": "Not specified",
+            "findings": "Reduced IENF densities in skin from both proximal and distal sites. Absolute IENF densities in calf skin were reduced below the lower limit of normal (5th percentile) in 26 (81%).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sural nerve biopsy",
+            "date": "Not specified",
+            "findings": "4 had selective loss of small myelinated and/or unmyelinated axons and 2 had normal histology and fiber densities despite reduced IENF densities in skin biopsy specimens.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Quantitative sensory testing (QST) for thermal thresholds",
+            "date": "Not specified",
+            "findings": "Abnormal in some patients, indicating small sensory fiber dysfunction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Quantitative sudomotor axon reflex (QSART)",
+            "date": "Not specified",
+            "findings": "May be abnormal in SFSN, indicating co-involvement of small diameter sensory and autonomic nerve fibers.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [
+        {
+            "procedure_name": "Nerve conduction studies",
+            "date": "Not specified",
+            "findings": "Normal in all cases, indicating no large myelinated fiber involvement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyography (EMG)",
+            "date": "Not specified",
+            "findings": "Normal in all cases.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Punch skin biopsy",
+            "date": "Not specified",
+            "findings": "Morphological abnormalities of cutaneous innervation, including reduced intraepidermal nerve fiber density, predegenerative nerve terminal swellings, and segmented degenerating dermal and epidermal fibers.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Quantitative sensory testing (QST) for vibration and cooling",
+            "date": "Not specified",
+            "findings": "Sensory thresholds equal to or greater than the 95th percentile for age were considered abnormal.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Small-fiber sensory neuropathy (SFSN)",
+        "diagnostic_reasoning": "The diagnosis was based on the presence of neuropathic pain in the feet, morphological abnormalities of cutaneous innervation in skin biopsy specimens, and normal strength, proprioception, tendon reflexes, and nerve conduction studies. The patients had no evidence of known predisposing or causal conditions for neuropathy, such as diabetes, HIV infection, or exposure to neurotoxic medications."
+    }
+}

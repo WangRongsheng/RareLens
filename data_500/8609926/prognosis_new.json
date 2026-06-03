@@ -1,0 +1,23 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "The disorder is described as progressive, with muscular involvement starting cranially and descending with increasing disease duration. Follow-up noted new deficits appearing two years later in individual cases (e.g., EMG becoming myopathic; new loss of Achilles reflexes and distal vibration sense).",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Persistent ocular involvement (ptosis/PEO), discomfort with lateral gaze or nystagmus in younger patients, and neuromuscular signs (weakness, sensory loss) were ongoing; however, dependence or major impairment was not reported.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "In one patient, EMG repeated two years later showed new myopathic changes in the frontalis muscle (progression from previously normal EMG)."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "A patient with initially normal tendon reflexes and sensory findings later (two years after baseline) developed absent Achilles tendon reflexes and diminished distal vibration sense."
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "The source describes a family cohort rather than a single patient. Index time was approximated as the initial specialist evaluations performed in the study. Long-term outcomes are inferred from described progression over years and the few documented two-year follow-ups; exact dates and individual-level functional trajectories are limited."
+}

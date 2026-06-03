@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Healthcare-associated pneumonia",
+        "differential_diagnosis": "Urinary tract infection/pyelonephritis",
+        "diagnostic_reasoning": "The patient presented with symptoms including fever, back pain, and hypoxia. A chest X-ray indicated a large right-sided infiltrate suggestive of aspiration pneumonia. Additional findings included bilateral hydronephrosis consistent with pyelonephritis. Blood gas analysis revealed acidosis and laboratory results indicated an elevated white blood cell count, supporting the diagnosis of pneumonia and urinary infection."
+    }
+}

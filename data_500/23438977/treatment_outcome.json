@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Pars plana vitrectomy (PPV)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Visual acuity improved from 20/1000 to 20/50 postoperatively"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Pars plana vitrectomy (PPV)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Visual acuity improved from 20/1000 to 30/50 postoperatively"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient III:1 diagnosed with uveitis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient III:1 developed syncope, responded to orthostatic hypotension"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient III:1 died suddenly without definite cause"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient III:2 underwent vitrectomy in the right eye"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient IV:2 underwent vitrectomy in the right eye"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Varied among patients: some improved post-vitrectomy, one deceased",
+        "follow_up_details": "Not specified",
+        "complications": "No complications mentioned post-vitrectomy",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Improvement in visual acuity observed within one to two months post-vitrectomy",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

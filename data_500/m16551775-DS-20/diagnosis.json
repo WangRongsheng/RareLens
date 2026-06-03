@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "aspiration pneumonia",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's clinical presentation included elevated WBC count, new bibasilar opacities on CXR, and ground-glass opacities on CT, which are consistent with pneumonia. The history of decreased oral intake and aspiration risk contributed to the diagnosis."
+    }
+}

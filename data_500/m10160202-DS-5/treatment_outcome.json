@@ -1,0 +1,95 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Amlodipine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.5 mg daily",
+            "treatment_response": "Blood pressures and O2 saturations improved to SBP162, O2 sat 92-93% with some functional mobility exercises."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Atorvastatin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg daily",
+            "treatment_response": "Switched from Simvastatin to prevent drug interaction."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 gram IV X1",
+            "treatment_response": "Final read of the CXR was negative for pneumonia."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Azithromycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg IV",
+            "treatment_response": "Final read of the CXR was negative for pneumonia."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Spiriva (tiotropium)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 capsule inhaled daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Albuterol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 puffs every four hours as needed",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Nicotine patch",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "7 mg daily for 10 days",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with hypoxia."
+        },
+        {
+            "date": "Not specified",
+            "event": "Blood pressures and O2 saturations improved with functional mobility exercises."
+        },
+        {
+            "date": "Not specified",
+            "event": "Amlodipine was restarted."
+        },
+        {
+            "date": "Not specified",
+            "event": "Ceftriaxone and Azithromycin were administered."
+        },
+        {
+            "date": "Not specified",
+            "event": "Spiriva and Albuterol were prescribed upon discharge."
+        },
+        {
+            "date": "Not specified",
+            "event": "Nicotine patch was provided to assist with smoking cessation."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused - always, requires assistance or aid.",
+        "follow_up_details": "Will follow-up with his PCP for further testing as an outpatient.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Given extensive smoking history, likely have COPD.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "No specific information provided.",
+        "patient_perspective": "Refused home oxygen despite dangerously low oxygen levels when walking."
+    }
+}

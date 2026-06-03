@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Tamiflu",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "75 mg PO Q12H for 5 Days",
+            "treatment_response": "Positive response indicated by resolution of flu symptoms."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "insulin infusion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Insulin gtt started for DKA management",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Zofran",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ketorolac",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient diagnosed with diabetic ketoacidosis (DKA) and positive influenza test."
+        },
+        {
+            "date": "Not specified",
+            "event": "Initiated Tamiflu treatment."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on insulin gtt for DKA management."
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered Zofran and ketorolac."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home",
+        "follow_up_details": "Follow up with outpatient providers within 1 week of discharge.",
+        "complications": "No complications reported.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient was alert and independent by discharge.",
+        "patient_perspective": "Patient was clear and coherent at discharge."
+    }
+}

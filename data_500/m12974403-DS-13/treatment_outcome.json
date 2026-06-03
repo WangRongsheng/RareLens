@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "nilotinib",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "400 mg oral BID",
+            "treatment_response": "Treatment response indicated decreased PCR, but increase in bilirubin led to the decision to hold TKI."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "blinatumomab",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Planned initiation, but postponed due to elevated bilirubin levels."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "steroids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "desatinib",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Initial treatment; switched to nolotinib upon detectable PCR."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Start of treatment with steroids and desatinib."
+        },
+        {
+            "date": "Not specified",
+            "event": "Achieved hematologic remission."
+        },
+        {
+            "date": "Not specified",
+            "event": "Switched from desatinib to nolotinib due to detectable PCR."
+        },
+        {
+            "date": "Not specified",
+            "event": "Planned admission for blinatumomab initiation was postponed."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Home, condition stable with continued treatment.",
+        "follow_up_details": "Scheduled appointments with outpatient oncologist.",
+        "complications": "Mental status changes requiring medication adjustment.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient exhibited mild rib pain and fatigue but maintains ability to walk approximately 1 mile.",
+        "patient_perspective": "Patient reported changes in medication improved symptoms; managed overall wellbeing at home."
+    }
+}

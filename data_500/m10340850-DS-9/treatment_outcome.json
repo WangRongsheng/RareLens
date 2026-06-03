@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "high dose steroids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Administered for five days",
+            "treatment_response": "Lab results improved, no need for rebiopsy"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "insulin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Low doses to control blood sugar",
+            "treatment_response": "Controlled blood sugar levels"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Mycophenolate Mofetil",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg twice a day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Valganciclovir",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "900 mg once a day for three months",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for elevated liver enzymes"
+        },
+        {
+            "date": "Not specified",
+            "event": "Biopsy performed to investigate liver condition"
+        },
+        {
+            "date": "Not specified",
+            "event": "High dose steroids administered for acute cellular rejection for five days"
+        },
+        {
+            "date": "Not specified",
+            "event": "Blood sugar levels managed with insulin"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge from the hospital in good condition"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Good condition upon discharge",
+        "follow_up_details": "Not specified",
+        "complications": "Blood sugar levels elevated due to steroid treatment",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

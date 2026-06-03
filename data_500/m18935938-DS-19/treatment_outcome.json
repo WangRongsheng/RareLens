@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Take every day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "atorvastatin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Take every day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "rehabilitation therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Recommended to regain strength in left arm and leg"
+        },
+        {
+            "treatment_type": "occupational therapy",
+            "specific_treatment": "rehabilitation therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Recommended to regain strength in left arm and leg"
+        },
+        {
+            "treatment_type": "speech therapy",
+            "specific_treatment": "swallowing evaluation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Swallowing is fine"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient evaluated by physical therapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient evaluated by occupational therapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient evaluated by speech/swallow therapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Aspirin restarted"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on atorvastatin"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Admitted for rehabilitation after a large right middle cerebral artery (MCA) stroke",
+        "follow_up_details": "Recommended to go to a rehabilitation facility",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "T5-6 discectomy and T5-7 posterior instrumented arthrodesis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Surgery performed: T5-6 discectomy and T5-7 posterior instrumented arthrodesis"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Follow up appointment in 2 weeks after the operation",
+        "complications": "No complications",
+        "long_term_prognosis": "Expected to resume full activity at 6 weeks post-surgery",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

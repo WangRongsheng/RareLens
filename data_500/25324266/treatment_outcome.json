@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "surgical repair of common arterial trunk",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Direct anastomosis of the pulmonary artery segment to the right ventricular outflow tract without using an external conduit, closure of subtruncal ventricular septal defect using Dacron patch, creation of atrial septal defect, rerouting of right upper pulmonary vein to the left atrium, reconstruction of anterior wall of the right ventricular outflow tract, confluent pulmonary artery segment, and left pulmonary artery using monocusp pulmonary homograft",
+            "treatment_response": "Postoperatively, the child required high inotropic support and could not be weaned off the ventilator. Echocardiographic evaluation showed absence of residual ventricular septal defect, well open right ventricular outflow tract with insignificant obstruction (peak gradient 20 mm Hg), and low moderate pulmonary regurgitation. Right ventricular systolic pressure was 35 mm Hg."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "intravenous broad-spectrum antibiotics",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "The child was treated for presumed sepsis, but his clinical condition continued to worsen."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Initial medical management due to unusual anatomy"
+        },
+        {
+            "date": "40 days after birth",
+            "event": "Surgical repair performed"
+        },
+        {
+            "date": "Second postoperative day",
+            "event": "Echocardiographic evaluation performed"
+        },
+        {
+            "date": "Fourth postoperative day",
+            "event": "Child died"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Deceased",
+        "follow_up_details": "Not specified",
+        "complications": "Low-cardiac output state, worsening of urine output and renal function, elevated blood counts, thrombocytopenia, presumed sepsis",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Percutaneous coronary intervention (PCI) with drug eluting stent",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Drug eluting stent (Cypher 3x13mm) placed in the native right coronary artery",
+            "treatment_response": "No chest pain, shortness of breath, nausea, or diaphoresis post-procedure"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Heparin gtt, Plavix, Aspirin, high dose statin, Atenolol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with palpitations and chest discomfort"
+        },
+        {
+            "date": "Not specified",
+            "event": "Stress test showed anterolateral wall ischemia and EF 52%"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient ruled in for NSTEMI with peak troponin of 0.48"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on heparin gtt, Plavix, Aspirin, high dose statin, Atenolol"
+        },
+        {
+            "date": "Not specified",
+            "event": "Cardiac catheterization performed at outside hospital showing tight lesion in right coronary artery"
+        },
+        {
+            "date": "Not specified",
+            "event": "Transferred for PCI"
+        },
+        {
+            "date": "Not specified",
+            "event": "Repeat catheterization resulted in drug eluting stent placement"
+        },
+        {
+            "date": "Not specified",
+            "event": "Post-procedure, patient had no chest pain or other symptoms"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable, chest pain free",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Tolerated the procedure well and is now chest pain free"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "found down, encephalopathy",
+        "history_of_present_illness": "Mr. ___ is a ___ yo M with PMH osteopenia, htn, multiple falls s/p fractures, BPH with recurrent UTIs and bacteremia, h/o Cdiff x2. Presented to ___ after being found down and confused last seen 24 hours prior. Poor history as pt is confused and tired on exam. He was found down by his friend, who called EMS. He had also fallen the day before. Baseline mental status is usually oriented without confusion. On exam, pt is lethargic. He had a distal L DVT noted on prior hospital stay.",
+        "past_medical_history": "Multiple falls/fractures, L distal DVT posterior tibial not treated, h/o Cdiff s/p vancomycin, BPH with recurrent UTIs",
+        "family_history": "non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: afebrile, 98.2, HR 60, RR 18, BP 144/72, O2 sat 98% RA. Gen: NAD, resting, lethargic. Eyes: EOMI, conjunctivitis of left eye.",
+        "specialty_examination": "Neurological: Moving all extremities, no focal deficits, A+O to place, person, situation and year but lethargic on exam. Cardiovascular: RRR, S1-S2, holosystolic murmur, 2+ edema to knees, JVD. Skin: B/L venous stasis changes, sacral wound dressed."
+    }
+}

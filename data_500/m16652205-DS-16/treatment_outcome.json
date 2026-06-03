@@ -1,0 +1,87 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "tracheostomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "PEG placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "R VP shunt placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "R frontal EVD placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Cerebral Angiogram with Coiling",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "diagnostic cerebral angiogram",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted after syncopal episode"
+        },
+        {
+            "date": "Not specified",
+            "event": "Intubated prior to transfer for neurosurgery evaluation"
+        },
+        {
+            "date": "Not specified",
+            "event": "EVD and VP shunt placement"
+        },
+        {
+            "date": "Not specified",
+            "event": "Tracheostomy performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "PEG placement"
+        },
+        {
+            "date": "Not specified",
+            "event": "Cerebral Angiogram with Coiling performed"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Lethargic but arousable, confused",
+        "follow_up_details": "Not specified",
+        "complications": "None specified",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient requires assistance to be out of bed, indicating potential quality of life concerns",
+        "patient_perspective": "Not specified"
+    }
+}

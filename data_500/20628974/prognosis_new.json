@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "Repeat imaging and endoscopic exams showed him to be free of recurrence 11 months postsurgery, and he remains so 3.5 years postsurgery. Mild postoperative diplopia resolved; no epiphora, CSF leak, or vision loss.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Disease-free at 11 months and remains so at 3.5 years postsurgery; no persistent symptoms or complications described.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "functional_improvement",
+            "time_period": "unknown",
+            "evidence_excerpt": "Mild postoperative diplopia resolved with the passage of time."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Repeat imaging and endoscopic exams showed him to be free of recurrence 11 months postsurgery."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "He remains free of recurrence 3.5 years postsurgery."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Long-term functional status and daily activity levels are not explicitly described beyond resolution of diplopia and absence of complications; conclusions about quality of life are inferred conservatively from reported clinical outcomes. The exact date of definitive diagnosis is not provided; the final pathology establishing T4N0Mx sinonasal VC was used as the diagnosis date proxy."
+}

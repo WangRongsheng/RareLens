@@ -1,0 +1,104 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chest Pain",
+        "history_of_present_illness": "Mr. ___ is a ___ year old man who developed excruciating chest pain radiating to his back, which felt like a stabbing sensation. He presented to ___ and underwent CTA that revealed type A dissection. He was emergently transferred for surgical intervention and taken directly to the OR. Of note, he ran out of his blood pressure medication last week.",
+        "past_medical_history": "Hypertension, Psoriasis",
+        "family_history": "unremarkable",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Temp: 99, HR: 99, BP: 131/73, RR: 20, O2 sat: 96% 2 liters NC. RLE has VAC on lateral fasciotomy site, medial site closed with +drainage. Neuro: nonfocal except for RLE: no sensation below thigh.",
+        "specialty_examination": "Mild symmetric left ventricular hypertrophy with normal cavity size and global systolic function (LVEF>55%)."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC-8.2, RBC-2.57*, Hgb-7.5*, Hct-23.2*, MCV-90, MCH-29.2, MCHC-32.3, RDW-15.4, RDWSD-50.6*",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Studies (PTT)",
+            "date": "Not specified",
+            "findings": "PTT-22.8*",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Comprehensive Metabolic Panel",
+            "date": "Not specified",
+            "findings": "Glucose-109*, UreaN-42*, Creat-5.2*#, Na-127*, K-3.9, Cl-91*, HCO3-28, AnGap-12",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Transesophageal Echocardiogram",
+            "date": "Not specified",
+            "findings": "Pre Bypass: left atrium elongated, mobile density seen in ascending aorta, aortic arch, and descending aorta consistent with intimal flap/aortic dissection; mild to moderate mitral regurgitation, trivial pericardial effusion. Post Bypass: sinus rhythm, aortic contours consistent with prosthetic graft, dissection flap still seen.",
+            "changes_over_time": "MR is now moderate; remaining exam unchanged."
+        },
+        {
+            "procedure_name": "CTA Chest/Abdomen/Pelvis",
+            "date": "Not specified",
+            "findings": "Type A aortic dissection extends into the bilateral external iliac arteries; complete occlusion of the right external iliac artery; narrowing of the distal right popliteal artery possibly due to thrombosis; new pericardial fluid with associated enhancement representing pericarditis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Ultrasound",
+            "date": "Not specified",
+            "findings": "Arterial and venous flow demonstrated within the right kidney without evidence of renal artery stenosis; left main renal artery appears patent with delayed acceleration time.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Upper Extremity Ultrasound",
+            "date": "Not specified",
+            "findings": "Acute occlusive thrombus seen within the left cephalic vein; no DVT visualized in either arm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lower Extremity Ultrasound",
+            "date": "Not specified",
+            "findings": "No evidence of deep venous thrombosis in the right or left lower extremity veins.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Right Upper Quadrant Ultrasound",
+            "date": "Not specified",
+            "findings": "No gallstones or evidence of acute cholecystitis; borderline splenomegaly.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTA Torso",
+            "date": "Not specified",
+            "findings": "Type A aortic dissection extending from ascending aorta post stent to bilateral external iliac arteries, moderate segment of high-grade stenosis in left external iliac artery, new pericardial fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI Abdomen",
+            "date": "Not specified",
+            "findings": "Lumbosacral nerve roots symmetric with normal signal intensity and no evidence of edema.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Chest X-ray (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Mild retrocardiac atelectasis; no evidence of pleural effusions.",
+            "changes_over_time": "No relevant change."
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Type A Aortic Dissection",
+        "diagnostic_reasoning": "The patient presented with excruciating chest pain radiating to the back, reported as a stabbing sensation, leading to a CTA that revealed type A dissection."
+    }
+}

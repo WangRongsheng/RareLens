@@ -1,0 +1,92 @@
+{
+    "basic_information": {
+        "age": "55",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Chinese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "decreased vision and floaters for five years",
+        "history_of_present_illness": "paresthesia and weakness in his hands and legs to the level of the knees, with reflexes absent for seven years. A moderately severe autonomic neuropathy (alternating painless diarrhea and constipation) was present. At later stage the patient developed syncope, which responded to orthostatic hypotension. Cardiac ultrasound revealed mild degenerative membrane changes.",
+        "past_medical_history": "uveitis",
+        "family_history": "three-generation family with eleven members. The primary ocular signs were vitreous opacities, beginning from the third or fourth decade, accompanied by retinal vasculitis, hemorrhages, and widespread pinpoint deposits in the peripheral retina.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "visual acuity for patient III:1 was 20/1000 in both eyes. The ocular anterior segment and intraocular pressure were normal. Glass, wool-like vitreous opacities were observed in both eyes, which obscured the view to the posterior pole. Peripheral dot-blot hemorrhages were also observed. FFA showed small tufts of neovascularization, vascular fluorescein leakage and staining, and a possible non-perfusion area."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Enzyme-linked immunosorbent assay (ELISA) for VEGF",
+            "date": "Not specified",
+            "findings": "Serum VEGF levels were raised (408 pg/ml of III:2 and 453 pg/ml of IV:2) compared to controls (average 209.809 ± 93.833 pg/ml). Vitreous VEGF levels were also raised (15.94 pg/ml of III:2 and 17.17 pg/ml of IV:2) compared to controls (average 5.09 ± 4.45 pg/ml).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genomic DNA analysis",
+            "date": "Not specified",
+            "findings": "A pathogenic transversion in exon 2 (c.G106C, p.Ala36Pro) of the TTR gene was identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Congo Red staining",
+            "date": "Not specified",
+            "findings": "Vitreous samples showed staining with Congo Red and characteristic yellow-green birefringence indicative of amyloid deposits.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Fundus Fluorescein Angiography (FFA)",
+            "date": "Not specified",
+            "findings": "Case 1: Small tufts of neovascularization, vascular fluorescein leakage and staining, and a possible non-perfusion area. Case 2: Irregular background fluorescein, local fluorescein leakage, and widespread hyperfluorescent spots (window defect).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Optical Coherence Tomography (OCT)",
+            "date": "Not specified",
+            "findings": "Case 2: Normal macula, irregularities within the retinal pigment epithelium (RPE) layer corresponding to pinpoint yellowish spots. Case 3: Normal macula.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound B scan",
+            "date": "Not specified",
+            "findings": "Case 2: Vitreous opacities and membrane formation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac ultrasound",
+            "date": "Not specified",
+            "findings": "Case 1: Mild degenerative membrane changes.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Electroretinogram (ERG)",
+            "date": "Not specified",
+            "findings": "Case 3: ERG was within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrooculogram (EOG)",
+            "date": "Not specified",
+            "findings": "Case 3: EOG was within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pars plana vitrectomy (PPV)",
+            "date": "Not specified",
+            "findings": "Case 2: Vitreous opacities removed, visual acuity improved from 20/1000 to 20/50. Case 3: Vitreous opacities removed, visual acuity improved from 20/1000 to 30/50.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Familial transthyretin amyloidosis (FTA) with TTR Ala36Pro mutation",
+        "diagnostic_reasoning": "The diagnosis was confirmed through genetic analysis identifying a pathogenic transversion in exon 2 (c.G106C, p.Ala36Pro) of the TTR gene. Clinical features included vitreous opacities, retinal vasculitis, hemorrhages, and widespread pinpoint deposits in the peripheral retina. Pathological analysis of vitreous samples showed amyloid deposits confirmed by Congo Red staining. Elevated VEGF levels in serum and vitreous samples further supported the diagnosis."
+    }
+}

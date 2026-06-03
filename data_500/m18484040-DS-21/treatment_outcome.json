@@ -1,0 +1,87 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vancomycin and piperacillin-tazobactam (Zosyn)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Empiric coverage for sepsis",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV metronidazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Coverage for C. diff",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "procedure",
+            "specific_treatment": "stool disimpaction",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Retrieval of a large amount of stool",
+            "treatment_response": "Trace guaiac+"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "levophed",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Continuous infusion for hypotension",
+            "treatment_response": "Patient remained hypotensive despite treatment"
+        },
+        {
+            "treatment_type": "fluid resuscitation",
+            "specific_treatment": "IV fluids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4L prior to MICU admission and 3L in ICU",
+            "treatment_response": "Hypotension persisted"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient transferred for concern of sepsis and cholangitis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Intubated for respiratory distress and airway protection"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT abdomen/pelvis performed revealing fecal loading"
+        },
+        {
+            "date": "Not specified",
+            "event": "Stool disimpaction performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Empiric antibiotics started (vancomycin and Zosyn)"
+        },
+        {
+            "date": "Not specified",
+            "event": "IV metronidazole administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Fluid resuscitation initiated"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient remained hypotensive and required levophed"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "deceased",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

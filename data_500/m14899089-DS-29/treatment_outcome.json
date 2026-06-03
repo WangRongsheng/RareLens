@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lasix",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg IV",
+            "treatment_response": "O2 sats improved and she was weaned to 4 L nasal cannula."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ativan",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 mg PO",
+            "treatment_response": "Administered for anxiety."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Morphine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15 mg PO",
+            "treatment_response": "Patient stated that her voice and throat was starting to feel better."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the ED with dyspnea and hoarseness."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 40 mg IV Lasix."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 1 mg PO Ativan for anxiety."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was weaned to 4 L nasal cannula."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient reported improvement in voice and throat."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved condition, comfortable and stable.",
+        "follow_up_details": "Follow-up appointments recommended for anxiety and weight monitoring.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient appeared comfortable and was able to speak in full sentences.",
+        "patient_perspective": "Patient felt that using a throat lozenge might have helped her throat."
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "basic_information": {
+        "age": "41",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "129 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Ashkenazi Jewish",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Bloom syndrome, a rare autosomal recessive condition characterised by chromosomal instability leading to a high risk of cancer at an early age",
+        "history_of_present_illness": "Diagnosis of Bloom syndrome was made in 1978, confirmed by significantly increased sister chromatid exchanges on chromosome examination. She has had a long-standing photosensitive rash on her face. She developed her first cancer at the age of 38 years - a basal cell carcinoma on her right upper lip. Her second cancer was found on screening colonoscopy at the age of 39 years.",
+        "past_medical_history": "Type 2 diabetes mellitus, fibroadenoma of the left breast, raised cholesterol, osteoporosis, intermittent viral labyrinthitis, cirrhosis of the liver, left-sided pelvic kidney, probable bilateral small renal angiomyolipomata, total abdominal hysterectomy and bilateral salpingo-oophorectomy at the age of 35 years.",
+        "family_history": "Non-consanguineous Ashkenazi Jewish parents. Her mother, maternal aunt, grandmother, and great-grandmother shared the feature of developing very few secondary teeth.",
+        "social_history": "Routinely uses high factor sunscreens. Has taken regular vitamin C and multivitamin supplements from her mid-twenties, and more recently supplements of vitamins A, C, and E for their antioxidant properties. Has had influenza and pneumococcal vaccinations."
+    },
+    "physical_examination": {
+        "general_examination": "Photosensitive rash on her face, several cafe au lait macules in the gluteal region, final adult height is 129 cm, decreased subcutaneous tissue, dysmorphic features including a beaked nose and micrognathia, dystrophic nails.",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Chromosome examination",
+            "date": "1978",
+            "findings": "Significantly increased sister chromatid exchanges",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "Fluctuating liver enzymes over many years",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood glucose test",
+            "date": "Not specified",
+            "findings": "Diagnosed with type 2 diabetes mellitus",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cholesterol test",
+            "date": "Not specified",
+            "findings": "Raised cholesterol",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Left-sided pelvic kidney and probable bilateral small renal angiomyolipomata",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography (CT) of chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of pelvis",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Breast MRI",
+            "date": "Not specified",
+            "findings": "Part of annual screening program",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Six 2-3 mm polyps removed from the transverse colon with histology showing tubular adenomas with low-grade dysplasia. Later, a 10 cm pedunculated polyp excised from the sigmoid colon with a focus of intramucosal carcinoma",
+            "changes_over_time": "Initial findings showed small polyps, later findings showed a larger polyp with intramucosal carcinoma"
+        },
+        {
+            "procedure_name": "Upper gastrointestinal endoscopy",
+            "date": "Not specified",
+            "findings": "Planned for future screening",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Breast examination",
+            "date": "Not specified",
+            "findings": "Fibroadenoma of the left breast",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin examination",
+            "date": "Not specified",
+            "findings": "Basal cell carcinoma on the right upper lip, excised successfully",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Bloom syndrome",
+        "diagnostic_reasoning": "The diagnosis was confirmed by finding significantly increased sister chromatid exchanges on chromosome examination. The patient exhibited key clinical features including growth retardation, dysmorphic features, a photosensitive rash on the face, and a high risk of cancer at an early age."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "excision",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "total abdominal hysterectomy and bilateral salpingo-oophorectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "hormone replacement therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vitamin C and multivitamin supplements",
+            "start_date": "mid-twenties",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vitamins A, C and E supplements",
+            "start_date": "more recently",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "vaccination",
+            "specific_treatment": "influenza and pneumococcal vaccinations",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

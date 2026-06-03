@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Bacillus cereus food poisoning (emetic type)",
+        "differential_diagnosis": "Staphylococcus aureus food poisoning, drug intoxication",
+        "diagnostic_reasoning": "The extremely short incubation period after consuming the meal strongly suggested food poisoning caused by Staphylococcus aureus or Bacillus cereus. Rapid test for 8 drugs yielded negative results, but drug intoxication was considered due to the severity of symptoms. Isolation of B cereus from vomitus, intestinal contents, and leftover fried rice, along with detection of cereulide in serum, confirmed the diagnosis of B cereus emetic food poisoning."
+    }
+}

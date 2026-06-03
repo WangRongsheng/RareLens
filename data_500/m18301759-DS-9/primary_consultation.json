@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "R ankle pain",
+        "history_of_present_illness": "This is a ___ woman in her USOH until the day of presentation when she sustained a fall in the setting of syncope onto her right lower extremity with immediate pain, inability to ambulate.",
+        "past_medical_history": "Syncope NOS",
+        "family_history": "Not specified",
+        "social_history": "Denies EtOH, tobacco or illicits."
+    },
+    "physical_examination": {
+        "general_examination": "A&O x 3 Calm and comfortable. Pelvis stable to AP and lateral compression. BLE skin clean and intact. RLE painful over lateral and medial malleolus. Thighs and leg compartments soft.",
+        "specialty_examination": "Saphenous, Sural, Deep peroneal, Superficial peroneal SILT ___ FHS ___ TA Peroneals Fire 1+ ___ and DP pulses Knee stable to varus and valgus stress."
+    }
+}

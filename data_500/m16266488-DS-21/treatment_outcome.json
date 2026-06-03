@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Right reverse total shoulder replacement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Pain well-controlled"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Right reverse total shoulder replacement performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Aquacel dressing applied with scant serosanguinous drainage"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications prescribed including Acetaminophen, Gabapentin, and OxyCODONE"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).",
+        "follow_up_details": "Please call your surgeon's office to schedule or confirm your follow-up appointment in two weeks.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

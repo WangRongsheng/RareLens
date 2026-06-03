@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "119.3 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Dyspnea/ dry throat/ hoarseness",
+        "history_of_present_illness": "Ms. ___ is a ___ with a h/o COPD on 4L O2 during day and 6L O2 at night, pulmonary hypertension, obesity hypoventilation, ___ (EF > 55% in ___, anxiety, with recent ED visit last week for dyspnea, who now presents to ___ on ___ with hoarseness of voice and laryngitis. Symptoms began about ___ days ago and was associated with sore throat and rhinorrhea. However on day of presentation, while going to sleep this evening her sore throat appeared to worsen and she became extremely anxious which prompted her to come to the ED. While in the waiting room, cough produced thick, ___ sputum. Denies fevers, chills, chest pain, nausea, vomiting, diarrhea, changes in diet, or medication change.",
+        "past_medical_history": "- COPD - obesity - unspecified hypoxemia - CNS lymphoma c/b CVAs x3 (posterior circulation) and seizure d/o - history of SAH while on coumadin - diastolic heart failure - coronary artery disease - atrial fibrillation - hypertension - hyperlipidemia - severe OSA (did not tolerate CPAP in the past) - primary hyperparathyroidism/25-vit D deficiency c/b nephrolithiasis - toxic multinodular goiter with subclinical hyperthyroidism - neovascular glaucoma c/b right eye blindness",
+        "family_history": "Father - ___ problems (unsure of the specifics), ___ Mother - ___, AAA 3 brothers all passed away: -Diabetes and heart attacks Sister: healthy",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission: VS: 96.5 140/76 88 22 92% 5LNC GENERAL: Obese woman in NAD, comfortable, speaking in long full sentences, hoarse voice.",
+        "specialty_examination": "HEENT: NC/AT, sclerae anicteric, MMM, injected posterior OP. no tonsillar exudates NECK: Large neck, difficult to assess JVD. +cervical LAD HEART: irregular rhythm, no murmurs LUNGS: diminished breath sounds b/l, with faint crackles ABDOMEN: Obese, Soft/NT/ND, groin had foul smelling area underneath pannus but only mild erythema EXTREMITIES: WWP, 2+ pretibial edema NEURO: drowsy, A&Ox3, CNs II-XII grossly intact."
+    }
+}

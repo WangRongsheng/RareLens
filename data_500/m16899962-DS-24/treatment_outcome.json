@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Cardiac Catheterization with 2 Drug Eluting Stents placed",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Single DES to RPDA and balloon rescue of the jailed branch of RPL",
+            "treatment_response": "Patient was stable, chest pain free, and eating after the procedure."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Integrilin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Administered as part of the treatment protocol",
+            "treatment_response": "Patient was stable upon arrival to the floor."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Plavix",
+            "start_date": "Not specified",
+            "end_date": "12 months from initiation",
+            "dosage_or_details": "Plavix 75 mg PO QD",
+            "treatment_response": "Part of the discharge medication plan to keep the stents open."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin",
+            "start_date": "Not specified",
+            "end_date": "Indefinitely",
+            "dosage_or_details": "81 mg PO QD",
+            "treatment_response": "Part of the discharge medication plan to keep the stents open."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metoprolol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Metoprolol Succinate XL 25 mg PO DAILY",
+            "treatment_response": "Introduced to manage heart rate."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted to the hospital with chest pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent cardiac catheterization with placement of 2 Drug Eluting Stents."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Integrilin and given Plavix load."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was stable and eating upon transfer to the floor."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications including Aspirin, Plavix, and Metoprolol initiated."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent.",
+        "follow_up_details": "Follow-up with cardiologist for medication management.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Patient will need to take aspirin and Plavix for at least one year.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient was alert, interactive and cleared for independent activity.",
+        "patient_perspective": "Patient informed that chest pain was likely due to unstable angina and not a heart attack."
+    }
+}

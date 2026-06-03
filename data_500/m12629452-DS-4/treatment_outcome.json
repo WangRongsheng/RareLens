@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Benztropine Mesylate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 mg PO TID",
+            "treatment_response": "Prescribed to manage worsening symptoms of Parkinsonism attributed to atypical antipsychotic."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Risperidone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Tapered and discontinued due to side effects.",
+            "treatment_response": "Discontinued to minimize Parkinsonism symptoms."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lithium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "300 mg Oral BID",
+            "treatment_response": "Therapeutic level maintained; no adverse effects noted."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ibuprofen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "400 mg PO Q8H: PRN body pain",
+            "treatment_response": "Used as needed for body pain."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for altered mental status."
+        },
+        {
+            "date": "Not specified",
+            "event": "Received 2mg IV Narcan; unresponsive initially."
+        },
+        {
+            "date": "Not specified",
+            "event": "Symptoms improved after medication adjustments."
+        },
+        {
+            "date": "Not specified",
+            "event": "Risperidone discontinued due to worsening Parkinsonism."
+        },
+        {
+            "date": "Not specified",
+            "event": "Benztropine Mesylate started to manage Parkinsonism symptoms."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged to extended care facility with improved mental status."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Lethargic but arousable.",
+        "follow_up_details": "Psychiatrist at the facility will continue to adjust antipsychotic dosing.",
+        "complications": "Worsening symptoms of Parkinsonism.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Patient was confused but cooperative; expressed being a volunteer at a mental hospital."
+    }
+}

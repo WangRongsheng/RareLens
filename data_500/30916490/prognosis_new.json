@@ -1,0 +1,18 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "The father had been in generally good health his entire life and had no issues with walking; none of the family members presented here had any dislocations. Patient 2 was mildly delayed and used orthotics to correct internal tibial torsion causing intoeing. The proband had mixed hearing loss and skeletal/facial anomalies but no dislocations or short stature.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "The proband had mixed hearing loss and skeletal/facial anomalies; Patient 2 and the father had finger/toe anomalies; none had hallmark joint dislocations or short stature.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "functional_improvement",
+            "time_period": "unknown",
+            "evidence_excerpt": "Patient 2 … was mildly delayed and used orthotics to correct his internal tibial torsion that was causing intoeing."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "This case report describes three related individuals with an FLNB pathogenic variant. Specific dates of the definitive diagnosis (WES results) and subsequent follow-up are not provided, and long-term outcomes are not detailed for the proband beyond the neonatal period. The overall outcome and quality of life assessments reflect the family’s reported status at the time of publication and are conservatively categorized. Timing of the orthotics use relative to the diagnosis date is unclear, so the event period is marked as unknown."
+}

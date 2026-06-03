@@ -1,0 +1,142 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Planned blinatumomab initiation",
+        "history_of_present_illness": "___ y/o female with h/o sarcoid, HTN, and T2DM who presented with facial numbness and found to have Ph+ ALL (normal cytogenetics) with CNS involvement. She was initially treated with steroids and desatinib. Once she achieved hematologic remission d/c home with ongoing treatment. On bone marrow biopsy on D+ 23 consistent with remission. Induction complicated by depression/anxiety, and uncontrolled DM requiring insulin. HLA typing done without matched unrelated donor found. TKI maintenance changed from dasatinib to nolotinib 400mg BID when PCR became detectable and developed recurrent pleural effusions and planned to start blinatumomab. Most recent PCR undetectable. Initially was coming for planned admission for blinatumomab, but given increase in indirect bilirubin (known side effect of nolotinib) will hold TKI for now and decide on blinatumomab moving forward. Overall has been fatigued and has had mild rib pain that she attributes to her pleural effusions, for which she has had multiple thoracenteses. She did mention that she had abdominal pain in the past that radiated to her chest area, which was thought to be gallstones. Otherwise, she has mild SOB with stairs, but can walk ~1 mile on flat ground. She also has a dry cough, but denies fevers or chills. She also denies N/V/D/C.",
+        "past_medical_history": "HTN, DM, HL, Sarcoid",
+        "family_history": "Mother and father had strokes and cardiac disease, brother died of head/neck cancer and his grandson had AML",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 125/70 BP, 65 HR, 17 RR, 98.2 Temp. Gen: Pleasant, calm. HEENT: No conjunctival pallor. No icterus. MMM. OP clear. NECK: JVP not appreciated at 90 degrees. LYMPH: No cervical or supraclav LAD. CV: Normocardic, regular. Normal S1,S2. ___ systolic murmur best heard at ___. LUNGS: No increased WOB. CTAB. No wheezes, crackles, or rhonchi.",
+        "specialty_examination": "Neuro: A&Ox3. Strength ___ in all muscle groups. CN2-XII intact. Moving all extremities with normal cerebellar exam and tests of attention."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory tests - Admission Labs",
+            "date": "Not specified",
+            "findings": {
+                "glucose": "258*",
+                "urea_n": "16",
+                "creatinine": "0.8",
+                "sodium": "137",
+                "potassium": "4.0",
+                "chloride": "99",
+                "total_co2": "25",
+                "anion_gap": "13",
+                "alt_sgpt": "47*",
+                "ast_sgot": "32",
+                "ld": "184",
+                "alk_phos": "91",
+                "total_bilirubin": "2.7*",
+                "direct_bilirubin": "0.7*",
+                "indirect_bilirubin": "2.0",
+                "albumin": "4.0",
+                "calcium": "9.1",
+                "phosphate": "3.5",
+                "magnesium": "2.1",
+                "uric_acid": "3.1",
+                "wbc": "4.4",
+                "rbc": "3.31*",
+                "hgb": "9.9*",
+                "hct": "30.9*",
+                "mch": "29.9",
+                "mchc": "32.0",
+                "rdw": "15.0",
+                "rdwsd": "51.3*",
+                "neuts": "65.5",
+                "lymphs": "14.7*",
+                "monos": "15.2",
+                "eos": "3.6",
+                "basos": "0.5",
+                "plt_count": "175",
+                "ptt": "27.1"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory tests - Additional Labs",
+            "date": "Not specified",
+            "findings": {
+                "urea_n": "18",
+                "creatinine": "0.9",
+                "sodium": "142",
+                "potassium": "4.2",
+                "chloride": "102",
+                "total_co2": "26",
+                "anion_gap": "14",
+                "alt_sgpt": "51*",
+                "ast_sgot": "36",
+                "ld": "197",
+                "alk_phos": "104",
+                "total_bilirubin": "3.9*",
+                "direct_bilirubin": "0.7*",
+                "total_protein": "8.4*",
+                "albumin": "4.8",
+                "globulin": "3.6",
+                "calcium": "9.8",
+                "phosphate": "3.1",
+                "magnesium": "2.1",
+                "haptoglobin": "193",
+                "igG": "1521",
+                "wbc": "4.1",
+                "rbc": "3.53*",
+                "hgb": "10.6*",
+                "hct": "32.7*",
+                "mch": "30.0",
+                "mchc": "32.4",
+                "rdw": "14.8",
+                "rdwsd": "49.9*",
+                "neuts": "64.2",
+                "lymphs": "18.5*",
+                "monos": "12.7",
+                "eos": "3.7",
+                "basos": "0.7",
+                "plt_count": "196",
+                "ptt": "28.2"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "No growth to date.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serology/Blood - Varicella-Zoster IgG Serology",
+            "date": "Not specified",
+            "findings": "Positive by EIA; indicates past exposure and/or immunity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "UGT1A1 Genotyping",
+            "date": "Not specified",
+            "findings": "Detected two copies of the UGT1A1 *28 (TA)7 variant; recommended dose reduction for irinotecan due to increased risk for toxicity.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound - Bilateral upper extremity veins",
+            "date": "Not specified",
+            "findings": "No evidence of deep vein thrombosis in the bilateral internal jugular veins.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": []
+}

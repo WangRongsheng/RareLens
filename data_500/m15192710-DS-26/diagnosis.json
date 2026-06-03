@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Community Acquired Pneumonia",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with fevers, shortness of breath, and a productive cough. A chest x-ray revealed findings consistent with bibasilar lower lobe pneumonia, which supported the diagnosis."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Warfarin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg PO DAILY",
+            "treatment_response": "INR was consistently 1.6, indicating sub-therapeutic levels."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Heparin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Initially admitted with a low INR"
+        },
+        {
+            "date": "Not specified",
+            "event": "4 mg of Warfarin administered; INR measured at 1.6"
+        },
+        {
+            "date": "Not specified",
+            "event": "Heparin started due to sub-therapeutic INR"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and oriented, ambulating with steady gait",
+        "follow_up_details": "Follow-up appointment with cardiac surgery office to discuss driving clearance.",
+        "complications": "No complications",
+        "long_term_prognosis": "Healing well with no erythema or drainage at sternal incision.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Sternal pain managed with oral analgesics; edema not present.",
+        "patient_perspective": "Not specified"
+    }
+}

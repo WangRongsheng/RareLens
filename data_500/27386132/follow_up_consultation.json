@@ -1,0 +1,58 @@
+{
+    "basic_information": {
+        "age": "11",
+        "gender": "Female",
+        "weight": "38.8 kg",
+        "height": "145.1 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "short stature, mild dysmorphic features, and mild cognitive impairment",
+        "history_of_present_illness": "The patient was the second pregnancy and second delivery for her healthy, nonconsanguineous parents. After an uncomplicated pregnancy, her birth was induced at 34 weeks gestation because of maternal hypertension. Birth weight was 1.8 kg (20th centile) and birth length was 40.6 cm (10th centile). She was hospitalized in the NICU for 2 weeks due to feeding difficulties. Her past medical history was significant for an atrial septal defect that never required intervention. She was diagnosed as an infant with spina bifida occulta due to drainage from a sacral dimple. However, subsequent MRI imaging of the spine was normal. Her only surgical history was a tonsillectomy and adenoidectomy. She had one pilomatrixoma surgically removed from the upper arm. At the age of 8 years, her growth was noted to plateau and she crossed from the 50th–8th centile within 1 year. Evaluation showed hypothalamic-pituitary-adrenal axis suppression, thought to be secondary to exogenous glucocorticoid use in the form of inhaled steroids. She was prescribed growth hormone with good response. With regard to development, walking and talking were delayed, both starting at 18 months of age. She received physical, occupational, and speech therapy by 2 years of age and improved. By the age of 11 years, she had undergone a full battery of neuropsychological testing on several occasions, at several hospitals. Each time, she was found to have overall intelligence in the low-average range, with each subtest score in the low average to average ranges. Her lowest scores were on tasks with visual-spatial or motor planning.",
+        "past_medical_history": "Atrial septal defect, spina bifida occulta, tonsillectomy and adenoidectomy, pilomatrixoma surgically removed from the upper arm, hypothalamic-pituitary-adrenal axis suppression",
+        "family_history": "Both the patient’s mother and brother were negative for this mutation. The patient’s father was offered testing but declined.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "At 11 years 3 months, her growth parameters were: weight 38.8 kg (55th centile), height 145.1 cm (45th centile), and head circumference, 52 cm (25th centile).",
+        "specialty_examination": "Her physical exam was significant for flat malar eminences with mild ptosis and down-slanting palpebral fissures. Her thumbs were not broad. She also had evidence of hypertrophic scarring in several sites from minor trauma."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Karyotype",
+            "date": "Not specified",
+            "findings": "Normal, female result",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chromosomal microarray analysis",
+            "date": "Not specified",
+            "findings": "Normal, female result",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole exome sequencing",
+            "date": "Not specified",
+            "findings": "Heterozygous for a c.1948delA mutation in the EP300 gene. This deletion in exon 10 results in a frameshift mutation and a premature stop codon.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI imaging of the spine",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Neuropsychological testing",
+            "date": "Not specified",
+            "findings": "Overall intelligence in the low-average range, with each subtest score in the low average to average ranges. Lowest scores were on tasks with visual-spatial or motor planning.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

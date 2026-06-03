@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "20",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Chinese",
+        "occupation": "Navy serviceman"
+    },
+    "medical_history": {
+        "chief_complaint": "vesicular rash on both forearms occurring after 2 days of continued sun exposure",
+        "history_of_present_illness": "recurrent vesicular eruptions localized to his nose, cheeks, the rim of his ears, dorsum of hands and forearms related to midday sun exposure of 1-3 h duration each time; itching and a prickly sensation 4-5 h later on the sun-exposed areas, followed by blister formation; healing within 1-2 weeks with scar formation",
+        "past_medical_history": "asthma",
+        "family_history": "negative for atopy, blistering diseases and photosensitivity",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "superficial erosions with crusts on the rim of his ears and the dorsum of his hands; vesicles seen on several occasions on the ears, face, extensor aspects of the forearms, and lips; hypertrophic scars present on his hands, and depressed scars on his face",
+        "specialty_examination": "Not specified"
+    }
+}

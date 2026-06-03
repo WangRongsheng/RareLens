@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "sodium chloride supplements",
+            "start_date": "day 79",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Plasma sodium normalized and sodium was detected in the urine. Aldosterone and renin were greatly increased at 22,200 pmol/L and 14,340 mU/L, respectively."
+        },
+        {
+            "treatment_type": "nutritional support",
+            "specific_treatment": "high calorie formula feeds",
+            "start_date": "6 weeks of age",
+            "end_date": "Not specified",
+            "dosage_or_details": "Estimated to give 150% of total requirements",
+            "treatment_response": "Did not gain weight satisfactorily until sodium chloride supplements were commenced."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "6 weeks of age",
+            "event": "Presented with failure to thrive, mild hyponatraemia, and dehydration. Started on high calorie formula feeds."
+        },
+        {
+            "date": "day 79",
+            "event": "Commenced sodium chloride supplements."
+        },
+        {
+            "date": "6 days after commencing treatment",
+            "event": "Plasma sodium normalized and sodium was detected in the urine. Aldosterone and renin were greatly increased."
+        },
+        {
+            "date": "3 months of age",
+            "event": "Discharged home on sodium chloride supplements with established weight gain."
+        },
+        {
+            "date": "8 months of age",
+            "event": "Weight was 6 kg (<3rd centile) on sodium chloride supplements and normal feeds. Plasma sodium was normal (137 mmol/L)."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved with sodium chloride supplements and normal feeds, but weight remained below the 3rd centile.",
+        "follow_up_details": "Last review at 8 months of age.",
+        "complications": "Persistent diffuse dry eczematous skin despite regular application of emollients.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Within a week of sodium chloride treatment, plasma sodium normalized and weight gain improved.",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

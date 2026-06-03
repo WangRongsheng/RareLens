@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "GNE myopathy associated with congenital thrombocytopenia",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis was based on the presence of myopathy with rimmed vacuoles and congenital thrombocytopenia in two siblings, confirmed by genetic testing which identified compound heterozygous GNE mutations (p.V603L and p.G739S). The thrombocytopenia was characterized by shortened platelet lifetime and elevated platelet-associated IgG (PAIgG). Exome sequencing and array CGH did not identify pathogenic variants in known genes for thrombocytopenia, suggesting the thrombocytopenia may be associated with the GNE mutations and resultant hyposialylation of platelets."
+    }
+}

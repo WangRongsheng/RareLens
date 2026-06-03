@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Doxycycline Hyclate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO Q12H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Cefpodoxime Proxetil",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "200 mg PO Q12H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Azithromycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO Q24H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Albuterol Inhaler",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 PUFF IH Q4H: PRN SOB/wheeze",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for further evaluation due to pneumonia and musculoskeletal chest pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on Doxycycline Hyclate, Cefpodoxime Proxetil, and Azithromycin."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with medication plan and follow-up instructions."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.",
+        "follow_up_details": "Patient advised to have son stay with him for safety and to be cleared by PCP.",
+        "complications": "No complications",
+        "long_term_prognosis": "Patient's chest pain is most likely musculoskeletal in nature.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient states cough was stable, chest pain unchanged and weakness unchanged."
+    }
+}

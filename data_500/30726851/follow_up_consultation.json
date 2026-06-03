@@ -1,0 +1,58 @@
+{
+    "basic_information": {
+        "age": "26",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Amniotic band at the fetus’s ankle and toes involving a left thick edematous foot and a right edematous club foot as well as an umbilical cord without abnormal blood flow",
+        "history_of_present_illness": "Presented at 18 weeks’ gestation with amniotic band at the fetus’s ankle and toes. All toes were visible on both feet. Distal arterial and venous blood flow was present within the edematous feet. Movement of the ankles, including flexion, could not be visualized during an extensive ultrasound examination. The position of the feet in utero remained unchanged during 3 consecutive ultrasound examinations over 2 weeks.",
+        "past_medical_history": "No relevant history",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Left foot appeared pale and edematous in its distal portion. The right foot presented with 2 necrotic toes. Multiple amniotic sheets were observed, twisted and wrapped around the left ankle, the umbilical cord, and the right clubfoot."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Amniotic fluid karyotyping",
+            "date": "Not specified",
+            "findings": "Normal 46,XY",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound examination",
+            "date": "18 weeks' gestation",
+            "findings": "Amniotic band at the fetus’s ankle and toes involving a left thick edematous foot and a right edematous club foot. All toes were visible on both feet. Distal arterial and venous blood flow was present within the edematous feet. Movement of the ankles, including flexion, could not be visualized.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound examination",
+            "date": "5 days after the procedure",
+            "findings": "The limb edema appeared to have been reduced, distal blood flow was documented through both feet, and active movements could be observed from both ankles and feet, although the right foot remained permanently in equinovarus position.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serial follow-up ultrasound examinations",
+            "date": "Not specified",
+            "findings": "Resolution of the edema and normal movements of both feet.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Fetoscopy",
+            "date": "22 weeks' gestation",
+            "findings": "Multiple amniotic sheets were observed, twisted and wrapped around the left ankle, the umbilical cord, and the right clubfoot. The left foot appeared pale and edematous in its distal portion. The right foot presented with 2 necrotic toes (not suspected prior to surgery). Lysis of the amniotic sheets was performed on both feet using laser dissection.",
+            "changes_over_time": "Immediate in utero recoloration of the left foot was observed following the band section."
+        }
+    ]
+}

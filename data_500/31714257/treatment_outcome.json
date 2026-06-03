@@ -1,0 +1,115 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "VWF/FVIII concentrate Haemate P",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "13,000 IU in 25 exposure days",
+            "treatment_response": "Possible allergic reaction reported as urticaria and dizziness after 31 exposure days"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "VWF/FVIII concentrate Wilate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Bolus injection prior to a minor diagnostic procedure",
+            "treatment_response": "No side effects or bleeding reported"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Parenteral tranexamic acid (Ugurol)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15 mg/kg of body weight",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Recombinant-activated FVII (rFVIIa) (NovoSeven)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "90 mg/kg at 3-h intervals",
+            "treatment_response": "Bleeding stopped in the next 4 hours"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Recombinant FVIII (rFVIII) (Advate)",
+            "start_date": "Not specified",
+            "end_date": "10th postoperative day",
+            "dosage_or_details": "Continuous infusion at a rate of 20 IU/kg/h after a bolus of 80 IU/kg/h",
+            "treatment_response": "FVIII activity between 0.30 and 0.39 IU/ml was achieved and maintained"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oral tranexamic acid",
+            "start_date": "Not specified",
+            "end_date": "6 days after discontinuation of rFVIII",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Diagnosed with type 3 VWD at the age of 14 months"
+        },
+        {
+            "date": "Not specified",
+            "event": "First treatment with VWF/FVIII concentrate Haemate P at the age of 15 months"
+        },
+        {
+            "date": "Not specified",
+            "event": "Possible allergic reaction to Haemate P after 31 exposure days"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered Wilate as a bolus injection prior to a minor diagnostic procedure"
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery for inflammation of the cyst of the branchial cleft remnants"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered 60 IU/kg of VWF/FVIII concentrate Wilate and 15 mg/kg of tranexamic acid before surgery"
+        },
+        {
+            "date": "Not specified",
+            "event": "Additional bolus of 20 IU/kg of VWF/FVIII concentrate and tranexamic acid given intravenously at regular 8 h intervals"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered 60 IU/kg of VWF/FVIII concentrate"
+        },
+        {
+            "date": "Not specified",
+            "event": "Undetectable levels of VWF activity and FVIII:C of 0.045 IU/ml"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started rFVIIa in a dosage of 90 mg/kg at 3-h intervals"
+        },
+        {
+            "date": "Not specified",
+            "event": "Continuous infusion of rFVIII initiated after a bolus of 80 IU/kg/h"
+        },
+        {
+            "date": "Not specified",
+            "event": "Transfusion of red blood cells on the third postoperative day"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discontinued continuous infusion of rFVIII on the 10th postoperative day"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Bleeding stopped and no further complications reported",
+        "follow_up_details": "Plasma samples collected for analysis; inhibitor titre still highly positive 6 months later",
+        "complications": "No complications mentioned after successful treatment",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Bleeding stopped within 4 hours after adjusting rFVIIa dosage",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

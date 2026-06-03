@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vancomycin and aztreonam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient was admitted for further evaluation for possible pneumonia."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Levofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg daily",
+            "treatment_response": "Patient responded well to IV antibiotics."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Azithromycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "250 mg daily",
+            "treatment_response": "Patient transitioned to oral antibiotics prior to discharge."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Benzonatate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg three times a day as needed for cough",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with fevers, chills, and productive cough."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received vancomycin and aztreonam."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was admitted for further evaluation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started Levofloxacin and Azithromycin."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient transitioned to oral antibiotics prior to discharge."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home, clear and coherent.",
+        "follow_up_details": "Discuss with oncologist regarding restarting budesonide.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

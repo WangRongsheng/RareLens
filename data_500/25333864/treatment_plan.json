@@ -1,0 +1,85 @@
+{
+    "basic_information": {
+        "age": "10",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Student"
+    },
+    "medical_history": {
+        "chief_complaint": "Generalized tonic-clonic seizures during sleep and errors in Kanji writing tests",
+        "history_of_present_illness": "Onset of generalized tonic-clonic seizures during sleep at 10 years and 3 months of age, accompanied by increased errors in Kanji writing tests. Overnight EEG showed generalized 1-2-Hz continuous spikes and waves (CSW) dominant in the occipito-temporal region with a spike-wave index higher than 85%. MEG revealed dipoles clustering in and around the posterior inferior temporal cortex (PITC). Brain MRI was normal. Reduced uptake in the left posterior temporal lobe, including the PITC, was noted on CBF SPECT and 123I iomazenil SPECT. Treatment with sodium valproate, clonazepam, and acetazolamide markedly decreased CSW. ESES was controlled in 4 months, although spikes remained in the left occipital region. EEG normalized by 16 years of age with no recurrence of clinical seizures or epileptic discharges without antiepileptic drugs.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Neuropsychological testing at 10 years and 3 months of age showed full, verbal, and performance IQs of 95, 101, and 91, respectively. Scores for tests not requiring Kanji writing were consistent with his age. He had no problems in reading Kana, converting written Kanjis to Kana, and dictating in Kana after listening to a word. He had no problems in copying, reading aloud, and identifying Kanjis. However, his correct answer rates in Kanji writing tasks for third- and fourth-grade school children were 30% and 0%, respectively. His Kanji dysgraphia consisted of morphological, phonemic, and semantic errors."
+    },
+    "laboratory_examinations": [],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Electroencephalography (EEG)",
+            "date": "Not specified",
+            "findings": "Generalized 1-2-Hz continuous spikes and waves (CSW), dominant in the occipito-temporal region, with a spike-wave index higher than 85%",
+            "changes_over_time": "EEG was normalized at 16 years of age, and clinical seizure and epileptic discharge did not recur even without antiepileptic drugs"
+        },
+        {
+            "procedure_name": "Magnetoencephalography (MEG)",
+            "date": "Not specified",
+            "findings": "Dipoles clustering in and around the posterior inferior temporal cortex (PITC)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebral blood flow (CBF) SPECT",
+            "date": "Not specified",
+            "findings": "Reduced uptake in the left posterior temporal lobe, including the PITC",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "123I iomazenil SPECT",
+            "date": "Not specified",
+            "findings": "Reduced uptake in the left posterior temporal lobe, including the PITC",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Neuropsychological testing (Japanese Wechsler Intelligence Scale for Children (WISC)-Revised)",
+            "date": "10 years and 3 months of age",
+            "findings": "Full, verbal, and performance IQs were 95, 101, and 91, respectively",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neuropsychological testing (Illinois Test of Psycholinguistic Abilities (ITPA), Benton Visual Retention Test (BVRT), Raven’s Colored Progressive Matrices, Rey-Osterrieth Complex Figure Test (ROCFT), Developmental Test of Visual Perception (DTVP), and Visual Perception Test for Agnosia (VPTA))",
+            "date": "10 years and 3 months of age",
+            "findings": "Scores consistent with his age",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Kanji recognition tasks (copying, reading aloud, identifying Kanjis)",
+            "date": "10 years and 3 months of age",
+            "findings": "No problems in copying, reading aloud, and identifying Kanjis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Kanji writing tasks (converting a word written in Kana to Kanji, dictating in Kanji after listening to a word)",
+            "date": "10 years and 3 months of age",
+            "findings": "Correct answer rates in Kanji writing tasks for third- and fourth-grade school children were 30 and 0%, respectively. Kanji dysgraphia consisted of morphological, phonemic, and semantic errors",
+            "changes_over_time": "Kanji dysgraphia ameliorated gradually several years after CSW was controlled, but remained weak in ability to write Kanji at high school"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Epileptic encephalopathy with continuous spikes and waves in the occipito-temporal region during slow-wave sleep (ESES)",
+        "diagnostic_reasoning": "The diagnosis was based on the presence of continuous spikes and waves dominant in the occipito-temporal region during slow-wave sleep, as recorded on overnight electroencephalography (EEG). Magnetoencephalography (MEG) revealed dipoles clustering in and around the posterior inferior temporal cortex (PITC). Functional neuroimaging suggested dysfunction in the left posterior temporal lobe, including the PITC. The patients exhibited unique cognitive dysfunction of Kanji dysgraphia, which is distinct from LKS and CSWS, but shares common features in terms of clinical course, pathophysiology, neuroimaging, and response to treatment."
+    }
+}

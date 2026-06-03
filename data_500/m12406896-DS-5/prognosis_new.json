@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "Recurrent worsening requiring hospitalization and high-dose steroids; persistent deficits including poor right-eye vision and baseline diffuse numbness. Discharge notes: \"You were admitted because of a worsening of your NMO condition... received high dose steroids.\"",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Chronic dysesthesia causing significant distress; baseline numbness \"over her entire body\" and recent severe itching/burning over torso and arms requiring multiple symptomatic medications.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "functional_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "After the initial NMO hospitalization, she was treated at rehab for a month, indicating functional recovery efforts."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "She was started on Rituxan for several months after diagnosis."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "unknown",
+            "evidence_excerpt": "Admitted for increased fatigue, neck spasm, headache, and severe itching/burning; discharge states worsening of NMO condition."
+        },
+        {
+            "event_type": "readmission",
+            "time_period": "unknown",
+            "evidence_excerpt": "Current hospitalization occurred after prior NMO hospitalization and rehab: \"You were admitted because of a worsening of your NMO condition.\""
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Discharge condition documented as \"Improved\" after high-dose steroids and plan for oral taper."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Received high-dose steroids during this admission with an oral steroid taper on discharge."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Exact dates are not provided; NMO diagnosis occurred \"last year\" and subsequent events lack precise timing, so mid-term vs long-term classification is approximate. Functional dependence level is inferred from persistent deficits and need for home services."
+}

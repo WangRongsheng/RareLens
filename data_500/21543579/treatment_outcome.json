@@ -1,0 +1,103 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "fluconazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "200 mg intravenously after each dialysis",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "immunosuppressive therapy",
+            "specific_treatment": "basiliximab",
+            "start_date": "day of transplantation",
+            "end_date": "day 4",
+            "dosage_or_details": "20 mg i.v. on the day of transplantation and on day 4",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "immunosuppressive therapy",
+            "specific_treatment": "solumedrol",
+            "start_date": "day of transplantation",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg/kg of body weight on the day of transplantation, followed by three 120-mg doses per day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "immunosuppressive therapy",
+            "specific_treatment": "cyclosporine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "adjusted according to dialysis parameters to reach therapeutic blood levels (300 to 350 ng/ml)",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "antimicrobial therapy",
+            "specific_treatment": "tobramycin, vancomycin, piperacillin, and tazobactam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "broad-spectrum antibiotherapy",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "antifungal therapy",
+            "specific_treatment": "voriconazole and caspofungin",
+            "start_date": "day 19",
+            "end_date": "day 28",
+            "dosage_or_details": "voriconazole i.v. (6 mg/kg every 12 h as a loading dose followed by two 4-mg/kg doses a day) and caspofungin (70 mg/day as a loading dose followed by 50 mg/day)",
+            "treatment_response": "Patient died of multiorgan failure on day 28"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "June 2009",
+            "event": "Patient admitted for heart and bilateral lung transplantation"
+        },
+        {
+            "date": "day of transplantation",
+            "event": "Immunosuppressive regimen started with basiliximab and solumedrol"
+        },
+        {
+            "date": "day 3",
+            "event": "Patient extubated"
+        },
+        {
+            "date": "day 8",
+            "event": "White blood cell count reached 20 x 10^9 cells/liter"
+        },
+        {
+            "date": "day 11",
+            "event": "Thoracic computed tomodensitometry revealed bilateral pulmonary effusions"
+        },
+        {
+            "date": "day 19",
+            "event": "Pleural effusions drained; antifungal combination therapy of voriconazole and caspofungin started"
+        },
+        {
+            "date": "day 23",
+            "event": "Bronchial fibroscopy performed due to subcutaneous emphysema and air bubbles from pleural drain"
+        },
+        {
+            "date": "day 25",
+            "event": "Surgery performed to suture the left pulmonary parenchyma and remove pleural clots"
+        },
+        {
+            "date": "day 27",
+            "event": "Blood culture positive for filamentous and septate hyphae"
+        },
+        {
+            "date": "day 28",
+            "event": "Patient died of multiorgan failure"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "deceased",
+        "follow_up_details": "Not specified",
+        "complications": "multiorgan failure",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

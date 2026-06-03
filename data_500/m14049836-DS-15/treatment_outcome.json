@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "lorazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 mg PO and 1 mg IV",
+            "treatment_response": "Patient was still feeling anxious about admission, but calmer than prior."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient developed shaking chills and intermittent fevers."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient experienced nausea, lightheadedness, non-productive cough, vomiting, and decreased appetite."
+        },
+        {
+            "date": "Not specified",
+            "event": "Diarrhea developed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient reported shortness of breath relieved with inhaler."
+        },
+        {
+            "date": "Not specified",
+            "event": "Rash described as small papules appeared."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was given lorazepam 1 mg PO and 1 mg IV."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge after afebrile for 24 hours."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Feeling much better",
+        "follow_up_details": "Pending test results will be followed up.",
+        "complications": "No complications",
+        "long_term_prognosis": "Uncertain as the cause of symptoms is not clear.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient felt much better at discharge, but unsure of the cause."
+    }
+}

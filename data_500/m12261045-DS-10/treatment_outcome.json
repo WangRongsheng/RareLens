@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Coronary artery bypass grafting x4",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "left internal mammary artery to left anterior descending artery, reverse saphenous vein graft to posterior descending artery, ramus intermedius artery, and obtuse marginal artery",
+            "treatment_response": "Normal biventricular function, no other new findings."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted after lightheadedness and passing out."
+        },
+        {
+            "date": "Not specified",
+            "event": "Cardiac catheterization performed showing multivessel coronary artery disease."
+        },
+        {
+            "date": "Not specified",
+            "event": "Coronary artery bypass grafting x4 surgery performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Post-surgery evaluation showed normal biventricular function."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications prescribed."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient alert and oriented, nonfocal.",
+        "follow_up_details": "Follow up appointment will discuss driving limitations.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient ambulating, gait steady, sternal pain managed with oral analgesics.",
+        "patient_perspective": "Not specified."
+    }
+}

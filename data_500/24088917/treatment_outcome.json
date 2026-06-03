@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "mitral valve repair via trans-septal approach",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Triangular resection and edge-to-edge suturing of the medial posterior leaflet and commissure, mitral annuloplasty using a semi-rigid ring (Carpentier-Edwards Physio II Annuloplasty Ring, 28 mm)",
+            "treatment_response": "No residual mitral valve regurgitation, uneventful recovery"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "oral and inhaled corticosteroids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient referred for treatment of severe mitral valve regurgitation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Mitral valve repair performed via trans-septal approach"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient extubated 15 hours after operation"
+        },
+        {
+            "date": "Postoperative day 1",
+            "event": "Patient discharged from intensive care unit"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Uneventful recovery without respiratory complications",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

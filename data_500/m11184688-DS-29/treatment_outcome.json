@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Antibiotics and intravenous fluids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient's neurological symptoms were most likely related to infection."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with somnolence, vomiting, and agitation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Antibiotics and intravenous fluids started."
+        },
+        {
+            "date": "Not specified",
+            "event": "Lovenox stopped and not to be bridged again in the future."
+        },
+        {
+            "date": "Not specified",
+            "event": "Tube feeds restarted when not bleeding."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with follow-up instructions."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Lethargic but arousable.",
+        "follow_up_details": "Follow-up with clinic to check INR and visiting nurse to check INR next.",
+        "complications": "Patient exhibited altered mental status with agitation and episodes of vomiting.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient was bedbound and confused.",
+        "patient_perspective": "Not specified."
+    }
+}

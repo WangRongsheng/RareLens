@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Fentanyl Patch",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "12 mcg/h TP Q72H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ibuprofen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "600 mg PO Q8H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "TraMADOL (Ultram)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lidocaine Patch",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5% Patch TD DAILY",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for pain control and rehabilitation placement."
+        },
+        {
+            "date": "Not specified",
+            "event": "Fentanyl patch, ibuprofen, tramadol, and lidocaine patches prescribed for pain management."
+        },
+        {
+            "date": "Not specified",
+            "event": "MRI and other imaging tests conducted to evaluate spine condition."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with follow-up instructions and prescribed medications."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "In recovery, with improved mental status and activity level.",
+        "follow_up_details": "Follow-up appointments with Orthopedist and Oncologist.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Patient expressed gratitude for care received."
+    }
+}

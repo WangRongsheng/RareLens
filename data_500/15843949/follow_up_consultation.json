@@ -1,0 +1,82 @@
+{
+    "basic_information": {
+        "age": "8",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "left inguinal pain",
+        "history_of_present_illness": "10-month history of left inguinal pain",
+        "past_medical_history": "adenectomy a few years previously",
+        "family_history": "Bone dysplasia was not known so far in the patient's family",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "free mobility of the left hip joint with moderate pain-perception by the patient at the final point of internal rotation. Normal skin without local swelling was noted. Neurological examination of the leg and pulses were normal.",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Histological investigation",
+            "date": "Not specified",
+            "findings": "Histological investigation of the tumour showed an osteochondroma.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Conventional X-rays of the pelvis",
+            "date": "Not specified",
+            "findings": "Conventional X-rays of the pelvis showed an asymmetrical ossification proceeding from the left acetabulum compared with joint incongruency and discreet lateralisation of the femoral head.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the pelvis",
+            "date": "Not specified",
+            "findings": "The CT of the pelvis showed an asymmetrical ossification in projection on the left acetabular roof located in the pubic portion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Conventional X-rays after surgical removal",
+            "date": "4 months after surgery",
+            "findings": "Conventional X-rays after surgical removal of the ossification showed the femoral head centrally positioned in the left acetabulum. Furthermore, the left acetabulum showed a thick bottom compared with the right acetabulum, leading to a secondary dysplasia of the left hip.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the left hip joint after arthrotomy",
+            "date": "4 months after surgery",
+            "findings": "CT of the left hip joint after arthrotomy and open removal of the tumour showed the femoral head centrally positioned in the left acetabulum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Conventional X-rays 22 months after surgical removal",
+            "date": "22 months after surgery",
+            "findings": "Conventional X-rays 22 months after surgical removal of the ossification showed the central position of the femoral head in the acetabulum which was partially uneven. Furthermore, the joint showed a secondary dysplasia caused by the thick bottom of the left acetabulum.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Clinical examination",
+            "date": "Not specified",
+            "findings": "Clinical examination showed free mobility of the left hip joint with moderate pain-perception by the patient at the final point of internal rotation. Normal skin without local swelling was noted. Neurological examination of the leg and pulses were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up clinical examination",
+            "date": "4 months after surgery",
+            "findings": "Four months after the investigation the patient showed normal gait. We found free mobility of the left hip joint whereby internal rotation of the left hip was slightly reduced.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up clinical examination",
+            "date": "2 years after surgery",
+            "findings": "Two years after the operation, the left hip range of motion was comparable to the situation 4 months after the investigation. We found a normal gait without any pain.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

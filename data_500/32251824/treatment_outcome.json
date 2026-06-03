@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "posterior fossa craniotomy, C1-T3 laminectomy, and total resection of the foramen magnum to T3 intramedullary tumor",
+            "start_date": "March 2019",
+            "end_date": "Not specified",
+            "dosage_or_details": "11-hour surgery",
+            "treatment_response": "gross total resection achieved, no obvious surgical-related complications"
+        },
+        {
+            "treatment_type": "neurologic rehabilitation",
+            "specific_treatment": "Not specified",
+            "start_date": "After 2 weeks of hospitalization",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "further functional recovery"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "March 2019",
+            "event": "Patient admitted to the neurosurgery department"
+        },
+        {
+            "date": "March 2019",
+            "event": "Surgery performed: posterior fossa craniotomy, C1-T3 laminectomy, and total resection of the foramen magnum to T3 intramedullary tumor"
+        },
+        {
+            "date": "After 2 weeks of hospitalization",
+            "event": "Neurologic rehabilitation started"
+        },
+        {
+            "date": "3-month follow-up",
+            "event": "Magnetic resonance imaging scan showed no residual tumor or recurrence, and whole spinal syringomyelia disappeared completely"
+        },
+        {
+            "date": "6-month follow-up",
+            "event": "Patient had full strength in all extremities and her numbness resolved"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Full strength in all extremities, numbness resolved, living a normal life without any symptoms",
+        "follow_up_details": "Laminoplasty scheduled for 6 months later",
+        "complications": "No complications",
+        "long_term_prognosis": "Excellent recovery of neurologic function and no signs of complications and recurrence",
+        "recovery_timeline": "6 months",
+        "quality_of_life": "Lived a normal life without any symptoms",
+        "patient_perspective": "Not specified"
+    }
+}

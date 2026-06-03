@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Cardiac Catheterization and PCI with stent",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Deployed 2 BMS to the LAD for Proximal 60% and mid vessel 70% stenoses.",
+            "treatment_response": "Patient is comfortable lying in bed. Denies any chest pain or shortness of breath after procedure."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Indefinitely after stent placement.",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Clopidogrel",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "75 mg daily for 1 month, preferably 12 months.",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient experienced substernal chest pain and called for an ambulance."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 4 baby aspirin and a nitro tab."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was transferred to the cath lab due to concern for NSTEMI."
+        },
+        {
+            "date": "Not specified",
+            "event": "Cardiac catheterization and PCI performed with stent placement."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient admitted to the floor, pain subsided, and stable post-procedure."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable with no complications.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications.",
+        "long_term_prognosis": "Patient will take aspirin for life and clopidogrel for at least 6 months.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient is ambulatory with assistance and clear mental status.",
+        "patient_perspective": "Patient reports resolution of chest pain and successful overnight recovery."
+    }
+}

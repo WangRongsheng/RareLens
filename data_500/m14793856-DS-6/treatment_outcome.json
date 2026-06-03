@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lasix",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO daily",
+            "treatment_response": "Helped his edema over the last few days and he is peeing frequently."
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "TEE/DCCV",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Converted heart rhythm back to normal."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Levothyroxine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Adjusted dose to help low thyroid levels.",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with atrial fibrillation and volume overload."
+        },
+        {
+            "date": "Not specified",
+            "event": "Lasix 20 mg PO daily was administered."
+        },
+        {
+            "date": "Not specified",
+            "event": "TEE/DCCV procedure performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Levothyroxine dose adjusted."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home, ambulatory with assistance.",
+        "follow_up_details": "Follow-up appointments listed in discharge instructions.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient appears comfortable and clear in mental status.",
+        "patient_perspective": "Patient was informed about the reasons for admission and treatment outcomes."
+    }
+}

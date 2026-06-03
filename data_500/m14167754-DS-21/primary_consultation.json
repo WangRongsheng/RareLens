@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abdominal pain, SOB",
+        "history_of_present_illness": "PMH of glaucoma, diverticulitis, dementia presented to ___ with left lower quadrant abdominal unclear duration and SOB. Per niece he had it through the evening. No vomiting. Non-exertional. Patient has dementia at baseline and unable to provide further history. At ___, He had a HR of 99 and BP of 136/100. Exam was notable for heme-negative stool and left lower quadrant tenderness. EKG showed sinus 94 with Normal axis. STE leads 3 and aVF 3-4 mm and lead 2 elevations of 2 mm. ST depressions 1, aVL, V2/3 greater than 2 mm. He received ASA, heparin and plavix load at ___ and ___ to ___ for catheterization. At the cath lab in ___, he was found to have 99% RCA mid stenosis with thrombus, and Focal 80% before D1 and 80-90% tubular after D1 LAD lesion. He had DES placed in RCA.",
+        "past_medical_history": "1. Diverticulitis 2. Glaucoma 3. Dementia",
+        "family_history": "Father had an MI in his late ___. Otherwise no family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: T= 97.9 BP=103/70 HR=90 RR= 23 O2 sat= 98% on 2L. General: Pleasant, fidgety, able to communicate short sentences, but some confabulating.",
+        "specialty_examination": "Neurological: Unable to cooperate fully with exam. Cardiovascular: Normal S1, S2, non-displaced PMI, no murmurs."
+    }
+}

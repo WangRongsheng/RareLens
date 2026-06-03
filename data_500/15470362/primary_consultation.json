@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "1 month",
+        "gender": "Female",
+        "weight": "3500 g",
+        "height": "46.5 cm",
+        "BMI": "Not specified",
+        "ethnicity": "White",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Unusual face, cardiac murmur and hands and feet oedema",
+        "history_of_present_illness": "At 1 month: ocular hypertelorism, down-slanting palpebral fissures, ptosis, blue–green irides, short nose with a wide base and depressed nasal bridge, low-set and posteriorly angulated ears with thick helices, micrognathia, short neck with excessive nuchal skin and widely spaced nipples. At 7 months: bilateral severe sensorineural hearing loss and delayed psychomotor development mainly in the motor area. At 4 years: failure to thrive, development of multiple lentigines and multiple cafe´-au-lait spots. At 10 years: short stature, Noonan-like facies, pectus excavatum, limited movement of elbows and wrists, Madelung deformity and enlarged ankles.",
+        "past_medical_history": "Mild pulmonary valve stenosis, asymmetric septal hypertrophy, pulmonary artery branch stenosis and myxoid mitral valve. Bilateral severe sensorineural hearing loss. Delayed psychomotor development. Generalised hypomineralisation with somewhat thickened trabeculae and cyst-like lesions in the mandible.",
+        "family_history": "Unremarkable",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "At birth: unusual face, cardiac murmur and hands and feet oedema. At 1 month: ocular hypertelorism, down-slanting palpebral fissures, ptosis, blue–green irides, short nose with a wide base and depressed nasal bridge, low-set and posteriorly angulated ears with thick helices, micrognathia, short neck with excessive nuchal skin and widely spaced nipples. A few nevi, one cafe´-au-lait spot on the abdomen, and a haemangioma on the back.",
+        "specialty_examination": "Cardiovascular: mild pulmonary valve stenosis, asymmetric septal hypertrophy, pulmonary artery branch stenosis and myxoid mitral valve. Neurological: bilateral severe sensorineural hearing loss and delayed psychomotor development mainly in the motor area. Skeletal: generalised hypomineralisation with somewhat thickened trabeculae and cyst-like lesions in the mandible, pectus excavatum, limited movement of elbows and wrists, Madelung deformity and enlarged ankles."
+    }
+}

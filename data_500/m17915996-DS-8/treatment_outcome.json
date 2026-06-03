@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "distal subtotal pancreatectomy with splenectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Exploratory laparotomy, lysis of adhesions, and biopsy of mesenteric mass performed along with distal pancreatectomy and splenectomy",
+            "treatment_response": "Patient did well in the post operative period and was cleared to return home"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented for evaluation of chronic pancreatitis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent two ERCP procedures to attempt to retrieve obstructing pancreatic calculi"
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery for distal pancreatectomy and splenectomy performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home with post-operative instructions"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent, recovering at home",
+        "follow_up_details": "Follow-up with surgeon and Primary Care Provider (PCP) as advised",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive."
+    }
+}

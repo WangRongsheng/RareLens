@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Dyspnea",
+        "history_of_present_illness": "History of COPD, CHF who presents with dyspnea after recently leaving AMA twice after being admitted for a COPD exacerbation. She has been in and out of emergency rooms for dyspnea. She reports cough and productive sputum. She was admitted for pneumonia 6 weeks ago and has a history of bipolar disorder.",
+        "past_medical_history": "Bipolar disorder, COPD, CHF, HTN",
+        "family_history": "No family history of lung disease",
+        "social_history": "Currently homeless. Reports medication stolen recently."
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: Temp 97.7, BP 123/74, HR 72, RR 18, O2 Sat 95% on 1L NC. Sitting comfortably in NAD. Skin shows multiple ecchymoses.",
+        "specialty_examination": "Poor air movement, barrel chest, mildly tachypneic. Regular heart rhythm and rate, audible S1 and S2, poor breath sounds."
+    }
+}

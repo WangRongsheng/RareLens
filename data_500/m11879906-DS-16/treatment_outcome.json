@@ -1,0 +1,99 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Cardiac catheterization, BMS placed in SVG-OM",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Successful placement of a stent; resolved pain"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Nitroglycerin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Administered immediately after arrival",
+            "treatment_response": "Resulted in resolution of her pain"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "325 mg",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Morphine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "IV",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Heparin drip",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Clopidogrel (Plavix)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "75 mg daily",
+            "treatment_response": "Important for keeping the stent open"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metoprolol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Increased dose",
+            "treatment_response": "Used to control heart rate"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with acute onset substernal chest pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received nitroglycerin which resolved her pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered Aspirin 325 mg and Morphine IV"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on a heparin drip"
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted to the cardiology service for further management"
+        },
+        {
+            "date": "Not specified",
+            "event": "Clopidogrel prescribed to keep the stent open"
+        },
+        {
+            "date": "Not specified",
+            "event": "Dose of Metoprolol increased due to Atrial Fibrillation"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Chest pain free and feels back to her baseline except for being a little bit tired.",
+        "follow_up_details": "Not specified",
+        "complications": "Atrial fibrillation with rapid ventricular response encountered during hospital stay.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

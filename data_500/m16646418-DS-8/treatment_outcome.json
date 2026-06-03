@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Azithromycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Symptoms improved initially but then worsened once the antibiotics were stopped."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Levofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Doxycycline",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Capsule PO Q12H for 7 days.",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with cough, fever, and was diagnosed with pneumonia."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Azithromycin."
+        },
+        {
+            "date": "Not specified",
+            "event": "Symptoms worsened after antibiotics were stopped."
+        },
+        {
+            "date": "Not specified",
+            "event": "Hospitalization requested due to worsening condition."
+        },
+        {
+            "date": "Not specified",
+            "event": "Treated with Vancomycin and Levofloxacin."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged with Doxycycline for 7 days."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable, ambulating, SpO2 95% on room air.",
+        "follow_up_details": "Not specified",
+        "complications": "Costochondritis",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient feels mostly well except for the cough."
+    }
+}

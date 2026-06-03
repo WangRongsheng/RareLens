@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "23 months",
+        "gender": "Female",
+        "weight": "10 kg",
+        "height": "80 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "dry and non-itching skin lesions on the face and extremities",
+        "history_of_present_illness": "Symptoms started ten months ago after a fever episode. Past medical history included recurrent upper respiratory tract infections including otitis media and one episode of hospitalization for bronchopneumonia.",
+        "past_medical_history": "Recurrent upper respiratory tract infections, otitis media, bronchopneumonia.",
+        "family_history": "Consanguineous parents (first-degree cousins).",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Weight of 10 kg (3-10%), height of 80 cm (3-10%), head circumference of 46 cm (10%). Pink to dark red infiltrated papules and plaques with occasional centrally oriented scales located on bilateral malar cheeks and arms. Cervical, 1x1 cm in size, non-fixing lymphadenopathy. Tachypneic and crepitant crackles present in both lung fields.",
+        "specialty_examination": "Not specified"
+    }
+}

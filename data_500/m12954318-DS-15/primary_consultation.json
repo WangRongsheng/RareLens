@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Epigastric pain",
+        "history_of_present_illness": "Mr. ___ is a ___ y/o M who presents with complaint of severe epigastric pain which began fairly abruptly 2 days ago. Pain is described as squeezing/throbbing, with radiation to the back, identical in character to prior episodes of acute on chronic pancreatitis. He reports he has had more than 20 episodes of pancreatitis in the past. Denies any alleviating or aggravating symptoms, though has not been able to tolerate oral intake for the past 2 days except for alcohol, which he was forced to stop drinking 1 day ago due to the pain. Endorses associated diarrhea x1 day. Reports extensive history of alcohol use, drinking 1 quart of gin per day, and hx of severe ETOH withdrawal with DTs in the past. He endorses some tremor, which began today and is consistent with prior EtOH withdrawal symptoms. Says that he lives at home with his wife, but that she kicks him out when he is drinking, so he stays with friends. Says he hasn't been home in over a week. Of note, he has HIV and although is prescribed ART meds, he says he hasn't taken them or any other medications in several months. Reports his primary HIV physician is ___ ___. He denies any fevers, chills, cough, sore throat, oral ulcers, headache, vision changes, chest pain, shortness of breath at rest, dysuria, arm or leg pain, skin rashes, muscle weakness, joint pain or falls. ROS: +DOE, which is more pronounced with more severe exertion (e.g. stair walking), is chronic, and says he has been told he has COPD, but does not take any medications for this. He continues to smoke approximately 1 pack per day.",
+        "past_medical_history": "HIV (diagnosed in ___ last CD4 107, VL 67 copies/ml), HCV genotype 1a, Psoriasis, Chronic pancreatitis, COPD, HTN. Past Surgical History: Denies any prior surgeries.",
+        "family_history": "Mother: deceased from CVA, Father: deceased from lung cancer (smoker), Brother: medical history unknown, patient hasn't been in contact for many years.",
+        "social_history": "Extensive history of alcohol use, drinking 1 quart of gin per day. Lives at home with wife but often stays with friends when drinking. Smokes approximately 1 pack per day."
+    },
+    "physical_examination": {
+        "general_examination": "Thin male who appears uncomfortable. Vital signs are not specified. Abdomen: severely tender to light palpation over epigastrium, no lower abdominal tenderness, soft with involuntary guarding in epigastrium, no distention or evidence of ascites, bowel sounds positive in all quadrants. Respiratory: bibasilar crackles, no wheezing or rhonchi, good air movement.",
+        "specialty_examination": "Neurological exam shows no gross focal deficits, clear speech, no facial droop, tongue midline. Cardiovascular exam shows RR, no murmurs/rubs/gallops, 2+ peripheral pulses, no peripheral edema."
+    }
+}

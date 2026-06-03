@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "carboplatin and paclitaxel",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "cycle 1",
+            "treatment_response": "developed severe nausea, vomiting, and increased colostomy output"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ondansetron",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg IV x 12",
+            "treatment_response": "administered to manage nausea; patient had some response as tolerated food intake"
+        },
+        {
+            "treatment_type": "rehydration",
+            "specific_treatment": "normal saline",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 L",
+            "treatment_response": "received in emergency department for dehydration"
+        },
+        {
+            "treatment_type": "supportive care",
+            "specific_treatment": "prochlorperazine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg every 8 hours",
+            "treatment_response": "started to help with nausea"
+        },
+        {
+            "treatment_type": "steroid",
+            "specific_treatment": "dexamethasone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg twice a day",
+            "treatment_response": "started to support overall health and manage symptoms"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "first dose of chemotherapy administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "severe nausea and vomiting developed after chemotherapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "received 2 L of normal saline in emergency department"
+        },
+        {
+            "date": "Not specified",
+            "event": "ondansetron 4 mg IV given for nausea"
+        },
+        {
+            "date": "Not specified",
+            "event": "admitted to oncology service for further management"
+        },
+        {
+            "date": "Not specified",
+            "event": "discharge medication changes including mirtazapine, ondansetron, prochlorperazine, and dexamethasone"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "alert and interactive",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "tolerated food intake post-treatment",
+        "patient_perspective": "expressed satisfaction with management for nausea and vomiting"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Omeprazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO DAILY in AM 30 minutes before eating",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Pancrelipase",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5000 units, 2 capsules by mouth TID with meals",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Albuterol Inhaler",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 PUFF IH Q8H: PRN asthma",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Clonazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.5 mg PO Q6H: PRN anxiety",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Fexofenadine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "60 mg PO BID",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient experienced abdominal pain, nausea, and vomiting with hematemesis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the ED for evaluation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Upper endoscopy performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Medications including Omeprazole, Pancrelipase, Albuterol, and Clonazepam initiated."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with a regimen of medications."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory and independent upon discharge.",
+        "follow_up_details": "Scheduled appointments with primary care doctor and a gastroenterologist.",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Consider follow-up evaluation for pancreatic lesions post-inflammation resolution.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient was alert and interactive at discharge.",
+        "patient_perspective": "Patient expressed understanding of the need to stop alcohol use to prevent further inflammation."
+    }
+}

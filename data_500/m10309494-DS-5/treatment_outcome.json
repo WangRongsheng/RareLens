@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "capecitabine and oxaliplatin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Capecitabine 1500 mg bid for 14 days; Oxaliplatin 130 mg/m2 on day 1",
+            "treatment_response": "Patient exhibited altered mental status, but there was no report of seizure activity or infection."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "dexamethasone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 tablets PO BID",
+            "treatment_response": "Intended to decrease inflammation in the brain."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "levetiracetam (Keppra)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 tablet PO BID",
+            "treatment_response": "Intended to prevent any seizures."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "levothyroxine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 tablet PO daily",
+            "treatment_response": "Address low thyroid levels."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Chemotherapy with capecitabine and oxaliplatin initiated."
+        },
+        {
+            "date": "Not specified",
+            "event": "Dexamethasone started."
+        },
+        {
+            "date": "Not specified",
+            "event": "Levetiracetam (Keppra) initiated."
+        },
+        {
+            "date": "Not specified",
+            "event": "Levothyroxine started."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental status clear and coherent at discharge.",
+        "follow_up_details": "Follow-up coordinated with oncologist and neur-oncologist.",
+        "complications": "No evidence of seizure activity or infection.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Ambulatory with assistance; requires walker or cane.",
+        "patient_perspective": "Not specified."
+    }
+}

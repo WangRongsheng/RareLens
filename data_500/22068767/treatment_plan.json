@@ -1,0 +1,49 @@
+{
+    "basic_information": {
+        "age": "13",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "presence of asymptomatic rough, diffuse, white patches of unknown etiology and progress, located bilaterally in the oral mucosa, mucosa of the upper lip, gum and ventral surface of the tongue",
+        "history_of_present_illness": "Lesions appeared in adolescence, asymptomatic, no systemic changes reported",
+        "past_medical_history": "Not specified",
+        "family_history": "Adolescents' mother had similar lesions in her mouth, suggesting autosomal dominant disorder",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "White, corrugated, diffuse plaques in oral mucosa, mucosa of upper lip, gum, and ventral surface of tongue; cytology showed perinuclear eosinophilic condensation of epithelial cells; histopathology showed hyperparakeratosis and acanthosis with vacuolization in keratinocytes in suprabasal layers"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cytology",
+            "date": "Not specified",
+            "findings": "Presence of perinuclear eosinophilic condensation of epithelial cells",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [
+        {
+            "procedure_name": "Incisional biopsy",
+            "date": "Not specified",
+            "findings": "Hyperparakeratosis and acanthosis with vacuolization in keratinocytes in the suprabasal layers",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histopathological analysis",
+            "date": "Not specified",
+            "findings": "Hyperparakeratosis and acanthosis with vacuolization of keratinocytes in the suprabasal layers",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "White sponge nevus (WSN)",
+        "diagnostic_reasoning": "The diagnosis was supported by family history, cytological findings showing perinuclear eosinophilic condensation of epithelial cells, and histological findings including hyperparakeratosis and acanthosis with vacuolization of keratinocytes in the suprabasal layers. The patients' age and the bilateral presentation of lesions in the oral mucosa were also key factors in ruling out other conditions such as mucosal lichen planus, which typically appears later in life."
+    }
+}

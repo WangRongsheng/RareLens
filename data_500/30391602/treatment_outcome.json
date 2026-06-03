@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "endoscopic endonasal repair",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "bi-nostril, 2 surgeon technique using a 0 degree and a 30 degree, 4mm sinus endoscope",
+            "treatment_response": "resolution of the CSF rhinorrhea, no residual nasopharyngeal mass at seven months follow-up"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "transcranial surgery",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "continued to have CSF rhinorrhoea following the procedure"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "transcranial surgery performed to occlude the sellar opening"
+        },
+        {
+            "date": "Not specified",
+            "event": "endoscopic endonasal repair performed to excise the PCC and the meningoencephalocele, and to repair the resulting skull base defect"
+        },
+        {
+            "date": "Not specified",
+            "event": "post-operative course was uneventful with resolution of the CSF rhinorrhea"
+        },
+        {
+            "date": "7 months after procedure",
+            "event": "MRI showed no residual nasopharyngeal mass"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "symptom free",
+        "follow_up_details": "MRI at seven months follow-up showed no residual nasopharyngeal mass",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

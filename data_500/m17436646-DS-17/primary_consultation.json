@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Abdominal Pain/nausea/decreased appetite",
+        "history_of_present_illness": "___ yo female who came in w/ abdominal pain, nausea, decreased appetite, and malaise for a week. Her symptoms have worsened over the last 24 hours. Her abdominal pain is intermittent, nonradiating and located in the epigastric and periumbilical region. It is rated ___ out of a pain scale and described as crampy. She cannot identify any alleviating or exacerbating factors. She denies any sour taste in her mouth after eating, nocturnal cough or any other GERD symptoms. It is not associated with food intake, movement. She denies any vomiting, nausea, constipation, diarrhea, dizziness, fevers/chills. She denies any dyspepsia, or difficulty/pain with swallowing. She was recently admitted last week with the same complaints and was discharged in less than 24 hours. She was started on pantoprazole then which helped her symptoms for 2 days but then they returned. She denies any chest pain, cough or SOB. She has felt more depressed, decreased pleasure, decreased sleep and appetite since last week. She has lost 3 pounds unintentionally in last 3 weeks. She recently has felt more stressed because of a daughter she lives with who is suffering from lung cancer. Her only other complaint is getting dizzy when she gets up to stand from lying down.",
+        "past_medical_history": "1. Diabetes type 2 since ___, on insulin. 2. Hypertension. 3. Hyperlipidemia. 4. Depression 5. Bilateral cataract extractions 6. Stable breast node on mammography",
+        "family_history": "Sister died at ___ with CAD, four brothers and sisters with diabetes mellitus. One sister also with CAD. One son died of lung ca, 1 daughter currently has lung ca. Her sister had breast ca. at the age of ___.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T-98.8, BP 120/67, P-54, RR-18, O2 sat RA-100%. General: Alert, oriented, no acute distress.",
+        "specialty_examination": "Abdomen: soft, epigastric and lower left quadrant tenderness with palpation, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly; CV: Regular rate and rhythm, soft normal S1 + S2, no murmurs, rubs, gallops."
+    }
+}

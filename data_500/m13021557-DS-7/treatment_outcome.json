@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "haloperidol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.5 mg IV for increased agitation",
+            "treatment_response": "Calm but non-sensical, yelling occasionally, unable to articulate reasons for being there."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with delirium/confusion and increased agitation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received haldol 0.5 mg IV for increased agitation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was admitted for work-up of reversible causes of delirium."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused - always, but alert and interactive.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Out of bed with assistance to chair or wheelchair.",
+        "patient_perspective": "Not specified"
+    }
+}

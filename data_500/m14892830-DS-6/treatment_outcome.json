@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "EGD (esophagogastroduodenoscopy)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Foreign body removal, dilation of the esophagus, and polyp removal",
+            "treatment_response": "Food in the lower third of the esophagus was removed; otherwise normal findings"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Rivaroxaban",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15 mg PO daily after discharge",
+            "treatment_response": "Adjusted dosage during hospitalization"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Glucagon",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Slight improvement in symptoms"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ativan",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "Rehabilitation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with dysphagia and was admitted to the ED"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received glucagon, Ativan, and small sips of ginger ale"
+        },
+        {
+            "date": "Not specified",
+            "event": "EGD performed, foreign body removed from esophagus"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with adjusted dosage of Rivaroxaban"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient went to a rehab facility for physical therapy"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive, ambulatory with assistance",
+        "follow_up_details": "Follow-up with Speech and Swallow team recommended",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient requires assistance or aid (walker or cane)",
+        "patient_perspective": "Patient expressed distress over recent mental status changes"
+    }
+}

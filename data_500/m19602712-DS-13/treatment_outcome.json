@@ -1,0 +1,27 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "left plantar ulcer I&D and vac",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "left plantar ulcer I&D and vac procedure performed"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "ambulatory - requires assistance or aid",
+        "follow_up_details": "Patient is to have follow-up post-operative visit",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

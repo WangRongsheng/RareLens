@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "L ankle ORIF",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient was ambulatory with assistance post-surgery."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "L ankle ORIF performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Cast placed on L leg"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications provided"
+        },
+        {
+            "date": "Not specified",
+            "event": "Follow-up appointment scheduled for 2 weeks post-op"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - requires assistance or aid (walker or cane)",
+        "follow_up_details": "Follow-up appointment scheduled for 2 weeks post-op",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

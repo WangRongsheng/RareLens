@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1,000mg IV x2",
+            "treatment_response": "Fever resolved the morning after admission; pain, swelling, and erythema significantly improved."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Keflex",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Started on outpatient basis; details on response not provided."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Bactrim",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Started on outpatient basis; details on response not provided."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Clindamycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "300mg PO Q8H, 14-day course",
+            "treatment_response": "Not specified."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient felt much worse overall, presented with increased pain in left foot."
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted to ED with fever to 102.1F and low blood pressure."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started IV antibiotics (Vancomycin)."
+        },
+        {
+            "date": "Not specified",
+            "event": "MRI performed to assess for osteomyelitis, showed no acute findings."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with improvement in pain and swelling."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Returned to usual state of health.",
+        "follow_up_details": "Follow-up appointment with Dr. ___ on ___, ___.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Reports stable gait using a cane at discharge.",
+        "patient_perspective": "Patient reported improvement in overall health, pain, and swelling."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "nausea, vomiting",
+        "history_of_present_illness": "Woman with stage IV ovarian cancer s/p resection and cycle 1 of chemotherapy presents with nausea, vomiting, increased colostomy output. Patient had her first dose of chemo on _____ and developed severe nausea, vomiting, and increased colostomy output that night. No abdominal pain or distention, hematemesis, melena, hematochezia.",
+        "past_medical_history": "Stage IV ovarian cancer; TIA after her knee surgery in _____; Hypertension; Hypercholesterolemia; Osteoarthritis; Osteoporosis; Asthma; S/p right knee replacement _____",
+        "family_history": "Aunt: unknown type of cancer; Cousin: bilateral breast cancer; Both parents: heart disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: T 97.9, BP 162/90, HR 89, RR 20, 96%RA. Frail, elderly woman, tired-appearing, in NAD, awake, alert.",
+        "specialty_examination": "Neurological: oriented x 3, normal attention. Cardiovascular: Reg rate, normal S1, S2. No m/r/g."
+    }
+}

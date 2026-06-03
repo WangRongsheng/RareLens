@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "12",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "fever, arthralgias, facial rash, hair loss, abdominal pain, and pain and burning sensations in her legs",
+        "history_of_present_illness": "Two weeks earlier, she had developed fever, arthralgias, facial rash, hair loss, abdominal pain, and pain and burning sensations in her legs. On examination, pathological neurological findings were noted: anxiety, agitation, confusion with memory impairment, and a fine tremor. Her muscular strength was impaired, and increased sensitivity to touch was apparent. Fundus examination of the eye was compatible with retinal vasculitis. The serological analysis disclosed a high positive antinuclear antibody titer, anti-double-stranded DNA (anti-dsDNA), anti-Sm, and anti-Ro antibodies. Lumbar puncture, brain single-photon emission computed tomography (SPECT), brain computed tomography (CT), and magnetic resonance imaging (MRI) were compatible with central nervous system involvement. Nerve conduction velocity was compatible with peripheral neuropathy.",
+        "past_medical_history": "Diagnosis for this patient was systemic lupus erythematosus (SLE) with active central and peripheral nervous system involvement, together with hematologic and dermatologic manifestations.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "anxiety, agitation, confusion with memory impairment, and a fine tremor. Her muscular strength was impaired, and increased sensitivity to touch was apparent. Fundus examination of the eye was compatible with retinal vasculitis.",
+        "specialty_examination": "Pathological neurological findings were noted: anxiety, agitation, confusion with memory impairment, and a fine tremor. Her muscular strength was impaired, and increased sensitivity to touch was apparent."
+    }
+}

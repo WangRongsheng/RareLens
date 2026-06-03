@@ -1,0 +1,87 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Albuterol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.5 mg /3 mL solution for nebulization, one inhalation every 6 hours as needed for shortness of breath",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Fluticasone-salmeterol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500-50 mcg/dose, one disk with device, inhalation twice a day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Allopurinol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One tablet every other day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Docusate sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg capsule, one capsule twice a day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Senna",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "8.6 mg tablet, one tablet twice a day as needed for constipation",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Benzonatate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg capsule, one capsule three times a day as needed for coughing",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ipratropium bromide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.02% solution, one inhalation every 6 hours as needed for shortness of breath",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "dialysis",
+            "specific_treatment": "Hemodialysis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Fluid removed during dialysis; breathing improved, but patient still short of breath and requires oxygen at home"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Hemodialysis treatments initiated to manage pulmonary edema"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged to hospice care"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Short of breath but improved breathing after dialysis; requires oxygen at home",
+        "follow_up_details": "Discharged to hospice support for comfort measures",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient decided to discontinue dialysis and focus on comfort measures",
+        "patient_perspective": "Patient and family opted for hospice care in light of aggressive cancer treatment"
+    }
+}

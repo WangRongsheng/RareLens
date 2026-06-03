@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Unasyn and Vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Piperacillin-Tazobactam (Zosyn)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.25 grams Intravenous every 6 hours for 10 days",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lasix",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg PO TID",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with acute cholecystitis and atrial fibrillation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Treatment with Unasyn and Vancomycin initiated"
+        },
+        {
+            "date": "Not specified",
+            "event": "Treatment with Piperacillin-Tazobactam started"
+        },
+        {
+            "date": "Not specified",
+            "event": "Lasix diuretic therapy initiated"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Not fully recovered, mental status confused",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient requires assistance to chair or wheelchair",
+        "patient_perspective": "Not specified"
+    }
+}

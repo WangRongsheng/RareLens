@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vancomycin/Zosyn/clindamycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "clindamycin + pip-tazo",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "sedation",
+            "specific_treatment": "propofol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "35",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "analgesia",
+            "specific_treatment": "fentanyl",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "125mcg/hr",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with neck pain and swelling after injecting heroin."
+        },
+        {
+            "date": "Not specified",
+            "event": "CT of the neck showed severe parotitis and concerns for necrotizing soft tissue infection."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on vancomycin/Zosyn/clindamycin."
+        },
+        {
+            "date": "Not specified",
+            "event": "Transferred for surgical evaluation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Received clindamycin + pip-tazo and 2L IVF."
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted to MICU with close surgical follow-up."
+        },
+        {
+            "date": "Not specified",
+            "event": "Intubated for airway protection."
+        },
+        {
+            "date": "Not specified",
+            "event": "Extubated and discharged against medical advice."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged against medical advice.",
+        "follow_up_details": "Sent home with a prescription for an oral antibiotic.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Recognized the risks of leaving against medical advice, including potential death."
+    }
+}

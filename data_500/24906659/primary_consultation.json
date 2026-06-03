@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "39",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "English, Irish, and Belgian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Seizures",
+        "history_of_present_illness": "First seizure at 24 years with no evidence of any precipitating factors. Brain MRI shows bilateral periventricular nodular heterotopia. Thrombocytopenia at age 23 years. Mildly dilated aortic root and ascending aorta with mild aortic regurgitation at age 32 years.",
+        "past_medical_history": "Ectopic 3rd kidney and patent ductus arteriosus requiring surgical closure at 18 months of age. Thrombocytopenia at age 23 years.",
+        "family_history": "Parents are healthy with normal brain MRI. Younger sister has bilateral periventricular nodular heterotopia but no seizures or cardiac abnormalities.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Neurologic examination was normal.",
+        "specialty_examination": "Brain MRI revealed bilateral multiple and diffuse periventricular nodular heterotopia. Echocardiography revealed a mildly dilated aortic root and ascending aorta with mild aortic regurgitation."
+    }
+}

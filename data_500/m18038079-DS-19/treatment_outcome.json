@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "sildenafil",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO TID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "morphine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg PO Q2H: PRN SOB",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for work-up of progressive dyspnea."
+        },
+        {
+            "date": "Not specified",
+            "event": "Cardiac catheterization performed, revealing less severe aortic stenosis than previously thought."
+        },
+        {
+            "date": "Not specified",
+            "event": "Severe pulmonary hypertension diagnosed, related to interstitial lung disease."
+        },
+        {
+            "date": "Not specified",
+            "event": "New medications (sildenafil and morphine) started to help with shortness of breath."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home with hospice care."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient discharged home with hospice care due to progressive and irreversible decline.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Severe pulmonary fibrosis and pulmonary hypertension expected to cause ongoing symptoms.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

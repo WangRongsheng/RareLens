@@ -1,0 +1,87 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Cardioversion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "200J x1 shock",
+            "treatment_response": "Returned to sinus rhythm"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Epinephrine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 mg administered during code blue",
+            "treatment_response": "Achieved spontaneous circulation after administration"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Levophed drip",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Started for persistent hypotension",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ciprofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ertapenem",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oral bicarbonate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Taken to maintain bicarbonate levels",
+            "treatment_response": "Improved bicarbonate levels noted"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with worsening symptoms and was started on ciprofloxacin."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on ertapenem for ESBL E. coli UTI."
+        },
+        {
+            "date": "Not specified",
+            "event": "Cardiac arrest occurred; code blue was activated."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 1 shock and epinephrine during resuscitation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Achieved spontaneous circulation after resuscitation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Intubated and started on levophed for hypotension."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused but alert and interactive.",
+        "follow_up_details": "Follow-up with cardiology and nephrology required.",
+        "complications": "No specific complications noted.",
+        "long_term_prognosis": "Monitoring of cardiac status and renal function advised.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Ambulatory with assistance.",
+        "patient_perspective": "Not specified."
+    }
+}

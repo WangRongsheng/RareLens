@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vancomycin/zosyn/gentamicin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "toradol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "30 mg IV",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "benadryl",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "25 mg IV",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "diazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg IV x 2",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with left neck pain and headache."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received vancomycin/zosyn/gentamicin."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 2L NS."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received toradol 30 mg IV."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received benadryl 25 mg IV."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received diazepam 5 mg IV x 2."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient eloped from hospital."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Not specified",
+        "follow_up_details": "Patient did not receive any follow-up appointments.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

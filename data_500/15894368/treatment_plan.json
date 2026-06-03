@@ -1,0 +1,80 @@
+{
+    "basic_information": {
+        "age": "74",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Real estate agent"
+    },
+    "medical_history": {
+        "chief_complaint": "Asymptomatic, presented for routine care",
+        "history_of_present_illness": "Pelvic examination identified a right adnexal mass. Ultrasound demonstrated a 5 cm septated cyst of the right ovary containing multiple mural nodules suggestive of ovarian carcinoma. CT scan revealed a complex cystic right adnexal mass with calcifications and thickened septations, a 7 cm densely calcified mass along the anterior surface of the uterus, and multiple subcentimeter, partially calcified peritoneal masses in the abdomen and pelvis consistent with metastatic disease.",
+        "past_medical_history": "Without significant past medical history",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Physical examination revealed a 3–4 cm palpable adnexal mass, without evidence of lymphadenopathy, ascites, or abdominal tenderness.",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum CA-125 level",
+            "date": "Not specified",
+            "findings": "Less than 7 units/mL (normal range)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "5 cm septated cyst of the right ovary containing multiple mural nodules suggestive of ovarian carcinoma",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Complex cystic right adnexal mass with calcifications and thickened septations, a 7 cm densely calcified mass along the anterior surface of the uterus, and multiple subcentimeter, partially calcified peritoneal masses in the abdomen and pelvis consistent with metastatic disease. Additional findings included multiple cystic liver lesions, the largest measuring up to 11 cm and a 1.5 cm left adrenal mass consistent with a benign adenoma.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Exploratory laparotomy",
+            "date": "Not specified",
+            "findings": "Intraoperative findings included an 8-cm calcified, spiculated mass between the anterior uterus and the bladder, multiple calcified nodules in the mesentery of the bowel, and a 6-cm thick, calcified plaque coating the right lobe of the liver. A multicystic right ovary filled with clear serous fluid containing minimal excrescences and focal surface nodularity was noted. The left ovary also showed focal nodularity. The omentum contained multiple dilated cysts filled with clear serous fluid, areas of fibrosis, and calcifications. All other abdominal and pelvic organs were free of disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Intra-operative pathology consultation",
+            "date": "Not specified",
+            "findings": "Confirmed an ovarian cystadenofibroma and multiple serous inclusion cysts with calcifications. The omental nodules were thought to be mesothelial hyperplasia vs. low-grade mesothelioma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cytologic preparations of pelvic washings",
+            "date": "Not specified",
+            "findings": "Cellular with numerous papillary clusters of mesothelial cells that had characteristically bland nuclei, containing distinct, but not prominent, nucleoli. Flat sheets of mesothelial cells were occasionally noted interspersed between the papillae, and isolated mesothelial cells were also seen. The papillae architecture consisted of uniformly delicate papillae. The cells lining the papillae were polygonally shaped with dense cytoplasm and distinct nuclear borders. The nuclei lacked chromatin clumping or hyperchromasia, were variably sized, were primarily centrally located, had open chromatin, showed rare mild nuclear membrane irregularity and nuclear inclusions, and did not show mitoses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histologic examination",
+            "date": "Not specified",
+            "findings": "Right ovary revealed a serous cystadenofibroma. The left ovary contained multiple benign serous inclusion cysts with calcifications. The ileocecal nodules consisted of calcification only with no viable cells identified. The resected omental tissue revealed well-differentiated papillary mesothelial proliferations with uniform cuboidal cells lining papillae and tubulopapillary structures. Mesothelial nuclei were bland, with uniform chromasia, and variably sized small nucleoli. Papillae varied between both coarse and delicate with some appearing somewhat 'pseudo-hydropic'. No invasion into underlying soft tissue was detected. The adjacent soft tissue contained multiple dilated mesothelial lined cysts ranging in size from 0.1 to 0.4 cm in greatest dimension. The surrounding stroma contained calcifications and fibrosis interspersed amongst both the inclusion cysts and papillae, as well as forming large 'islands'. Osseous metaplasia, without cartilaginous precursors, was noted to arise within these islands of calcification.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunocytochemistry",
+            "date": "Not specified",
+            "findings": "Tumor cells, as well as the lining of the inclusion cysts, positive for calretinin. These cells were negative for MOC 31, B72.3, and CK 5/6.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Well-differentiated papillary mesothelioma (WDPM) of the peritoneum",
+        "diagnostic_reasoning": "The diagnosis was confirmed through histology and cytology, which identified WDPM with extensive, intimately associated mesothelial cystic inclusions and zonal calcifications with osseous metaplasia. Immunohistochemistry showed tumor cells positive for calretinin and negative for MOC 31, B72.3, and CK 5/6, supporting the diagnosis of WDPM."
+    }
+}

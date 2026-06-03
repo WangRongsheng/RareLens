@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Urinary tract infection",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with symptoms suggesting a urinary tract infection, confirmed by a positive urinalysis and treated with ciprofloxacin."
+    }
+}

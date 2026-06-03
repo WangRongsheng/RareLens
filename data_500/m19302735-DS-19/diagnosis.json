@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Lymphocytic encephalitis due to chronic lymphocytic leukemia",
+        "differential_diagnosis": "Lymphoma, progressive multifocal leukoencephalopathy",
+        "diagnostic_reasoning": "The patient's brain biopsy showed lymphocytic encephalitis and not lymphoma. MRI findings of multiple nonenhancing lesions and clinical history of CLL led to the diagnosis."
+    }
+}

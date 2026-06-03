@@ -1,0 +1,44 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "He lived a normal life, and no neurologic abnormalities were found at the 6-month follow-up; imaging verified the disappearance of the left EICA aneurysm after ligation.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "functional_status_evidence_excerpt": "Normal life with no neurologic abnormalities at 6-month follow-up after discharge.",
+        "symptom_burden": "none",
+        "symptom_burden_evidence_excerpt": "No neurologic abnormalities reported at follow-up; patient lived a normal life."
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Emergency CT showed hemorrhagic stroke in the right basal ganglia region 10 days after the left STA-MCA bypass."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Muscle strength in the left limbs deteriorated from grade 5 to grade 2 about 20 days following the operations."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "After 20 days of medical treatment, the hematoma disappeared and muscle strength returned to grade 4."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Right STA-MCA bypass performed 6 months after the left bypass."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Patient was discharged with no neurologic abnormalities 10 days after the right bypass."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 6-month follow-up after discharge, he lived a normal life with no neurologic abnormalities."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "Index time was approximated as the hospital admission when diagnosis and treatment planning occurred. Long-term clinical follow-up is reported at ~6 months after discharge (approximately ~12 months after admission), while imaging confirmation of aneurysm disappearance was noted at 12 months; functional status beyond that interval is not detailed."
+}

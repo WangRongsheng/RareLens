@@ -1,0 +1,123 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "aggressive behavior/admission to inpatient hospice",
+        "history_of_present_illness": "Patient has a PMHx of HIV, dementia, progressive aphasia, MDD with psychotic features, prior suicide attempts, and was transferred from nursing home for behavioral dysregulation and aggression on a specific date. She was agitated, throwing things, and had a history of similar behavior during constipation. The patient had difficulty swallowing pills and not taking her medications regularly. Agitation was noted in the ED, where she was given IM zyprexa and manual disimpaction for constipation. At arrival on the floor, the patient was more calm but unable to express symptoms, though her daughter reported abdominal pain.",
+        "past_medical_history": "HIV, Frontotemporal dementia, Progressive aphasia, Essential hypertension, Anxiety, Panic disorder with agoraphobia, Major depressive disorder with severe psychotic features, cognitive impairment, chronic constipation, cervical radiculopathy.",
+        "family_history": "Mother with heart condition, daughter with hypertension and cervical dystonia, possible bipolar disorder, maternal aunt with alcohol abuse and depression, paternal grandmother with unknown psych condition.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Initial VS: T97.2 HR 73 BP 133/68 RR 16 O2 100%. Upon admission, the patient was comfortable appearing but non-verbal and muttering.",
+        "specialty_examination": "Neurological findings unspecified due to muttering. Cardiovascular: deferred examination. Gastrointestinal: deferred examination."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 6.8, normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chemistry Panel",
+            "date": "Not specified",
+            "findings": "K 6.6 (whole blood 5.8 --> 4.0), otherwise within normal limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Negative x1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Large leukocytes, many bacteria, 5 WBC/hpf",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HBsAg",
+            "date": "06:16 AM",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HCV Ab",
+            "date": "06:16 AM",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray (CXR)",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis (improved from prior), otherwise no acute cardiopulmonary abnormality",
+            "changes_over_time": "Improved from prior"
+        },
+        {
+            "procedure_name": "Non-contrast Head CT (NCHCT)",
+            "date": "Not specified",
+            "findings": "Limited due to motion artifact but no obvious acute intracranial abnormality",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Rectal Exam",
+            "date": "Not specified",
+            "findings": "Large stool burden, s/p manual disimpaction",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Acute on chronic altered mental status due to frontotemporal dementia",
+        "diagnostic_reasoning": "The patient's history of frontotemporal dementia and reported recent agitation and behavioral dysregulation, along with physical examination findings of confusion and lethargy, supported the diagnosis of altered mental status. Additionally, the urinary analysis indicated a urinary tract infection, and the presence of a large stool burden suggested constipation, both contributing factors that were monitored during the hospital stay."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Olanzapine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg IM x2"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Miralax",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "x1"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Fleet enema",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "x1"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Risperidone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 mg PO"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Mirtazapine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "30 mg PO QHS"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "After gastrointestinal illness with mild diarrhea and fever, the patient suffered a non-fatal cardiac arrest with ventricular fibrillation and subsequently required s-ICD implantation; the abstract notes neurological sequelae.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Over 2-year follow-up on flecainide, the patient led an active life with no further episodes of significant weakness or palpitations; after s-ICD implantation, no new arrhythmic events were recorded during an 18-month follow-up.",
+        "symptom_burden": "occasional"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Administration of flecainide (2 mg/kg) suppressed the arrhythmia and restored sinus rhythm."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Over 2-year follow-up on flecainide (100 mg b.i.d.), the patient led an active life, with no further episodes of significant weakness or palpitations; Holter revealed a marked reduction to 18 isolated ventricular extrasystoles per day."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "The patient suffered a non-fatal cardiac arrest, with documented ventricular fibrillation; potassium at admission was 3.2 mEq/L."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "She subsequently underwent subcutaneous cardiac defibrillator implantation (s-ICD)."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "No new arrhythmic events were recorded during a 18-month follow-up in the proband."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Cardiac arrest with ventricular fibrillation, with neurological sequelae."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Exact dates are not provided; index time approximated to genetic confirmation of ATS and initiation of flecainide. The severity and specifics of the neurological sequelae after cardiac arrest are not described, so functional status is conservatively categorized as mild. Symptom burden is inferred from documented arrhythmic control; non-arrhythmic ATS symptoms post-arrest are not detailed."
+}

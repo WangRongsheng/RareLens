@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Diltiazem HCl",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15 mg IV initially, then 120 mg Capsule, Sust. Release 24 hr once a day as needed for palpitations",
+            "treatment_response": "Heart rate reverted to sinus after IV dilt"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV fluids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient was stabilized"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with sustained atrial flutter and dehydration"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received 15 mg of IV diltiazem"
+        },
+        {
+            "date": "Not specified",
+            "event": "Heart rate reverted to sinus"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received IV fluids for dehydration"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable",
+        "follow_up_details": "Follow up with primary care physician in 1 week to recheck blood chemistries",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

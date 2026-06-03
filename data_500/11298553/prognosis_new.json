@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "After diagnosis and advice on photoprotection, he had decreased frequency/severity of recurrences and, eight years after onset, was working in construction with only infrequent mild exacerbations; one moderately severe flare occurred after prolonged sun exposure.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "He experiences infrequent, mild exacerbations, with a moderately severe flare last year after prolonged sun exposure.",
+        "symptom_burden": "occasional"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "The use of sunscreens decreased the frequency and severity of recurrences."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Eight years since he first developed HV, he is currently working in construction with intermittent, short periods of sun exposure."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Apart from a moderately severe flare last year after prolonged sun exposure."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The report includes two cases. This summary focuses on Case 1 because it provides long-term follow-up. Exact dates for some improvements are not specified; short-term categorization for sunscreen-related improvement is inferred as occurring after initiation of treatment."
+}

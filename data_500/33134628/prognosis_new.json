@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "After resection, the patient recovered well; headaches, photophobia, and associated symptoms completely resolved with no relapse or need for medications in the 7 months after discharge.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Her headache, photophobia, and other associated symptoms have been completely resolved, with no relapse or need for medications in the 7 months after discharge.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "After the surgery, the patient showed a transient nerve palsy marked by numbness and drooping in the left lip."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "The transient nerve palsy had resolved by her 2-month follow-up."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Headache, photophobia, and associated symptoms completely resolved with no relapse or need for medications in the 7 months after discharge."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Follow-up explicitly documented to 7 months post-discharge (mid-term). No data beyond 12 months, so long-term outcomes are inferred from sustained mid-term resolution. Baseline comorbidities (e.g., COPD, hypertension) are not detailed in follow-up and were not used to downgrade functional status."
+}

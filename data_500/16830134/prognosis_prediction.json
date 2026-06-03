@@ -1,0 +1,90 @@
+{
+    "basic_information": {
+        "age": "28",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Profound orthostatic hypotension limiting his ability to stand longer than about a minute",
+        "history_of_present_illness": "In infancy he had spells of apnea and staring. Once he began to walk at 14 months, he frequently collapsed and was briefly unresponsive. At age 2 he was hospitalized for hypoglycemic coma with an initial plasma glucose level of 15 mg/dl. Throughout his life, profound orthostatic hypotension limited his ability to stand longer than about a minute. He also suffered from epileptic seizures preceded by a rainbow visual aura.",
+        "past_medical_history": "Congenital deficiency of dopamine beta-hydroxylase (DBH), spells of apnea and staring in infancy, hypoglycemic coma at age 2, epileptic seizures",
+        "family_history": "Stillborn younger brother",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Blood pressure was 170/104 mmHg supine and 55/30 mmHg standing with a postural increment in heart rate from 62 to 87 bpm. Physical findings included partial ptosis, brachydactyly, decreased development of the central face, a high palate, micrognathia, hypotonia, ataxia, and normal pupillary responses.",
+        "specialty_examination": "Autonomic testing demonstrated severe cardiovascular adrenergic failure with preserved cardiovagal and postganglionic sudomotor responses. Electrocardiogram was normal. Plasma norepinephrine was undetectable at < 10 pg/ml (normal 70–750), as was epinephrine at < 10 pg/ml (normal 0–110), whereas plasma dopamine was elevated at 125 pg/ml (normal < 30)."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma norepinephrine test",
+            "date": "Not specified",
+            "findings": "Undetectable at < 10 pg/ml (normal 70–750)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma epinephrine test",
+            "date": "Not specified",
+            "findings": "Undetectable at < 10 pg/ml (normal 0–110)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma dopamine test",
+            "date": "Not specified",
+            "findings": "Elevated at 125 pg/ml (normal < 30)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "Not specified",
+            "findings": "Did not correspond to any of the previously described mutations on chromosome 9q34",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic resonance imaging of the brain",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Autonomic testing",
+            "date": "Not specified",
+            "findings": "Severe cardiovascular adrenergic failure with preserved cardiovagal and postganglionic sudomotor responses",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Dopamine beta-hydroxylase (DBH) deficiency",
+        "diagnostic_reasoning": "The diagnosis was based on undetectable levels of tissue and circulating norepinephrine and epinephrine, elevated plasma dopamine, and absence of DBH immunoreactivity in neurons of the ventrolateral medulla (VLM). The patient's symptoms included severe orthostatic hypotension, episodic hypoglycemia, and hypothermia, which are consistent with DBH deficiency. Genetic testing did not correspond to any previously described mutations on chromosome 9q34, but the clinical presentation and laboratory findings confirmed the diagnosis."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "L-threo-3,4-dihydroxyphenylserine (DOPS)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Fludrocortisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

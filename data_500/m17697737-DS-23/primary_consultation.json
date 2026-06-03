@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "confusion and hypercalcemia",
+        "history_of_present_illness": "Mr. ___ is a ___ year old man with metastatic NSCLC with brain mets and a history of malignancy hypercalcemia who presents with confusion. Per discussion with his sister and HCP, the patient was last seen 1 week ago and was okay. Today, his son who is his HCP arrived to find him confused and wearing only a t-shirt. He was brought to the ER. In the emergency department, initial vitals: 97.8 122 115/76 30 99% RA. He was given 1 L of NS and 40 mg IV Lasix. On arrival to the floor, he knows his name and thinks it is ___. He denies cough or shortness of breath. He denies headache. He is delirious. According to his family, hospice services have been initiated and the intake has occurred, but he does not have regular hospice visits yet. He is resistant to having people come into the home. Review of systems: (+) Per HPI + constipation. + shoulder pain (-) Denies fever, chills, night sweats, recent weight loss or gain. Denies headache, sinus tenderness, rhinorrhea or congestion. Denied cough, shortness of breath. Denied chest pain or tightness, palpitations. Denied nausea, vomiting, diarrhea or abdominal pain. No recent change in bowel or bladder habits. No dysuria.",
+        "past_medical_history": "PAST ONCOLOGIC HISTORY: ___ squamous cell carcinoma stage IV - ___ Presented with constipation, R side weakness - ___ Presented to OSH, found to have L brain met, R lung mass, malignant hypercalcemia, transferred to ___ - ___ CT and MRI head showed L hemispheric cortical enhancing lesion with extensive surrounding edema and necrosis - ___ Bronchoscopy biopsy showed ___ - ___ Underwent resection of L brain met - ___ MRI showed possible residual tumor - ___ Presented for initial outpatient oncology visit hypoxic and tachycardic. Send to ED. Felt to be due to COPD. - ___ Cyberknife to his residual brain met - ___ Zoledronic acid for Ca ___ - ___ C1D1 Carboplatin gemcitabine - ___ to ___ Admitted for GI bleed, scans showed progression of cancer PAST MEDICAL HISTORY: - Diverticulitis ___ - s/p partial colectomy - Ventral hernia - s/p L3-4 fusion and laminectomy ___ - s/p fall down stairs with head trauma",
+        "family_history": "Mother: ___ dementia - Father: ___ cancer",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: T98.2 BP 114/77 HR 142 RR 24 94% RA. GENERAL: disheveled, chronically ill-appearing, cachectic.",
+        "specialty_examination": "NEURO: A&Ox2. Difficult to follow commands. PERRLA. Strength grossly symmetric. Sensation intact."
+    }
+}

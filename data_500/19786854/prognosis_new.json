@@ -1,0 +1,34 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "After rituximab, MF showed a sustained improvement (noted at 3–6 months and over a follow-up period of 1 year), while KD lesions persisted in size though became softer and less nodular.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "functional_status_evidence": "Post-treatment, MF improved and KD lesions persisted but were softer/less nodular; no activity limitations or systemic complications reported, suggesting at most minor functional impact from residual cutaneous disease.",
+        "symptom_burden": "persistent_mild",
+        "symptom_burden_evidence": "Follow-up reported persistent KD lesions (same size but softer/less nodular) with sustained improvement of MF; indicates ongoing but less prominent cutaneous disease rather than complete resolution."
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "While on therapy, she experienced a mild transient increase in the number of her MF lesions."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Follow-up at 3 months after the end of treatment revealed significant and sustained improvement of the MF lesions."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At 6 months, MF lesions remained significantly improved; KD lesions were noted to be the same size but significantly softer and less nodular upon palpation; serum IgE dropped to 222 IU/L."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "MF exhibited a sustained improvement over a follow-up period of 1 year."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The exact date of definitive diagnosis and treatment planning is not provided; diagnosis of KD and MF with subsequent decision for rituximab was used as the reference. Long-term data beyond 1 year are not available. Functional status and symptom burden are inferred from post-treatment clinical descriptions of residual lesions and improvements, as explicit activity or symptom assessments were not detailed."
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Presents with R side abdominal pain x 2 days. The pain is associated with anorexia, distension, nausea and vomiting. Denies fevers, chills, chest pain or shortness of breath. Passed gas and had normal BMs today. Recently on a course of antibiotics 1.5w ago for a dental infection. Never had pain like this before.",
+        "past_medical_history": "PMH: DM, obesity, HTN, HLD. PSH: myomectomy/hysterectomy ___ years ago, L shoulder surgery.",
+        "family_history": "noncontributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: T 98.4F oral, 92 HR, 109/78 BP, 18 RR, 96% O2 on RA. Abdominal exam shows soft, non-distended abdomen with mild tenderness on palpation in the right upper and lower quadrant.",
+        "specialty_examination": "Neurological: Moves all extremities equal and strong. PERRL. Cardiovascular: RRR, no murmur appreciated. Resp: Breath sounds clear bilaterally."
+    }
+}

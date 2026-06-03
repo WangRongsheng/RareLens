@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "hypotension",
+        "history_of_present_illness": "Mute woman with history of HTN, HLD, and seizure disorder, presents with fever and abdominal distention. Unable to give history due to being mute. Daughter states patient had a fever of 100 and +cough and rhinorrhea. While in the ED, SBP fell to the ___ and received 1.5 L NS with response to 107/57. Labs notable for UA with WBC>182, Cr 1.5, K 5.6, Na 128.",
+        "past_medical_history": "- Hypertension\n- Hyperlipidemia\n- Epilepsy - diagnosed ___, has had multiple EEGs that showed encephalopathy\n- Cataracts resulting in blindness\n- Possible prior right frontal stroke\n- Osteoporosis",
+        "family_history": "Several family members with hypertension",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: Afebrile, normotensive, HR ___. General: Laying flat with eyes closed, does not open eyes, does not verbalize, does not wince, no writhing. HEENT: Poor dentition, resists mouth open, resists eyelid opening. CV: Regular rhythm, normal S1 + S2, no extra sounds. Lungs: No distress on room air. Abdomen: G tube insertion site with purulence, soft, no guarding. GU: Foley in place draining purulent urine. Ext: Warm, well perfused, 2+ pulses.",
+        "specialty_examination": "Neurological: Does not vocalize, lays flat, moves extremities intermittently, no new seizure-like activity."
+    }
+}

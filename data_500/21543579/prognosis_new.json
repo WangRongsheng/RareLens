@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "Despite antifungal combination therapy with voriconazole and caspofungin, the patient died 4 weeks after transplantation… The patient died of multiorgan failure on day 28.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Persistent bilateral pleural effusions associated with pneumothorax and slight pneumomediastinum (day 23), positive blood culture with septate hyphae (day 27), culminating in multiorgan failure (day 28).",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "On day 23, TDM showed persistence of bilateral pleural effusions associated with pneumothorax and slight pneumomediastinum; bronchial fibroscopy highlighted pseudomembranes."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Surgery was decided on day 25 to suture the left pulmonary parenchyma and to remove pleural clots."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "A blood culture was positive on day 27; direct smear showed septate hyphae, indicating fungemia."
+        },
+        {
+            "event_type": "death",
+            "time_period": "short_term",
+            "evidence_excerpt": "The patient died of multiorgan failure on day 28."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time is taken as the day disseminated invasive fungal infection was proven from pleural fluid (day 19) and antifungal therapy was initiated. Quality-of-life assessments are inferred from severe complications and terminal outcome; detailed functional activity descriptions were not available."
+}

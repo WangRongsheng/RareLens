@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ex-lap, small bowel resection (SBR), end ileostomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Postoperative intubation, maintained on TPN"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ciprofloxacin and Metronidazole (Cipro/Flagyl)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Daptomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "400 mg IV Q24H",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Transferred for bowel perforation and infection"
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgical procedure for ex-lap, SBR, and end ileostomy performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on TPN"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Cipro and Flagyl"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Daptomycin"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Lethargic but arousable, confused most of the time, bedbound",
+        "follow_up_details": "Continue medications as prescribed",
+        "complications": "Obstructive hydrocephalus, toxic metabolic encephalopathy, seizure, vancomycin resistant enterococcus meningitis/ventriculitis",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Bedbound, lethargic, and confused",
+        "patient_perspective": "Not specified"
+    }
+}

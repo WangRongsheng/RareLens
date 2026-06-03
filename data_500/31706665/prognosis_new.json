@@ -1,0 +1,24 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "A slow progression of linguistic abilities was possible… At 7 years 2 months and 10 years 2 months, cognitive abilities were in the lower limits of the norm (TIQ 89–88) with significant residual difficulties (expressive < receptive language, working memory 70, anxiety traits).",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "functional_status_evidence_excerpt": "He was not very able in space–time orientation and in organizing his activities, needing help in their planning… relationships with his peers were very limited… phrasal organization was not adequate and phonological errors persisted.",
+        "symptom_burden": "persistent_mild",
+        "symptom_burden_evidence_excerpt": "Anticipatory anxiety… social and performance anxiety with avoidance strategies… some phobias… selective eating… hypnic pattern might have been altered… rhinophonia and expressive language weaker than receptive."
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "The child started a speech therapy… A slow progression of linguistic abilities was possible although at the age of 5 years he was not able to form whole sentences yet."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Cognitive abilities… were in the lower limits of the norm (WISC-III TIQ 89 at 7 years 2 months; WISC-IV TIQ 88 at 10 years 2 months) vs borderline at 5 years 3 months (WPPSI-III TIQ 83)."
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "The exact date of genetic diagnosis (DPF2 variant) is not stated; therefore, the first specialist evaluation at age 3 years 4 months was used as the index time. Some interventions (e.g., tympanocentesis) and symptoms (e.g., hearing loss) began before this reference and were not counted as post-index events. Improvement is inferred from serial neuropsychological testing and descriptive follow-up rather than explicit functional scales."
+}

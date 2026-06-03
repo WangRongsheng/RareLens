@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Diltiazem",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10mg IV x 2 plus 60mg po diltiazem",
+            "treatment_response": "Rates decreased to 100's"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metoprolol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "25mg po bid, increased to 50mg by mouth twice daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lasix",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Home dose administered, increased to 80mg by mouth twice daily",
+            "treatment_response": "Only urinated 200cc with foley in place"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Hydralazine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Changed to 150mg by mouth twice daily",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Diltiazem administered IV and po for Afib with RVR"
+        },
+        {
+            "date": "Not specified",
+            "event": "Increased metoprolol dose"
+        },
+        {
+            "date": "Not specified",
+            "event": "Lasix administered and enhanced dosage"
+        },
+        {
+            "date": "Not specified",
+            "event": "Changed hydralazine dosage"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ongoing symptoms due to fluid retention and kidney dysfunction",
+        "follow_up_details": "Follow-up to resolution of pulmonary congestion and fluid retention suggested",
+        "complications": "No complications specified",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

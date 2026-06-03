@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "Medication",
+            "specific_treatment": "Labetalol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "gtt",
+            "treatment_response": "Showed some improvement in confusion"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with dizziness, confusion, and nausea"
+        },
+        {
+            "date": "Not specified",
+            "event": "Initial blood pressure recorded at 208/134"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on labetalol gtt"
+        },
+        {
+            "date": "Not specified",
+            "event": "Non-contrast head CT showed hypodensity in left occipital lobe"
+        },
+        {
+            "date": "Not specified",
+            "event": "Transported to another facility"
+        },
+        {
+            "date": "Not specified",
+            "event": "Initial blood pressure at new facility recorded at 174/87"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable with right homonymous hemianopsia and somewhat inattentive",
+        "follow_up_details": "Follow up with appointments as documented",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

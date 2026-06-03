@@ -1,0 +1,87 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "methotrexate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "titrated from 7.5 mg orally/week to 15 mg orally/week over 1 month",
+            "treatment_response": "skin lesions significantly improved, less joint pain, stiffness and itching, but still experienced shoulder pain and morning stiffness"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "etanercept",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg/week, subcutaneous",
+            "treatment_response": "skin lesions significantly improved, less joint pain, stiffness and itching, but still experienced shoulder pain and morning stiffness"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg orally daily",
+            "treatment_response": "continued to have pain"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "adalimumab",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg every 2 weeks, subcutaneous",
+            "treatment_response": "patient improved and was completely weaned off steroids over a 2-month period; however, he continued to feel very stiff and have arthralgias, with synovitis observed in his hands and shoulders"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "minocycline",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg orally two times a day",
+            "treatment_response": "cutaneous manifestations remained quiet, arthralgias improved"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient diagnosed with multicentric reticulohistiocytosis (MRH)"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started methotrexate (7.5 mg orally/week) and etanercept (50 mg/week, subcutaneous)"
+        },
+        {
+            "date": "Not specified",
+            "event": "Methotrexate dosage increased to 15 mg orally/week over 1 month"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient placed on prednisone (5 mg orally daily)"
+        },
+        {
+            "date": "Not specified",
+            "event": "Etanercept replaced with adalimumab (40 mg every 2 weeks, subcutaneous)"
+        },
+        {
+            "date": "Not specified",
+            "event": "Minocycline (50 mg orally two times a day) added to treatment regimen"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient weaned off steroids over a 2-month period"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient remained on methotrexate, adalimumab and minocycline for the last 3 years"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "cutaneous manifestations remained quiet, arthralgias improved",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient did not want to resume steroids or increase his methotrexate as he was concerned about the potential side effects"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "orthopedic",
+            "specific_treatment": "successive femoropedious casts",
+            "start_date": "Not specified",
+            "end_date": "2 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Did not prevent evolution towards pseudarthrosis"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "high intertibiofibular graft (GITP)",
+            "start_date": "17 years",
+            "end_date": "Not specified",
+            "dosage_or_details": "via anterolateral approach with iliac grafts",
+            "treatment_response": "Improved bone trophicity but pseudarthrosis persisted"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "tibialization of the fibula",
+            "start_date": "19 years",
+            "end_date": "Not specified",
+            "dosage_or_details": "with recentering of the extensor apparatus by transfer of the tibial tuberosity",
+            "treatment_response": "Consolidation obtained in four months without complications"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "low intertibiofibular graft (GITP)",
+            "start_date": "21 years",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Consolidation obtained"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Boyd midtarsal amputation",
+            "start_date": "22 years",
+            "end_date": "Not specified",
+            "dosage_or_details": "with tibiocalcaneal arthrodesis",
+            "treatment_response": "Allowed for functional and aesthetic prosthetic fitting"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "9 months",
+            "event": "Diagnosis of congenital pseudarthrosis of the tibia (PCT)"
+        },
+        {
+            "date": "9 months to 2 years",
+            "event": "Treatment with successive femoropedious casts"
+        },
+        {
+            "date": "17 years",
+            "event": "First surgical intervention: high intertibiofibular graft (GITP)"
+        },
+        {
+            "date": "19 years",
+            "event": "Second surgical intervention: tibialization of the fibula"
+        },
+        {
+            "date": "21 years",
+            "event": "Third surgical intervention: low intertibiofibular graft (GITP) for distal tibia fracture"
+        },
+        {
+            "date": "22 years",
+            "event": "Boyd midtarsal amputation performed"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Satisfactory functional result with good knee mobility",
+        "follow_up_details": "Follow-up until 33 years of age",
+        "complications": "Fatigue fracture of the distal tibia leading to pseudarthrosis, stiffness of the ankle at a right angle",
+        "long_term_prognosis": "Good quality of life with social and professional integration",
+        "recovery_timeline": "Consolidation obtained in four months after tibialization of the fibula",
+        "quality_of_life": "Satisfactory, engaged in sports (horse riding, skiing)",
+        "patient_perspective": "Satisfied with the reconstruction result despite tolerable cosmetic appearance"
+    }
+}

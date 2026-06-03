@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "22",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Japanese",
+        "occupation": "Student"
+    },
+    "medical_history": {
+        "chief_complaint": "Watery diarrhea 10 times/day, lower abdominal pain during defecation",
+        "history_of_present_illness": "Onset of loose stools 1-2 times/day around March 14, progressing to watery diarrhea 10 times/day with lower abdominal pain from March 17. Temporary improvement to mushy stools 2-3 times/day on March 20, but worsened again to watery stools 2-5 times/day from March 21.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Travel history to Thailand and Cambodia from February 28 to March 12."
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "total abdominal hysterectomy with bilateral salpingo-oophorectomy and omentectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Postoperative course was uneventful"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Exploratory laparotomy for tumor debulking including total abdominal hysterectomy with bilateral salpingo-oophorectomy and omentectomy"
+        },
+        {
+            "date": "Not specified",
+            "event": "No adjuvant therapy administered"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "No clinical or radiologic evidence of recurrent disease",
+        "follow_up_details": "Last follow-up 12 months after diagnosis",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

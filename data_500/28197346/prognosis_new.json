@@ -1,0 +1,54 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "After a prolonged hospital stay, patient died of respiratory failure and septic shock +128 days following BMT.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "functional_status_evidence_excerpt": "Following day +53, grade IV GI GVHD progressed, required subtotal colectomy, and the patient remained hospitalized until death.",
+        "symptom_burden": "persistent_severe",
+        "symptom_burden_evidence_excerpt": "Presented on day +53 with a 7-day history of severe diarrhea; biopsy showed grade 4 GI GVHD with pneumatosis and likely microperforation; symptoms persisted despite multi-agent treatment."
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Posttransplant course was complicated by neutropenic fever and signs of engraftment syndrome with mild tachypnea and generalized rash; responded to a short-term course of prednisone."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "He was discharged from hospital on day +20 with no evidence of GvHD, feeling well and eating normally."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "He was seen in clinic initially weekly and then every two weeks and he remained well and asymptomatic prior to day +53."
+        },
+        {
+            "event_type": "readmission",
+            "time_period": "short_term",
+            "evidence_excerpt": "He presented on day +53 after BMT with a 7-day history of severe diarrhea and was admitted to the hospital."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Endoscopy and biopsy revealed grade 4 of 4 GI GvHD with extensive mucosal ulceration, pneumatosis cystoids intestinalis, acute serositis, and likely focal microperforation."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Despite treatment with steroids, calcineurin inhibitors, cellcept, budesonide, and infliximab, the grade IV GI GvHD progressed."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "He developed perforation of the cecum requiring subtotal colectomy."
+        },
+        {
+            "event_type": "death",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Patient died of respiratory failure and septic shock +128 days following BMT."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "The exact index time (final treatment plan date) was not explicitly stated; transplant admission was used as the proxy. Long-term quality of life beyond 12 months cannot be assessed as the patient died at approximately 4 months post-transplant. Exact timing of subtotal colectomy within the hospitalization after day +53 was not specified; categorized as short-term based on proximity."
+}

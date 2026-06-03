@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Left total hip replacement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Pain well-controlled; incision healing well with staples"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Left total hip replacement performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications provided including Acetaminophen, Docusate Sodium, Enoxaparin Sodium, Senna, Oxycodone"
+        },
+        {
+            "date": "Not specified",
+            "event": "Follow-up appointment scheduled in four weeks"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - requires assistance or aid (walker or cane)",
+        "follow_up_details": "Follow-up appointment in four weeks",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

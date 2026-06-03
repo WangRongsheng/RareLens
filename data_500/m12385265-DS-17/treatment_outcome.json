@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Right angiogram with angioplasty of the right superior femoral artery",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "angioplasty for restenosis of existing femoral artery stent",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Noticeable worsening of ulceration after completion"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient started IV vancomycin treatment"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient completed vancomycin treatment"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent right angiogram with angioplasty"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Call and schedule an appointment for post procedure check and ultrasound in ___ weeks",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

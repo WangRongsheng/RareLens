@@ -1,0 +1,31 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Laparoscopic converted to open cholecystectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Tolerated the procedure well"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with abdominal pain, underwent surgery for acute cholecystitis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Gallbladder removed"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mentally clear, coherent, and ambulatory",
+        "follow_up_details": "Follow up in the Acute Care Surgery clinic at the appointment listed",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient may feel weak or 'washed out' for a couple of weeks but these feelings are expected to go away in a short time",
+        "patient_perspective": "All feelings and reactions described as normal and should resolve shortly. If they do not, patient was advised to tell the surgeon."
+    }
+}

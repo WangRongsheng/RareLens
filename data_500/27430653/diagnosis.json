@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Progressive myoclonic ataxia (PMA) with optic atrophy and axonal neuropathy due to homozygous SLC25A46 mutation",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis was supported by whole-exome sequencing (WES) identifying a homozygous mutation in SLC25A46, which is associated with autosomal recessively inherited optic atrophy and peripheral axonal neuropathy. Additional supporting evidence included cerebellar T2 hyperintensities on MRI, highly conserved mutation site predicted damaging by multiple prediction tools, and absence of the mutation in publicly available genetic variation datasets. The clinical presentation included myoclonus, cerebellar ataxia, visual loss, and axonal sensory-motor neuropathy, consistent with the phenotype associated with SLC25A46 mutations."
+    }
+}

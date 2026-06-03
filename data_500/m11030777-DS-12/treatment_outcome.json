@@ -1,0 +1,87 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "650 mg PO TID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Docusate Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Enoxaparin Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg SC Q24H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "OxyCODONE (Immediate Release)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.5 mg PO Q4H PRN",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Senna",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "8.6 mg PO QHS",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "non operative management of distal humerus fracture",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Placed in a posterior splint",
+            "treatment_response": "Patient denies pain at this time."
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "NWBR RUE ROMAT",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "as per treatment instructions",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient transferred for orthopedic evaluation after right distal humerus fracture."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient placed in a posterior splint."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications prescribed including acetaminophen, docusate sodium, enoxaparin sodium, oxycodone, and senna."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient provided with instructions for physical therapy."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "AVSS AOx3",
+        "follow_up_details": "Follow-up in 2 weeks for removal of stitches or staples.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Hydralazine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "IV HydrALAZINE 10 mg, PO/NG HydrALAZINE 25 mg",
+            "treatment_response": "Blood pressure improved; patient reported resolution of her weakness/numbness."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Labetalol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "IV Labetalol 10 mg",
+            "treatment_response": "Blood pressure improved."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metoprolol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "increased dose to 150 mg PO daily",
+            "treatment_response": "To help control blood pressure."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with left-sided numbness and weakness."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received IV HydrALAZINE and Labetalol for high blood pressure."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient reported resolution of weakness/numbness."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with increased dose of Metoprolol."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved and discharged home.",
+        "follow_up_details": "Appointment set to see Dr. ___ for blood pressure management; neurology follow-up recommended.",
+        "complications": "No complications.",
+        "long_term_prognosis": "The high blood pressure might have caused the weakness and tingling.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient felt well and was eager to leave.",
+        "patient_perspective": "Patient reported feeling better after treatment."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "56.8 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chest Pain",
+        "history_of_present_illness": "Presenting with chest pressure. She was at her cardiology appointment today, and described few weeks of chest pressure with exertion, improves with rest. Chest pressure lasts a few minutes and resolves on its own. Not associated with diaphoresis, shortness of breath, arm tingling, abdominal pain. EKG at the office showed concern for ischemia with q waves in III, V1-V3, ST elevations in V1-V4 and TWI in V5-V6. She denies fever, chills, night sweats, or recent surgery. In the ED, initial vitals were: 97.4, HR 57, BP 154/79. Labs showed Cr 6.9; Trop 0.1. Decision was made to admit for rule out ACS.",
+        "past_medical_history": "CAD; CABG; DM type I c/b peripheral neuropathy, gastroparesis, ESRD; ESRD previously PD, tunneled IJ; HTN; Anemia of chronic disease; h/o enterococcal peritonitis; h/o frequent DKA; Hypothyroidism; Diastolic heart failure; Depression; Anxiety; Osteopenia; Bulimia Eating disorder; h/o bacterial overgrowth; h/o vertebral fracture; h/o stress fracture in right metatarsal; h/o pericarditis; s/p cataract surgery.",
+        "family_history": "Grandfather (paternal) - died of myocardial infarction in his early age; Mother - died of ovarian cancer; Father - history of hypertension.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: 99.2, 106/78, HR 66, RR 18, 99% RA. Young woman, comfortable, pleasant, NAD.",
+        "specialty_examination": "Neuro: moving all extremities grossly. Cardiovascular: regular rhythm, no m/r/g. Lungs: faint bibasilar crackles, no wheezes, ronchi. Abdomen: soft, NT/ND."
+    }
+}

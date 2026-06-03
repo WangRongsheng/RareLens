@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "Cisplatin/etoposide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "C1D1, C2D1, C2D5",
+            "treatment_response": "Patient had hemoptysis but improved blood counts with transfusions"
+        },
+        {
+            "treatment_type": "antibiotic",
+            "specific_treatment": "Doxycycline",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 day course",
+            "treatment_response": "Developed a rash like a \"severe sunburn\" on the backs of her hands"
+        },
+        {
+            "treatment_type": "supportive care",
+            "specific_treatment": "blood transfusions",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Blood counts improved"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Started maintenance palliative pemetrexed for NSCLC"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received a 10 day course of doxycycline for cough"
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted to OMED"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started chemotherapy with Cisplatin/etoposide"
+        },
+        {
+            "date": "Not specified",
+            "event": "Blood transfusions administered, and blood counts improved"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged home after treatment"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home, blood counts improved",
+        "follow_up_details": "Not specified",
+        "complications": "Developed a rash like a severe sunburn on the backs of her hands",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Ambulatory - Independent",
+        "patient_perspective": "Patient was clear and coherent upon discharge"
+    }
+}

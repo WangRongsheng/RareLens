@@ -1,0 +1,83 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "phenobarb taper",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "antibiotics (IV)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient diagnosed with aspiration pneumonia"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Amoxicillin-Clavulanic Acid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "875 mg-125 mg, 1 tablet by mouth twice a day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Naltrexone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg by mouth daily",
+            "treatment_response": "Medication started to help stop drinking alcohol"
+        },
+        {
+            "treatment_type": "procedure",
+            "specific_treatment": "intubation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient was intubated and unable to participate in an interview"
+        },
+        {
+            "treatment_type": "procedure",
+            "specific_treatment": "extubation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient extubated"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with acute EtOH intoxication and required intubation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered phenobarb taper and IV antibiotics for aspiration pneumonia"
+        },
+        {
+            "date": "Not specified",
+            "event": "Intubated for airway protection"
+        },
+        {
+            "date": "Not specified",
+            "event": "Extubated"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged with prescriptions for Amoxicillin-Clavulanic Acid and Naltrexone"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive, ambulatory independent",
+        "follow_up_details": "Follow-up appointment with primary care provider for the Homeless Program not until 22nd March. Advised to visit clinic a week after discharge if not seen.",
+        "complications": "Diagnosis of aspiration pneumonia was identified.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient had clear and coherent mental status at discharge."
+    }
+}

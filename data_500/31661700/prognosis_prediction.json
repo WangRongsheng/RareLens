@@ -1,0 +1,78 @@
+{
+    "basic_information": {
+        "age": "5",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Severe scrotal congenital hypospadias",
+        "history_of_present_illness": "46,XX SRY-negative karyotypes, concurrent referral with severe scrotal congenital hypospadias, later developed gynecomastia and signs of inchoate puberty with axillary and genital body hair growth",
+        "past_medical_history": "Hypergonadotropic hypogonadism with low free and total serum testosterone and elevated levels of sex hormone-binding globulin (SHBG), follicle-stimulating hormone (FSH), luteinizing hormone (LH) and normal, but marginally increased, estradiol",
+        "family_history": "Father had duplications upstream of SOX9, father's sister had severe psychological and alcohol abuse problems, committed completed suicide at the age of 26 years",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Abdomino-pelvico-scrotal ultrasonography and magnetic resonance imaging revealed a cystic ovotestis on the right side and an atrophic testis on the left side of the scrotum and a normal prostate of appropriate size and localization"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Giemsa-banding and FISH with LSI SRY/CEP X probes",
+            "date": "Not specified",
+            "findings": "46,XX SRY-negative karyotypes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Array comparative genomic hybridization (array CGH)",
+            "date": "Not specified",
+            "findings": "Duplications upstream of SOX9 with sizes, distance from transcriptional start site and breakpoints: patient 1: 153.00 kbp, 449.16–602.16 kbp, chr17: 69,515,001–69,668,000 bp; patient 2: 155.13 kbp, 450.23–605.36 kbp, chr17: 69,511,806–69,666,935 bp; father: 143.00 kbp, 462.12–605.36 kbp, chr17: 69,511,806–69,655,045 bp. Mother’s examination results were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endocrinological laboratory tests",
+            "date": "Not specified",
+            "findings": "Patient 1: hypergonadotropic hypogonadism with low free and total serum testosterone and elevated levels of SHBG, FSH, LH and normal, but marginally increased, estradiol. Before the age of 14, he had normal male prepubertal hormone levels. Patient 2: normal male FSH, LH, and SHBG levels, and normal, but marginally increased, serum estradiol and normal, but marginally low, free and total testosterone levels.",
+            "changes_over_time": "Patient 1 showed progression from normal prepubertal hormone levels to hypergonadotropic hypogonadism by age 14."
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdomino-pelvico-scrotal ultrasonography and magnetic resonance imaging",
+            "date": "Not specified",
+            "findings": "Patient 1: cystic ovotestis (3.7 × 2.8 × 2.3 cm) on the right side and an atrophic testis (0.6 × 1.3 × 1.5 cm) on the left side of the scrotum and a normal prostate of appropriate size (2.9 × 1.8 × 2.3 cm) and localization. Patient 2: one scrotal and one inguinal ovotestis and a tubular structure (5.5 × 2.3 cm) behind the bladder assessed to be a Müllerian duct residue (a closed vagina).",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Gonadal biopsies",
+            "date": "Not specified",
+            "findings": "Patient 1: a few, mainly closed, tubuli seminiferi contorti with immature Sertoli cells. Occasionally, germinal cells were observable without any signs of maturity. The basal membranes of the tubules were thick, and the interstitium included very few Leydig cells with irregular, eosinophilic, rarely vacuolated cytoplasms. Within the sparse connective tissue, only a few primordial follicles were visible next to some ovarian stroma. Patient 2: numerous primordial follicles and a few cystous areas between ovarian spindle cells characteristically structured into plexuses, and some closed testicular tubules.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "46,XX ovotesticular disorder of sex development (DSD)",
+        "diagnostic_reasoning": "The diagnosis was based on the presence of a 46,XX SRY-negative karyotype, histological confirmation of ovotesticular tissue, and the identification of a duplication upstream of the SOX9 gene involving the minimal critical 46,XX sex reversal region. This duplication is known to cause overexpression of SOX9, leading to various degrees of masculinization in 46,XX individuals."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "surgical correction",
+            "specific_treatment": "hypospadias correction",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "hormone therapy",
+            "specific_treatment": "testosterone supplementation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "regular protocol for hypergonadotropic hypogonadism in males"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Cardiac catheterization with drug-eluting stent (DES) placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "DES placed in RCA due to 99% stenosis and thrombus",
+            "treatment_response": "Patient became hypotensive and bradycardic during procedure but responded well to atropine, lidocaine, and amiodarone"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with abdominal pain and shortness of breath (SOB)"
+        },
+        {
+            "date": "Not specified",
+            "event": "ASA, heparin, and plavix loaded"
+        },
+        {
+            "date": "Not specified",
+            "event": "Performed cardiac catheterization, finding 99% RCA mid stenosis with thrombus"
+        },
+        {
+            "date": "Not specified",
+            "event": "DES placed in RCA"
+        },
+        {
+            "date": "Not specified",
+            "event": "Developed hypotension and bradycardia during procedure"
+        },
+        {
+            "date": "Not specified",
+            "event": "Stabilized on lidocaine drip in CCU"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused but alert and interactive; discharged home",
+        "follow_up_details": "Follow up with primary care doctor and cardiologist",
+        "complications": "Mental confusion post-procedure",
+        "long_term_prognosis": "Heart function may recover over time",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Requires assistance for mobility",
+        "patient_perspective": "Increased confusion noted during hospital stay, expected to improve after discharge"
+    }
+}

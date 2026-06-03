@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "oxycodone, percocet, diazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Oxycodone-acetaminophen 5mg/325mg x2, oxycodone 5mg x3, diazepam 5 mg x1, ibuprofen 400mg, Atenolol 50 mg",
+            "treatment_response": "Took her pain down a notch but made her very drowsy and nauseated"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Worked with patient to improve mobility",
+            "treatment_response": "Unable to participate with mobility without max assistance"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted after mechanical fall"
+        },
+        {
+            "date": "Not specified",
+            "event": "Initial vitals checked and treatment with medications administered in the ED"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT pelvis done, showed no fracture"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient participated in physical therapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications prescribed"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - requires assistance or aid (walker or cane)",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient was clear and coherent, had someone assist her at home",
+        "patient_perspective": "Patient was unable to go home due to pain during admission. Instructed to take OTC pain relief post-discharge."
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ativan IV",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 mg",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Zofran IV",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Warfarin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg Tablet, Two (2) 2-mg-tablets PO at bedtime",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with garbled speech and vertigo"
+        },
+        {
+            "date": "Not specified",
+            "event": "Head CT performed; results negative"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 1 mg Ativan IV and Zofran IV"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient had a second episode of garbled speech lasting several minutes"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications including Warfarin provided"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "stable",
+        "follow_up_details": "Patient advised to modify risk factors and monitor INR regularly.",
+        "complications": "No complications",
+        "long_term_prognosis": "It is important to prevent future strokes.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

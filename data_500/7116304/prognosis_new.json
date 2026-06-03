@@ -1,0 +1,53 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "He died three months after his final admission and six months after the onset of his illness; the tumor proved to be lethal within six months despite radiotherapy.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Persistent weight loss and anorexia leading to readmission, dehydration and inanition, increasing lethargy, and complications including gastric perforation, diabetes, pneumonia, and wound dehiscence.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "A ventriculoperitoneal shunt procedure was carried out."
+        },
+        {
+            "event_type": "readmission",
+            "time_period": "short_term",
+            "evidence_excerpt": "He was readmitted in September 1980, because of weight loss and anorexia."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Readmission due to weight loss and anorexia indicated clinical decline."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "A shunt revision resulted in some improvement in his mental status and a gastrostomy was done to improve his nutrition."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Shunt revision resulted in some improvement in his mental status."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "In the ensuing weeks he became increasingly lethargic."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "mid_term",
+            "evidence_excerpt": "His course was complicated by gastric perforation, diabetes, pneumonia and wound dehiscence."
+        },
+        {
+            "event_type": "death",
+            "time_period": "mid_term",
+            "evidence_excerpt": "He died three months after his final admission and six months after the onset of his illness."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "Definitive tissue diagnosis (pineocytoma) was established at autopsy; pre-treatment diagnosis was based on imaging and clinical course. The chosen reference time is the initial hospital admission related to the condition. Follow-up lasted only about six months, so 'long-term' quality of life is inferred from the late course prior to death rather than beyond 12 months."
+}

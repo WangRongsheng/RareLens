@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "29",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "small hyperkeratotic lesions on her left lower extremity from the age of 13 years",
+        "history_of_present_illness": "Hyperkeratotic papules a few millimeters in diameter that were polygonal and sharply demarcated. They were brown and slightly depressed in the center. The lesions were situated on the left lower extremity forming a strip approximately 15 cm wide that began in the external iliac crest and continued on the anterior and inner thigh down the inner leg to the left ankle.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Biopsy specimens showed a hyperkeratotic laminar lesion that stained strongly eosinophilic in contrast with the basket-weave stratum corneum surrounding the lesion. The epidermis under the lesion was atrophic, and the granular layer was diminished. Slight acanthosis was present at the borders of the lesion, but no alterations were seen in the dermis."
+    }
+}

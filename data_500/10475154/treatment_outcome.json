@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "phenoxybenzamine",
+            "start_date": "1996-06",
+            "end_date": "Not specified",
+            "dosage_or_details": "doses increasing up to 30 mg/day",
+            "treatment_response": "The patient did well, blood pressure was around 120/80 mmHg"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "laparoscopic left-sided adrenalectomy",
+            "start_date": "1996 (17th week of gestation)",
+            "end_date": "1996 (17th week of gestation)",
+            "dosage_or_details": "surgical procedure lasted 3 h and 15 min",
+            "treatment_response": "Successful surgery without perioperative complications"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "hydrocortisone",
+            "start_date": "1996 (day of surgery)",
+            "end_date": "1997-07",
+            "dosage_or_details": "250 mg by infusion on the day of surgery, tapered to 20 mg/day as maintenance dose",
+            "treatment_response": "Prevented clinical symptoms of adrenal insufficiency"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "1996-02",
+            "event": "Initial endocrinological examinations"
+        },
+        {
+            "date": "1996-04",
+            "event": "Second endocrinological examinations"
+        },
+        {
+            "date": "1996-05",
+            "event": "Pregnancy confirmed at 8 weeks of gestation"
+        },
+        {
+            "date": "1996-06",
+            "event": "Pre-treatment with phenoxybenzamine started"
+        },
+        {
+            "date": "1996 (17th week of gestation)",
+            "event": "Laparoscopic left-sided adrenalectomy performed"
+        },
+        {
+            "date": "1996-08",
+            "event": "Hormonal evaluation 6 weeks after operation"
+        },
+        {
+            "date": "1996-12",
+            "event": "Vaginal delivery at term"
+        },
+        {
+            "date": "1997-02",
+            "event": "Follow-up hormonal evaluation"
+        },
+        {
+            "date": "1997-07",
+            "event": "Hydrocortisone replacement discontinued"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Fully recovered",
+        "follow_up_details": "Further follow-up in 1997 showed gradual resumption of normal adrenal function",
+        "complications": "No complications",
+        "long_term_prognosis": "Blood pressure and glucose tolerance continued to be normal",
+        "recovery_timeline": "Patient recovered well within 5 days after surgery",
+        "quality_of_life": "Normal menses appeared after breast-feeding for 2 months",
+        "patient_perspective": "Not specified"
+    }
+}

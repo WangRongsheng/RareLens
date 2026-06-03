@@ -1,0 +1,134 @@
+{
+    "basic_information": {
+        "age": "12",
+        "gender": "Female",
+        "weight": "66 kg",
+        "height": "155 cm",
+        "BMI": "27.47 kg/m2",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chronic kidney disease, bilateral optic nerve colobomas and an exceptional PAX-2 gene mutation",
+        "history_of_present_illness": "Diagnosed in prenatal scans with bilateral renal hypoplasia, she presented clinical and laboratory findings of chronic kidney disease at 5 days of life. Following tests showed grade II bilateral vesicoureteral reflux spontaneously solved, maintained non nephrotic proteinuria controlled with enalapril and bilateral colobomas with left macular atrophy. Renal function remained stable.",
+        "past_medical_history": "Chronic kidney disease, bilateral renal hypoplasia, grade II bilateral vesicoureteral reflux, proteinuria, bilateral colobomas with left macular atrophy, obesity.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Bilateral optic nerve colobomas with left macular atrophy, strabismus divergente and ambliopía profunda in the left eye."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine plasma test",
+            "date": "5 days of life",
+            "findings": "Creatinine plasma level of 2.0 mg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sodium plasma test",
+            "date": "5 days of life",
+            "findings": "Sodium plasma level of 131 mEq/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine plasma test",
+            "date": "0.5 years",
+            "findings": "Creatinine plasma level of 0.6 mg/dl",
+            "changes_over_time": "Increased to 1.2 mg/dl by 12 years"
+        },
+        {
+            "procedure_name": "Cystatin C test",
+            "date": "3 years",
+            "findings": "Cystatin C level of 1.25 mg/L",
+            "changes_over_time": "Increased to 1.9 mg/L by 12 years"
+        },
+        {
+            "procedure_name": "Proteinuria test",
+            "date": "3 years",
+            "findings": "Proteinuria level of 0.58",
+            "changes_over_time": "Fluctuated over time, with 0.93 at 5 years and 0 at 9 and 12 years"
+        },
+        {
+            "procedure_name": "Microalbuminuria test",
+            "date": "0.5 years",
+            "findings": "Microalbuminuria level of 0.18",
+            "changes_over_time": "Increased to 142 at 5 years, then decreased to 37.1 by 12 years"
+        },
+        {
+            "procedure_name": "Genetic study (PAX-2 gene mutation)",
+            "date": "9 years",
+            "findings": "Mutation p.R104X in heterozygosis and variant N21+10G>C (SNP ID: rs4472867)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Renovesical ultrasound",
+            "date": "5 days of life",
+            "findings": "Bilateral decrease in kidney size, slight increase in parenchymal echogenicity, good corticomedullary differentiation, normal ureters and bladder",
+            "changes_over_time": "Kidneys grew around the 3rd percentile with progressive increase in parenchymal echogenicity"
+        },
+        {
+            "procedure_name": "Echocardiography",
+            "date": "5 days of life",
+            "findings": "Apical muscular ventricular septal defect (VSD) without hemodynamic repercussion",
+            "changes_over_time": "VSD closed spontaneously at 18 months"
+        },
+        {
+            "procedure_name": "Serial voiding cystourethrography",
+            "date": "35 days of life",
+            "findings": "Grade II bilateral vesicoureteral reflux (VUR)",
+            "changes_over_time": "Resolved by 8 years"
+        },
+        {
+            "procedure_name": "Renal scintigraphy",
+            "date": "35 days of life",
+            "findings": "Homogeneous bilateral uptake with symmetric differential function of 50%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Indirect isotopic cystography",
+            "date": "8 years",
+            "findings": "Resolution of VUR",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Optical coherence tomography",
+            "date": "Not specified",
+            "findings": "Confirmed partial macular atrophy",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Ophthalmologic evaluation",
+            "date": "24 months",
+            "findings": "Bilateral papillary colobomas, greater involvement in the left eye, divergent strabismus, and profound amblyopia in the left eye",
+            "changes_over_time": "No significant improvement in left amblyopia despite treatment"
+        },
+        {
+            "procedure_name": "Audiometry",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood pressure measurement",
+            "date": "0.5 years",
+            "findings": "97/53 mmHg",
+            "changes_over_time": "Varied over time, with 110/71 mmHg at 12 years"
+        },
+        {
+            "procedure_name": "Anthropometric measurements",
+            "date": "Various",
+            "findings": "Weight, height, and BMI percentiles tracked over time",
+            "changes_over_time": "Progressive increase in weight and BMI, with obesity diagnosed at 10 years (BMI > 99th percentile)"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Renal-coloboma syndrome (papilorenal syndrome)",
+        "diagnostic_reasoning": "The diagnosis was based on the presence of chronic kidney disease, bilateral optic nerve colobomas, and a confirmed PAX-2 gene mutation (p.R104X). Prenatal scans indicated bilateral renal hypoplasia, and postnatal clinical and laboratory findings supported chronic kidney disease. The patient also exhibited bilateral vesicoureteral reflux, non-nephrotic proteinuria, and bilateral colobomas with left macular atrophy. Genetic testing confirmed a de novo nonsense mutation in the PAX-2 gene, which is associated with renal-coloboma syndrome."
+    }
+}

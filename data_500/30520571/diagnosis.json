@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "neurodevelopmental syndrome with impaired endocytic function caused by biallelic loss of function variants in PPP1R21",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis was based on the identification of homozygous truncating variants in the PPP1R21 gene through whole exome and whole genome sequencing in affected individuals from four independent families. Functional studies, including immunofluorescence and transferrin-488 clearance assays, demonstrated that PPP1R21 localizes to early endosomes and its loss results in a mild endo-lysosomal dysfunction. The clinical phenotype, including hypotonia, neurodevelopmental delay, facial dysmorphism, and brain abnormalities, along with the functional evidence, supported the final diagnosis."
+    }
+}

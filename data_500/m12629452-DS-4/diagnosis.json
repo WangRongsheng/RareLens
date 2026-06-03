@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Altered mental status",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's altered mental status was likely contributed to by anticholinergic and sedating medications. Discontinuation of these medications led to improvement in mental status."
+    }
+}

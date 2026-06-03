@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "metronidazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "levofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "neo-synephrine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "intubation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Intubation performed without difficulty"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient found unresponsive, given 1L IVF and NRB."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient intubated without difficulty."
+        },
+        {
+            "date": "Not specified",
+            "event": "Received metronidazole and levofloxacin."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on neo-synephrine for hypotension."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused - sometimes, but alert and interactive.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Activity Status: Out of bed with assistance to chair or wheelchair.",
+        "patient_perspective": "Not specified"
+    }
+}

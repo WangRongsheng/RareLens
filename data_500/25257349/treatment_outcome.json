@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "Not specified",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Thrombocytopenia detected during treatment for neonatal jaundice"
+        },
+        {
+            "date": "Not specified",
+            "event": "Kidney biopsy revealed atypical membranoproliferative glomerulonephritis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Muscle biopsy specimens taken from the rectus femoris"
+        },
+        {
+            "date": "Not specified",
+            "event": "Mutation analysis of GNE identified two missense mutations"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient has been wheelchair-bound since the age of 24 years"
+        },
+        {
+            "date": "Not specified",
+            "event": "Mildly decreased cardiac function accompanied by mitral insufficiency"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Wheelchair-bound with mildly decreased cardiac function",
+        "follow_up_details": "Not specified",
+        "complications": "Chronic renal failure requiring periodic dialysis therapy, mildly decreased cardiac function",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

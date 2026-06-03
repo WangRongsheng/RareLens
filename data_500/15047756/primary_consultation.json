@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "74",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Acutely swollen tongue, palate, and submandibular region, one to two hours after waking",
+        "history_of_present_illness": "Presented with acute angioedema, treated with 100 mg hydrocortisone and 4 mg Piriton, recovered well by the next morning",
+        "past_medical_history": "Right leg below knee amputation due to trauma, benign prostatic hypertrophy, peripheral vascular disease, non-insulin dependant diabetes",
+        "family_history": "No previous personal or family history of angioedema noted",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Alert, could breathe and swallow but was unable to talk, swelling subsided by the next morning",
+        "specialty_examination": "No splenomegaly or lymphadenopathy noted during clinical examination by the haematologists"
+    }
+}

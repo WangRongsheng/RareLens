@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "81 mg PO DAILY",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Admission for evaluation of dizziness, double vision, nausea, and unsteadiness"
+        },
+        {
+            "date": "Not specified",
+            "event": "MRI scan revealed a left cerebellar ischemic infarct"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on aspirin to reduce the risk of future strokes"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge from the hospital"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Follow up with primary care provider within one week, neurology, and cardiology",
+        "complications": "No complications",
+        "long_term_prognosis": "Higher risk of forming blood clots, to be confirmed with repeat blood test",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient's mental status was clear and coherent",
+        "patient_perspective": "Not specified"
+    }
+}

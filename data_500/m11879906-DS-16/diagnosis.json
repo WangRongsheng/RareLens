@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Non ST-Elevation Myocardial Infarction (NSTEMI)",
+        "differential_diagnosis": "Atrial Fibrillation with Rapid Ventricular Response",
+        "diagnostic_reasoning": "The patient presented with acute onset substernal chest pain, radiating down both arms, associated with shortness of breath. EKG showed ST depressions and isolated ST elevation, along with notable changes in troponin levels, indicating myocardial injury. The resolution of pain after nitroglycerin further supported the diagnosis of NSTEMI."
+    }
+}

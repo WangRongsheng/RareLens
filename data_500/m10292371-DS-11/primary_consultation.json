@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "185.2 kg",
+        "height": "169.9 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "chest pain radiating to back and jaw",
+        "history_of_present_illness": "Ms. ___ is a ___ year old woman developed chest and jaw pain two days ago and presented to the ___ emergency room. A subsequent cardiac catheterization revealed multi vessel coronary artery disease.",
+        "past_medical_history": "PMH: None PSH: Laminectomy left-sided L5-S1 in ___ and ___, complicated by CSF leak",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Pulse: 78, Resp: 20, O2 sat: 98% RA, B/P: Not specified",
+        "specialty_examination": "No notable abnormal findings specified."
+    }
+}

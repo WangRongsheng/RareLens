@@ -1,0 +1,12 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "hidradenitis suppurativa",
+        "differential_diagnosis": [
+            "acne conglobata",
+            "acne keloidalis",
+            "pseudofolliculitis barbae",
+            "infectious pyoderma"
+        ],
+        "diagnostic_reasoning": "The patient's extensive lesions on the chin and tracheostomy site, along with histological findings of follicular hyperkeratosis and an interstitial lymphocytic inflammatory process, suggest a follicular occlusion process. The morphology and distribution of the lesions did not fit typical presentations of the differential diagnoses, but histological support aligned with hidradenitis suppurativa as the primary diagnostic consideration. A gram-positive anaerobic bacterium, Peptostreptococcus micros, was cultured but considered a secondary invader, confirming non-infectious etiology in this case."
+    }
+}

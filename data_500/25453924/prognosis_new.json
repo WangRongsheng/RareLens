@@ -1,0 +1,38 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "All patients had a good outcome without related symptoms and all of them returned to their normal activities. No epiphysiodesis, angular deformity or recurrence was observed at longest follow-up.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "All patients had a good outcome without related symptoms.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Another patient (case 7) ... presented a postoperative nervous complication."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Spontaneous nervous recovery occurred three months after surgery."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Valgus was completely and spontaneously corrected one year after surgery."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "All patients had a good outcome without related symptoms and all of them returned to their normal activities."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Developed, four months after surgical excision, a calcification outside the area of total excision."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Data summarizes nine DEH cases rather than a single patient. Index time approximated as diagnosis date before surgical excision. Individual long-term quality-of-life details are aggregate; specific case timelines (e.g., nerve complication, valgus correction, calcification) pertain to different patients within the series."
+}

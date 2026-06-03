@@ -1,0 +1,58 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "La función renal se mantuvo estable; actualmente, en estadio G3a (KDIGO 2012). El RVU grado II bilateral se resolvió espontáneamente y la proteinuria no nefrótica se controló con enalapril.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Proteinuria permanente en rango no nefrótico controlada con enalapril; colobomas bilaterales con atrofia macular izquierda; función renal estable en G3a sin infecciones urinarias.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Al momento del ingreso, se medicó con nifedipino oral por elevación de la presión arterial."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "A los 35 ddv, la cistourografía mostró RVU grado ii bilateral, por lo que se inició profilaxis antibiótica oral."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "La CIV se cerró espontáneamente a los 18 meses."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "A los 5 años se inició enalapril oral para proteinuria."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Proteinuria controlada con enalapril."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "La cistografía isotópica indirecta mostró resolución del RVU a los 8 años."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "A los 12 años, inició vitamina D3 y bicarbonato enterales."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Ecográficamente, ambos riñones crecieron en torno al percentil 3, con aumento progresivo de la ecogenicidad parenquimatosa."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Ambliopía profunda en el ojo izquierdo sin mejoría significativa; se confirmó atrofia parcial macular."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "El diagnóstico se estableció prenatalmente (hipoplasia renal bilateral), por lo que se usó como referencia temporal. Aunque el eGFR disminuye ligeramente a los 12 años, el texto afirma estabilidad de la función renal; se clasificó el resultado como estabilización. La categoría de funcionalidad se infiere por la ambliopía unilateral significativa y CKD G3a sin datos de dependencia."
+}

@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "hydrocortisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg",
+            "treatment_response": "Recovered well, swelling subsided by the next morning"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Piriton",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg",
+            "treatment_response": "Recovered well, swelling subsided by the next morning"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Admission to A/E department with acute swelling"
+        },
+        {
+            "date": "Not specified",
+            "event": "Initial treatment with hydrocortisone and Piriton"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged from hospital after recovery"
+        },
+        {
+            "date": "Not specified",
+            "event": "Referred to haematologists for possible B cell malignancy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Repeat blood samples showed recovery of complement profile"
+        },
+        {
+            "date": "Not specified",
+            "event": "Bone marrow aspirate and trephine samples taken, no evidence of malignancy"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "No recurrence of symptoms since original acute attack",
+        "follow_up_details": "Monoclonal gammopathy to be followed up on a regular basis",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Swelling subsided by the next morning",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

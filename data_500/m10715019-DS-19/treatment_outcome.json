@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Paracentesis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Dexamethasone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg PO Q6H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lorazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.5 mg PO Q8H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ondansetron",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg PO Q8H",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Paracentesis performed to drain fluid from abdomen"
+        },
+        {
+            "date": "Not specified",
+            "event": "Initiated blood thinner therapy for acute DVT"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home with service facility",
+        "follow_up_details": "Not specified",
+        "complications": "Not specified",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Activity Status: Out of Bed with assistance to chair or wheelchair",
+        "patient_perspective": "Patient was admitted for weakness, diagnosed with partial obstruction at the end of the stomach"
+    }
+}

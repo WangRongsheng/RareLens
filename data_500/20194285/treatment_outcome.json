@@ -1,0 +1,99 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "fluid therapy",
+            "specific_treatment": "intravenous fluid administration",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "The mother recovered soon by fluid therapy."
+        },
+        {
+            "treatment_type": "plasma exchange",
+            "specific_treatment": "plasma exchange",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "The sister began to regain consciousness and became alert after plasma exchange."
+        },
+        {
+            "treatment_type": "hemodialysis",
+            "specific_treatment": "hemodialysis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "The sister returned to full consciousness on the second hospital day."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "glucose and bicarbonate substitutions",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "The sister's hypoglycemia improved."
+        },
+        {
+            "treatment_type": "gastric lavage",
+            "specific_treatment": "gastric lavage",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "2008-10-27",
+            "event": "Family members became sick 30 minutes after eating reheated fried rice."
+        },
+        {
+            "date": "2008-10-27",
+            "event": "1-year-old brother began to vomit and became lethargic."
+        },
+        {
+            "date": "2008-10-27",
+            "event": "1-year-old brother became unconscious 6 hours after eating the meal."
+        },
+        {
+            "date": "2008-10-27",
+            "event": "1-year-old brother died after 30 minutes of intensive resuscitation."
+        },
+        {
+            "date": "2008-10-27",
+            "event": "2-year-old sister and mother were brought to the hospital 6 hours after eating the food."
+        },
+        {
+            "date": "2008-10-27",
+            "event": "2-year-old sister received intravenous fluid administration, glucose and bicarbonate substitutions, and gastric lavage."
+        },
+        {
+            "date": "2008-10-27",
+            "event": "2-year-old sister began to open her eyes spontaneously but suffered from impaired consciousness."
+        },
+        {
+            "date": "Not specified",
+            "event": "2-year-old sister underwent plasma exchange and subsequent hemodialysis."
+        },
+        {
+            "date": "Not specified",
+            "event": "2-year-old sister returned to full consciousness on the second hospital day."
+        },
+        {
+            "date": "Not specified",
+            "event": "2-year-old sister was discharged 1 week after hospitalization."
+        },
+        {
+            "date": "Not specified",
+            "event": "Mother recovered soon by fluid therapy."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "1-year-old brother deceased; 2-year-old sister fully recovered with no sequelae; mother fully recovered.",
+        "follow_up_details": "2-year-old sister was doing well with no sequelae 13 months after discharge.",
+        "complications": "1-year-old brother had severe hyperkalemia, hypoglycemia, mixed acidosis, hyperlactacidemia, and elevation of liver enzymes. 2-year-old sister had severe hypoglycemia, metabolic and lactic acidosis, hyperammonemia, and transient disturbance of mitochondrial fatty acid β-oxidation.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "2-year-old sister returned to full consciousness on the second hospital day and was discharged 1 week after hospitalization.",
+        "quality_of_life": "2-year-old sister was doing well with no sequelae 13 months after discharge.",
+        "patient_perspective": "Not specified"
+    }
+}

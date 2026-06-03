@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "10",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "22.8 kg/m2",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "ID and microcephaly",
+        "history_of_present_illness": "Severe intellectual delay, expressive language skills minimal, hyperphagia at 7 years of age, AS-like features including running with hands raised, poor coordination, and inappropriate laughter, autistic traits, hypotonia, strabismus, fecal incontinence, kyphosis, adenoidectomy at age seven",
+        "past_medical_history": "Born via caesarean section at 35 weeks, preterm premature rupture of membranes, normal growth parameters at birth, deceleration of head circumference resulting in microcephaly, increase in weight relative to height",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Microcephaly, brachycephalic, broad forehead, mild hypertelorism, widened mouth, thin upper lip, frontal upsweep, low anterior hairline, hypertrichosis, short neck, clinodactyly of fifth finger, pes planus",
+        "specialty_examination": "Hypotonia, strabismus"
+    }
+}

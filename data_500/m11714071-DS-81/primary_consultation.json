@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "weakness",
+        "history_of_present_illness": "p/w presenting for evaluation of weakness, myalgias for the past week. She reports she cannot ambulate more than 3 steps given weakness, and she believes this is because of her Eliquis. She also reports eye burning, R earache, and 'constant pain' from her neck to her feet which she associates with the Eliquis. She was started on Eliquis during her last hospitalization. She had been found to have afib despite being on a pacemaker. Denies f/c, cp, sob, abd pain, n/v/d.",
+        "past_medical_history": "Coronary Artery Disease, Type II Diabetes on Insulin, Hypertension, Dyslipidemia, Chronic Kidney Disease, Deep Vein Thrombosis status-post IVC Filter, Status-Post CVA with residual left-sided weakness, Urinary Retention, Recurrent Urinary Tract Infections, GERD, Osteoporosis, Cervical Stenosis/Spondylosis, Lumbar Disc Herniation, Arthritis, Valvular Heart Disease, Anxiety/Panic Disorder/Somatization Disorder, Syncope/Symptomatic Bradycardia.",
+        "family_history": "Father and mother died of MI. Three brothers, two had CABGs, one died in sleep from unknown reasons. Two sisters, one died of cancer, another had an MI. Three daughters, one with congenital heart disease who passed away from melanoma.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: 97.6 F, BP 150s/60s (up to 180s while talking), HR Not specified, RR 20, 96% RA. Gen: alert, oriented, hard of hearing. Pulm: dependent crackles in the R lung, clear L lung.",
+        "specialty_examination": "CV: RRR, paced beat presumably, no murmurs appreciated."
+    }
+}

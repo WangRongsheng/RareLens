@@ -1,0 +1,111 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "enalapril",
+            "start_date": "5 years",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "proteinuria controlled"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "nifedipino",
+            "start_date": "5 days of life",
+            "end_date": "Not specified",
+            "dosage_or_details": "oral",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "cloruro sódico enteral",
+            "start_date": "17 days of life",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "maintained sodium levels in normal range"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "suplemento nutricional hipercalórico",
+            "start_date": "17 days of life",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "profilaxis antibiótica oral",
+            "start_date": "35 days of life",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vitamina D3",
+            "start_date": "12 years",
+            "end_date": "Not specified",
+            "dosage_or_details": "enteral",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "bicarbonato enteral",
+            "start_date": "12 years",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "5 days of life",
+            "event": "Started nifedipino oral for high blood pressure"
+        },
+        {
+            "date": "17 days of life",
+            "event": "Discharged with diagnosis of chronic kidney disease, started cloruro sódico enteral and suplemento nutricional hipercalórico"
+        },
+        {
+            "date": "35 days of life",
+            "event": "Started antibiotic prophylaxis for vesicoureteral reflux"
+        },
+        {
+            "date": "18 months",
+            "event": "Spontaneous closure of ventricular septal defect"
+        },
+        {
+            "date": "24 months",
+            "event": "Ophthalmology follow-up for strabismus and amblyopia"
+        },
+        {
+            "date": "5 years",
+            "event": "Started enalapril for proteinuria"
+        },
+        {
+            "date": "8 years",
+            "event": "Resolution of vesicoureteral reflux"
+        },
+        {
+            "date": "9 years",
+            "event": "Genetic study performed"
+        },
+        {
+            "date": "10 years",
+            "event": "Follow-up in Pediatric Endocrinology for obesity"
+        },
+        {
+            "date": "12 years",
+            "event": "Started vitamina D3 and bicarbonato enteral"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable renal function, chronic kidney disease stage G3a",
+        "follow_up_details": "Regular follow-ups in Ophthalmology, Nephrology, and Endocrinology",
+        "complications": "No complications mentioned",
+        "long_term_prognosis": "Renal function will determine prognosis",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

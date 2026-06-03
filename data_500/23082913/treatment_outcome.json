@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "T-12 to L-4 laminoplastic laminotomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Partial resection due to severe adhesion to the spinal cord and nerve roots",
+            "treatment_response": "Immediately after the operation, the patient’s paraplegia did not change. Gradual recovery from lower-extremity weakness was observed postoperatively."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with weakness in both ankles and toes since birth."
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent T-12 to L-4 laminoplastic laminotomy."
+        },
+        {
+            "date": "8 days post-operation",
+            "event": "MRI showed residual tumor extending from the lower thoracic to the sacral level."
+        },
+        {
+            "date": "19 months post-operation",
+            "event": "Follow-up MRI revealed an unchanged residual lesion with decreased enhancement."
+        },
+        {
+            "date": "38 months post-operation",
+            "event": "Patient showed improved motor power in the lower extremities (up to MRC Grade 3/5)."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved motor power in the lower extremities (up to MRC Grade 3/5), but could not walk and had poor control of urinary and fecal functions.",
+        "follow_up_details": "Follow-up MR images obtained 19 months after surgery and clinical follow-up at 38 months post-operation.",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Residual tumor remained unchanged with decreased enhancement. Gradual recovery observed.",
+        "recovery_timeline": "Gradual improvement in motor power observed over 38 months.",
+        "quality_of_life": "Patient could not walk and had poor control of urinary and fecal functions.",
+        "patient_perspective": "Not specified."
+    }
+}

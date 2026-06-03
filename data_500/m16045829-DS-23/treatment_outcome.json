@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "81 mg PO DAILY",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Morphine Sulfate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 mg IV",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Heparin",
+            "start_date": "Not specified",
+            "end_date": "2023-10-XX",
+            "dosage_or_details": "Started at 1550 units/hr, later decreased to 900 units/hr",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "procedure",
+            "specific_treatment": "Cardiac catheterization",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Left main normal, LAD mild disease",
+            "treatment_response": "No blockages seen"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Levofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO DAILY",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with right shoulder pain and NSTEMI."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received aspirin, morphine, and heparin gtt."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent cardiac catheterization."
+        },
+        {
+            "date": "Not specified",
+            "event": "Heparin discontinued then restarted."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on levofloxacin for pneumonia."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Clear and coherent.",
+        "follow_up_details": "Follow-up appointment made with a neurologist.",
+        "complications": "Patient sustained a fall in the hospital; no bleed or fracture found.",
+        "long_term_prognosis": "Likely developed pneumonia but no new heart damage seen.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient requires assistance or aid for mobility.",
+        "patient_perspective": "Patient seems aware of confusion likely caused by infection."
+    }
+}

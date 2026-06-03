@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Suicidal ideation",
+        "history_of_present_illness": "The patient has a history of four suicide attempts by overdose and hanging, chronic lower extremity ulcers, and difficulties with ambulation due to multiple spinal fractures and domestic violence. She was admitted after approaching security complaining of depressed mood, noting a worsening low mood since the anniversary of several traumatic events, including the deaths of her daughter and grandmother in a fire and an attempt on her life by her boyfriend. Symptoms included flashbacks, nightmares, and feelings of hopelessness. Initial vital signs in the ED showed temperature 98.9, pulse rate 66, blood pressure 137/75, and respiratory rate 16 with oxygen saturation at 96%. A toxicology screen was positive for opioids.",
+        "past_medical_history": "- History of DVT\n- Multiple thoracic spine fractures with rods placed, complicated by multiple infections\n- VRE bacteremia and candidemia\n- HCV with possible cirrhosis\n- Right temporal meningioma with resection\n- History of traumatic brain injury\n- Nondisplaced lateral mass fracture of C2\n- Epidural hematoma post-evacuation\n- History of non-electrical seizures or seizure disorder\n- Endometriosis\n- Frostbite requiring skin grafts and toe amputation",
+        "family_history": "Unknown, patient was adopted",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: Temp 98.7 F, BP 132/81, HR 62, R 20, O2-sat 96% RA. The patient is a well-appearing female, comfortable and in no apparent distress.",
+        "specialty_examination": "Neurological: Awake and alert, oriented to person, place, and time; cranial nerves II-XII grossly intact; muscle strength throughout with exception of left foot limited by pain; sensation grossly intact. Cardiovascular: Heart sounds regular; no murmurs, rubs, or gallops noted. Extremities: Left foot wrapped with clean dry bandage, mild foul odor from left foot."
+    }
+}

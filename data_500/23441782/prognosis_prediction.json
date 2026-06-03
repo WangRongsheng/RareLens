@@ -1,0 +1,159 @@
+{
+    "basic_information": {
+        "age": "55",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "red rash on his chest, shoulders, neck and back, with intense pruritus",
+        "history_of_present_illness": "Over several weeks, he developed nodules over his neck, arm extensor surfaces and on the sides and tips of his fingers. The nodules varied from several millimeters to several centimeters in diameter and were soft to firm. The patient also developed muscle aching and stiffness, which began in his shoulders and progressed to his right hand, knees and thighs, as well as swelling of his right wrist.",
+        "past_medical_history": "Dupuytren’s contractures of both hands, which had both been surgically improved, right wrist fracture from trauma and herpes zoster of the right leg 5 years prior with resolution.",
+        "family_history": "negative for any connective tissue diseases",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete blood cell count",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete general chemistry panel",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear antibody",
+            "date": "Not specified",
+            "findings": "Positive (1 : 80)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rheumatoid factor",
+            "date": "Not specified",
+            "findings": "Positive (63 U/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-cyclic citrullinated protein",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-Ro/Sjögren’s syndrome antigen A (SSA) antibodies",
+            "date": "Not specified",
+            "findings": "Positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-La/SSB antibodies",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-double strand DNA antibodies",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-Smith antibodies",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aldolase",
+            "date": "Not specified",
+            "findings": "Low (< 7.7 mg/mL)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Intradermal histiocytic proliferation; most cells were mononuclear and there were no foam cells",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Multicentric reticulohistiocytosis (MRH)",
+        "diagnostic_reasoning": "Diagnosis was made based on histopathological findings of nodules in the skin, which revealed intradermal histiocytic proliferation with mononuclear cells and no foam cells. The patient's clinical presentation included a red rash, nodules on various parts of the body, muscle aching, stiffness, and swelling of the right wrist. Laboratory tests showed positive antinuclear antibody and rheumatoid factor, and skin biopsy results supported the diagnosis of MRH."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "methotrexate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "titrated from 7.5 mg orally/week to 15 mg orally/week over 1 month"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "etanercept",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg/week, subcutaneous"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg orally daily"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "adalimumab",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg every 2 weeks, subcutaneous"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "minocycline",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg orally two times a day"
+        }
+    ]
+}

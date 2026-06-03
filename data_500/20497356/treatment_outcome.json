@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "6-mercaptopurine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "75 mg daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "mesalamine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1200 mg three times daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg per day with a 12-day tapering course",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "cyclophosphamide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "two cycles",
+            "treatment_response": "The lesion resolved completely"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient diagnosed with ulcerative colitis at 8 years of age and started on 6-mercaptopurine and mesalamine"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient diagnosed with infectious mononucleosis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient presented with a rapidly enlarging, ulcerative nodule on her left lower eyelid"
+        },
+        {
+            "date": "Not specified",
+            "event": "Biopsy revealed an Epstein-Barr virus-positive lymphoproliferative disorder"
+        },
+        {
+            "date": "Not specified",
+            "event": "6-mercaptopurine was discontinued"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient treated with two courses of intravenous cyclophosphamide"
+        },
+        {
+            "date": "Not specified",
+            "event": "Lesion resolved completely"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Disease-free at 14 months following diagnosis",
+        "follow_up_details": "Remains disease-free at 18 months of follow-up",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Lesion resolved completely after two cycles of cyclophosphamide",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

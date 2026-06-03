@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ibuprofen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "symptomatic pain relief"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "physiotherapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "to improve abduction of the left hip",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Diagnosis of Legg-Calvé-Perthes disease"
+        },
+        {
+            "date": "Not specified",
+            "event": "Nonoperative treatment started with ibuprofen and physiotherapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Follow-up radiographs showed healing of the left femoral capital epiphysis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was clinically asymptomatic with full pain-free range of motion"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "clinically asymptomatic with full pain-free range of motion",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "positive prognosis, not adversely affected by Albright hereditary osteodystrophy",
+        "recovery_timeline": "two years after diagnosis",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

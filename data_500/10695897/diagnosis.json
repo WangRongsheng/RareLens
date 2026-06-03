@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Hot water epilepsy",
+        "differential_diagnosis": "Febrile convulsions, vagal fits, aquagenic urticaria",
+        "diagnostic_reasoning": "The diagnosis was confirmed by video-EEG monitoring during bathing, which showed EEG abnormalities starting after placing the child into the bath. The absence of fever during seizures ruled out febrile convulsions, and the absence of bradycardia or other abnormalities on simultaneous ECG ruled out vagal fits. The absence of dermatographism and the presence of abnormalities on EEG during attacks ruled out aquagenic urticaria."
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Diagnostic Cerebral Angiogram",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No vascular abnormality identified."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Artificial Tears",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Drop both eyes PRN dry eye",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Multivitamins",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 TAB PO DAILY",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Famotidine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Labetalol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO TID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Docusate Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Senna",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "17.2 mg PO HS",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Underwent Diagnostic Cerebral Angiogram"
+        },
+        {
+            "date": "Not specified",
+            "event": "Began discharge medications including Famotidine, Labetalol, and others"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive with clear and coherent mental status.",
+        "follow_up_details": "Will need to follow up with PCP and stroke neurologist.",
+        "complications": "Mild tenderness and bruising at the puncture site and soreness in arms from intravenous lines.",
+        "long_term_prognosis": "Continued monitoring for stroke risk factors required.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Requires assistance or aid for ambulation.",
+        "patient_perspective": "Common experiences include difficulty concentrating, emotional difficulties, and headache post-treatment."
+    }
+}

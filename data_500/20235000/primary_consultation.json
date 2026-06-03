@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "35",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Abnormal midtrimester ultrasound showing placental abnormalities",
+        "history_of_present_illness": "Referred for targeted sonography at 18 weeks of gestation secondary to a midtrimester ultrasound showing cystic formations within the placenta. Placentomegaly, with cystic formation and dilated fetal bowel, was noted. The antepartum course was complicated by severe preeclampsia requiring delivery by repeat cesarean at 28 weeks of gestation.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Physical findings included epicanthus inversus, prominent interdigital pads, and deep solar creases. Cardiac evaluation showed two small atrial septal defects not requiring repair."
+    }
+}

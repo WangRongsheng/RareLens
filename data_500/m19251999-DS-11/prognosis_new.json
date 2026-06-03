@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "Readmitted for worsening liver function tests during treatment holiday (bilirubin rose from 4.5 to 5.8). Ongoing humoral rejection requiring continued treatment and evaluation for re-transplantation; persistent jaundice and abnormal LFTs at discharge.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Sclerae icteric and jaundice noted on discharge with elevated LFTs (ALT 137, AST 92, total bili 5.0) though patient reports feeling well without abdominal pain or N/V.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Initial treatment after diagnosis with plasmapheresis/IVIG x4 and rituxan x1, with improvement and discharge home."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Patient improved s/p plasmapheresis/IVIG x4 and rituxan x1 and was discharged home."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Not responsive to ATG and high-dose steroids during the rejection episode."
+        },
+        {
+            "event_type": "readmission",
+            "time_period": "short_term",
+            "evidence_excerpt": "Readmitted for worsening LFTs while on treatment holiday; bilirubin increased from 4.5 (Sun), 4.9 (Mon) to 5.8 (Wed)."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Ultrasound-guided liver biopsy completed; slides sent with patient for continued care."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Labs showed slight improvement from admission to discharge (ALT 157→137, AST 123→92, total bilirubin 5.8→5.0)."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "No long-term follow-up beyond the immediate readmission and discharge is provided. Time categorization is approximate relative to the initial diagnosis of humoral liver rejection. The overall outcome classified as progression is based on documented deterioration and need for ongoing treatment and re-transplant evaluation."
+}

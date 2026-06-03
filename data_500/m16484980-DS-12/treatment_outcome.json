@@ -1,0 +1,27 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "T9-T10 laminectomy with biopsy of intraspinal extradural mass, T10-T11 laminectomy, posterior arthrodesis, T9-T10, T10-T11, autograft",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "T9-T10 laminectomy with biopsy and subsequent surgeries performed"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Good",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

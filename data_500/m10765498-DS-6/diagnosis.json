@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Atrial fibrillation with rapid ventricular response (Afib with RVR) and exacerbation of heart failure",
+        "differential_diagnosis": "Pneumonia, compressive atelectasis",
+        "diagnostic_reasoning": "The patient presented with atrial fibrillation with rates up to the 130s and symptoms of shortness of breath and decreased urine output. Lab findings included elevated troponin and signs of heart failure with pulmonary vascular congestion on chest X-ray. The imaging indicated possible pneumonia or compressive atelectasis, but the primary concern was the exacerbation of her known heart failure in the context of Afib with RVR."
+    }
+}

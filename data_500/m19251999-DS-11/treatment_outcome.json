@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ultrasound-guided biopsy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "plasmapheresis/IVIG",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "x4 sessions",
+            "treatment_response": "Improvement noted"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "rituxan",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "x1 session",
+            "treatment_response": "Improvement noted"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for worsening liver function tests"
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent ultrasound-guided biopsy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received plasmapheresis/IVIG treatment, x4 sessions"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received rituxan treatment, x1 session"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with improvement and close follow-up"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improvement noted at discharge, feels well",
+        "follow_up_details": "Close follow-up recommended",
+        "complications": "No complications",
+        "long_term_prognosis": "Patient undergoing evaluation for re-transplantation, MELD 12",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient reports feeling well, no nausea, vomiting, diarrhea, or abdominal pain"
+    }
+}

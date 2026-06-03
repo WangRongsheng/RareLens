@@ -1,0 +1,53 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "After emergent repair, the patient had ongoing complications: persistent distal aortic dissection on CTA, acute kidney injury (creatinine 5.2) listed at discharge, limb ischemia/compartment syndrome requiring fasciotomy and debridement, and discharge to an extended care facility.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "At discharge, 'Sternal pain managed with oral analgesics' and edema 2+; ongoing treatment for C. diff with oral vancomycin suggests continued but controlled symptoms.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Emergency repair of acute type A dissection with ascending aortic and hemi arch replacement and aortic valve resuspension."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Right iliac segment fenestration and placement of 14 and 12 mm stents for malperfusion due to aortoiliac dissection."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Compartment syndrome/limb ischemia requiring fasciotomy and muscle debridement with VAC dressing."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Neurologic exam: 'nonfocal except for RLE: no sensation below thigh,' indicating new deficit after presentation."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Acute kidney injury: creatinine 5.2 and 'Acute Kidney Injury' listed among discharge diagnoses."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "CTA Torso: 'New pericardial fluid with associated enhancement representing pericarditis.'"
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Treatment for Clostridioides difficile: 'Vancomycin Oral Liquid ... Q6H CDiff Duration: 14 Days.'"
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Discharge condition: 'Ambulating, deconditioned,' indicating some recovery of mobility by discharge."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "No follow-up beyond the index hospitalization is provided. Long-term outcome categories are inferred from sustained complications present at discharge (AKI, persistent distal dissection, limb ischemia status, deconditioning). The exact persistence of neurologic deficit and renal dysfunction after discharge is not documented."
+}

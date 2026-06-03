@@ -1,0 +1,114 @@
+{
+    "basic_information": {
+        "age": "4.5 years",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Lower abdominal discomfort that radiated to the left knee",
+        "history_of_present_illness": "Developmental delay noted at 12 months, began walking at 24 months, diagnosed with Legg-Calvé-Perthes disease at 3 years and 11 months",
+        "past_medical_history": "Albright hereditary osteodystrophy, hypothyroidism, hypoprolactinemia, anemia",
+        "family_history": "Unremarkable for any genetic conditions, no parental consanguinity",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Dysmorphic features (large tongue, low-set ears, deeply tethered skin creases in upper limbs, blue-to-pink collagenous subcutaneous lesions on abdomen), plagiocephaly, round face with midface hypoplasia, underdeveloped ears, abnormally spaced small teeth, short stature, protuberant abdomen",
+        "specialty_examination": "Unusually shaped hands and feet with thickened small toenails, short fingers with prominent pads, bilateral potter's thumb, clinodactyly of small finger bilaterally, limited hip abduction to 45°"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Chromosomal investigation",
+            "date": "Not specified",
+            "findings": "Negative for Prader-Willi/Angelman syndrome, interpreted as a normal karyotype",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endocrine evaluation",
+            "date": "At four years of age",
+            "findings": "Marked hypocalcemia (calcium level, 1.57 mg/dL [0.39 mmol/L]) with hyperphosphatemia (phosphate level, 2.77 mg/dL [0.89 mmol/L]). Circulating parathyroid hormone level was markedly elevated (194 pg/mL [194 ng/L])",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing",
+            "date": "At four years of age",
+            "findings": "Presence of the 187del4 mutation in exon 7 of the GNAS1 gene—the genotype of Albright hereditary osteodystrophy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory analyses for pituitary function",
+            "date": "Not specified",
+            "findings": "Consistent with anemia, hypothyroidism, and hypoprolactinemia",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal radiograph",
+            "date": "At three years and eleven months of age",
+            "findings": "Demonstrated Legg-Calvé-Perthes disease of the left hip joint",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiographs of the hips",
+            "date": "At four years and four months of age",
+            "findings": "Flattening and fragmentation of the left femoral capital epiphysis with widening of the physis consistent with a diagnosis of Legg-Calvé-Perthes disease. New bone growth within the lateral aspect of the epiphysis indicated healing",
+            "changes_over_time": "Compared with the abdominal radiographs made at three years and eleven months of age"
+        },
+        {
+            "procedure_name": "Hand radiograph",
+            "date": "At four years and four months of age",
+            "findings": "Indicated a bone age of approximately five years and nine months, which was determined to be abnormally accelerated for her chronological age",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hip radiographs",
+            "date": "At six years of age",
+            "findings": "Showed the left femoral capital epiphysis to be confluent without fragmentation. There were no noticeable metaphyseal cysts",
+            "changes_over_time": "Compared with radiographs made at four years and four months of age"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Physical examination",
+            "date": "At twelve months of age",
+            "findings": "Dysmorphic features such as a large tongue and low-set ears. Deeply tethered skin creases in the upper limbs and blue-to-pink collagenous subcutaneous lesions on the abdomen",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical examination",
+            "date": "At twenty-one months of age",
+            "findings": "Plagiocephaly, a markedly round face with midface hypoplasia, underdeveloped ears, and abnormally spaced, small, \"peg-like\" teeth. Depressed nasal bridge with a short nose and a long, well-formed philtrum. The tongue was quite prominent. Unusually shaped hands and feet, with thickened, small toenails. The fingers were short with prominent pads. Bilateral potter's thumb with increased thumbnail width-to-length ratios. The fourth metacarpophalangeal joint was noted to be proximally displaced and she had clinodactyly of the small finger bilaterally",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hip evaluation",
+            "date": "At three years and eleven months of age",
+            "findings": "Painless passive range of motion, which was normal in all planes except abduction; abduction was limited to 45°",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Legg-Calvé-Perthes disease",
+        "diagnostic_reasoning": "The diagnosis was made based on radiographs showing sclerosis and flattening of the left femoral head with fragmentation and lateral extrusion of the capital epiphysis. The patient's symptoms included lower abdominal discomfort radiating to the left knee and limited abduction of the left hip. The prognosis was deemed favorable due to the patient's young age at diagnosis."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ibuprofen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "physiotherapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "to improve abduction of the left hip"
+        }
+    ]
+}

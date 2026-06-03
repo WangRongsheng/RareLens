@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Enoxaparin Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "90 mg SC BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "81 mg PO DAILY",
+            "treatment_response": "Stopped"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Losartan Potassium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO DAILY",
+            "treatment_response": "Held due to low blood pressure"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with concern for pulmonary embolism and stroke."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Enoxaparin Sodium 90 mg SC BID."
+        },
+        {
+            "date": "Not specified",
+            "event": "Aspirin stopped."
+        },
+        {
+            "date": "Not specified",
+            "event": "Losartan held due to low blood pressure."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - requires assistance or aid (walker or cane).",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

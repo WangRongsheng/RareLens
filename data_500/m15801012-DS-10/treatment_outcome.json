@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ciprofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient was referred to the ED for IV antibiotics after urine culture showed quinolone-resistant Proteus."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ceftriaxone (CTX)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1g administered in the ED",
+            "treatment_response": "Upon arrival to the floor, the patient reports feeling well and does not feel increasingly confused."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient noted to have increased agitation and bloody urine."
+        },
+        {
+            "date": "Not specified",
+            "event": "Urine culture returned positive for quinolone-resistant Proteus."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient referred to the ED for IV antibiotics."
+        },
+        {
+            "date": "Not specified",
+            "event": "1g Ceftriaxone administered in the ED."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient reports feeling well upon arrival to the floor."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused but alert and interactive.",
+        "follow_up_details": "Patient should be seen by the doctor at the nursing home upon return.",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Patient believes she is at the hospital to visit her nephew."
+    }
+}

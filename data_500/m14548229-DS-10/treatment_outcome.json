@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Sulfamethoxazole-Trimethoprim",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 tablet twice per day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metoprolol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg three times per day",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with weakness and UTI."
+        },
+        {
+            "date": "Not specified",
+            "event": "Antibiotics started for UTI."
+        },
+        {
+            "date": "Not specified",
+            "event": "Heart monitoring initiated due to fainting."
+        },
+        {
+            "date": "Not specified",
+            "event": "Metoprolol dosage increased."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with new medications."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory with assistance, confused sometimes.",
+        "follow_up_details": "Follow up with primary care doctor and urologist.",
+        "complications": "Not specified",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient is weaker and requires assistance.",
+        "patient_perspective": "Family noticed decline in functional status."
+    }
+}

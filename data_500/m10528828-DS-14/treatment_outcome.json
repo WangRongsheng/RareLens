@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Enoxaparin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "80 mg/0.8 mL Syringe Subcutaneous Q12H (every 12 hours)",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oxycodone-Acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Tablets PO every four (4) hours as needed for pain; do not exceed 4g of acetaminophen in 24 hours.",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "NPH Insulin Human Recomb",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Subcutaneous AS DIR (AS DIRECTED)",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presents with left leg swelling and pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Negative ultrasound for DVT performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Enoxaparin started, dosing every 12 hours."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications prescribed including Oxycodone-Acetaminophen and NPH Insulin."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Keep all follow-up appointments; contact obstetric doctor if symptoms arise.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

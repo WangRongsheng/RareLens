@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "complete peritalar release according to McKay and Simons",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "medial, dorsal and lateral aspects of the foot were released from ankle joint and subtalar joint by a Cincinnati approach. After correction of the subtalar joint and the chopard joint, line fixations with 3-K wires and casting for 6 weeks were realized, followed by treatment with orthosis",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "open reduction of the right hip",
+            "start_date": "2010-11-03",
+            "end_date": "Not specified",
+            "dosage_or_details": "inguinal approach, a tenotomy of the psoas tendon and a percutaneous release of the adductor muscle were included. T-shaped opening of the capsule with removal of all soft tissues inside the acetabulum was done. A lateral approach of the proximal femur with shortening and varisation osteotomy was performed to reduce the pressure of the femoral head inside the acetabulum. Pemberton acetabuloplasty was added to improve the coverage of the femoral head. An apica cast was applied for 6 weeks. The hardware (plates and K-wires) were removed 8 months later",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "de-tethering",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "performed in the 1st year of life",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "resection of the hemivertebrae of L3-4-5 and posterior fusion of L2-S1",
+            "start_date": "2012-08-21",
+            "end_date": "Not specified",
+            "dosage_or_details": "spica cast was applied",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "complete peritalar release according to McKay and Simons performed at the age of 1 year"
+        },
+        {
+            "date": "2010-11-03",
+            "event": "open reduction of the right hip performed at the age of 2 years"
+        },
+        {
+            "date": "Not specified",
+            "event": "de-tethering performed in the 1st year of life"
+        },
+        {
+            "date": "2012-08-21",
+            "event": "resection of the hemivertebrae of L3-4-5 and posterior fusion of L2-S1 performed"
+        },
+        {
+            "date": "July 2013",
+            "event": "hardware (plates and K-wires) were removed"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "can walk independently using a shoelift of 7 cm to compensate her leg length discrepancy",
+        "follow_up_details": "Not specified",
+        "complications": "recurrence of equinovarus deformity of the right foot, which needs additional surgical correction. The foot is stiff, active movements of the toes are possible",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Upper/lower Extremity Weakness, Parasthesias",
+        "history_of_present_illness": "Patient notes that she was in her normal state of health until approx one month ago when she notes migratory joint pain. She notes that it involved the knees, shoulders. The pain wouldn't involve multiple joints at once but would migrate between them. She denies associated swelling. Approx 2 days ago the patient noted the sudden onset of weakness in the feet, legs and hands. The weakness has been progressive and profound to the point that she cannot even stand. She has difficulty doing things with her hands. Associated with this is some parasthesias. The night prior to presentation while in bed she developed worsening shortness of breath and anxiety. Denies associated chest pain. Shortness of breath led her to come to the hospital.",
+        "past_medical_history": "HTN, HLD, Appendectomy ___ years ago, Squamous cell carcinoma of the left leg ___",
+        "family_history": "Father died at ___ years of age due to ___ disease and diabetes. Mother died at ___. Both of her siblings have diabetes.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Temp 97.7, BP 136/80, HR 93, R 16, O2-sat 96% RA. NAD, comfortable, appropriate.",
+        "specialty_examination": "Neurological: awake, A&Ox3, CNs II-XII grossly intact, muscle strength ___ in deltoids, biceps, triceps, ___ strength in interosseous, intrinsic muscle of hand, ___ strength with plantar/dorsiflexion, illiopsoas, gait not test, sensation subjectively decreased to light touch in hands, feet in stocking glove distribution, DTRs 2+ on left and 1+ on right."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC-15.7, RBC-3.84, Hgb-12.2, Hct-36.7, MCV-96, MCH-31.7, MCHC-33.2, RDW-12.7, Plt Not specified",
+            "changes_over_time": "Discharge WBC-9.0, RBC-2.67, Hgb-8.4, Hct-26.4, MCV-99, MCH-31.4, MCHC-31.7, RDW-18.4"
+        },
+        {
+            "procedure_name": "BMP",
+            "date": "Not specified",
+            "findings": "Glucose-156, UreaN-9, Creat-0.6, Na-132, K-3.5, Cl-96, HCO3-16, AnGap-24",
+            "changes_over_time": "Discharge Glucose-76, UreaN-14, Creat-0.3, Na-135, K-4.1, Cl-101, HCO3-28, AnGap-10"
+        },
+        {
+            "procedure_name": "LFTs",
+            "date": "Not specified",
+            "findings": "ALT-54, AST-63, AlkPhos-230",
+            "changes_over_time": "Discharge ALT-88, AST-33, AlkPhos-142"
+        },
+        {
+            "procedure_name": "D-Dimer",
+            "date": "Not specified",
+            "findings": "D-Dimer-5605",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ESR",
+            "date": "Not specified",
+            "findings": "ESR-120",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CRP",
+            "date": "Not specified",
+            "findings": "CRP-222.6",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate-2.4",
+            "changes_over_time": "Lactate-1.7"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "UA negative, 80 ketones noted",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Unremarkable mediastinal and cardiac contours, mild pulmonary vascular congestion, mild left base atelectasis, no pleural effusion or pneumothorax",
+            "changes_over_time": "Newly occurred right basal opacity, decreased lung volumes, no pleural effusion, mild fluid overload, moderate cardiomegaly"
+        },
+        {
+            "procedure_name": "CTA Chest",
+            "date": "Not specified",
+            "findings": "No evidence of pulmonary embolism, multiple pulmonary nodules measuring up to 5 mm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI Spine",
+            "date": "Not specified",
+            "findings": "No evidence of abnormal signal within the spinal cord, multilevel degenerative changes of the cervical and lumbar spine, 1.1-cm hyperintense lesion in the right thyroid gland",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "No evidence of intra-abdominal or pelvic malignancy, bibasilar atelectasis, diverticulosis without diverticulitis, atherosclerotic calcifications",
+            "changes_over_time": "Worsened bibasilar atelectasis since previous imaging"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "EMG",
+            "date": "Not specified",
+            "findings": "Abnormal study consistent with acute demyelinating polyradiculoneuropathy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECHO",
+            "date": "Not specified",
+            "findings": "Mild regional left ventricular systolic dysfunction, normal left ventricular cavity size, no pericardial effusion",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "ANCA vasculitis",
+        "diagnostic_reasoning": "The diagnosis of ANCA vasculitis was made following a sural nerve biopsy and bowel pathology, which confirmed the diagnosis after initial treatment for Guillain-Barré Syndrome."
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oxycodone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg tablets Q3H",
+            "treatment_response": "Pain was persistent and not alleviated with discharge pain medication."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Hydromorphone (Dilaudid)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 mg tablets every 6 hours as needed for moderate pain",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "___ mg PO Q6H: PRN Pain - Mild, do not exceed 3500mg in one day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ibuprofen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "400-600 mg PO Q6H: PRN Pain - Mild, alternate with Tylenol",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ondansetron",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg PO Q8H: PRN nausea",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Docusate Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO BID, hold for loose stools",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Senna",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "8.6 mg PO BID: PRN constipation, hold for loose stools",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Polyethylene Glycol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "17 g PO DAILY: PRN constipation, hold for loose stools",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with persistent abdominal pain after surgery."
+        },
+        {
+            "date": "Not specified",
+            "event": "Initial pain treated with IV pain medications."
+        },
+        {
+            "date": "Not specified",
+            "event": "Transitioned to oral pain medications."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on bowel regimen to prevent constipation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged home in stable condition."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable condition at discharge.",
+        "follow_up_details": "Follow up with primary care physician for MRI scan and with gynecologist for uterine fibroids.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Not specified."
+    }
+}

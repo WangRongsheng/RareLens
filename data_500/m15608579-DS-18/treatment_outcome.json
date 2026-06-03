@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Docusate Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg Capsule, One (1) Capsule PO BID (2 times a day) as needed for constipation",
+            "treatment_response": "Constipation resolved while in the hospital"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Colace",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg twice daily as needed for constipation",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for evaluation of constipation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Constipation resolved while in the hospital"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on Docusate Sodium 100 mg twice daily as needed for constipation"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable",
+        "follow_up_details": "Please speak to your primary care doctor about restarting Simvastatin",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

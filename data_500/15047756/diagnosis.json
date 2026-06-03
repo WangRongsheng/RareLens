@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Idiopathic angioedema with a monoclonal gammopathy of undetermined importance",
+        "differential_diagnosis": "Acquired angioedema secondary to a B cell neoplasm, hereditary angioedema, allergy, amyloid, adverse drug reaction, infection",
+        "diagnostic_reasoning": "The patient presented with acute angioedema and initially had a low C1 esterase inhibitor concentration, suggesting acquired angioedema possibly secondary to a B cell neoplasm. Further investigations revealed a monoclonal IgG k paraprotein, but bone marrow studies showed no evidence of myeloma, lymphoma, or amyloid. Repeat testing showed normal C1 esterase inhibitor levels, ruling out C1 esterase inhibitor deficiency. The final diagnosis was based on the absence of evidence for other conditions and the presence of a stable paraprotein."
+    }
+}

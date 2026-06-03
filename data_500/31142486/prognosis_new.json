@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "The patient remains disease-free at 7 years postoperatively, and SIADH resolved with sodium returning to normal after tumour removal. No postoperative morbidity was reported.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "SIADH resolved after tumour resection with normalization of sodium, and the patient remains disease-free at 7 years with no reported ongoing symptoms.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "The patient’s serum sodium level returned to normal after removal of the tumour; SIADH was considered resolved."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "The patient remains disease-free at 7 years postoperatively."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "No postoperative morbidity, such as hypoglobus, has been experienced; no facial paresthesia, indicating maintained normal function over time."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The index time is approximated to the biopsy-confirmed diagnosis and MDT treatment plan. Precise dates are not provided. Timing of adjuvant radiotherapy is not specified; events are limited to clearly documented outcomes. Functional status is inferred conservatively from clinician-reported absence of morbidity and long-term disease-free status."
+}

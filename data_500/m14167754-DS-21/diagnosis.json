@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "STEMI",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain and shortness of breath, and was found to have significant coronary artery disease, including 99% mid stenosis of the RCA with thrombus. An ECG showed ST segment elevation consistent with inferolateral ST elevation myocardial infarction, supporting the diagnosis of STEMI."
+    }
+}

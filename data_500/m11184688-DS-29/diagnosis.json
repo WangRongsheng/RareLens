@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pneumonia",
+        "differential_diagnosis": "GI bleed, chronic diastolic heart failure, malnutrition, hypertension",
+        "diagnostic_reasoning": "The patient presented with increased somnolence, vomiting, and neurological symptoms. Clinical findings, including impaired mental status and gastrointestinal bleeding, pointed towards pneumonia as a primary diagnosis, which was confirmed during the hospital stay. Neurological symptoms were likely related to the infection."
+    }
+}

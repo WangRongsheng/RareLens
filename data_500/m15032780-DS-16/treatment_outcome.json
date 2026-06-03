@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Right hip hemi-arthroplasty",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Stable condition post-surgery"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Enoxaparin Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg SC QPM",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "OxyCODONE (Immediate Release)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg PO Q4H PRN",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Right hip hemi-arthroplasty performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Enoxaparin Sodium started"
+        },
+        {
+            "date": "Not specified",
+            "event": "OxyCODONE prescribed for pain management"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable",
+        "follow_up_details": "Follow up appointment in 2 weeks for stitch removal",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient advised on normal post-operative feelings",
+        "patient_perspective": "Not specified"
+    }
+}

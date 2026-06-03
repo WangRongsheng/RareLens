@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "weakness",
+        "history_of_present_illness": "Admitted for weakness. Diagnosed with partial obstruction at the end of the stomach. Underwent a procedure to drain fluid from abdomen. Given a blood thinner due to blood clot in leg.",
+        "past_medical_history": "Metastatic Cholangiocarcinoma, failure to thrive, proximal muscle weakness, demyelinating polyneuropathy, ascites, acute DVT, transaminase elevation, hyperbilirubinemia, pancytopenia, asymptomatic bacteriuria.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Out of Bed with assistance to chair or wheelchair.",
+        "specialty_examination": "Not specified"
+    }
+}

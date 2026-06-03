@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "Intensive management",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient's condition progressively worsened, died on day 31 of life of sepsis with diffuse, uncontrolled, cutaneous and mucosal bleeding, and multi-organ failure"
+        },
+        {
+            "treatment_type": "Aggressive support",
+            "specific_treatment": "Fresh-frozen plasma, packed red cells, platelets, coagulation factors, diuretics, pressors, and parenteral feeding",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Stabilized patient's condition, no sepsis presented"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Day 18 of life",
+            "event": "First child referred to NICU"
+        },
+        {
+            "date": "Day 31 of life",
+            "event": "First child died of sepsis with diffuse, uncontrolled, cutaneous and mucosal bleeding, and multi-organ failure"
+        },
+        {
+            "date": "Day 25 of life",
+            "event": "Liver biopsy performed on second child, proved advanced cirrhosis with cholestasis and highly elevated concentrations of iron in the liver tissue"
+        },
+        {
+            "date": "First month of life",
+            "event": "Second child's clinical conditions began to progressively improve"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "First child deceased, second child alive and well",
+        "follow_up_details": "Second child's parents refused control liver biopsy",
+        "complications": "First child had sepsis with diffuse, uncontrolled, cutaneous and mucosal bleeding, and multi-organ failure; second child had no complications mentioned",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Second child's conditions began to improve as of the first month of life",
+        "quality_of_life": "Second child is well, and biochemical and hematological testing show no signs of liver failure",
+        "patient_perspective": "Not specified"
+    }
+}

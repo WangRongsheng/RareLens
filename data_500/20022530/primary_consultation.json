@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Episodic dystonia and learning disability",
+        "history_of_present_illness": "Early onset episodic dystonia, did not walk until the age of 20 months, strabismus noted at around 2 years of age, visual assessment revealed lower visual field loss in both eyes, initially thought to have dyspraxia, by age 4 years a motor disorder was evident with episodic dystonia, thought to have moderate cognitive impairment",
+        "past_medical_history": "Normal investigations included: blood urea and electrolytes, glucose, lactate, pyruvate, amino acids, creatinine kinase, biotinidase, copper, caeruloplasmin and carnitine, urine organic acids and glycosaminoglycans, cerebrospinal fluid protein, glucose, lactate and neurotransmitters, bone marrow examination, liver and rectal biopsies, karyotype and FMR1 and PANK2 mutation analysis",
+        "family_history": "Second daughter born to this couple followed a very similar clinical course, although with more severe developmental problems than her older sister, suspicion arose that the condition might be due to a recessively inherited disorder",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Neither girl was dysmorphic and, other than the neurological findings noted above, there were no other abnormalities found on general physical examination",
+        "specialty_examination": "Brain MRI revealed globus pallidus hyperintensity"
+    }
+}

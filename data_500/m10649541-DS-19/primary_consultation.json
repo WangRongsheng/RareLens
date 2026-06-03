@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "63.5 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Shortness of Breath",
+        "history_of_present_illness": "Patient is a woman with HTN, HFpEF (severe TR, moderate MR), afib on warfarin, dyslipidemia, anemia, blindness, and NIDDM. Presenting with a few weeks of progressive shortness of breath. CT scan concerning for pericardial effusion and unilateral pleural effusion. No chest pain, mild shortness of breath, well-appearing in the emergency department. Exam notable for diminished breath sounds at the bases bilaterally and diminished heart sounds.",
+        "past_medical_history": "HTN, HFpEF (severe TR, moderate MR), afib on warfarin, dyslipidemia, anemia, blindness, glaucoma, NIDDM.",
+        "family_history": "Mother had a heart condition of unclear etiology.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital Signs: 98.2 PO, BP 119/63, HR 68, RR 18, SpO2 95% on 2L NC. Alert, oriented, no acute distress. JVP elevated. Pitting edema to shins.",
+        "specialty_examination": "Cardiovascular: Shows an irregular rhythm around 70 and an apical systolic ejection murmur radiating to the left sternal border. Lungs: Crackles at bases, no wheezes."
+    }
+}

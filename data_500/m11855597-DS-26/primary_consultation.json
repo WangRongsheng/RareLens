@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Fall",
+        "history_of_present_illness": "F with history of afib on apixiban with recent admission for fall and multiple rib fractures who presents for evaluation after being found down near her bed by her caretaker. Her caretaker notes that she was likely only on the ground for less than a minute. Of note, Mrs. ___ was recently hospitalized for which she was treated for a mechanical fall from sitting sustaining multiple rib fractures, sternal fracture, scalp lac along with a burst fractures of the T3 and T11 vertebral bodies. She did not require operative management. On examination the patient is unable to give a history, however her home health aid provided details a sound in the patient's room and finding her sitting on her bed after hitting her head on the headboard. She was attempting to use the bathroom on her own. She does not note any LOC. Health aid noted a bleeding scalp laceration and brought her to the ER. Patient denies any pain, n/v, fevers, HA, dizziness.",
+        "past_medical_history": "Afib on apixaban, Non-ischemic CMP (EF 30% on TTE in ___), hypertension, cataract, degenerative joint disease, osteoporosis, tinnitus, retinal vascular occlusion, depression. Past Surgical History: Intertrochanteric fracture of the left hip, status post short TFN.",
+        "family_history": "Non-contributory to this admission.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 97.4 69 176/71 18 94% RA. AOx3, patient unable to form intelligible phrases; appears to be in NAD. R posterior scalp laceration stapled, no scleral icterus, mucus membranes moist. Irregular rate, holosystolic murmur loudest at L sternal border. Clear to auscultation b/l, no W/R/R. Soft, nondistended, nontender, no rebound or guarding, normoactive bowel sounds, no palpable masses. No edema, warm and well perfused.",
+        "specialty_examination": "Neurological: CN2-12 grossly intact but difficult to assess fully given inability to converse or participate in exam. No evidence of asterixis on exam though very difficult to assess as patient unable to understand instructions."
+    }
+}

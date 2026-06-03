@@ -1,0 +1,91 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Skin lesions resolved while on prednisone, but flared after discontinuation"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "amoxicillin/clavulanic acid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Some improvement in suspected folliculitis"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "dapsone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Frequent flares of papulovesicles required treatment with dapsone"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "rectal pouch removal",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Remission of cutaneous disease ensued within 2 months"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Skin lesions developed a year prior to colectomy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Skin lesions resolved while UC was being treated with prednisone"
+        },
+        {
+            "date": "Not specified",
+            "event": "Skin lesions flared shortly after prednisone was discontinued"
+        },
+        {
+            "date": "Not specified",
+            "event": "Treated with oral amoxicillin/clavulanic acid for suspected folliculitis with some improvement"
+        },
+        {
+            "date": "Not specified",
+            "event": "Developed new vesicles and crusted papules"
+        },
+        {
+            "date": "Not specified",
+            "event": "Diagnosis of LABD made"
+        },
+        {
+            "date": "Not specified",
+            "event": "Frequent flares of papulovesicles treated with dapsone and courses of prednisone for 4 years"
+        },
+        {
+            "date": "Not specified",
+            "event": "Rectal pouch noted to be severely inflamed on repeat anoscopy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Rectal pouch removed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Remission of cutaneous disease ensued within 2 months"
+        },
+        {
+            "date": "Not specified",
+            "event": "Dapsone gradually tapered and discontinued"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Remained clear of cutaneous disease for 3 years of follow-up",
+        "follow_up_details": "3 years of follow-up",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Remission of cutaneous disease ensued within 2 months after rectal pouch removal",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

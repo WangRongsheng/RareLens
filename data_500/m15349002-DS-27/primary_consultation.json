@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Dyspnea, cough, chest tightness",
+        "history_of_present_illness": "Patient is a ___ with history of cystic fibrosis (delta ___) and severe tracheobronchomalacia s/p tracheobronchoplasty/RLL wedge resection ___ of R/L main stem bronchi with stent removal ___. Course complicated by multiple intubations, recurrent tracheitis, pseudomonal colonization, complicated repeat thoracic surgery on ___ (rotation esophagoplasty, posterior tracheopexy, bilateral posterior bronchopexy) c/b severe dysphagia and aspiration requiring TPN and the placement of a GJ tube c/b necrotizing fasciitis. Patient's symptoms initially improved though there was recrudescence of her respiratory symptoms within 7 months. Flexible bronchoscopy ___ showed recurrent severe TBM in the RMS, BI, and at the angle of the proximal and distal left mainstem bronchus. Patient subsequently underwent bilateral mainstem stenting with clinical improvement, s/p stent removal ___.",
+        "past_medical_history": "1. Tracheobronchomalacia s/p tracheobronchoplasty, RLL wedge resection (___), s/p redo w/ multiple stent placements 2. Recurrent tracheitis (MRSA, Pseudomonas) 3. Atypical cystic fibrosis (gene present, no manifestations) 4. Pancreatic insufficiency 5. Severe adrenal insufficiency, on chronic steroids 6. Avascular necrosis of the hip secondary to steroid use, asymptomatic 7. Secondary hypoparathyroidism 8. Malabsorption problems 9. GERD 10. Colitis, diverticulitis -> s/p bowel resection ___. PFO -> s/p PFO closure ___ per patient report ___ per another providers note) 12. Obesity; cushingoid ___ chronic steroid intake 13. Endometriosis, surgical diagnosis, no pathology diagnosis->s/p LSC x2 ___. Uterine fibroids 15. Complex right ovarian cyst 16. Urinary incontinence.",
+        "family_history": "Aunt, deceased, age ___, CF. Father, alive, h/o basal cell carcinomas skin.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VITAL SIGNS: T: 97.3, BP: 116/70, HR: 78, RR: 18, O2 96 Trilogy. GENERAL: Wearing trilogy mask, having intermittent coughing fits, otherwise NAD. LUNGS: Increased work of breathing with inspiratory wheezes throughout lung fields, otherwise no crackles, rhonchi, rales.",
+        "specialty_examination": "NEUROLOGIC: Grossly intact."
+    }
+}

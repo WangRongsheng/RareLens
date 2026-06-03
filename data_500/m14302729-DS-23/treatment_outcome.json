@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Coronary artery bypass graft x 2, Total arterial revascularization",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Skeletonized left internal mammary artery graft to left anterior descending artery; Left radial artery graft to second diagonal artery; Endoscopic harvesting of the left radial artery",
+            "treatment_response": "Patient is atrially paced, on phenylephrine infusion. Preserved biventricular function. Mitral regurgitation is now mild."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient underwent coronary angiography showing 100% proximal LAD stenosis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient scheduled for CABG."
+        },
+        {
+            "date": "Not specified",
+            "event": "CABG performed with coronary artery bypass grafts."
+        },
+        {
+            "date": "Not specified",
+            "event": "On transfer to the floor, patient endorses above story and is chest pain free."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and oriented x3, non-focal, ambulating, gait steady.",
+        "follow_up_details": "Follow up appointment with surgeon.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Sternal incision healing well, no erythema or drainage.",
+        "patient_perspective": "Patient expressed no concerns and appeared satisfied with postoperative condition."
+    }
+}

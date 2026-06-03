@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1g IV",
+            "treatment_response": "Improvement in clinical status with antibiotics, specifically developed left-sided crackles during treatment that resolved by discharge."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "gentamicin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Part of initial antibiotic regimen."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "azithromycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Part of treatment for possible pneumonia."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "tylenol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1g PO",
+            "treatment_response": "Given for fever in the ED."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "levofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "750 mg Tablet, Q24H for 5 days",
+            "treatment_response": "Started for pneumonia; no adverse reactions noted."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with fever and chills after dental procedure."
+        },
+        {
+            "date": "Not specified",
+            "event": "Blood cultures and tests performed, leading to referral to the ED."
+        },
+        {
+            "date": "Not specified",
+            "event": "Received 1g IV vancomycin and gentamicin in the ED."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on azithromycin for possible CAP."
+        },
+        {
+            "date": "Not specified",
+            "event": "Given 1g Tylenol for fever in the ED."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on levofloxacin upon discharge."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home, condition improved.",
+        "follow_up_details": "Follow-up radiographs recommended within eight weeks.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Expected full recovery based on resolution of pneumonia.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient reported improvement; active and clear mental status upon discharge.",
+        "patient_perspective": "Feels sicker than previous episodes but improved with treatment."
+    }
+}

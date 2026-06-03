@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Left neck lump",
+        "history_of_present_illness": "The patient has felt a lump on the left side of the neck since a couple of months. On a recent physical examination, there was suspicion of a left-sided thyroid nodule which was confirmed on a subsequent thyroid ultrasound. The ultrasound revealed a partly cystic, partly solid approximately 3.3 cm nodule in the left thyroid lobe at the inferior pole. A subsequent ultrasound-guided fine-needle aspiration biopsy yielded cytology that was consistent with a benign thyroid nodule. Because of some local symptoms that very likely may be related to the thyroid nodule such as occasional choking sensation, occasional swallowing problems, and a sensation of fullness and discomfort on her neck, the patient presented for left hemithyroidectomy.",
+        "past_medical_history": "Previous Medical History: Osteopenia. Previous Surgical History: Hysterectomy several years ago (benign). Previous breast biopsies performed and they have been benign.",
+        "family_history": "No family history of thyroid cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VITALS: Temp 97.7, HR 69, BP 120/54, RR 18, SpO2 98% on room air. GEN: Pleasant lady in no acute distress. HEENT: Transverse neck incision with steri-strips in place. No surrounding erythema, induration, fluctuance or swelling noted. Negative Chvostek's sign. LUNGS: Clear to auscultation bilaterally. Non-labored breathing. CV: Regular rate and rhythm.",
+        "specialty_examination": "NEURO: Alert and oriented. No motor or sensory deficits or fingertip numbness or tingling. EXT: Warm and well-perfused. Peripheral pulses intact."
+    }
+}

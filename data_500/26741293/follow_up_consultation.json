@@ -1,0 +1,112 @@
+{
+    "basic_information": {
+        "age": "58",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "loss of balance, diplopia, and blurred vision that increased with head movement",
+        "history_of_present_illness": "2-year history of symptoms, no falls, able to walk up to 3 miles on a paved trail, gait worsened in the dark, no vertigo, nausea, vomiting, headache, or motion intolerance, symptoms triggered by changing positions such as rising from a sitting position or walking",
+        "past_medical_history": "bilateral, symmetric sensori-neural hearing loss approximately 30 years before, insulin-dependent DM at the age of 34, hypertension, family history of diabetes, one niece who died from complications of MELAS at the age of 15, two siblings have hearing impairment",
+        "family_history": "family history of diabetes, one niece who died from complications of MELAS at the age of 15, two siblings have hearing impairment",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "alert and oriented, static visual acuity was 20/20 in each eye, dynamic visual acuity was significantly impaired (could only read the J16 line with side-to-side head oscillations), pupillary testing and ophthalmoscopy were normal, eye movements were full but there was an esophoria measuring 6 prism diopters in left gaze, visual fixation was steady, saccades, pursuit, and clinical vestibulo-ocular reflex (VOR) in light were intact, up-beating nystagmus on primary and lateral gaze, muscle strength was normal, areflexia in both lower limbs, significant dysmetria on heel-to-shin test, sensory examination demonstrated normal position and vibratory sense and mildly decreased distal pin prick in both feet, unsteady while testing the Romberg sign, could not perform tandem gait or the Fukuda step test",
+        "specialty_examination": "severe sensori-neural hearing loss with thresholds at 80 and 85 dB for the left and right ears, respectively, and a speech discrimination of 60%, video-nystagmography showed normal saccade main sequence, slightly impaired pursuit, and low VOR gain and phase lead for slow chair oscillation and impulsive rotation, and decreased time constant, horizontal and posterior canal gain values were bilaterally decreased, mean horizontal gain was R: 0.31; L: 0.37, mean vertical gain in the plane of the posterior canals was R: 0.58; L: 0.58, anterior canal gain was normal, vestibular evoked myogenic potentials (VEMPs) were bilaterally absent, serum lactate level was slightly elevated at 2.2 mmol/L, nerve conduction studies showed a sensory motor, axonal polyneuropathy that was length dependent, brain MRI showed moderate generalized brain atrophy and small vessel ischemic changes in the supratentorial white matter, muscle biopsy showed few scattered trichrome stained ragged red fibers and several cytochrome oxidase negative and succinate dehydrogenase hyper-reactive fibers, A3243G mutation with 90% heteroplasmy was identified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum lactate level",
+            "date": "Not specified",
+            "findings": "Slightly elevated at 2.2 mmol/L (normal: 0.7–24 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nerve conduction studies",
+            "date": "Not specified",
+            "findings": "Sensory motor, axonal polyneuropathy that was length dependent. Bilateral sural sensory nerve action potentials were less than 3 mV in amplitude (normal 6–12 mV). Right peroneal compound muscle action potential was 1.5 mV in amplitude (normal 3.5–6 mV).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Few scattered trichrome stained ragged red fibers and several cytochrome oxidase negative and succinate dehydrogenase hyper-reactive fibers. The presence of an A3243G mutation with 90% heteroplasmy was identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid protein",
+            "date": "Not specified",
+            "findings": "Elevated at 77.1 mg/dL (normal: 15–40 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fasting blood glucose",
+            "date": "Not specified",
+            "findings": "156 mg/dL (normal 77–99 mg/L)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Moderate generalized brain atrophy and small vessel ischemic changes in the supratentorial white matter, with no abnormalities found in the vessels of the neck and brain on magnetic resonance angiography.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Symmetric and bilateral increased signal intensities in the posterior thalami.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain computed tomography",
+            "date": "Not specified",
+            "findings": "Right cochlear implant, moderate cerebral and more marked cerebellar atrophy, and calcifications in the basal ganglia.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Pure tone audiometry",
+            "date": "Not specified",
+            "findings": "Severe sensori-neural hearing loss, with thresholds at 80 and 85 dB for the left and right ears, respectively, and a speech discrimination of 60%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Video-nystagmography",
+            "date": "Not specified",
+            "findings": "Normal saccade main sequence (velocity, latency and accuracy), slightly impaired pursuit, and low VOR gain and phase lead for slow chair oscillation and impulsive rotation, and decreased time constant.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Video head impulse test (v-HIT)",
+            "date": "Not specified",
+            "findings": "Horizontal and posterior canal gain values were bilaterally decreased; mean horizontal gain was R: 0.31; L: 0.37 (normal: 0.7–1.0), mean vertical gain in the plane of the posterior canals was R: 0.58; L: 0.58 (normal: 0.7–1.0). Vertical VOR gain in the plane of the anterior canals was bilaterally normal, R: 0.83; L: 0.94 (normal 0.7–1.0).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vestibular evoked myogenic potentials (VEMPs)",
+            "date": "Not specified",
+            "findings": "Bilaterally absent.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Automated perimetry",
+            "date": "Not specified",
+            "findings": "Bilateral visual field loss (mean deviation: right eye, 25.53 dB; left eye, 26.02 dB) with elevated foveal thresholds (right eye, 33 dB; left eye, 33 dB).",
+            "changes_over_time": "Progressive, bilateral visual field loss (mean deviation: right eye, 212.63 dB; left eye, 28.91 dB)."
+        },
+        {
+            "procedure_name": "Dynamic visual acuity",
+            "date": "Not specified",
+            "findings": "Significantly impaired; could only read the J16 line with side-to-side head oscillations (frequency: 2 Hz).",
+            "changes_over_time": "Static visual acuity at near was J1 bilaterally; dynamic visual acuity with 2 Hz head oscillations fell to worse than J15 (20/800 Snellen equivalent)."
+        }
+    ]
+}

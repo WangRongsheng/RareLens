@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Coronary artery bypass grafting x4",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Left internal mammary artery graft to left anterior descending; reverse saphenous vein graft to the obtuse marginal branch, diagonal branch, and posterior descending artery.",
+            "treatment_response": "Patient had incisional pain managed with oxycodone. Incisions healing well, no erythema or drainage."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient experienced episode of resting chest discomfort and was referred for cardiac catheterization."
+        },
+        {
+            "date": "Not specified",
+            "event": "Cardiac catheterization revealed multivessel disease."
+        },
+        {
+            "date": "Not specified",
+            "event": "Coronary artery bypass grafting x4 performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge with post-operative medications prescribed."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and oriented x3, ambulating with steady gait, healing well post-surgery.",
+        "follow_up_details": "Follow-up appointment with the surgeon to discuss driving and further care.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Expected to heal well following the standard post-operative instructions.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Not specified."
+    }
+}

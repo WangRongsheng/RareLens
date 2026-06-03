@@ -1,0 +1,91 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "D50",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 amps",
+            "treatment_response": "Patient had low blood sugar (36) after EMS intervention."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2g",
+            "treatment_response": "Initially given but further antibiotics were not administered due to lack of infectious symptoms."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "midazolam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Boluses for agitation en route to the ED",
+            "treatment_response": "Calmed patient during transport."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "D5 drip",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500/hour",
+            "treatment_response": "Infusion started upon transfer."
+        },
+        {
+            "treatment_type": "surgical or invasive procedure",
+            "specific_treatment": "intubation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not applicable",
+            "treatment_response": "Patient intubated for respiratory support."
+        },
+        {
+            "treatment_type": "surgical or invasive procedure",
+            "specific_treatment": "lumbar puncture",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not applicable",
+            "treatment_response": "CSF analysis performed, results pending."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient found unresponsive at home."
+        },
+        {
+            "date": "Not specified",
+            "event": "Initial EMS intervention with 2 amps of D50."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient intubated in the ED."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on D5 drip (500/hour)."
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered 2g of ceftriaxone."
+        },
+        {
+            "date": "Not specified",
+            "event": "Midazolam boluses given for agitation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Lumbar puncture performed."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused - always.",
+        "follow_up_details": "Discharged to long term acute care facility for ongoing care.",
+        "complications": "Anemia requiring blood transfusions and hypercalcemia.",
+        "long_term_prognosis": "Poor prognosis due to multiple myeloma and renal mass.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient was found to have a tumor in the kidney likely renal cell carcinoma; no treatment options due to multiple myeloma."
+    }
+}

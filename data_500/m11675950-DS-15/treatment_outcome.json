@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "robotically assisted laparoscopic abdominoperineal resection",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Recovered from the procedure well"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Surgery performed: robotically assisted laparoscopic abdominoperineal resection"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home"
+        },
+        {
+            "date": "Not specified",
+            "event": "Follow-up appointment for pathology results scheduled"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Recovered",
+        "follow_up_details": "Pathology results to be received at follow-up appointment",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Ambulatory - Independent; tolerating regular diet",
+        "patient_perspective": "Not specified"
+    }
+}

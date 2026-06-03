@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "19 months",
+        "gender": "Female",
+        "weight": "7.2 kg",
+        "height": "66.5 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Hispanic",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Intrauterine growth deficiency, microcephaly, alopecia, bilateral microtia with canal atresia, conductive hearing loss, partial left facial palsy, posterior cleft palate, left choanal stenosis, tetralogy of Fallot, developmental delay, and right thumb polydactyly",
+        "history_of_present_illness": "Small-for-gestational-age (1,950 gm) product of a 38-week gestation. Diminished amniotic fluid and continuing intrauterine growth retardation noted on follow-up ultrasound at 38-week gestation. At birth, noted to have multiple congenital anomalies including congenital heart defect (tetralogy of Fallot), microcephaly, total alopecia, cleft palate, micrognathia, bilateral microtia with canal atresia, preaxial polydactyly of the right hand, and a two vessel umbilical cord. A developmental evaluation at a chronological age of 13 months showed global developmental delay, with function at the 7-month level.",
+        "past_medical_history": "Blalock-Taussig shunt performed at 2 weeks of life, gastrostomy feeding tube placed at 1 month of age for significant growth deficiency. Hospitalized for apneic episodes at 6 weeks of life. Definitive cardiac repair performed at 15 months of age.",
+        "family_history": "Mother had a history of unilateral choanal stenosis and hyposmia, with total alopecia as an infant. Maternal grandfather's family had early-onset alopecia. No known maternal family history of others with developmental delay, growth deficiency, congenital heart defects, microcephaly, cleft palate, microtia, hearing loss, facial palsy, or altered olfaction. Paternal family history unremarkable.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Weight of 7.2 kg significantly below the 5th centile, length of 66.5 cm significantly below the 5th centile, head circumference of 38.0 cm significantly below the 5th centile. Brachycephalic with marked occipital flattening and palpable ridging over her coronal sutures bilaterally, anterior fontanel closed. Palpebral fissures slanted down and teared on crying. Bilateral microtia (with ears measuring 3 cm on right and 2.5 cm on left) with external auditory canal atresia. Broad nasal root and tip with thickened nasal alae. Upper lip thin with a well-demarcated philtrum, and a posterior cleft palate. Heart examination revealed a regular rate with a grade II/VI systolic murmur. Genitalia appeared normal, and anus slightly anteriorly placed. Hand length 8.2 cm (below 3rd centile) and middle finger length 3.1 cm (below 3rd centile). Bilateral fifth finger clinodactyly, a hypoplastic right thumb with no flexion creases, a small right preaxial tag, and a right thenar hypoplasia. Left bridged transverse palmar flexion crease. Foot length 9.5 cm (below the 3rd centile) and partial cutaneous syndactyly of second, third, and fourth toes bilaterally. Almost complete alopecia with only a few scattered scalp hairs, with absent eyebrows and eyelashes. Partial left facial palsy, with diminished muscle tone but normal muscle bulk and strength.",
+        "specialty_examination": "Not specified"
+    }
+}

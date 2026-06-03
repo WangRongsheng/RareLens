@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "endoscopic resection",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "complete right spheno-ethmoidectomy, middle turbinectomy, access septoplasty, right endoscopic medial maxillectomy, excision en bloc along with partial resection of the orbital floor, medial orbital wall and surrounding mucosa of the maxillary sinus",
+            "treatment_response": "The patient’s serum sodium level subsequently returned to normal after removal of the tumour. Excision margins were clear but microinvasion of the orbital floor bone marrow was identified."
+        },
+        {
+            "treatment_type": "radiation",
+            "specific_treatment": "intensity-modulated radiation therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 Gy",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with a 1-year history of lethargy, nausea and pre-syncopal symptoms. Routine blood investigations revealed significant hyponatraemia, with a serum sodium level of 111 mmol/L."
+        },
+        {
+            "date": "Not specified",
+            "event": "MRI performed primarily to investigate for pituitary pathology. Demonstrated a normal pituitary but an incidental right maxillary sinus high-signal intensity lesion."
+        },
+        {
+            "date": "Not specified",
+            "event": "CT of the paranasal sinuses demonstrated a soft tissue density lesion within the right maxillary sinus with areas of presumed calcification."
+        },
+        {
+            "date": "Not specified",
+            "event": "PET scan confirmed a high-activity lesion with no regional or distant disease."
+        },
+        {
+            "date": "Not specified",
+            "event": "Examination under anaesthesia demonstrated a pedunculated lesion arising from the roof of the maxillary sinus. Endoscopic biopsy was performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Histology demonstrated a Hyam’s grade 1 esthesioneuroblastoma. The lesion was staged as Kadish B and Dulgerov T1N0M0."
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgical resection with adjuvant radiotherapy was recommended."
+        },
+        {
+            "date": "Not specified",
+            "event": "Endoscopic resection performed. The lesion was excised en bloc along with partial resection of the orbital floor, medial orbital wall and surrounding mucosa of the maxillary sinus."
+        },
+        {
+            "date": "Not specified",
+            "event": "Adjuvant intensity-modulated radiation therapy of 50 Gy was administered."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "disease-free at 7 years postoperatively",
+        "follow_up_details": "followed up every 6 months for the first 3 years, then yearly thereafter. At each follow-up visit, thorough flexible nasendoscopic examination of the patent sinus cavities and MRI was performed to assess for recurrence.",
+        "complications": "No postoperative morbidity, such as hypoglobus, has been experienced by the patient.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

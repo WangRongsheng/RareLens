@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "fourth ventricular cysto–pleural shunt insertion",
+            "start_date": "2007-04",
+            "end_date": "2007-12",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Initially well, but at 4 months following surgery she deteriorated with a left 7th nerve palsy, right 6th nerve palsy, tetraparesis, and difficulty in swallowing."
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "second shunt placement in the new cyst",
+            "start_date": "2007-08",
+            "end_date": "2007-12",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient did not improve and developed increasing weakness and more marked bulbar disturbance."
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "clipping of the cysto–pleural shunt",
+            "start_date": "2007-12",
+            "end_date": "2008-04",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Clinical state continued to deteriorate, and she required naso-enteric feeding and developed a marked tetraparesis."
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "posterior fossa and upper cervical canal decompression with placement of a fascia lata graft (expansile duroplasty)",
+            "start_date": "2008-04",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Immediate improvement in her weakness and 6th and 7th nerve palsies, and was soon tolerating a soft diet. Her motor function improved dramatically."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "2007-04",
+            "event": "Fourth ventricular cysto–pleural shunt insertion"
+        },
+        {
+            "date": "2007-08",
+            "event": "Second shunt placement in the new cyst"
+        },
+        {
+            "date": "2007-12",
+            "event": "Clipping of the cysto–pleural shunt"
+        },
+        {
+            "date": "2008-04",
+            "event": "Posterior fossa and upper cervical canal decompression with placement of a fascia lata graft (expansile duroplasty)"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable neurology over many months, regained weight, continued to use a wheelchair for mobility",
+        "follow_up_details": "Follow-up MRI revealed a decreasing size of the known syrinx, and gradual resolution of the oedema in the brain stem and upper cervical canal",
+        "complications": "Left 7th nerve palsy, right 6th nerve palsy, tetraparesis, difficulty in swallowing, marked bulbar disturbance, naso-enteric feeding requirement",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Immediate improvement post decompression surgery, stable neurology over many months",
+        "quality_of_life": "Continued to use a wheelchair for mobility",
+        "patient_perspective": "Not specified"
+    }
+}

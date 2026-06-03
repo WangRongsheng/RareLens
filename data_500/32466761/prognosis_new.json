@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "Over the 20-month period, DHA was safe and well-tolerated; both showed an overall stabilization of clinical symptoms, rather than the expected deterioration.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Persistent neurologic symptoms (ataxia, dysarthria, limb weakness) with mild changes (e.g., mild dexterity deterioration) and unchanged EQ-5D-3L scores suggest ongoing but limited-impact symptom burden.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "functional_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At 6 months, P2’s 6MWT increased from 400 m at T0 to 475 m (and 10MWT improved to 9.2 s)."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At 12 months, P1’s SARA rose to 11.5 (from 7 at T0), indicating interim worsening."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 20 months, both showed mild improvement in lower limb functions (DSI-ARSACS items 5–7)."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 20 months, P2 had mild improvement in speech (SARA item 4; DSI-ARSACS item 1)."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 20 months, both had mild deterioration of right limb dexterity (SARA items 5 and 7/8; DSI-ARSACS item 3)."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 20 months, P1’s LDL (241 mg/dL) and total cholesterol (282 mg/dL) were markedly elevated; both patients interrupted DHA due to cardiovascular risk concerns."
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "This case report describes two siblings; outcomes are summarized across both since the dominant long-term pattern (stabilization) was similar. The reference time approximates the pre-treatment baseline evaluation (T0). Follow-up beyond 20 months is not documented."
+}

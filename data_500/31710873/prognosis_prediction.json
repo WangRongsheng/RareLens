@@ -1,0 +1,104 @@
+{
+    "basic_information": {
+        "age": "28",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "palpitations and dizziness",
+        "history_of_present_illness": "The patient had complained of palpitations and fatigue since the age of 5 years. Beta-blockers (bisoprolol 2,5 mg) had been discontinued because of side effects (asthenia and constipation). Electrocardiogram showed premature ventricular beats and mildly prolonged QTc interval (QT 440 ms, HR 70 bpm, with Bazett's formula QTc 475 ms), while echocardiography was normal. A 24-hour Holter registration confirmed 31,965 ventricular extrasystoles (25,5% of total beats), with bigeminy, 3624 couples and 3784 non-sustained ventricular tachycardia, without regression during exercise testing. The patient was referred to our attention at the age of 28 years because of sustained bidirectional ventricular tachycardia associated to palpitations and dizziness. Administration of flecainide (2 mg/kg) suppressed the arrhythmia and restored sinus rhythm.",
+        "past_medical_history": "history of cleft lip and palate repair in 1989, normal psychomotor development and hypothyroidism with treatment",
+        "family_history": "Her father is a 59 year-old man who had 1 episode of complete paralysis at the age of 45. Potassium levels during the attack were 3 mEq/L. Since then, no additional full-blown episodes occurred, except for very mild episodes of transitory focal weakness. Neurological examination of the father revealed mild facial features consistent with ATS. Muscles were of normal tone, bulk and strength. Serum potassium levels between attacks were within the normal range, but a supplementation with potassium tablets (600 mg b.i.d.) has initiated to alleviate the episodes of muscle weakness. Cardiac assessments revealed polymorphic ventricular extrasystoles on electrocardiography.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Physical examination revealed the typical facial and skeletal features of ATS. The patient's history was positive for persistent fatigue with superimposed episodes (1 to 3 per month) of focal transitory muscle weakness involving one or more limbs.",
+        "specialty_examination": "Neurological examination showed that the cranial nerves were normal, except for mild cleft palate-related dysphonia and dysarthria. Muscles were of normal tone, bulk and strength. Deep tendon reflexes were normal, as were coordination tests."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Potassium levels test",
+            "date": "Not specified",
+            "findings": "3.2 mEq/L (hypokalemia)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic analysis",
+            "date": "Not specified",
+            "findings": "Heterozygous mutation c575 N T p.Thr192IIe in KCNJ2 gene",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Premature ventricular beats and mildly prolonged QTc interval (QT 440 ms, HR 70 bpm, QTc 475 ms)",
+            "changes_over_time": "Later ECG showed sinus rhythm with prolonged QT interval (500 ms), prolonged terminal portion of the T-wave descending and large U-wave"
+        },
+        {
+            "procedure_name": "24-hour Holter registration",
+            "date": "2010",
+            "findings": "31,965 ventricular extrasystoles (25.5% of total beats), with bigeminy, 3624 couples and 3784 non-sustained ventricular tachycardia",
+            "changes_over_time": "Marked reduction to 18 isolated ventricular extrasystoles per day after flecainide therapy"
+        },
+        {
+            "procedure_name": "Exercise testing",
+            "date": "Not specified",
+            "findings": "No regression of ventricular extrasystoles",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neurological examination",
+            "date": "Not specified",
+            "findings": "Cranial nerves normal except for mild cleft palate-related dysphonia and dysarthria. Muscles normal in tone, bulk, and strength. Deep tendon reflexes normal.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Andersen-Tawil Syndrome (ATS)",
+        "diagnostic_reasoning": "The combination of facial dysmorphisms, unjustified persistent muscle fatigue, and long QT interval suggested the presence of ATS. Genetic analysis confirmed a mutation in the KCNJ2 gene, which is known to be pathogenic for ATS."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "bisoprolol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.5 mg"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "flecainide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 mg/kg initially, then 100 mg twice a day"
+        },
+        {
+            "treatment_type": "supplement",
+            "specific_treatment": "potassium supplementation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "subcutaneous cardiac defibrillator implantation (s-ICD)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

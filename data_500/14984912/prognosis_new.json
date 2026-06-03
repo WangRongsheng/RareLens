@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "His motor disability progressed to marked distal weakness, wasting, and contractures; by age 8 he could walk short distances but required a wheelchair for longer journeys.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Progressive motor disability with marked distal weakness, wasting, contractures, and sensory deficits.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "From 2 years of age neurologic involvement became evident. He had frequent falls, secondary to foot drop."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "His motor disability progressed to marked distal weakness, wasting, and contractures."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 7 years of age he underwent triple arthrodesis."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 8 years of age he could walk short distances but required a wheelchair for longer journeys."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time taken as neonatal diagnosis; follow-up details extend to approximately age 8 with no data beyond that. Degree of benefit from orthopedic surgery is not specified."
+}

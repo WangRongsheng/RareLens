@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "familial pseudohyperkalemia syndrome",
+        "differential_diagnosis": "hereditary spherocytosis, pseudohyperkalemia due to mechanical trauma during venipuncture, pseudohyperkalemia due to prolonged use of tourniquet or fist clenching during venipuncture, pseudohyperkalemia due to marked leukocytosis or thrombocytosis",
+        "diagnostic_reasoning": "The patient presented with hyperkalemia without symptoms, and initial tests ruled out common causes. A marked difference between serum and plasma potassium levels indicated pseudohyperkalemia. Further testing showed excessive potassium release from red blood cells at lower temperatures (4°C and 25°C) but not at 37°C, consistent with familial pseudohyperkalemia. The patient's father showed similar results, supporting a familial pattern. No hemolysis or hematological abnormalities were found, ruling out other causes like hereditary spherocytosis."
+    }
+}

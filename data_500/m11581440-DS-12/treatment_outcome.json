@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40mg/day tapered down by 10mg per week, total of 4 weeks",
+            "treatment_response": "Nutrition improved"
+        },
+        {
+            "treatment_type": "nutrition support",
+            "specific_treatment": "IV supplemental nutrition",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Nutrition improved"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Enoxaparin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg SC Q12H for at least 3 months",
+            "treatment_response": "For blood clot management"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Furosemide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO DAILY",
+            "treatment_response": "For body swelling"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Admitted from rehab with severe laboratory abnormalities and rapid weight loss"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Prednisone to treat celiac disease"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on IV supplemental nutrition"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged with Enoxaparin for blood clot management"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Furosemide for body swelling"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive",
+        "follow_up_details": "Active management and dose titration of insulin and water pill required after discharge",
+        "complications": "Blood clot associated with the special IV line",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Improved nutrition",
+        "patient_perspective": "Patient reported feeling better"
+    }
+}

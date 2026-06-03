@@ -1,0 +1,80 @@
+{
+    "basic_information": {
+        "age": "53",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Japanese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Disorientation and a general seizure",
+        "history_of_present_illness": "A tumor lesion, which measured about 6 cm in diameter, was detected in the right frontal lobe by computerized tomography (CT) scans and magnetic resonance imaging (MRI). The tumor and its cystic wall was totally removed surgically and the patient’s symptoms subsequently improved. Histologically, the tumor was diagnosed as an anaplastic ganglioglioma. Following surgery, the patient was subjected to cranial radiation with 66 Gy and local chemotherapy with nimustine and methotrexate. One year after the first operation, the patient was readmitted to hospital because of gait disturbance and dementia. A ventriculoperitoneal shunt using a Pudenz catheter without a filter was placed in the lateral ventricle for the treatment of normal pressure hydrocephalus (10 cmH2O of cerebrospinal fluid pressure) with mild urinary incontinence.",
+        "past_medical_history": "Anaplastic ganglioglioma",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "September 1995",
+            "findings": "No atypical cells found",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ascitic fluid analysis",
+            "date": "September 1995",
+            "findings": "No atypical cells found",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computerized tomography (CT) scan",
+            "date": "August 1993",
+            "findings": "A tumor lesion, which measured about 6 cm in diameter, was detected in the right frontal lobe",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "August 1993",
+            "findings": "A mass lesion was observed at the right frontal lobe and measured 5 cm in diameter. Adjacent to the mass lesion, a dilated cystic lesion was noted",
+            "changes_over_time": "After surgery, the tumor and the cystic lesion were removed"
+        },
+        {
+            "procedure_name": "MRI examination",
+            "date": "December 1994",
+            "findings": "A new mass lesion in the left frontal lobe was found",
+            "changes_over_time": "Recurrence of the tumor was suggested but the resected specimen was totally composed of necrotic tissue"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "May 1995",
+            "findings": "Revealed a spinal tumor at the segment between the second and fourth thoracic portion",
+            "changes_over_time": "During surgery, two tumor lesions located at the fourth and sixth thoracic portion were revealed"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Immunohistochemical staining",
+            "date": "Not specified",
+            "findings": "Almost all ganglion cells in type A lesions were positive for NSE. Less than 10% of NSE-positive ganglion cells showed positive staining for neurofilament. Gemistocytic cells were negative for NSE and neurofilament but positive for GFAP and vimentin. Atypical glial cells in type B lesions were negative for NSE, GFAP, vimentin and neurofilament",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Autopsy",
+            "date": "October 15, 1995",
+            "findings": "Multiple metastatic lesions were found in the spinal cord, and the abdominal and pleural cavities. Histologically, all the metastatic lesions were composed of atypical cells which resembled primitive glial elements found in intracranial anaplastic ganglioglioma. Tumor cells were often found in the muscle tissue of the diaphragm. There were no recurrent tumors found in any part of the brain. Small foci of hemorrhage and gliosis were found at the surgical margins; however, no obvious tumor residuals were noted",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Anaplastic ganglioglioma",
+        "diagnostic_reasoning": "The tumor was diagnosed as an anaplastic ganglioglioma based on its microscopic features, including a mixture of atypical glial cells and ganglion cells, with the glial cells showing features of anaplasia such as cellular pleomorphism, high cellularity, and mitotic figures. Immunohistochemical staining supported the diagnosis, with ganglion cells positive for neuron-specific enolase (NSE) and neurofilament, and glial cells positive for glial fibrillary acidic protein (GFAP) and vimentin."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Potassium Chloride (KCl)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mEq PO, 10 mEq IV",
+            "treatment_response": "Improvement in potassium levels; however, patient initially felt nauseous and lightheaded."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for nausea, vomiting, and hypotension. Initial labwork showed hypokalemia and hyponatremia."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received IV fluids and potassium supplementation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Home medications including amiodarone and atorvastatin were held."
+        },
+        {
+            "date": "Not specified",
+            "event": "Sodium levels improved back to normal."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with instructions not to restart held medications until follow-up."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive, ambulating independently.",
+        "follow_up_details": "Patient advised to attend all follow-up appointments and resume medications only after consulting a primary care physician.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Expected to continue improving; no restrictions on diet or fluid intake.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Patient was informed about the causes of her symptoms and the plan for follow-up."
+    }
+}

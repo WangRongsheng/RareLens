@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Right ankle wound infection",
+        "history_of_present_illness": "Male with a recent ORIF of an open right ankle fracture dislocation and ORIF left tibial shaft fracture presenting with right ankle wound. Patient developed swelling and pain one week ago, which got progressively worse. Two days ago, felt a sharp pain on his medial ankle with frank bleeding from a small wound. Started on Keflex, but wound has gotten bigger.",
+        "past_medical_history": "None",
+        "family_history": "Noncontributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Temp: 98.2 PO, BP: 120/76, HR: 69, RR: 16, O2 sat: 98%. Well-appearing, breathing comfortably.",
+        "specialty_examination": "RLE: Leg in bivalved, windowed cast. Circular skin defect at the medial malleolus with good granulation tissue. Wound has been packed with 1 wet gauze for twice daily wet-to-dry dressing changes. Sensation intact to light touch in S/S/SP/DP/T distributions."
+    }
+}

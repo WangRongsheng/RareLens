@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Posterior Instrumentation Fusion T10-L1",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient was comfortable post-surgery, advised on activity restrictions and rehabilitation."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Fell approximately 6 feet off a ladder, noted immediate back pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Transferred to another facility after CT revealed a 3-column spine injury at T11."
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent posterior instrumentation fusion at T10-L1."
+        },
+        {
+            "date": "Not specified",
+            "event": "Advised on post-surgery care, including activity restrictions, wound care, and medication management."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Not specified",
+        "follow_up_details": "Follow-up appointment scheduled for 2 weeks post-operation to check the incision and take X-rays.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

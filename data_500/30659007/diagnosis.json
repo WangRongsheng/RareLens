@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Intracranial haemorrhage due to thrombosis of a developmental venous anomaly (DVA)",
+        "differential_diagnosis": "Haemorrhagic tumour, intratumoural haemorrhage from a primary parenchymal neoplasm",
+        "diagnostic_reasoning": "The patient presented with seizure episodes and right hemiparesis. Imaging revealed a left frontotemporal hypoattenuation initially thought to be a haemorrhagic tumour, but further angiographic evaluation showed a collection of vessels draining into the superior sagittal sinus via the vein of Trolard, consistent with a DVA. Retrospective imaging review confirmed the initial MRI findings from 2 years prior were likely a DVA. The haemorrhage was attributed to venous occlusion from thrombosis of the DVA draining vein."
+    }
+}

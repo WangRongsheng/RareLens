@@ -1,0 +1,127 @@
+{
+    "basic_information": {
+        "age": "26 months",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hypotonia, significant delay in motor milestones, and marked muscle weakness since birth with mild improvement over time",
+        "history_of_present_illness": "Mechanically ventilated since birth and G-tube fed. Tolerated being off the ventilator for up to 8 hours during the day. Speech was delayed but able to repeat words and communicate with his parents. Previous evaluations included two muscle biopsies; one was interpreted as displaying type 2 fiber atrophy and the other to show neurogenic atrophy. The patient had a mild generalized aminoaciduria.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Cup-shaped low-set ears and contractures at the metacarpophalangeal and proximal interphalangeal joints involving most fingers. Bifacial diplegia, high arched palate, but good head control, and could sit with minimal support. The tendon reflexes were hypoactive.",
+        "specialty_examination": "EMG showed prominent fibrillation potentials and rapidly recruiting small motor unit potentials with occasional complexity."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum creatine kinase level",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Karyotyping",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chromosomal microarray",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Analysis of myotonic dystrophy and survival motor neuron genes",
+            "date": "Not specified",
+            "findings": "Negative or normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prader–Willi methylation test",
+            "date": "Not specified",
+            "findings": "Negative or normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Generalized aminoaciduria test",
+            "date": "Not specified",
+            "findings": "Mild generalized aminoaciduria",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole exome sequencing",
+            "date": "Not specified",
+            "findings": "Two-amino-acid duplication c.437_442dupCCTCCG predicting p.146_147dupAlaSer in ACTA1",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Negative or normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Abnormal variation in fiber size, fiber splitting, increase in internal nuclei, vacuolar change, focal areas of myofibrillar disorganization or hyaline structures, several fibers with 'punched-out' regions of oxidative enzyme activity, scattered necrotic and regenerating fibers, marked increase of endomysial and perimysial fibrous connective tissue, abnormal expression of desmin, αB-crystallin, myotilin, dystrophin, and NCAM",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EMG",
+            "date": "Not specified",
+            "findings": "Prominent fibrillation potentials and rapidly recruiting small motor unit potentials with occasional complexity",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histochemistry and immunostains",
+            "date": "Not specified",
+            "findings": "Abnormal variation in fiber size, fiber splitting, increase in internal nuclei, vacuolar change, focal areas of myofibrillar disorganization or hyaline structures, several fibers with 'punched-out' regions of oxidative enzyme activity, scattered necrotic and regenerating fibers, marked increase of endomysial and perimysial fibrous connective tissue, abnormal expression of desmin, αB-crystallin, myotilin, dystrophin, and NCAM",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Expression studies",
+            "date": "Not specified",
+            "findings": "Mutant actin expressed at ~11% of wild-type, mutant actin formed pleomorphic cytoplasmic aggregates whereas wild-type actin appeared in filamentous structures",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Severe congenital actin related myopathy with myofibrillar myopathy features",
+        "diagnostic_reasoning": "The diagnosis was based on clinical findings of hypotonia, significant delay in motor milestones, and marked muscle weakness since birth, along with muscle biopsy findings showing abnormal variation in fiber size, fiber splitting, and ectopic expression of multiple proteins. Whole exome sequencing revealed a two-amino-acid duplication in ACTA1, and cell culture studies showed mutant actin formed pleomorphic cytoplasmic aggregates, supporting the diagnosis."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "pyridostigmine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "mechanical ventilation",
+            "specific_treatment": "mechanical ventilation",
+            "start_date": "since birth",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "tube-feeding",
+            "specific_treatment": "G-tube feeding",
+            "start_date": "since birth",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

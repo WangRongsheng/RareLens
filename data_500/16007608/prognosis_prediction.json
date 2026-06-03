@@ -1,0 +1,83 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Not specified",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Chinese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Extreme mesomelic shortening of both lower limbs (with the fibulae more involved than the tibias), asymmetrical radio-ulnar shortening the left radius and ulna below the 5th centile in length and the right radius and ulna, both femurs and humeri of normal length for gestational age. Cutaneous syndactyly of the third and fourth fingers was noted bilaterally.",
+        "history_of_present_illness": "Antenatal ultrasonographic findings revealed extreme mesomelic shortening of both lower limbs (with the fibulae more involved than the tibias), asymmetrical radio-ulnar shortening the left radius and ulna below the 5th centile in length and the right radius and ulna, both femurs and humeri of normal length for gestational age. Cutaneous syndactyly of the third and fourth fingers was noted bilaterally. A karyotype was normal (46,XX). A medical induction of labor took place at 20 weeks gestation.",
+        "past_medical_history": "Not specified",
+        "family_history": "Parents were a non-consanguineous Chinese couple who had a healthy 2-year-old boy, were 33 and 38 years of age respectively.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Bilateral insertional polydactyly between the fourth and fifth digits of the hands in association with postaxial polydactyly resulting in seven fingers bilaterally, fibular hypoplasia, postaxial polysyndactyly (cutaneous and osseous) of both feet, an imperforate anus, a recto-vaginal fistula, vaginal atresia, and a hypothalamic hamartoma."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Karyotype",
+            "date": "Not specified",
+            "findings": "46,XX",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genomic DNA sequencing",
+            "date": "Not specified",
+            "findings": "GLI3 c.3386_3387delTT mutation detected in exon 14",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Antenatal ultrasound",
+            "date": "19 weeks of gestation",
+            "findings": "Extreme mesomelic shortening of both lower limbs (with the fibulae more involved than the tibias), asymmetrical radio-ulnar shortening the left radius and ulna below the 5th centile in length and the right radius and ulna, both femurs and humeri of normal length for gestational age. Cutaneous syndactyly of the third and fourth fingers was noted bilaterally.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiographs",
+            "date": "Not specified",
+            "findings": "Mesomelic changes in the ulna and tibia, fibular hypoplasia and blunted metaphyses, and decreased epiphyseal ossification. Mild radial bowing, post-axial polydactyly, and insertional polydactyly were evident.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Confirmed the presence of a hypothalamic tumor, bilateral hip and renal dysplasia, a laryngeal cleft, epiglottal hypoplasia, and a vascular ring.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Post mortem examination",
+            "date": "Not specified",
+            "findings": "Bilateral insertional polydactyly between the fourth and fifth digits of the hands in association with postaxial polydactyly resulting in seven fingers bilaterally, fibular hypoplasia, postaxial polysyndactyly (cutaneous and osseous) of both feet, an imperforate anus, a recto-vaginal fistula, vaginal atresia, and a hypothalamic hamartoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Clinical examination",
+            "date": "Not specified",
+            "findings": "Bilateral lower limb acromesomelia, bilateral brachydactyly, left fourth and fifth finger cutaneous syndactyly, insertional left third toe polydactyly, digital nail hypoplasia, left fifth and sixth toe cutaneous syndactyly, right fourth and fifth toe cutaneous syndactyly, and an anteriorly placed anus with stenosis.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Pallister-Hall syndrome (PHS)",
+        "diagnostic_reasoning": "The diagnosis was confirmed based on clinical findings including hypothalamic hamartoma, postaxial polydactyly, syndactyly, and other anomalies. Molecular analysis in Patient 2 revealed a GLI3 mutation (c.3386_3387delTT), which is associated with PHS. The presence of skeletal dysplasia features such as fibular hypoplasia, radio-ulnar bowing, and proximal epiphyseal hypoplasia further supported the diagnosis."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "Not specified",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

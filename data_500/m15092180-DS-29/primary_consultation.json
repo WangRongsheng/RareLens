@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "recurrent esophagitis",
+        "history_of_present_illness": "Ms. ___ is a ___ PMH including HIV/AIDS (CD4 in ___ <20, viral load 311,000, not on ART ___ side effects, no PPX), OIs (candidal esophagitis, MAC, CMV retinitis) resistant ___ esophagitis with progression of dysphagia/odynophagia despite outpatient treatment, weight loss ___ decreased PO intake, abdominal pain/nausea/reflux after eating admitted for IV treatment and PICC from PCP. Has had candidal esophagitis with severe odynophagia for several months, and has completed 3 courses of IV micafungin in ___. EGD earlier this month showed diffuse grade IV candidiasis in the entire esophagus, with culture growing ___ albicans resistant to voriconazole and fluconazole, only intermediate sensitivity to micafungin. She reports that as soon as she discontinued her last treatment of micafungin last month her odynophagia returned and is worse than it has ever been. She reports soreness all the way from the mouth to lower throat, severe enough that she can barely swallow liquids. Also has concurrent shingles infection on L antecubital area, resolving, was prescribed Valtrex last week but was unable to take much of it due to her odynophagia. She reports that her only nutrition has been broths and liquids for the past 6 weeks due to the pain. She saw her PCP yesterday and due to her progressive candidiasis was told to go to the ED for IV antibiotics and PICC line.",
+        "past_medical_history": "HIV diagnosed in ___ while pregnant - prior HIV dementia, PML - HIV neuropathy - CMV retinitis - Bacteremia MAC s/p ethambutol, rifabutin, and clarithromycin - recurrent esophageal candidiasis, ___ ___ - PTSD secondary to childhood trauma vs prior medical encounters - Herpes Zoster - Hemorrhoids - Alopecia - Onycholysis - Folliculitis - Postinflammatory Hyperpigmentation - Post Herpetic Neuralgia - Seborrheic Dermatitis - Anxiety Disorder - Bipolar Disorder - Vulvodynia - Hx of Bell's Palsy - Positive Ppd/treated(PER ___) - Peripheral Neuropathy - Folliculitis, chronic - Presbyopia - Astigmatism - Myopia - Anemia (ICD-285.9)",
+        "family_history": "Mother with HTN.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital Signs: 98.8 PO 101 / 67 88 20 100 RA General: Alert, oriented, not in any apparent distress HEENT: Wearing sunglasses. Sclerae anicteric, extensive thrush on palate and tongue. EOMI, PERRL, neck supple CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi Abdomen: Soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding GU: No foley Ext: Has crusted vesicular lesions on left antecubital fossa. Otherwise ext are warm, well perfused, no edema Neuro: CNII-XII intact, moving all extremities spontaneously, normal gait.",
+        "specialty_examination": "Neuro: CN II-XII intact though slight left sided facial droop (chronic)"
+    }
+}

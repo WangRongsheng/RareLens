@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Andersen-Tawil Syndrome (ATS)",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The combination of facial dysmorphisms, unjustified persistent muscle fatigue, and long QT interval suggested the presence of ATS. Genetic analysis confirmed a mutation in the KCNJ2 gene, which is known to be pathogenic for ATS."
+    }
+}

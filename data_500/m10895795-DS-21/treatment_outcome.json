@@ -1,0 +1,99 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Cardiac Catheterization",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Cardiac catheterization showed diffuse two vessel moderate coronary artery disease, with no blockage that could be treated with a stent."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Clopidogrel",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "75 mg, one tablet daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "325 mg, one tablet daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Simvastatin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg, two tablets daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lisinopril",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg, one tablet daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Nitroglycerin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.4 mg, one tablet sublingually every 5 minutes as needed",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Pantoprazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg, one tablet twice a day",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Cardiac catheterization performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on clopidogrel"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on aspirin"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on simvastatin"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on lisinopril"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on nitroglycerin"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on pantoprazole"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "CK trending down, CP free",
+        "follow_up_details": "Appointment on ___ at 11:10 am to evaluate shoulder further.",
+        "complications": "No complications",
+        "long_term_prognosis": "Continued on medication to reduce risk of future heart attacks.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

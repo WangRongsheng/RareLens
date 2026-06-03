@@ -1,0 +1,94 @@
+{
+    "basic_information": {
+        "age": "10 years",
+        "gender": "Male",
+        "weight": "50-75th centile",
+        "height": "25th centile",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Developmental delay, especially regarding speech and language, and dysmorphic features resembling a syndromic condition",
+        "history_of_present_illness": "He acquired autonomous ambulation at 15 months and uttered his first words after the age of two years. Language development was significantly delayed. In the first two years of life, he suffered from upper respiratory tract infections and from otitis. He presented with bilateral conductive hypoacusia and adenotonsillar hypertrophy needing surgical intervention. He thus underwent tympanocentesis with drainage positioning; despite these aids, language development did not improve.",
+        "past_medical_history": "He suffered from upper respiratory tract infections and from otitis. He presented with bilateral conductive hypoacusia and adenotonsillar hypertrophy needing surgical intervention. He thus underwent tympanocentesis with drainage positioning.",
+        "family_history": "Healthy parents",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Weight was 14 kg (50th centile), height was 92 cm (25th centile), OFC was 49.5 cm (50th centile). His hair was sparse and thin. Oral motor planning was highly immature. Verbal comprehension was quite adequate, instead vocabulary was limited to few bisyllabic words and onomatopoeia.",
+        "specialty_examination": "Neurological examination did not detect specific signs, except for executive slowness, in particular when precision was required. Osteopatellar reflex were brisk. General examination revealed sparse and thin hair, beaked nose, arcuate upper lip, gingival hypertrophy, small low-set ears with thick and simplified helices, broad thumb, brachydactyly of the forth feet finger bilaterally, plano-valgus foot bilaterally. OFC was 54 cm (50th–75th centile)."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Array-Comparative Genomic Hybridization (CGH)",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Next Generation Sequencing (NGS) panel",
+            "date": "Not specified",
+            "findings": "Revealed a novel mutation in DPF2 gene (c.1094C>G in exon 10 resulting in p.Pro365Arg)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Analysis of CREBBP and EP300 genes",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Foot X-ray",
+            "date": "Not specified",
+            "findings": "Detected the fourth metatarsal brevity",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiography",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Phoniatric evaluation",
+            "date": "Not specified",
+            "findings": "Revealed submucous cleft palate, not needing surgical intervention",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ophthalmological evaluation",
+            "date": "Not specified",
+            "findings": "Revealed a mild astigmatism, internal strabismus and hypopigmentation of the fundus oculi",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Wechsler Preschool and Primary Scale of Intelligence – III edition (WPPSI-III)",
+            "date": "Age of 5 years and 3 months",
+            "findings": "Borderline cognitive impairment (Verbal Intelligence Quotient, VIQ 84, Performance Intelligence Quotient, PIQ 85, Processing Velocity Quotient 103, Total Intelligence Quotient, TIQ 83)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Wechsler Intelligence Scale for Children-III edition (WISC-III)",
+            "date": "Age of 7 years and 2 months",
+            "findings": "Lower limits of the norm (VIQ 93, PIQ 87, TIQ 89)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WISC-IV",
+            "date": "Age of 10 years and 2 months",
+            "findings": "Lower limits of the norm (Verbal Comprehension Index 96, Perceptual Reasoning Index 98, Working Memory 70, Processing Speed Index 97, TIQ 88)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

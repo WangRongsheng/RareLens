@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "subcranial and transnasal approach tumor resection",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Mild postoperative diplopia resolved with time. No epiphora, cerebrospinal fluid leak, or vision loss was experienced."
+        },
+        {
+            "treatment_type": "radiation",
+            "specific_treatment": "concomitant radiation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "60 Gy to the tumor bed; 52.5 Gy to the bilateral neck",
+            "treatment_response": "No recurrence noted 11 months postsurgery."
+        },
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "IV cisplatin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "210 mg for three cycles; 110 mg/m2",
+            "treatment_response": "No recurrence noted 11 months postsurgery."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Initial biopsy of the mass in the clinic was non-diagnostic."
+        },
+        {
+            "date": "Not specified",
+            "event": "Endoscopic biopsy performed in the operating room."
+        },
+        {
+            "date": "Not specified",
+            "event": "Frozen sections taken from the posterior ethmoids revealed a small focus of carcinoma-in-situ (CIS) amid a large quantity of tissue consistent with VC."
+        },
+        {
+            "date": "Not specified",
+            "event": "Postoperative MRI was obtained after the biopsy to better characterize orbital, skull base, and brain involvement."
+        },
+        {
+            "date": "Not specified",
+            "event": "Tumor was resected through a subcranial and transnasal approach."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received concomitant radiation and chemotherapy."
+        },
+        {
+            "date": "11 months postsurgery",
+            "event": "Repeat imaging and endoscopic exams showed him to be free of recurrence."
+        },
+        {
+            "date": "3.5 years postsurgery",
+            "event": "Patient remains free of recurrence."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Free of recurrence",
+        "follow_up_details": "Repeat imaging and endoscopic exams showed him to be free of recurrence 11 months postsurgery, and he remains so 3.5 years postsurgery.",
+        "complications": "Mild postoperative diplopia resolved with time. No epiphora, cerebrospinal fluid leak, or vision loss was experienced.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Hyponatremia, Hypokalemia, Hypovolemic hypotension, Drug-induced transaminitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's presentation of nausea/vomiting, weakness, hypotension, and lab results showing low sodium and potassium levels, along with a history of recent medication changes (stopping furosemide and losartan, starting indapamide), support the diagnosis. The improvement in sodium levels with intravenous fluids and the association of elevated liver enzymes with medications (amiodarone and atorvastatin) further solidified the final diagnoses."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "albuterol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 PUFF inhalation every 4 hours as needed for wheezing",
+            "treatment_response": "Patient reported some improvement in shortness of breath."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "azithromycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg on arrival, then 250 mg PO daily for one dose",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with dyspnea, suspected COPD exacerbation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received DuoNeb and azithromycin treatment."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient reported improvement in shortness of breath."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged against medical advice."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home against medical advice.",
+        "follow_up_details": "Follow up with PCP as soon as possible; recommended follow up X-ray in 6 weeks.",
+        "complications": "No complications noted.",
+        "long_term_prognosis": "Unable to rule out lung cancer; further evaluation recommended.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient ambulated independently, mental status clear.",
+        "patient_perspective": "Patient declined most treatment and requested discharge."
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Levofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 week course",
+            "treatment_response": "Continued to feel weak and out of breath"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin (ASA)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "162 mg",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lasix",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg IV",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Received levofloxacin for pneumonia"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received aspirin 162 mg in the emergency department"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received Lasix 20 mg IV for presumed heart failure"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT surgery recommended conservative management"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable",
+        "follow_up_details": "Schedule a follow-up appointment with primary care physician ___ weeks after discharge",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Decision made to focus on medical management"
+    }
+}

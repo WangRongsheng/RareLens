@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Azithromycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg IV x1",
+            "treatment_response": "Improvement noted"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 gm IV x1",
+            "treatment_response": "Improvement noted"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 gm PO x1",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "fluid therapy",
+            "specific_treatment": "Normal Saline",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1L",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Administered Normal Saline 1L"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered Azithromycin 500 mg IV"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered Ceftriaxone 1 gm IV"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered Acetaminophen 1 gm PO"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Significant confusion but improved",
+        "follow_up_details": "Discharged to an extended care facility",
+        "complications": "No complications",
+        "long_term_prognosis": "Requires additional supervision for recovery",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

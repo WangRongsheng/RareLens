@@ -1,0 +1,87 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Aortic Valve balloon valvuloplasty",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Central venous line IJ placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "CVVH line placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Endotracheal intubation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vancomycin and Ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV Ca++ and Diltiazem or Amiodarone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Aortic Valve balloon valvuloplasty performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Central venous line IJ placement performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "CVVH line placement performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Endotracheal intubation performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Initiated VBAN and Ceftriaxone"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administration of IV Ca++ and Diltiazem or Amiodarone recommended"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Expired",
+        "follow_up_details": "Not specified",
+        "complications": "Septic Shock, Cardiogenic Shock, Lower extremity, pressor-induced ischemia",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

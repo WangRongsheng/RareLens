@@ -1,0 +1,24 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "Video and clinical description note she is \"now observed with progressive spasticity, rigidity, dystonia, and cognitive decline.\" BPAN is described as having a rapidly progressive onset in adolescence, and symptomatic treatments \"do not halt neurodegeneration.\"",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "functional_status_evidence_excerpt": "Previously walking and talking, she is now observed with progressive spasticity, rigidity, dystonia, and cognitive decline; exam documented spastic quadriparesis and intellectual disability.",
+        "symptom_burden": "persistent_severe",
+        "symptom_burden_evidence_excerpt": "Persistent and progressive motor symptoms (spasticity, rigidity, dystonia) and cognitive decline; L-dopa provided some dystonia relief but NBIA/BPAN therapies are noted not to halt neurodegeneration."
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "unknown",
+            "evidence_excerpt": "After diagnosis, \"Our patient was started on carbidopa/levodopa (L-dopa), which seemed to help with her dystonia.\""
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "unknown",
+            "evidence_excerpt": "Video legend: \"now observed with progressive spasticity, rigidity, dystonia, and cognitive decline.\""
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The record provides limited post-diagnosis follow-up and no precise dates relative to diagnosis; timing of progression and duration of L-dopa benefit are not specified, so event time periods are marked as unknown. Comorbid seizures, optic atrophy, and hearing loss are noted but their timing relative to diagnosis is unclear."
+}

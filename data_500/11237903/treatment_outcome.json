@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "lensectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed at 6 weeks of age",
+            "treatment_response": "Uneventful surgery and postoperative course; no visual fixation responses or nystagmus developed"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "glaucoma medication",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Used for 4 to 12 weeks after lensectomy",
+            "treatment_response": "Raised intraocular pressure settled with medication, cessation of topical steroid, or time"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "seton insertion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed in one eye where intraocular pressure failed to settle",
+            "treatment_response": "Glaucoma was successfully controlled"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Absence of red reflex noted at birth"
+        },
+        {
+            "date": "Not specified",
+            "event": "Referral to eye clinic for absence of red reflex"
+        },
+        {
+            "date": "6 weeks of age",
+            "event": "Lensectomy performed"
+        },
+        {
+            "date": "5th postoperative day",
+            "event": "Contact lenses fitted in each eye"
+        },
+        {
+            "date": "6 months of age",
+            "event": "Electrophysiologic analysis performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Raised intraocular pressure noted after lensectomy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Glaucoma medication administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Seton insertion performed in one eye"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Severely delayed developmentally with light perception vision in each eye",
+        "follow_up_details": "Not specified",
+        "complications": "Raised intraocular pressure after lensectomy, developmental delay, microcephaly, spasticity",
+        "long_term_prognosis": "Severe global developmental delay and microcephaly",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "75",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "severe mitral valve regurgitation",
+        "history_of_present_illness": "mitral valve prolapse on the medial side of the posterior mitral leaflet due to tendon rupture, severe mitral regurgitation, left ventricular function maintained with an ejection fraction of 56%",
+        "past_medical_history": "bronchial asthma and bronchial ectasia, receiving oral and inhaled corticosteroids",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Chest X-ray showed cardiomegaly with protrusion of the right atrium shadow and pulmonary congestion. Electrocardiography showed a normal sinus rhythm with counterclockwise rotation.",
+        "specialty_examination": "Echocardiography revealed mitral valve prolapse on the medial side of the posterior mitral leaflet (including the posterior commissure) due to tendon rupture. Quantitative Doppler echocardiography indicated severe mitral regurgitation. Computed tomography (CT) and magnetic resonance imaging showed dislocation and counterclockwise rotation of the heart with the apex of the heart located in the mid-thorax, indicating mesocardia."
+    }
+}

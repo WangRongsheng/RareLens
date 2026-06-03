@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "Patient 1’s muscle weakness gradually progressed; he became wheelchair-bound at age 24 and developed chronic renal failure requiring periodic dialysis, with mildly decreased cardiac function from age 22.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Ongoing progressive myopathy and persistent thrombocytopenia with major complications (dialysis for renal failure and mild cardiac insufficiency); no resolution reported.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "He has been wheelchair-bound since the age of 24 years."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "Kidney disease later progressed to chronic renal failure requiring periodic dialysis therapy."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "From the age of 22 years, he has had mildly decreased cardiac function accompanied by mitral insufficiency."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The case report includes two siblings; timing of the definitive GNE myopathy diagnosis is not explicitly dated. Ages were used to approximate events relative to diagnosis (e.g., biopsy/genetic confirmation around age 20 for Patient 1). Events are primarily based on Patient 1’s course; Patient 2 remains ambulatory with a walking aid but detailed post-diagnosis timing is unclear."
+}

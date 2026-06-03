@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Sepsis due to urinary tract infection",
+        "differential_diagnosis": "Mass, lower extremity, NOS; Not specified",
+        "diagnostic_reasoning": "The patient presented with hypotension, fever, elevated white blood cell count, and urinary findings indicative of a urinary tract infection, which progressed to sepsis. Imaging revealed a large mass in the lower extremity, raising concern for cancer."
+    }
+}

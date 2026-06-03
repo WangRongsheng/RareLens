@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "dyspnea",
+        "history_of_present_illness": "Ms. ___ is a ___ woman with h/o COPD, pectus carinatum, moderate AS, and chronic diastolic heart failure who presents with a ___ week history of dyspnea. She reports increasing shortness of breath such that she was having difficulty with her daily activities (such as using her walker to get down the hall at her ___). +cough, but no fevers. No hemoptysis. Per family's report, a CXR was obtained 2 weeks ago, and they were told there was a pneumonia, so she was given a 1 week course of levofloxacin (last dose 2 days ago). Nevertheless, she has continued to feel weak and out of breath. Over the last ___ days, she has had increasing ___ edema. She denies orthopnea or PND. No chest pain or back pain. She did have a nosebleed a few days ago.",
+        "past_medical_history": "COPD, Pectus carinatum, Scoliosis, Moderate aortic stenosis on TTE from ___, Chronic diastolic CHF per DC summary ___, Depression, Colon CA and small bowel CA s/p resection in ___ and ___, GERD w/ h/o ___ esophagus, History of falls, Hypothyroidism, Glaucoma, Cataracts, Short term memory loss, Hospitalized ___ with SBO that required lysis of adhesions.",
+        "family_history": "Fam Hx: no h/o lung disease, no h/o AAA. Father died of MI.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "97.8 84 Left 83/56, Right 98/61 25 97% Elderly woman sleeping in bed, wakes easily, somewhat hard of hearing. JVP to angle of jaw while at 45 degrees. S1, S2, regularly irregular (PACs every ___ beat) with ___ systolic murmur at LLSB. Slightly short of breath with talking. +Chest wall deformity. Lungs with diffuse crackles throughout, decreased BS at bases b/l. Abdomen protuberant with well-healed midline scar. +BS, soft, NT. Skin with chronic changes ___ b/l; very thin, fragile skin. ___ with L>R pitting edema, somewhat weepy..",
+        "specialty_examination": "Neurological: Strength is intact in UE b/l, both proximal and distal."
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Heparin drip",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "IV administration",
+            "treatment_response": "Patient stabilized without acute complications."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "325mg daily",
+            "treatment_response": "Continued as part of discharge medications."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Simvastatin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40mg daily",
+            "treatment_response": "Continued as part of discharge medications."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Warfarin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.5mg daily initially",
+            "treatment_response": "Will require monitoring to adjust the dose."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lovenox",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One injection Subcutaneous twice a day for 10 days.",
+            "treatment_response": "Supportive treatment until INR is therapeutic."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Presented with left arm swelling and pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Diagnosed with left axillary DVT via ultrasound."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Heparin drip."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge with warfarin and Lovenox prescriptions."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable at discharge",
+        "follow_up_details": "Follow-up required for INR checks.",
+        "complications": "No reported complications during treatment.",
+        "long_term_prognosis": "Anticoagulation for three months as the body gradually breaks down the clot.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient remained ambulatory and independent.",
+        "patient_perspective": "Patient expressed understanding of the treatment plan."
+    }
+}

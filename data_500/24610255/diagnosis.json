@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Beta-Propeller Protein-Associated Neurodegeneration (BPAN)",
+        "differential_diagnosis": "Neurodegeneration with brain iron accumulation (NBIA) subtypes caused by mutations in PANK2, PLA2G6, FA2H, C19orf12, ATP13A2, CP, and FTL1",
+        "diagnostic_reasoning": "The diagnosis was based on the patient's clinical presentation of intellectual disability, spastic quadriparesis, dystonia, and seizures, along with characteristic MRI findings of T2 hypointensities in the globus pallidus, substantia nigra, and red nucleus, cerebral and cerebellar atrophy, and hypomyelination. Whole-exome sequencing identified a novel, de novo splice site mutation in WDR45, confirming the diagnosis of BPAN."
+    }
+}

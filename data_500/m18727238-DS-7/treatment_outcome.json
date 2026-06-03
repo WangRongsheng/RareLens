@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "meropenem",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "blood transfusion",
+            "specific_treatment": "pRBCs",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 unit pRBCs",
+            "treatment_response": "Improved the patient's anemia"
+        },
+        {
+            "treatment_type": "blood transfusion",
+            "specific_treatment": "platelets",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "3 bags platelets (2 on Not specified, 1 on Not specified)",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ciprofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO Q24H",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient diagnosed with febrile neutropenia"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 1 unit of pRBCs"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 3 bags of platelets"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the ED with fever"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was treated with meropenem and vancomycin"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Patient should follow up with her doctor as an outpatient.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient reported feeling fatigued, which she attributed to her anemia and recent chemotherapy."
+    }
+}

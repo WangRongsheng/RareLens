@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "L femoral neck, L ankle fx",
+        "history_of_present_illness": "s/p fall from 20 foot ladder. Patient was at work, cleaning leaves from gutter, ladder gave out under him. Landed on top of ladder on L side. No head strike, LOC. Only c/o pain in L hip and L ankle. No numbness/weakness, headache, neck/back pain. Having some mild posterior left pain over ribs. No SOB. Arrived from scene. GCS 15 on ED arrival. CT head/c-spine/torso done. Also with L1, L2 vertebral body fx and several L sided rib fx and tiny apical pneumothorax.",
+        "past_medical_history": "none",
+        "family_history": "Not specified",
+        "social_history": "Married. No ETOH/illicits. Former smoker."
+    },
+    "physical_examination": {
+        "general_examination": "On admission: Vitals: 97.4 64 148/100 18 98RA. Back: no spinal midline TTP. No step-offs. Mild L posterior mid-chest TTP over ribs.",
+        "specialty_examination": "Right upper extremity: Skin intact, Soft, non-tender arm and forearm, Full, painless AROM/PROM of shoulder, elbow, wrist, and digits +EPL/FPL/DIO (index) fire +SILT axillary/radial/median/ulnar nerve distributions +Radial pulse. Left upper extremity: Skin intact, Soft, non-tender arm and forearm, Full, painless AROM/PROM of shoulder, elbow, wrist, and digits +EPL/FPL/DIO (index) fire +SILT axillary/radial/median/ulnar nerve distributions +Radial pulse. Right lower extremity: Skin intact, Soft, non-tender thigh and leg, Full, painless AROM/PROM of hip, knee, and ankle, pulses, foot warm and well-perfused. Left lower extremity: Skin intact, Diffuse TTP over L hip with limited AROM/PROM pain. Large amount of swelling with obvious deformity of L ankle. Soft, non-tender thigh/leg. Full, painless AROM/PROM knee."
+    }
+}

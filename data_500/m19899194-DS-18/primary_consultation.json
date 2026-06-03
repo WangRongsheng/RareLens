@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "chest pain",
+        "history_of_present_illness": "The patient woke up at 2am with sudden onset of pain across the chest, took 2 NTG with relief. Experienced sharp mid back pain during ambulance transport; received NTG with relief again. Initial vitals in ED: 96.8, 136/83, 77, 16, 97% on 2LNC. Recent admission for cardiac cath after positive stress test showing moderate fixed perfusion defect. Had diaphoresis in ED, resolved. Complained of dyspnea on exertion for 6 months, with stability in sleeping position. Occasional palpitations and 'dizzy spells' when changing positions.",
+        "past_medical_history": "CAD, s/p IMI and CABG x 3, Hyperlipidemia, Hypertension, Hypothyroidism, Atrial fibrillation, History of lower extremity DVT, Obesity, BPH, GERD post bilateral TKR, Anxiety/Depression, Pituitary adenoma post transsphenoidal surgery, Hypogonadism, Iron deficiency anemia.",
+        "family_history": "Father had MI (died age Not specified), mother died of stomach cancer, brothers died of stomach cancer, lung cancer, throat cancer; mother and sisters' health statuses unspecified.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: 98.3, 142/87, 72, 20, 95% on RA. Patient is well-developed, well-nourished male in no acute distress. Mood and affect appropriate.",
+        "specialty_examination": "Cardiovascular: Regular rate, normal S1, S2; no murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally, no abnormal sounds."
+    }
+}

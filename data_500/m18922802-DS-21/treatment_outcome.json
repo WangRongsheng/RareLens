@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "Gemcitabine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Initial dosing was scheduled in cycles, changed to every other week due to complications.",
+            "treatment_response": "Initially improved, then tumor markers began to rise slowly."
+        },
+        {
+            "treatment_type": "radiation therapy",
+            "specific_treatment": "CyberKnife radiation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient was treated from ___ to ___ without progression of disease."
+        },
+        {
+            "treatment_type": "pain management",
+            "specific_treatment": "Dilaudid and long-acting morphine (MScontin)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Dilaudid 1mg IV initially, later transitioned to MScontin 10mg PO BID.",
+            "treatment_response": "Pain was initially relieved with IV dilaudid, well tolerated on discharge."
+        },
+        {
+            "treatment_type": "nerve block",
+            "specific_treatment": "Celiac nerve plexus block",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Reported to have helped with the pain."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient underwent celiac nerve plexus block."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started receiving Gemcitabine chemotherapy."
+        },
+        {
+            "date": "Not specified",
+            "event": "CyberKnife radiation treatment held after 2 cycles due to complications."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was restarted on Gemcitabine after restaging CT scan."
+        },
+        {
+            "date": "Not specified",
+            "event": "Change in pain management regimen to long-acting morphine (MScontin)."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Under hospice care, experiencing cancer-related pain.",
+        "follow_up_details": "Patient is to follow up with hospice service for pain management.",
+        "complications": "Anemia and thrombocytopenia complications were noted.",
+        "long_term_prognosis": "New lung mass concerning for metastatic disease.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Ambulatory and independent at discharge.",
+        "patient_perspective": "Patient reports pain related to cancer and managed through hospice services."
+    }
+}

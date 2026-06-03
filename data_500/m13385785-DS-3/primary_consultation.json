@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Syncopal episode",
+        "history_of_present_illness": "Patient is a female with a history of hypertension and hyperlipidemia who had a syncopal episode at dinner last night, lasting 5 seconds. No post-ictal symptoms or confusion, and no pre-syncopal symptoms including nausea, diaphoresis, chest pain, shortness of breath, palpitations, or lightheadedness. No history of CAD or arrhythmias.",
+        "past_medical_history": "Hypertension, Hyperlipidemia, Diverticulosis, Hemorrhoids, Osteopenia, Pilonidal cyst removal.",
+        "family_history": "No history of sudden cardiac death. Her mother had thyroid, uterine, and stomach cancer; her father died of mesenteric ischemia and infarction, had coronary artery disease, and diabetes; her sister died of an unclear blood illness.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "T: 98.2, BP: 145/92, HR: 70, RR: 16, O2 97% RA. Pleasant, well appearing, NAD. No conjunctival pallor, no icterus, MMM, OP clear. Supple neck, no carotid bruits, no LAD, no JVD, no thyromegaly. RRR, normal S1, S2. II/VI SEM loudest at the LUSB. Lungs CTAB, good BS, no W/R/C. Abdomen soft, NT, ND, no HSM. Extremities warm, well perfused, no CCE. 2+ DP pulses. No rashes/lesions, ecchymoses.",
+        "specialty_examination": "Neurological: AOx3, appropriate, cranial nerves grossly intact, preserved sensation throughout, strength throughout, equal reflexes. Ambulates without difficulty."
+    }
+}

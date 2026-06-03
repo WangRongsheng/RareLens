@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "symptomatic management",
+            "specific_treatment": "carbohydrate loading with intravenous dextrose and oral carbohydrates",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "symptoms gradually improved over 6 days"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "2013",
+            "event": "first attack managed as appendicitis with emergency laparoscopic exploration"
+        },
+        {
+            "date": "Not specified",
+            "event": "second attack managed as sinus tachycardia with beta adrenergic blockers"
+        },
+        {
+            "date": "Not specified",
+            "event": "third attack managed conservatively for questionable renal colic"
+        },
+        {
+            "date": "Not specified",
+            "event": "fourth attack complicated with transient hyponatremia and high serum creatinine levels, managed as interstitial nephritis"
+        },
+        {
+            "date": "2015",
+            "event": "fifth attack managed as partial intestinal obstruction with diagnostic laparoscopy"
+        },
+        {
+            "date": "Not specified",
+            "event": "sixth attack raised suspicion of acute porphyria, positive Watson and Schwartz test for urinary porphobilinogen"
+        },
+        {
+            "date": "Not specified",
+            "event": "genetic studies confirmed HMBS gene mutation"
+        },
+        {
+            "date": "Not specified",
+            "event": "symptomatic management with carbohydrate loading"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "improved symptoms over 6 days, managed as out-patient",
+        "follow_up_details": "followed up at the clinic with regular renal functions, hemoglobin and blood pressure monitoring",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "symptoms gradually improved over 6 days",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

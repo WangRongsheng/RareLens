@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "left sided weakness",
+        "history_of_present_illness": "The patient is a ___ y/o with history of HTN, HLD, Tobacco use who presents today with left sided weakness. He has a history of CVA in the past, initially in ___ with R ICA occlusion just above its origin to the level of the cavernous ICA with reconstitution from collateral vessels. Watershed stroke on ___ in setting of hypotension. He went to bed around 11:30 last night in his usual state of health and around 8:30 woke up and got up to use the restroom when he slid off of bed and noted that he had trouble moving his left side. He was on the floor for a number of hours until discovered by his brother. On arrival, he had no acute complaints, denied headache, loss of vision, diplopia, dysarthria, dysphagia, lightheadedness, vertigo, tinnitus, or hearing difficulty. Neuro ROS was negative. Last known well: 23:30.",
+        "past_medical_history": "History of CVA x2, Hypertension (poorly treated), Fatty liver, Lower back pain, HLD, Long-standing tobacco use down to 4 cigarettes a day.",
+        "family_history": "Mother with CAD died at age ___. Has a son who is healthy.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 98.4 F, HR 88, BP 171/100, RR 16, O2 98%. General: Awake, cooperative, NAD. No nuchal rigidity. Lungs CTA bilaterally. Cardiac: RRR, distant sounds. Abdomen: soft, obese, NT. Extremities: No edema or deformities.",
+        "specialty_examination": "Neurological: Mental status alert, oriented, fluid speech, mild dysarthria. Cranial Nerves: Left facial droop, left hemianopsia, right gaze deviation. Motor: Tone increased in LUE, left hemi sensory loss. DTRs: left 2+ (brisk), clonus of the ankle. Coordination: No dysmetria on FNF."
+    }
+}

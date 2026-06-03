@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Familial transthyretin amyloidosis (FTA) with TTR Ala36Pro mutation",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis was confirmed through genetic analysis identifying a pathogenic transversion in exon 2 (c.G106C, p.Ala36Pro) of the TTR gene. Clinical features included vitreous opacities, retinal vasculitis, hemorrhages, and widespread pinpoint deposits in the peripheral retina. Pathological analysis of vitreous samples showed amyloid deposits confirmed by Congo Red staining. Elevated VEGF levels in serum and vitreous samples further supported the diagnosis."
+    }
+}

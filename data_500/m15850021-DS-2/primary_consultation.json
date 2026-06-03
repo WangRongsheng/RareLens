@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abdominal pain",
+        "history_of_present_illness": "___ year old female with PMH of colitis, diverticulosis, and chronic constipation who presents with one day of worsening abdominal pain. Pt. states that she developed crampy, left lower quadrant abdominal pain yesterday, which worsened overnight. Her pain was aggravated by walking up stairs. She denies fevers, chills, bloody bowel movements, hematemesis, and nausea. Of note her last colonoscopy ___ years ago was significant for diverticulosis, and she had a previous episode of colitis in ___ which was associated with bloody bowel movements, abdominal pain and fevers.",
+        "past_medical_history": "Colitis, Diverticulosis, chronic constipation",
+        "family_history": "non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Temp: 97.1, HR: 84, BP: 114/76, Resp: 19, O(2)Sat: 98. Normal Constitutional: Comfortable. Abdominal: Soft, Nondistended, LLQ tenderness on palpation.",
+        "specialty_examination": "Pelvic: left adenexal tenderness. Neuro: Speech fluent."
+    }
+}

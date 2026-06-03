@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Coronary artery bypass grafts x1 (LIMA-LAD) and AVR tissue (19mm Trifecta)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient appears to be in sinus rhythm post-surgery with no TEE related complications."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with fatigue and was encouraged to have a stress echo."
+        },
+        {
+            "date": "Not specified",
+            "event": "Stress echo demonstrated severe aortic stenosis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent cardiac catheterization."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was found to have 3 vessel coronary artery disease and referred for AVR/CABG evaluation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery performed: Coronary artery bypass grafts and aortic valve replacement."
+        },
+        {
+            "date": "Not specified",
+            "event": "Post-operative assessment showed patient in sinus rhythm and stable condition."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and oriented, ambulating with walker, incisional pain managed.",
+        "follow_up_details": "Follow-up appointment with surgeon to discuss driving and further recovery.",
+        "complications": "Suspected postoperative Transient Ischemic Attack.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Incisions healing well, no erythema or drainage.",
+        "patient_perspective": "Not specified"
+    }
+}

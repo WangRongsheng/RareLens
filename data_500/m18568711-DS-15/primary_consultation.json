@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "heavy and painful periods, fibroids",
+        "history_of_present_illness": "She continues to have heavy periods with large clots. Tried briefly mirena IUD in the past. Has to stay home from work on many occasions. Has soaked through her clothes at work a few times. Large clots. Accompanied by moderate to severe cramps. Periods are now q 3 wks. Since last period in end of ___ she has had on and off spotting. Not sexually active. Has deferred intervention in the past for many years, now interested in a hysterectomy. We have discussed possibility of adenomyosis and endometriosis. Also h/o IC and two prior sling procedures with Dr ___. She reports increased urinary frequency and occasional urinary incontinence. Unable to sleep at night due to urgency and frequency. She was prescribed oxycodone by Dr ___ she takes as needed and says has helped the bladder pain. During her period, unable to tell menstrual cramps from bladder spasms.",
+        "past_medical_history": "PMH: HTN, migraines; PSH: knee arthroscopy, hysteroscopy/polypectomy, tubal ligation",
+        "family_history": "non contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: VSS; Gen: NAD, A&O x 3; CV: RRR; Resp: no acute respiratory distress; Abd: soft, appropriately tender, no rebound/guarding, incision c/d/i; Ext: no TTP",
+        "specialty_examination": "Not specified"
+    }
+}

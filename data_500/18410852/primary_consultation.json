@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "2 years 9 months",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Japanese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Epileptic spasms in clusters",
+        "history_of_present_illness": "Developed epileptic spasms in clusters at 3 months of age, referred to Tokyo Women’s Medical University hospital. Diagnosed with symptomatic West syndrome, started on antiepileptic drug treatment with valproate, zonisamide, and vitamin B6, but no effect was obtained. Responded well to adrenocorticotropic hormone therapy. Seizure free on a combination of valproate (30 mg/kg/day) and clonazepam (0.04 mg/kg/day) since the adrenocorticotropic hormone therapy. Never achieved head control or visual following, and remained unable to speak or sit up.",
+        "past_medical_history": "Born at 38 weeks and 2 days gestational age, with an uneventful delivery, of nonconsanguineous parents. At birth, microcephaly was noted, with a head circumference of 28.0 cm (-3.9 standard deviations). Neither prenatal infections nor any known congenital defects of metabolism were detected.",
+        "family_history": "No convulsive disorders in his family history.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "No remarkable findings except for microcephaly.",
+        "specialty_examination": "Neurologic examination revealed marked spasticity in all four limbs with exaggerated deep tendon reflexes. Electroencephalography revealed the periodic appearance of diffuse irregular spikes or spike and wave complexes during wakefulness and sleep, findings compatible with hypsarrhythmia. Cranial magnetic resonance imaging revealed frontoparietal predominant diffuse and bilaterally symmetric polymicrogyria with ventricular dilatation."
+    }
+}

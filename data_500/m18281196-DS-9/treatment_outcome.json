@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "enalapril",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "IV 1.25mg x1",
+            "treatment_response": "Reduced afterload and helped stabilize blood pressure"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "nitroglycerin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "NTG sublingual x3 and nitro-paste",
+            "treatment_response": "Brought blood pressure to 180s/90s range"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lasix",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "IV 20mg x1",
+            "treatment_response": "Managed volume overload"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "325mg",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the emergency room with shortness of breath"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered IV enalapril 1.25mg"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered NTG SL x3 and nitro-paste"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered IV Lasix 20mg"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered Aspirin 325mg"
+        },
+        {
+            "date": "Not specified",
+            "event": "Placed on 4L oxygen for comfort"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and oriented. Able to ambulate.",
+        "follow_up_details": "Follow-up with primary care, cardiology, nephrology, and podiatry arranged.",
+        "complications": "No complications",
+        "long_term_prognosis": "Kidney failure due to poorly-controlled diabetes and high blood pressure.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Encouraged to take medications and attend doctor's appointments."
+    }
+}

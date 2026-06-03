@@ -1,0 +1,96 @@
+{
+    "basic_information": {
+        "age": "23 months",
+        "gender": "Female",
+        "weight": "10 kg",
+        "height": "80 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "dry and non-itching skin lesions on the face and extremities",
+        "history_of_present_illness": "Symptoms started ten months ago after a fever episode. Past medical history included recurrent upper respiratory tract infections including otitis media and one episode of hospitalization for bronchopneumonia.",
+        "past_medical_history": "Recurrent upper respiratory tract infections, otitis media, bronchopneumonia.",
+        "family_history": "Consanguineous parents (first-degree cousins).",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Weight of 10 kg (3-10%), height of 80 cm (3-10%), head circumference of 46 cm (10%). Pink to dark red infiltrated papules and plaques with occasional centrally oriented scales located on bilateral malar cheeks and arms. Cervical, 1x1 cm in size, non-fixing lymphadenopathy. Tachypneic and crepitant crackles present in both lung fields.",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Immunophenotypic analysis",
+            "date": "Not specified",
+            "findings": "Low absolute lymphocyte number, CD4+ and CD19+ lymphocyte counts. Memory phenotype CD4+CD45RO+ T cells represented 82% of circulating CD4+ T cells and CD4+CD45RA+ cells were 5%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunoglobulin analysis",
+            "date": "Not specified",
+            "findings": "Low IgA and IgE levels; normal levels of IgG and IgM.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lymphocyte stimulation test",
+            "date": "Not specified",
+            "findings": "Lymphocyte activations with PHA and ConA were ¼ of the control.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serological studies for Rubella",
+            "date": "Not specified",
+            "findings": "Anti-Rubella IgG >400 IU/mL during IVIg replacement therapy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Autoantibody analysis",
+            "date": "Not specified",
+            "findings": "ANA was 1/320 (+), anti-dsDNA, AMA, anti-LKM, ASMA, anticardiolipin IgM/IgG, anti-TPO, antithyroglobulin were negative.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Non-Langerhans cell histiocytosis originated from dendritic cells, thought to be developed secondary to a cutaneous histiocytic reaction in the setting of immunodeficiency. Periodic acid-Schiff and Ziehl-Neelsen staining did not show any pathogen and PCR assays for mycobacteria were negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing (PRKDC gene)",
+            "date": "Not specified",
+            "findings": "Homozygous missense mutation in PRKDC gene causing an amino acid change in position 3061 (c. 9239T>G; L3061R(rs587777685)).",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "PRKDC defect with combined immunodeficiency",
+        "diagnostic_reasoning": "The diagnosis was based on immunophenotypic analysis showing low absolute lymphocyte number, CD4+ and CD19+ lymphocyte counts, and lymphocyte activation rates with PHA and ConA being ¼ of the control. Additionally, a skin biopsy revealed non-Langerhans cell histiocytosis, and genetic testing identified a homozygous missense mutation in the PRKDC gene (c.9239T>G; L3061R)."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "intravenous immunoglobulin (IVIg)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "400 mg/kg monthly"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "TMP-SMX",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "inhaled budesonide and salbutamol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

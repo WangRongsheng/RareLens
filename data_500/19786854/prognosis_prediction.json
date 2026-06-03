@@ -1,0 +1,132 @@
+{
+    "basic_information": {
+        "age": "37",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Lebanese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "multiple persistent and disfiguring lesions over the trunk",
+        "history_of_present_illness": "20-year history of multiple persistent and disfiguring lesions over the trunk. The lesions were asymptomatic except for pruritus in one of the lesions. The lesions fluctuated in size over time with no specific exacerbating factor that could be elicited. Several treatments including topical, intralesional, and systemic corticosteroids were used with prompt improvement, but recurrence shortly after therapy was discontinued.",
+        "past_medical_history": "adult-onset hyperactive airway disease",
+        "family_history": "unremarkable",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "4 soft to semifirm infiltrated subcutaneous nodules and plaques of varying sizes (3–11.5 cm in diameter) on the abdomen and back. The skin overlying these lesions was normal except for the itchy lesion over the back (the largest one), which showed skin changes characteristic of lichenification. There was no associated lymphadenopathy or hepatosplenomegaly.",
+        "specialty_examination": "multiple symmetric digitate elongated yellow/brown patches over the back and proximal extremities."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum IgE level",
+            "date": "Not specified",
+            "findings": "Consistently elevated (mean level 832.02 IU/L, normal <100 IU/L)",
+            "changes_over_time": "Dropped to 222 IU/L at 6-month follow-up after rituximab therapy"
+        },
+        {
+            "procedure_name": "Peripheral blood eosinophilia",
+            "date": "Not specified",
+            "findings": "Elevated (mean level 0.8 x 10^9/L, normal 0.1–0.4 x 10^9/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "Within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood urea nitrogen",
+            "date": "Not specified",
+            "findings": "Within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary protein level",
+            "date": "Not specified",
+            "findings": "Within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "Within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "Within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase",
+            "date": "Not specified",
+            "findings": "Within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "T-cell receptor (TCR) gene rearrangement studies",
+            "date": "Not specified",
+            "findings": "Polyclonal smear and Gaussian curves indicating polyclonal lymphoid cells in both KD and MF lesions",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunoglobulin gene rearrangement studies",
+            "date": "Not specified",
+            "findings": "No clonal B-cell population detected",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed tomography (CT) scans of the chest, abdomen, and pelvis",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Incisional skin biopsy from the largest subcutaneous plaque over the back",
+            "date": "Not specified",
+            "findings": "Dense deep dermal and subcutaneous nodular and diffuse inflammatory cell infiltrate composed predominantly of lymphocytes and numerous eosinophils forming eosinophilic abscesses focally. Scattered lymphoid follicles with germinal centers, dermal fibrosis, and increased small blood vessels with flat endothelial cells. Immunoperoxidase studies revealed lymphoid follicles composed of CD20-positive cells and stained with both Igk and Igl. Surrounding infiltrate was CD45RO positive and composed of CD4-positive and to lesser extent CD8-positive cells.",
+            "changes_over_time": "After rituximab therapy, absence of germinal centers and marked decrease in B-cell component. Infiltrate predominantly CD3- and CD4-positive with rare CD20-positive B cells."
+        },
+        {
+            "procedure_name": "Punch biopsy from one of the digitate patches",
+            "date": "Not specified",
+            "findings": "Mild spongiosis, numerous atypical lymphocytes with large cerebriform nuclei at and above the dermo-epidermal junction, and a mild to moderate superficial perivascular lymphocytic infiltrate with coarse papillary dermal fibrosis. Immunoperoxidase studies revealed epidermotropic lymphocytes positive for CD3 and CD4 and negative for CD20 and CD7. Dermal infiltrate stained positively with CD3 and was composed predominantly of CD8-positive and to a lesser extent CD4-positive T cells.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Kimura disease (KD) and mycosis fungoides (MF)",
+        "diagnostic_reasoning": "The diagnosis of KD was made based on the chronic indolent course of the subcutaneous nodules/plaques, their histological findings, and the association with persistent eosinophilia and high serum IgE levels. The diagnosis of MF was made based on the clinical, histological, and immunoperoxidase findings despite the negative molecular findings of T-cell clonality. Follicular center cell lymphoma was ruled out due to the clinical presentation, associated elevated serum IgE and eosinophilia, histological findings of a mixed infiltrate with reactive lymphoid follicles, and absence of clonal B-cell population in the samples."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "immunotherapy",
+            "specific_treatment": "rituximab",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "375 mg/m2 weekly for 4 weeks"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "corticosteroids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "topical, intralesional, and systemic"
+        }
+    ]
+}

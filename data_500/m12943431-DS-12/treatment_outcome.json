@@ -1,0 +1,31 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "t-PA (tissue Plasminogen Activator)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Given at 9:32 PM",
+            "treatment_response": "Response not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with acute onset R sided weakness."
+        },
+        {
+            "date": "Not specified",
+            "event": "t-PA administration at 9:32 PM."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental Status: Confused - sometimes; Level of Consciousness: Alert and interactive; Activity Status: Ambulatory with assistance.",
+        "follow_up_details": "Follow up with Neurology and primary care physician.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Requires assistance for ambulation.",
+        "patient_perspective": "Not specified"
+    }
+}

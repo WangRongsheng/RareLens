@@ -1,0 +1,176 @@
+{
+    "basic_information": {
+        "age": "11",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Progressive deterioration of language and abnormal behaviour at twenty months of age",
+        "history_of_present_illness": "After normal birth and early psychomotor development, at twenty months of age she showed progressive deterioration of language and abnormal behaviour. At around two years of age she lost the ability to walk unsupported. Since the age of three she has had daily seizures, which consisted of 'stiffening' and cyanosis for about thirty to forty sec. Around the same age a severe breathing disorder appeared, characterized by apneas of variable duration (ten to fifty sec.) which alternated with profound, irregular respiratory movements. The most prolonged apneic episodes were accompanied by cyanosis and sometimes followed by faints; these occurred several times a day in clusters at ten to twenty-day intervals.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Muscular tone, strength and superficial and deep reflexes were normal. Gait was broadbased with wide oscillations, her trunk and neck assuming dystonic postures. Her hands displayed stereotyped movements: she used to rub them continuously and bring them to her mouth. She could not talk, could not recognize her parents; was agitated, aggressive and incapable of relating to her environment.",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma amino-acids",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactic and pyruvic acid",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Screening for mucopolysaccharides (MPS) and oligosaccharides",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Assays for a-L-fucosidase, ß-galactosidase, a-D-mannosidase, arylsulfatase A, hexosaminidase A and B",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pyruvic acid",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactic acid",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MPS and oligosaccharides",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma aminoacids",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Assays for lysosomal enzymes",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Karyotype",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma and urinary aminoacids",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactic and pyruvic acid",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary screening for MPS and oligosaccharides",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Assays for lysosomal enzymes",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin biopsy (with electron microscopic examination and fibroblast cultures)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Karyotype",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ammonaemia",
+            "date": "Not specified",
+            "findings": "Slightly elevated (94 nm/I) during treatment with Valproate, but values after withdrawal of this medication were repeatedly normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain CT",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain CT",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Abnormal background activity; rhythmic sharp wave discharges at four c/sec were observed over the right temporal region during wakefulness. In slow-wave sleep there were rare diffuse multiple spike-and-wave discharges along with isolated bursts of sharp waves at four c/sec over the right temporal regions, which tended to spread contralaterally; in REM sleep the paroxysmal discharges disappeared",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Background activity at five to seven c/sec. During sleep independent spike foci were recorded over the temporal regions of the two hemispheres",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Background activity at five to six c/sec and independent foci of spikes and multiple spikes in the temporal and central regions of both hemispheres during wakefulness. Sleep activated discharges of spikes and spike-and-waves, which tended to spread controlaterally but prevailed on the left",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Polygraphie studies",
+            "date": "Not specified",
+            "findings": "During wakefulness breathing was always very irregular and arrhythmic, usually tachypneic and interspersed with more or less prolonged pauses (which seemed diaphragmatic in origin), which could last as long as sixty to hundred and twenty sec. During the most prolonged pauses, Sa02 diminished from normal values of 90-96 % to very abnormal values (below 50 %), which were associated with clear labial cyanosis. During such apneas, hand gestures increased or stopped, without any consistent motor pattern. During sleep breathing was stable and regular in each case, and Sa02 always remained within normal limits",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Infantile behavioural regression with respiratory impairment",
+        "diagnostic_reasoning": "The diagnosis was based on the presentation of psychomotor regression arising between the 1st and 2nd year of life, after initially normal development, with particular disorder of breathing (irregular and inadequate during wakefulness, normal during sleep). Brain CT and biochemical studies, including ammonaemia, were all normal. The cases showed similarities to the syndrome of cerebral atrophy with hyperammonaemia, but without the typical findings of cerebral atrophy or hyperammonaemia."
+    }
+}

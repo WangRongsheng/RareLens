@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "65",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "left hemithoracic pain, weight loss, gait ataxia, and tremor",
+        "history_of_present_illness": "A 65-year-old man presented to the emergency department with a history of left hemithoracic pain, weight loss, gait ataxia, and tremor. He had a 120-pack-year smoking history and known ischemic cardiomyopathy with previous coronary stenting.",
+        "past_medical_history": "known ischemic cardiomyopathy with previous coronary stenting",
+        "family_history": "Not specified",
+        "social_history": "120-pack-year smoking history"
+    },
+    "physical_examination": {
+        "general_examination": "reduced performance status (PS 1, ECOG classification)",
+        "specialty_examination": "neurological assessment revealed tremor, gait ataxia, and mild involuntary limb jerking which resulted in the patient remaining bedbound despite any evidence of cognitive impairment and sensory or motor deficit"
+    }
+}

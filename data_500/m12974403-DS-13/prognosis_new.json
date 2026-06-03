@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "After initial hematologic remission (BM D+23), PCR later became detectable prompting TKI change to nilotinib and escalation to planned blinatumomab; she also had recurrent pleural effusions requiring multiple thoracenteses and inpatient treatment complicated by neurotoxicity (mental status changes) requiring dose adjustment.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Ongoing fatigue, mild rib pain attributed to pleural effusions, dry cough, and mild SOB; pleural effusions requiring multiple thoracenteses.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Bone marrow biopsy on D+23 consistent with hematologic remission; discharged home after achieving remission."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "unknown",
+            "evidence_excerpt": "PCR became detectable, leading to switch from dasatinib to nilotinib."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "unknown",
+            "evidence_excerpt": "Developed recurrent pleural effusions requiring management."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "unknown",
+            "evidence_excerpt": "Multiple thoracenteses performed for pleural effusions."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "unknown",
+            "evidence_excerpt": "During monitored inpatient treatment, had slight headache, low-grade fever, and mental status changes requiring a change in medication dose."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "unknown",
+            "evidence_excerpt": "Neurotoxicity symptoms improved after dose adjustment; most recent PCR undetectable."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Exact dates are not provided; events are placed relative to the diagnosis. It is unclear whether blinatumomab was fully initiated during this admission and whether nilotinib was briefly held or continued, and no post-discharge long-term follow-up is available. Mapping molecular response (PCR changes) to symptom_improvement is a proxy for disease status change rather than direct symptom change."
+}

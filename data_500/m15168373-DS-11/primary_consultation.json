@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Unemployed"
+    },
+    "medical_history": {
+        "chief_complaint": "abnormal MRI",
+        "history_of_present_illness": "The patient is a right-handed woman with a PMHx of SLE and antiphospholipid syndrome on Coumadin and aspirin, hypertension, and migraines who presents with an abnormal MRI brain that demonstrates abnormal DWI, ADC, and FLAIR signal in the left parietal region as well as abnormal FLAIR signal in bilateral white matter diffusely. She reports ___ days of headache with right temporal non-radiating pulsating pain with associated photophobia. The pain is constant, and she has been taking Tylenol. She also reports intermittent blurry vision and diplopia that has been gradual in onset over the last week. She denies loss of vision. She has been having difficulty pronouncing words and difficulty getting words out, but this has been improving; her concentration has also been poor for the last ___ weeks. She was diagnosed with two prior strokes.",
+        "past_medical_history": "Systemic lupus erythematosus, antiphospholipid syndrome, stroke, migraines, menorrhagia, hypertension, iron deficiency anemia, vitamin D deficiency.",
+        "family_history": "Mother: Hypertension, diabetes mellitus.",
+        "social_history": "Lives with mother and sister. Unemployed. No smoking, occasional alcohol, no drugs. Highest level of schooling was some college."
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: 98.2F, P: 84, R: 15, BP: 119/80, SaO2: 100RA. General: Awake, cooperative, NAD.",
+        "specialty_examination": "Neurologic: Alert, oriented x 3. Able to relate history without difficulty. Language is fluent with intact repetition and comprehension. Normal prosody. No paraphasic errors. Motor: Normal bulk and tone. No drift. Sensory: No deficits to light touch, pinprick, cold sensation, proprioception throughout."
+    }
+}

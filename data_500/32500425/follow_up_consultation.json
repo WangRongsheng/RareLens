@@ -1,0 +1,58 @@
+{
+    "basic_information": {
+        "age": "8",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Congenital maxillary and mandibular alveolar soft tissue enlargement in the area of the premolars",
+        "history_of_present_illness": "Congenital maxillary and mandibular alveolar soft tissue enlargement, abnormal trabeculation in the maxilla and mandible, congenitally missing maxillary and mandibular first and second premolars and mandibular canines",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Left maxillary and mandibular gingival enlargement, homolateral hypopigmentation and palsy",
+        "specialty_examination": "Abnormal trabeculation in the maxilla and mandible, congenitally missing teeth, dysplastic woven bone with prominent reversal lines"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Genomic DNA analysis",
+            "date": "Not specified",
+            "findings": "Heterozygosity at a mosaic level (0.5–1.8%) for a single base substitution, c.1571G>A, in exon 10 of the coding sequence of PIK3CA which translates to a missense mutation, p.Arg524Lys, in the translated PIK3CA protein. The variant was seen at a low mosaic level of 2.0–3.7% in the blood.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Panoramic radiograph",
+            "date": "Age 9",
+            "findings": "Abnormal trabeculation essentially similar to SOD in the maxilla and mandible with congenitally missing maxillary and mandibular first and second premolars and mandibular canines.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cone beam computerized tomography (CBCT)",
+            "date": "Not specified",
+            "findings": "Osseous abnormalities on the left side of the maxilla and mandible and very mild osseous expansion in the mandible. Abnormal maxillary bone in the area of the premolars exhibiting loss of lingual plate definition and lingual concavity when compared to the contralateral side.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Mandibular bone biopsy",
+            "date": "Not specified",
+            "findings": "Abnormal bone exhibiting prominent reversal lines was present and associated with fibrocollagenous tissue.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Variant analysis of somatic overgrowth genes",
+            "date": "Not specified",
+            "findings": "Mutation analysis of somatic overgrowth related genes PIK3CA, AKT1, AKT2, AKT3, GNAQ, GNA11, MTOR, and PIK3R2 was undertaken using next generation sequencing (NGS) on the IonTorrent PGM platform.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

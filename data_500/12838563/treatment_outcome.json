@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Blalock-Taussig shunt",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed at 2 weeks of life",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Gastrostomy feeding tube placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Placed at 1 month of age",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Definitive cardiac repair",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed at 15 months of age",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "hearing aid",
+            "specific_treatment": "Bilateral bone-conduction hearing aids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Fitted at 8 months of age",
+            "treatment_response": "Increased verbal communication noted shortly thereafter"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Blalock-Taussig shunt performed at 2 weeks of life"
+        },
+        {
+            "date": "Not specified",
+            "event": "Gastrostomy feeding tube placed at 1 month of age"
+        },
+        {
+            "date": "Not specified",
+            "event": "Hospitalized for apneic episodes at 6 weeks of life"
+        },
+        {
+            "date": "Not specified",
+            "event": "Bilateral bone-conduction hearing aids fitted at 8 months of age"
+        },
+        {
+            "date": "Not specified",
+            "event": "Definitive cardiac repair performed at 15 months of age"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Global developmental delay with function at the 7-month level at 13 months of age",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

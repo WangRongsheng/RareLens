@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "amlodipine",
+            "start_date": "3 years of age",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "BP remained high at approximately the 95th percentile"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "carvedilol",
+            "start_date": "5 years of age",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Hypertension was well controlled"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "oxcarbazepine",
+            "start_date": "5 years of age",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No further seizure episodes have been reported"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "prednisolone",
+            "start_date": "5 years of age",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "azathioprine",
+            "start_date": "5 years of age",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "1 year of age",
+            "event": "Seizures and sequential hemiparesis caused by a left thalamic hemorrhage"
+        },
+        {
+            "date": "3 years of age",
+            "event": "Hypertension noted, initiation of amlodipine"
+        },
+        {
+            "date": "5 years of age",
+            "event": "Second episode of seizure, initiation of carvedilol, oxcarbazepine, prednisolone, and azathioprine"
+        },
+        {
+            "date": "7 years of age",
+            "event": "Referred for genetic counseling"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "No further seizure episodes reported, hypertension well controlled",
+        "follow_up_details": "Not specified",
+        "complications": "No complications mentioned",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

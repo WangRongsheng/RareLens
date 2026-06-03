@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Drainage of pelvic fluid collection",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Drain placement performed",
+            "treatment_response": "Procedure went smoothly, drain is in place"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "antibiotics (amoxicillin-pot clavulanate)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO Q12H for 5 days",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "carbamazepine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Three (3) Tablets PO DAILY and Four (4) Tablets PO HS (at bedtime)",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "levetiracetam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO TID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "oxycodone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO Q4H as needed for pain",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Two (2) Tablets PO TID",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Drainage of pelvic fluid collection performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on antibiotics"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications provided"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.",
+        "follow_up_details": "Keep appointment with Dr. ___",
+        "complications": "No known complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient was able to return home and perform activities independently."
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "MRI head: 'Stable appearance of the lesion in the left frontoparietal region without enhancement.' Discharge condition: 'Ambulatory - Independent.' Persistent right-sided weakness noted; seizure regimen adjusted but no evidence of tumor progression.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Ongoing right-sided weakness on neuro exam and continued need for anti-seizure medications (discharged on lacosamide + divalproex; PRN lorazepam).",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Family reports patient 'seizing ... more or less continuously' prior to arrival; previously 'no seizures since his diagnosis.'"
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Seizure medications were adjusted during admission; discharged on lacosamide 100 mg BID and divalproex 1500 mg BID (PRN lorazepam)."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Discharge condition: 'Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive.' Seizures controlled with inpatient treatment."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Discharge: 'Activity Status: Ambulatory - Independent.'"
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Exact diagnosis date and long-term follow-up after discharge are not documented. Index time was set to the initial glioma diagnosis; all events in this record occur long after that. Seizure recurrence likely related to missed medication per history, but causality cannot be confirmed from the record."
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Coronary Artery Disease",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis was based on the patient's presentation of chest pain with exertion and EKG findings showing ischemic changes (q waves and ST elevations). Cardiac catheterization revealed two vessel coronary artery disease, confirming the diagnosis."
+    }
+}

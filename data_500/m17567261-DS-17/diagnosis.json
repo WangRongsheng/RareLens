@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Hypotension",
+        "differential_diagnosis": "Acute Kidney Injury",
+        "diagnostic_reasoning": "The patient presented with consistently low blood pressures over the past week, prompting evaluation. Initial vital signs showed a low BP of 72/49 in the ED, and renal labs indicated acute kidney injury, possibly due to dehydration from inadequate fluid intake. Administration of IV fluids improved both blood pressure and kidney function."
+    }
+}

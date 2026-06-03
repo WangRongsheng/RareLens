@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "shortness of breath",
+        "history_of_present_illness": "Admitted due to shortness of breath; stress cardiac imaging was suspicious of coronary artery disease.",
+        "past_medical_history": "Personal history of deep vein thrombosis, microcytic anemia, hypertension, asthma, type 2 diabetes mellitus.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.",
+        "specialty_examination": "Not specified"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "TIPS revision and embolization of gastric varix",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Embolized one of gastric varix with coils and sclerosing agents; mechanical thrombectomy using balloon and cleaner device; angioplasty of TIPS shunt with a 10 mm balloon.",
+            "treatment_response": "Successful thrombectomy and angioplasty with decreased portosystemic pressure gradient."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Octreotide, IV pantoprazole, ceftriaxone, lorazepam, Zofran, normal saline",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Octreotide gtt at 50 mcg/hr; IV pantoprazole, ceftriaxone 1g IV daily; normal saline 1L; lorazepam, Zofran as needed.",
+            "treatment_response": "Initial management for variceal bleeding; no specific complications mentioned."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with hematemesis and was in stable condition, later showing signs of variceal bleeding."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on Octreotide drip and received IV medications to manage bleeding."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent intubation due to massive hematemesis."
+        },
+        {
+            "date": "Not specified",
+            "event": "TIPS revision and mechanical thrombectomy procedures were performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Follow-up planned for repeat laboratory tests and medication management."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable at discharge, but requires assistance.",
+        "follow_up_details": "Follow up at listed appointments and repeat labs.",
+        "complications": "Presence of blood clots in leg, spleen, and liver; transient intubation for respiratory management.",
+        "long_term_prognosis": "Prognosis considered good; continued monitoring and outpatient therapy recommended.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Ambulatory with assistance; mental status clear and coherent.",
+        "patient_perspective": "Patient was informed about the reasons for admission and provided discharge instructions. Expressed appreciation for the care received."
+    }
+}

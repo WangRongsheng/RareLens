@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "dyspnea",
+        "history_of_present_illness": "Ms ___ is a pleasant ___ year old female with history of obesity, recent breast reduction surgery who presents for shortness of breath on exertion. Her symptoms were first noticed one week ago. She reports she does not feel short of breath at rest but mainly notices when she tries to exert herself, + cough. No chest pain or lightheadedness, nausea or vomiting. She has no leg swelling. In the ED, initial vitals were 98.5 100 116/76 16 98% RA. D-dimer was 5866, hemoglobin was 10.0, BNP 34, troponin <0.01. Patient found to have diffuse, extensive pulmonary emboli on CTA chest. She was started on IV heparin and admitted to medicine for further treatment. Currently, feels comfortable. Persistent non-productive cough, no SOB.",
+        "past_medical_history": "Resolved subclinical hyperthyroidism, thyroid nodules, chronic lower back pain s/p MVA, breast reduction surgery, venous insufficiency",
+        "family_history": "no family history of clots, siblings with asthma",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: 99.3 PO 123 / 85 ___ RA. Constitutional: Alert, oriented, no acute distress. Respiratory: Clear to auscultation bilaterally, no wheezes, rales, rhonchi.",
+        "specialty_examination": "Neurological: aaox3 CNII-XII and strength grossly intact. Cardiovascular: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops."
+    }
+}

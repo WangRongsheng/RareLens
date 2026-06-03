@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "vomiting/diarrhea/abd pain",
+        "history_of_present_illness": "Patient with anorexia/bulimia which is long standing, CKD stage IV, recurrent UTI's, chronic metabolic acidosis due to laxative abuse, hypothyroidism here with abdominal pain, vomiting, and diarrhea of 2 days. Pt says she ate a tuna sandwich for dinner on ___ evening at 6 ___. Around 11 ___, she developed epigastric pain, nonradiating, associated with vomitus of her dinner contents. Also developed diarrhea. The pain persisted the following morning when her ___ visited. Pt consulted with her primary care physician, ___ came to the ED for evaluation at his insistence. In the ED, pt afebrile and hemodynamically stable. Labs notable for anion gap acidosis with HCO3 of 9 and ketones in urine. Pt with mild transaminitis < 2ULN, and lipase elevation to 123. RUQ u/s showed no acute findings. Urinalysis showed pyuria with few bacteria and positive nitrites. Pt given zofran, tylenol, fosfomycin, and 2L of NS and admitted for further care. On arrival to unit, pt says pain resolved. No longer nauseated. Says last BM was in the ED and loose. Reports urinary frequency and mild dysuria at home. No fevers or chills.",
+        "past_medical_history": "# Anorexia/bulimia - longstanding, chronic laxative abuse # CKD stage IV # Hypothyroidism # Osteoporosis # s/p CCY",
+        "family_history": "Brother died of colon CA in his ___.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 97.6 128/80 88 20 100%RA. Gen: NAD, emaciated. HEENT: dry MM, parotid hypertrophy. CV: rrr, no r/m/g. Pulm: clear b/l. Abd: soft, nontender, scaphoid. Back: no CVA tenderness. Ext: no edema, healed ulcerations on shins. Neuro: alert and oriented x 3.",
+        "specialty_examination": "Not specified"
+    }
+}

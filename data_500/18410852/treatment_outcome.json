@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "valproate, zonisamide, vitamin B6",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "valproate (30 mg/kg/day), zonisamide (Not specified), vitamin B6 (Not specified)",
+            "treatment_response": "No effect was obtained"
+        },
+        {
+            "treatment_type": "hormone therapy",
+            "specific_treatment": "adrenocorticotropic hormone therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Responded well"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "valproate, clonazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "valproate (30 mg/kg/day), clonazepam (0.04 mg/kg/day)",
+            "treatment_response": "Seizure free since adrenocorticotropic hormone therapy"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "3 months of age",
+            "event": "Developed epileptic spasms in clusters"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on antiepileptic drug treatment with valproate, zonisamide, and vitamin B6"
+        },
+        {
+            "date": "Not specified",
+            "event": "No effect obtained from initial antiepileptic drugs"
+        },
+        {
+            "date": "Not specified",
+            "event": "Responded well to adrenocorticotropic hormone therapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Seizure free on combination of valproate and clonazepam"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Severely disabled, unable to speak or sit up, no head control or visual following",
+        "follow_up_details": "Not specified",
+        "complications": "No complications mentioned",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

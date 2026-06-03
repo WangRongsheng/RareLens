@@ -1,0 +1,12 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "Diagnosed with familial pseudohyperkalemia (temperature-dependent potassium leak) and discharged; no treatment or complications reported (“We explained these results to her and her parents, and she was then discharged.”).",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "No symptoms reported and no abnormalities on examination; condition recognized as an in vitro artifact (“…hyperkalemia without any symptoms… Electrocardiography revealed no signs of hyperkalemia… She was then discharged.”).",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "No explicit post-discharge follow-up details are provided. Long-term outcome and quality-of-life assessments are inferred from the benign, asymptomatic nature of familial pseudohyperkalemia and the fact that the patient was discharged without treatment; the condition is a persistent laboratory artifact rather than a clinical disease."
+}

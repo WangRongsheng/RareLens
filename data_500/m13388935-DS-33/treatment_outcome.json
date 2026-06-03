@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Pegasys and Ribavirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Pegasys 90 mcg a week and Ribavirin 200 mg a day",
+            "treatment_response": "Most recent viral load was <43 copies, down from over 15 million"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "liver biopsy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Consistent with recurrent viral hepatitis C, no rejection of transplant liver"
+        },
+        {
+            "treatment_type": "blood transfusion",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient responded well"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Started Pegasys and Ribavirin"
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent liver biopsy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received blood transfusion"
+        },
+        {
+            "date": "Not specified",
+            "event": "Medication adjustments made - Ribavirin stopped, Pegasys continued"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved kidney function and responded well to treatment",
+        "follow_up_details": "Appointment to be set up in the transplant clinic for unspecified date",
+        "complications": "Cytopenias interfering with previous regimens",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient has weekly headaches and malaise following Pegasys injections",
+        "patient_perspective": "Expressed the need to stay hydrated post-discharge"
+    }
+}

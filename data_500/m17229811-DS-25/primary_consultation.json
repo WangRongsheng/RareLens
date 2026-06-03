@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Redness, tenderness, warmth over R forearm and R side of abdomen",
+        "history_of_present_illness": "The patient first developed erythema, warmth, and tenderness over the right side of his abdomen 3 days prior to admission which gradually worsened. He then developed the same thing over his right forearm the evening prior to presentation. He denies fever, chills, fatigue, night sweats, or other systemic symptoms at home. He was most recently hospitalized for management of new hepatic vein thrombosis diagnosed on MRCP.",
+        "past_medical_history": "HIV, CVID, chronic sinusitis, ITP, recurrent giardiasis, recent hepatic vein thrombosis, history of H. pylori infection, syphilis, molluscum contagiosum, asthma, depression, meningitis, allergic rhinitis, and more.",
+        "family_history": "Mother with RA, Father healthy, Sister healthy",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "On Admission: T: 98.8, BP: 100/60, P: 86, R: 18, O2: 100% RA. Alert, oriented, well appearing and in no acute distress.",
+        "specialty_examination": "Notable for a 10cm oval shaped, red, raised, firm, indurated lesion with no skin breakdown or fluctuance over R forearm and R abd wall."
+    }
+}

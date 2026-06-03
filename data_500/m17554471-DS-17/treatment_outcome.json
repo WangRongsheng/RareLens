@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Tylenol, IV dilaudid, Lidocaine patch",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Tylenol, IV dilaudid, Lidocaine patch prior to transfer to the floor",
+            "treatment_response": "Ongoing pain of R low back radiating down RLE"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Gabapentin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "300 mg PO TID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oxycodone (Immediate Release)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg PO Q6H PRN pain - moderate",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lidocaine 5% Patch",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Apply one patch to affected area QPM",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with acute exacerbation of low back pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient evaluated in clinic and underwent lumbar spine MRI"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient treated in ED with Tylenol, IV dilaudid, and Lidocaine patch"
+        },
+        {
+            "date": "Not specified",
+            "event": "Prescribed Gabapentin, Oxycodone, and Lidocaine patch for discharge"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - requires assistance or aid (walker or cane)",
+        "follow_up_details": "Follow up with primary care doctor and pain doctor as scheduled.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

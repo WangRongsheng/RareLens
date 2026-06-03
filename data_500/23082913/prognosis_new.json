@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "After the operation, weakness in the lower extremities gradually improved; at 38 months motor power was MRC 3/5, but she could not walk and had poor control of urinary and fecal functions. Follow-up MRI at 19 months showed an unchanged residual lesion with decreased enhancement.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Persistent neurological deficits with inability to walk and poor bladder and bowel control at long-term follow-up.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "functional_improvement",
+            "time_period": "unknown",
+            "evidence_excerpt": "After the operation, weakness in the lower extremities gradually improved."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 38 months after surgery, motor power in the lower extremities improved to MRC Grade 3/5."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 38 months after surgery, she could not walk and had poor control of urinary and fecal functions."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "Definitive diagnosis was confirmed postoperatively via pathology; follow-up intervals are reported relative to surgery. Index time approximated to the hospital admission/surgical episode. Early postoperative status was unchanged; timing of the initial improvement is not precisely specified."
+}

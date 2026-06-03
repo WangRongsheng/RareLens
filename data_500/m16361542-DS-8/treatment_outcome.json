@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "carboplatin desensitization",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Desensitization protocol for chemotherapy cycles, included administration of hydrocortisone and Benadryl for allergic reaction",
+            "treatment_response": "Tolerated the treatments without incident after initial allergic reaction"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Initial allergic reaction to carboplatin during cycle 2, leading to discontinuation and desensitization treatment"
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted to ICU for cycles 3 and 4 of carboplatin desensitization"
+        },
+        {
+            "date": "Not specified",
+            "event": "Readmitted to ICU for desensitization for cycle 5 without incident"
+        },
+        {
+            "date": "Not specified",
+            "event": "Directly admitted to ICU for carboplatin desensitization for cycle 6"
+        },
+        {
+            "date": "Not specified",
+            "event": "Tolerated desensitization for cycle 6 without allergic event"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive, discharged home",
+        "follow_up_details": "Please follow up with your doctors as indicated",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Ambulatory - Independent",
+        "patient_perspective": "Tolerated desensitization well, no allergic events"
+    }
+}

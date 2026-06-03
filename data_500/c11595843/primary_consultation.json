@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "41",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Increasing medial joint pain in the knee.",
+        "history_of_present_illness": "The pain began increasing in severity over a period of time. Patient experienced problematic pain with activity and especially noted pain at night. Previous arthroscopy revealed medial meniscal degeneration and erosion of the medial femoral condyle, treated with partial medial meniscectomy and chondroplasty. After conservative measures failed, the patient underwent a high tibial osteotomy.",
+        "past_medical_history": "Previous arthroscopy two years ago showed medial meniscal degeneration. Partial medial meniscectomy and chondroplasty performed.",
+        "family_history": "Not specified.",
+        "social_history": "The patient reports being normally active but has had to reduce physical activity due to knee pain. Does not smoke and drinks alcohol occasionally."
+    },
+    "physical_examination": {
+        "general_examination": "Visual inspection reveals a left knee bent inward with tenderness along the medial joint line. Range of motion is limited primarily due to pain.",
+        "specialty_examination": "Stability assessment shows mild laxity on valgus stress testing, and the McMurray test elicits pain and a clicking sensation. No significant effusion noted on ballottement test."
+    }
+}

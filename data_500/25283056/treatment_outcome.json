@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "inhaler bronchodilator and steroid therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "antibacterial therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "dietary",
+            "specific_treatment": "hydrolyzed formula",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "5 months",
+            "event": "Admitted to the hospital with symptoms of coughing and wheezing. Given inhaler bronchodilator and steroid therapy in addition to antibacterial therapy."
+        },
+        {
+            "date": "6 months",
+            "event": "Had severe allergic reaction with cow’s milk."
+        },
+        {
+            "date": "7 months",
+            "event": "Hospitalized with the diagnosis of pneumonia and bronchial hyper-reactivity."
+        },
+        {
+            "date": "8 months",
+            "event": "Referred to Hacettepe University Pediatric Immunology clinic. Given hydrolyzed formula."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "No problems except food allergy",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

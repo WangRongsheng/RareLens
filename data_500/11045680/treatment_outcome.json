@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "neuroleptics",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Deterioration of paranoid symptoms and mobility, leading to discontinuation"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Age 21",
+            "event": "Onset of mood changes, dysphoria, increasing indifference, and loss of impetus"
+        },
+        {
+            "date": "Following months after age 21",
+            "event": "Development of difficulties in walking and frequent falls"
+        },
+        {
+            "date": "Age 24",
+            "event": "Referral to a neurological clinic; neurological examination revealed normal proprioceptive reflexes, positive Babinski’s sign, broad-based ataxic gait, and cognitive disturbances"
+        },
+        {
+            "date": "Age 25",
+            "event": "Condition deteriorated drastically with visual and auditory hallucinations, paranoia, aggressive behavior, and inability to communicate"
+        },
+        {
+            "date": "Age 25",
+            "event": "Drug therapy with neuroleptics initiated and later discontinued due to deterioration of symptoms"
+        },
+        {
+            "date": "Age 27",
+            "event": "Patient died of acute bronchopneumonia"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Deceased",
+        "follow_up_details": "Not specified",
+        "complications": "Acute bronchopneumonia",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

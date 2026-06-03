@@ -1,0 +1,113 @@
+{
+    "basic_information": {
+        "age": "30",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "skin fragility and blistering of the face, upper back, and dorsum of hands",
+        "history_of_present_illness": "Symptoms were worse during summer, but not affected by her menstrual cycle. At presentation she was pregnant and had undergone relapse of classical childhood CD, controlled between the ages of 10 months and 18 years by a gluten-free diet. From that age she had taken a normal diet. Previous history included a single episode of unexplained acute abdominal pain accompanied by aphasia, lasting several hours but resolving spontaneously, and the removal of a normal appendix without postoperative complications.",
+        "past_medical_history": "Classical childhood CD, controlled between the ages of 10 months and 18 years by a gluten-free diet. Previous history included a single episode of unexplained acute abdominal pain accompanied by aphasia, lasting several hours but resolving spontaneously, and the removal of a normal appendix without postoperative complications.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Skin biopsy revealed no IgA deposition at the dermoepidermal junction. It did, however, show features typical of porphyria with cutaneous lesions. A duodenal biopsy showed near-total villous atrophy with crypt hyperplasia and increased numbers of inflammatory cells in the lamina propria and of intraepithelial lymphocytes, ie., changes typical of CD."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood, urine, and fecal analysis",
+            "date": "26/40 weeks gestation",
+            "findings": "Raised urine and fecal porphyrins",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma fluorescence emission spectrometry",
+            "date": "Following delivery",
+            "findings": "Characteristic emission maximum in the 624- to 628-nm region",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antigliadin and reticulin IgA and IgG titers",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antiendomysium IgA titers",
+            "date": "Not specified",
+            "findings": "Weakly positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Intestinal permeability and absorption studies",
+            "date": "Two years following reinstitution of a gluten-free diet",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urine analysis",
+            "date": "Not specified",
+            "findings": "5-Aminolevulinic acid (mmol/24h): 103 (reference range: <46), Porphobilinogen (mmol/24h): 26 (reference range: <9), Total porphyrin (nmol/24h): 1730 (reference range: <410)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Feces analysis",
+            "date": "Not specified",
+            "findings": "Total coproporphyrin (nmol/g dry stool): 155 (reference range: <46), Coproporphyrin-III (% of total): 85 (reference range: 17–37), Protoporphyrin (nmol/g dry stool): 480 (reference range: <134)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma analysis",
+            "date": "Not specified",
+            "findings": "Fluorescence emission maximum (nm): 626 (usually absent)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum autoantibody profile",
+            "date": "Not specified",
+            "findings": "Antigliadin IgA: neg, IgG: neg; Antireticulin IgA: neg, IgG: neg; Antiendomysium IgA: pos",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "No IgA deposition at the dermoepidermal junction; features typical of porphyria with cutaneous lesions",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Duodenal biopsy",
+            "date": "Not specified",
+            "findings": "Near-total villous atrophy with crypt hyperplasia and increased numbers of inflammatory cells in the lamina propria and of intraepithelial lymphocytes, ie., changes typical of CD",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Variegate porphyria",
+        "diagnostic_reasoning": "The diagnosis of variegate porphyria was made based on blood, urine, and fecal analysis showing raised urine and fecal porphyrins, and plasma fluorescence emission spectrometry showing a characteristic emission maximum in the 624- to 628-nm region. Dermatitis herpetiformis was initially considered but ruled out when a skin biopsy revealed no IgA deposition at the dermoepidermal junction, instead showing features typical of porphyria with cutaneous lesions."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "dapsone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "dietary",
+            "specific_treatment": "gluten-free diet",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "R-CHOP",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "six cycles",
+            "treatment_response": "Completed chemotherapy without incident"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient underwent six cycles of R-CHOP chemotherapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient had splenectomy for diagnostic purposes"
+        },
+        {
+            "date": "Not specified",
+            "event": "Excisional biopsy of one abdominal node revealed DLBCL"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for chemotherapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient completed chemotherapy"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental Status: Clear and coherent; Level of Consciousness: Alert and interactive; Activity Status: Ambulatory - Independent",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

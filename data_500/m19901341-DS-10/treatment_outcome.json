@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Zofran, Tylenol, Fosfomycin, Normal Saline",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Zofran and Tylenol administered; Normal Saline 2L given.",
+            "treatment_response": "On arrival to unit, patient stated pain resolved and was no longer nauseated."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient developed abdominal pain, vomiting, and diarrhea after eating a tuna sandwich."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient visited primary care physician and was sent to the ED."
+        },
+        {
+            "date": "Not specified",
+            "event": "In the ED, patient was afebrile and hemodynamically stable."
+        },
+        {
+            "date": "Not specified",
+            "event": "Labs revealed anion gap acidosis and mild transaminitis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient given Zofran, Tylenol, Fosfomycin, and 2L of Normal Saline."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient reported resolution of pain and no longer felt nauseated."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home in clear and coherent mental status.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Patient advised to avoid contact with others for 72 hours due to norovirus.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Ambulatory and independent.",
+        "patient_perspective": "Patient diagnosed with gastroenteritis caused by Norovirus and advised on contagiousness."
+    }
+}

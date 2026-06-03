@@ -1,0 +1,38 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Patient 2 was treated from 13 days of age. She had slow development, spasticity/dystonia, and suspected seizures by 13 months. Brain MRI at 1.1 years showed bilateral putamen/globus pallidus lesions that gradually resolved; by 4 years she could stand with gait orthosis but had poor DQ (fine motor 13%, gross motor 19%) and remained on baclofen and phenobarbital.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "She was spastic with dystonia; seizures were suspected since 13 months and she is taking baclofen and phenobarbital, indicating ongoing, prominent neurologic symptoms.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Development since infancy was slow; no head control at 6 months after a fever episode; she was spastic and exhibited dystonia."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Seizures were suspected since 13 months; she was started on a muscle relaxant (baclofen) and phenobarbital."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Brain MRI T2-weighted images at 1.1 years revealed high density lesions over both the putamen and globus pallidus."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "The lesions resolved gradually; at 4 years they involved only the outer regions of the putamen; frontotemporal atrophy improved."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "She first stood with assistance of gait orthosis at 4 years of age."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The source describes a cohort; this summary pertains to Patient 2, who had the most detailed longitudinal information. Exact dates are not provided; timing was mapped approximately relative to the confirmed diagnosis and treatment initiation in infancy (treated from day 13). No encephalopathic crises were documented for this patient, but early progression with MRI lesions and persistent motor impairment were noted."
+}

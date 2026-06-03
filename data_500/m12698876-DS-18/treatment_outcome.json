@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "solumedrol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "125 mg",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "torsemide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg BID",
+            "treatment_response": "Fluid removed from body, improved symptoms"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the ED with increasing dyspnea on exertion (DOE)"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 125 mg of solumedrol"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started treatment with torsemide 100 mg BID"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved, ambulatory and independent",
+        "follow_up_details": "Follow up appointments not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Need for continued medication adherence and dietary management",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Managed to return home, independent",
+        "patient_perspective": "Patient noted improvement in symptoms post-treatment"
+    }
+}

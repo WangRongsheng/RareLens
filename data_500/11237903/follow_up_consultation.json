@@ -1,0 +1,100 @@
+{
+    "basic_information": {
+        "age": "1 day",
+        "gender": "Female",
+        "weight": "2.1 kg",
+        "height": "47 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Muslim Pakistani",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Absence of a red reflex in both eyes",
+        "history_of_present_illness": "Dense central and moderate diffuse lens opacities present bilaterally. Pharmacologic pupil dilation was absent. Lensectomy was undertaken at 6 weeks of age. Corneal diameters were 8 mm vertically and 7.5 mm horizontally, with 14 mm axial lengths. Iris retractors were required to visualize the lenses fully at surgery. Both lenses were noted to be disproportionately smaller and thinner than expected for the size of the eye. The zonule was elongated and intact. Intraocular pressure was normal. After lensectomy, mild optic disc pallor and a reduced retinal nerve fiber layer were visible.",
+        "past_medical_history": "First child of parents who are first cousins once removed within a multiple consanguineous family. A paternal cousin had died in Pakistan at the age of 24; he had experienced severe mental and physical handicap since early childhood. Birth was induced at 38 weeks gestation because of intrauterine growth retardation.",
+        "family_history": "Paternal cousin had severe mental and physical handicap since early childhood.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "At birth, her weight was 2.1 kg (0.4th centile), length was 47 cm (10th centile), and the head circumference was 31.7 cm (3rd centile).",
+        "specialty_examination": "Dense central and moderate diffuse lens opacities present bilaterally. Pharmacologic pupil dilation was absent. Corneal diameters were 8 mm vertically and 7.5 mm horizontally, with 14 mm axial lengths. Both lenses were noted to be disproportionately smaller and thinner than expected for the size of the eye. The zonule was elongated and intact. Intraocular pressure was normal. After lensectomy, mild optic disc pallor and a reduced retinal nerve fiber layer were visible."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Metabolic investigations",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Congenital infection screen",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chromosome studies",
+            "date": "Not specified",
+            "findings": "Normal, including looking for evidence of increased chromosome breakage",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary amino acid levels",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "17OH progesterone levels",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine kinase levels",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Peripheral blood cytogenetic analysis",
+            "date": "Not specified",
+            "findings": "Normal male karyotype",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "3 hydroxyisobutyryl aciduria test",
+            "date": "Not specified",
+            "findings": "Positive in patient 5 and two of her siblings",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the brain",
+            "date": "Not specified",
+            "findings": "Moderate hypoplasia of the corpus callosum and mild pachygyria, notably of the frontal lobes (patient 1); incomplete lissencephaly of the agyria–pachygyria type: the gyri were most obviously absent in the occipital lobes (patient 2); variable development of the corpus callosum, ranging from marked hypogenesis to normal; degree of pachygyria ranging from minimal focal bifrontal involvement to diffuse frontal and temporoparietal pachygyria with associated microcephaly; some abnormalities of myelination",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal ultrasound",
+            "date": "Not specified",
+            "findings": "Mild left hydronephrosis in patient 2",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Electrophysiologic analysis (ERG and VEP)",
+            "date": "6 months old (patient 1); 9 months old (patient 2)",
+            "findings": "Normal electroretinogram and absent visual evoked response, except for a low amplitude positive response to flash at 110 ms and possible negative component at 170 ms (patient 1); normal or borderline–normal ERGs, and either absent, markedly reduced, or grossly delayed (PNP, negative) flash VEP with absent pattern VEP (patient 2 and others)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Normal in 12 children; seizures in 2 children at approximately 6 months of age",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

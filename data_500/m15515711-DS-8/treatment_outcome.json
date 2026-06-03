@@ -1,0 +1,31 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Bilateral PCN placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Kidney function and potassium levels improved significantly."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Bilateral PCN placement performed to relieve obstruction."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved kidney function and potassium levels.",
+        "follow_up_details": "Follow-up with primary care doctor, oncologist, and interventional radiology to evaluate the tubes.",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient is ambulatory and independent.",
+        "patient_perspective": "Not specified."
+    }
+}

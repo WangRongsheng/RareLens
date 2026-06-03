@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "nausea and vomiting",
+        "history_of_present_illness": "Patient presents with a few days of nausea, vomiting, and abdominal pain. She complained of epigastric and RUQ discomfort. Denied fever, chills or diarrhea initially. Stable cough secondary to GERD. Treated for sinusitis with augmentin. In the emergency department, hypotensive to 69/50. Labs notable for lactate of 3.9 improving with treatment. WBC 26, and creatinine from a baseline of 0.9. EKG shows SR NANI min with STE in inferior leads. Given aspirin. Blood cultures notable for gram-negative rods. RUQ ultrasound showed dilated common bile duct and distended gallbladder.",
+        "past_medical_history": "Hypertension, GERD, hemorrhagic stroke, breast cancer (LCIS), s/p mastectomy",
+        "family_history": "Mother -- ANEMIA, RHEUMATOID ARTHRITIS, HYPERTENSION; Sister -- LUPUS, HYPOTHYROIDISM",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: afebrile, 90s/50s BP, HR 12, 98% on 2L oxygen. General examination reveals alert, oriented, no acute distress.",
+        "specialty_examination": "Neurological: moving all extremities. Cardiovascular: regular rate and rhythm, normal S1 S2, no murmurs. Abdominal: soft, non-tender, non-distended, bowel sounds present."
+    }
+}

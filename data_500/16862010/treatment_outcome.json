@@ -1,0 +1,95 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "elective tracheostomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed on the fifth day of life for marked desaturations while in the prone position",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "lysis of intraoral adhesions",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Diathermy division of the soft tissue adhesions",
+            "treatment_response": "Mouth opening improved from 3 mm preoperatively to 6 mm postoperatively"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "passive movements",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Commenced postoperatively",
+            "treatment_response": "At review 8 weeks later, the infant had a 30-mm interalveolar opening"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "tongue base advancement with a circummandibular Prolene suture",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed at 8 months of age",
+            "treatment_response": "Oral intake increased to the extent that nasogastric feeding was able to be ceased"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "elective decannulation of tracheostomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed at 12 months of age",
+            "treatment_response": "Successful"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "cleft palate repair",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed at 18 months of age",
+            "treatment_response": "Uncomplicated"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Nasogastric feeding commenced"
+        },
+        {
+            "date": "Not specified",
+            "event": "Elective tracheostomy performed on the fifth day of life"
+        },
+        {
+            "date": "Not specified",
+            "event": "Examination under anesthesia (EUA) performed at 1 month of age"
+        },
+        {
+            "date": "Not specified",
+            "event": "EUA and lysis of intraoral adhesions performed at 14 weeks of age"
+        },
+        {
+            "date": "Not specified",
+            "event": "Passive movements commenced postoperatively"
+        },
+        {
+            "date": "Not specified",
+            "event": "Tongue base advancement with a circummandibular Prolene suture performed at 8 months of age"
+        },
+        {
+            "date": "Not specified",
+            "event": "Elective decannulation of tracheostomy at 12 months of age"
+        },
+        {
+            "date": "Not specified",
+            "event": "Cleft palate repair at 18 months of age"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Fully recovered",
+        "follow_up_details": "No further difficulties with either feeding or airway",
+        "complications": "No complications",
+        "long_term_prognosis": "Excellent prognosis",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Normal mouth opening and feeding",
+        "patient_perspective": "Not specified"
+    }
+}

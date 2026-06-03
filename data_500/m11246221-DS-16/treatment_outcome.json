@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Irrigation and debridement, right tibia",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vancomycin",
+            "start_date": "Not specified",
+            "end_date": "6 weeks from start",
+            "dosage_or_details": "1 gram IV Q12H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oxycodone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg PO Q3H as needed for pain",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Enoxaparin",
+            "start_date": "Not specified",
+            "end_date": "4 weeks from start",
+            "dosage_or_details": "40 mg SC QPM",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Surgery performed: Irrigation and debridement of right tibia"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started vancomycin IV therapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started oxycodone for pain management"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started enoxaparin for blood clot prevention"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental status clear and coherent, level of consciousness alert and interactive, ambulatory with assistance",
+        "follow_up_details": "Follow-up for wound care and removal of staples 14 days from surgery.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "basic_information": {
+        "age": "24",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "técnica en administración"
+    },
+    "medical_history": {
+        "chief_complaint": "tumoración cervical, además de periodos de rubicundez facial, de presentación y remisión espontánea",
+        "history_of_present_illness": "Paciente mujer de 24 años de edad, natural de Jaén-Cajamarca y procedente de Lima, de profesión técnica en administración, referida al consultorio de Genética por antecedentes familiares paternos de CMT y por presentar tumoración cervical, además de periodos de rubicundez facial, de presentación y remisión espontánea. Niega antecedentes patológicos o quirúrgicos previos.",
+        "past_medical_history": "Niega antecedentes patológicos o quirúrgicos previos.",
+        "family_history": "La paciente pertenece a la cuarta generación de familiares afectados por CT, tiene dos hermanos varones con bocio, padre diagnosticado de CT y fallecido a los 50 años, y cinco tíos paternos diagnosticados con CMT o CT, tres de ellos ya fallecidos. Abuelo paterno con CT con dos hermanos con el mismo diagnóstico y bisabuelo paterno con CT.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Al examen físico se evidenció en ambos lóbulos la presencia de un nódulo duro, de 2.5 cm en el lado derecho y de 1.5 cm en el izquierdo, no palpándose adenopatías cervicales.",
+        "specialty_examination": "Al examen ecográfico de tiroides, se observó en ambos lóbulos un nódulo sólido, hipoecogénico, con microcalcificaciones en su interior y vascularización al estudio Doppler, de 0.8 X 0.6 cm en el tercio inferior del lóbulo derecho y de 1.0 x 0.7 cm en el tercio medio del lóbulo izquierdo, ambos de alta sospecha de malignidad. El dosaje de calcitonina detectó niveles elevados en plasma: 1,605 pg/mL (VN: 0-18.3 pg/mL), estableciéndose la posibilidad diagnóstica de CMT."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Calcitonin blood test",
+            "date": "Not specified",
+            "findings": "Elevated levels in plasma: 1,605 pg/mL (VN: 0-18.3 pg/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Periodic analysis of calcitonin, parathormone, TSH, T4, and ionized calcium",
+            "date": "Not specified",
+            "findings": "Within reference values",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing for RET mutations",
+            "date": "Not specified",
+            "findings": "Presence of the variant c.1888T>A (p.Cys630Ser) located in exon 11 of the RET gene",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Thyroid ultrasound",
+            "date": "Not specified",
+            "findings": "Solid, hypoechoic nodule with microcalcifications and vascularization on Doppler study, 0.8 x 0.6 cm in the lower third of the right lobe and 1.0 x 0.7 cm in the middle third of the left lobe, both highly suspicious for malignancy",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Physical examination",
+            "date": "Not specified",
+            "findings": "Presence of a hard nodule, 2.5 cm on the right side and 1.5 cm on the left, no palpable cervical adenopathies",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microscopic study post-thyroidectomy",
+            "date": "Not specified",
+            "findings": "Tumor involving both lobes, medullary carcinoma type, without tumor necrosis, with macroscopic multicentric foci, with focal capsular invasion and no evidence of extrathyroidal extension",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemistry",
+            "date": "Not specified",
+            "findings": "Positive for calcitonin, synaptophysin, CEA, and TTF-1 markers",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Familial Medullary Thyroid Carcinoma (FMTC)",
+        "diagnostic_reasoning": "The diagnosis was confirmed through genetic testing which identified a pathogenic variant (RET c.1888T>A; p.Cys630Ser) in the RET proto-oncogene. The patient had a family history of medullary thyroid carcinoma (MTC), elevated calcitonin levels (1,605 pg/mL), and thyroid nodules with high suspicion of malignancy on ultrasound. Immunohistochemistry was positive for calcitonin, synaptophysin, CEA, and TTF-1, consistent with medullary thyroid carcinoma."
+    }
+}

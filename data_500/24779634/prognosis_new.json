@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "Long-term course showed worsening visual impairment and persistent palinopsia, with cerebellar atrophy that 'had only slightly increased over 7 years'; seizures became controlled but visual and neurologic features progressed.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Ongoing severe visual loss and 'transient but protracted visual disturbances consistent with palinopsia' lasting days; mild depression noted.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Antiepileptic treatment with levetiracetam and valproate controlled his seizures."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "He repeatedly experienced long-lasting episodes of palinopsia; fVEPs after onset showed a further decline and polyphasic waves."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Visual impairment worsened to severe by age 29 (previously visual acuity 1/20)."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "MRI at age 22 showed severe cerebellar atrophy that 'had only slightly increased over 7 years.'"
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "Record describes two siblings; this summary focuses on Patient 1, who has the most detailed longitudinal data. Exact diagnosis date is not stated; the first specialist evaluation (referral for poor seizure control around mid-20s, with skin biopsy at 25) was used as the index. Timing of palinopsia onset relative to index is approximate."
+}

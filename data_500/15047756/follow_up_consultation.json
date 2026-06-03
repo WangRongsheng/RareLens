@@ -1,0 +1,63 @@
+{
+    "basic_information": {
+        "age": "74",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Acutely swollen tongue, palate, and submandibular region, one to two hours after waking",
+        "history_of_present_illness": "Presented with acute angioedema, treated with 100 mg hydrocortisone and 4 mg Piriton, recovered well by the next morning",
+        "past_medical_history": "Right leg below knee amputation due to trauma, benign prostatic hypertrophy, peripheral vascular disease, non-insulin dependant diabetes",
+        "family_history": "No previous personal or family history of angioedema noted",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Alert, could breathe and swallow but was unable to talk, swelling subsided by the next morning",
+        "specialty_examination": "No splenomegaly or lymphadenopathy noted during clinical examination by the haematologists"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Routine blood tests",
+            "date": "Not specified",
+            "findings": "Slight increases in urea (8.8 mmol/litre; reference range, 3.3–6.7) and creatinine (130 mmol/litre; reference range, 60–120). C reactive protein was increased at 74 mg/litre (reference range, <5). All other routine biochemistry was normal and he was normocalcaemic.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Full blood count",
+            "date": "Not specified",
+            "findings": "Mild anaemia (haemoglobin, 119 g/litre; reference range, 130–180).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complement and IgE studies",
+            "date": "Not specified",
+            "findings": "C4 concentration was towards the bottom end of the reference range at 0.17 g/litre (reference range, 0.14–0.54), C3 was slightly high at 1.85 g/litre (reference range, 0.7–1.60), and C1 esterase inhibitor was low at 0.09 g/litre (reference range, 0.15–0.35). Total IgE was 16 kU/litre (reference range, <81).",
+            "changes_over_time": "Repeat blood samples showed complete recovery of the complement profile (C3, 1.34 g/litre; C4, 0.17 g/litre; and C1 esterase inhibitor, 0.44 g/litre)."
+        },
+        {
+            "procedure_name": "Immunoglobulin studies",
+            "date": "Not specified",
+            "findings": "Slightly suppressed IgA (0.77 g/litre; reference range, 0.8–4.0) and IgM (0.31 g/litre; reference range, 0.5–2.0) and a monoclonal IgG k paraprotein band of 9.8 g/litre. The electrophoresis strip showed a slightly low polyclonal c region, indicating a low polyclonal IgG concentration. The serum B2 microglobulin concentration was estimated at 3.5 g/litre (reference range, <2.4). Total urine protein was 0.41 g/litre but there was no Bence Jones proteinuria present. The erythrocyte sedimentation rate was raised at 97 mm/hour (reference range, <10).",
+            "changes_over_time": "The IgG paraprotein was still present at 10.0 g/litre in repeat samples."
+        },
+        {
+            "procedure_name": "C1 esterase inhibitor retest",
+            "date": "Not specified",
+            "findings": "Original sample retested showed C1 esterase inhibitor at 0.49 g/litre (higher than normal and in keeping with an acute phase response). Reanalysis on Behring BNII nephelometer showed C3, 1.85 g/litre; C4, 0.17 g/litre; and C1 esterase inhibitor, 0.42 g/litre.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [
+        {
+            "procedure_name": "Bone marrow aspirate and trephine",
+            "date": "Not specified",
+            "findings": "No evidence of increased plasma cell numbers, no collections of lymphocytes, and the Congo Red stain was normal—no evidence of myeloma, lymphoma, or amyloid present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

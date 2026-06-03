@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "PPM Placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient appears to have improved condition with absence of chest pain, shortness of breath, or lightheadedness post-operation."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for evaluation of slow heart rate."
+        },
+        {
+            "date": "Not specified",
+            "event": "Pacemaker placement performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on warfarin for atrial fibrillation."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent.",
+        "follow_up_details": "Follow up in the cardiac device clinic on the specified date to ensure the pacemaker is working properly.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient's mental status is clear and coherent.",
+        "patient_perspective": "Patient was pleased with care received during the admission."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "At the time of the scheduled follow-up, her condition had deteriorated to the point she was moved to a nursing home facility for people with dementia and could not be tested.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Progressive language decline with difficulties formulating and repeating sentences, phonemic and semantic paraphasias, and subsequent cognitive deterioration.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "She improved with each training set and reached criterion more quickly for successive sets; also showed significant improvement in pointing to named letters."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "By the scheduled 6-month follow-up, her broader cognitive condition had deteriorated and she required nursing home care."
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "The source describes two cases; this summary refers to the logopenic variant PPA patient (FSE). Exact dates are not provided; timing is inferred (therapy sessions approximately weekly; deterioration noted at the time of a planned 6‑month follow-up). Long-term functional and symptom assessments are based on documented nursing home placement and described progressive language/cognitive decline."
+}

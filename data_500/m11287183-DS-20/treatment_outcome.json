@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "FOLFIRINOX",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 cycles of neoadjuvant FOLFIRINOX",
+            "treatment_response": "Substantial reduction in disease burden during CT evaluation"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "distal pancreatectomy and splenectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Intraoperative XRT of 10 Gy to the margin",
+            "treatment_response": "Pathology showed ypT0N0 complete response with 22 lymph nodes assessed"
+        },
+        {
+            "treatment_type": "radiation therapy",
+            "specific_treatment": "chemoXRT with sensitizing capecitabine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Completed with 30 Gy to the tumor bed and margins",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "antibiotics",
+            "specific_treatment": "ciprofloxacin and metronidazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Ciprofloxacin 400 mg IV once",
+            "treatment_response": "Adjunctive treatment for complications"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Received 5 cycles of neoadjuvant FOLFIRINOX"
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent distal pancreatectomy and splenectomy with intraoperative XRT"
+        },
+        {
+            "date": "Not specified",
+            "event": "Completed chemoXRT with 30 Gy to the tumor bed and margins"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on ciprofloxacin and metronidazole during recovery"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Condition stable; discharged to extended care facility for management of abdominal fluid collections",
+        "follow_up_details": "Not specified",
+        "complications": "Intra-abdominal collections requiring drainage",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient experiences weakness and poor appetite, affecting daily activities",
+        "patient_perspective": "Patient concerned about ongoing weight loss and abdominal pain"
+    }
+}

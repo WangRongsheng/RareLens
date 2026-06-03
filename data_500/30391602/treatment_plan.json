@@ -1,0 +1,55 @@
+{
+    "basic_information": {
+        "age": "5",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "bacterial meningitis and active CSF rhinorrhoea from her left nostril",
+        "history_of_present_illness": "A five-year-old female child born of nonconsanguineous parents presented with bacterial meningitis and active CSF rhinorrhoea from her left nostril. Her mother had no history of taking teratogenic medication before conception. The antenatal period was uneventful, and the child was born through an uncomplicated vaginal delivery. She had cleft palate diagnosed at birth and underwent surgery for repair at the age of one and a half years. No nasopharyngeal mass was noted during the surgery.",
+        "past_medical_history": "She had cleft palate diagnosed at birth and underwent surgery for repair at the age of one and a half years.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "MR imaging done to evaluate the nasopharyngeal mass, showed a large meningoencephalocoele in the left nasopharynx, the neck of the sac could be traced into the subarachnoid space through a canal in the sphenoid bone, starting just anterior to the sella and the pituitary, no cerebral contents were seen herniating through the defect. CT imaging and reconstruction showed the cranial end of the defect starting at the tuberculum sellae and the chiasmatic sulcus, passing through the non-pneumatised body sphenoid, opening inferiorly through the ala of the vomer on the left side."
+    },
+    "laboratory_examinations": [],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MR imaging",
+            "date": "Not specified",
+            "findings": "A large meningoencephalocoele in the left nasopharynx, the neck of the sac could be traced into the subarachnoid space through a canal in the sphenoid bone, starting just anterior to the sella and the pituitary, no cerebral contents were seen herniating through the defect",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT imaging and reconstruction",
+            "date": "Not specified",
+            "findings": "The cranial end of the defect starting at the tuberculum sellae and the chiasmatic sulcus, passing through the non-pneumatised body sphenoid, opening inferiorly through the ala of the vomer on the left side",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "7 months post-operative",
+            "findings": "No evidence of meningomyelocele in the nasal cavity",
+            "changes_over_time": "Resolution of the nasopharyngeal mass"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Histopathological examination",
+            "date": "Not specified",
+            "findings": "Fibro-collagenous tissue with few glial islands highlighted by GFAP immunostain. There was no epithelial lining, epithelial rests in the stroma as indicated negative staining for CAM 5.2. There was no adenohypophyseal tissue or tumor. The encephalocele sac was covered by respiratory mucosa and contained glial islands in the stroma",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Persistent craniopharyngeal canal with sphenoid meningoencephalocele",
+        "diagnostic_reasoning": "The diagnosis was based on MR imaging showing a large meningoencephalocoele in the left nasopharynx, with the neck of the sac traced into the subarachnoid space through a canal in the sphenoid bone. CT imaging confirmed the cranial end of the defect starting at the tuberculum sellae and the chiasmatic sulcus, passing through the non-pneumatised body sphenoid, opening inferiorly through the ala of the vomer on the left side. The patient's history of cleft palate and the presence of neuroglia within the canal supported the diagnosis."
+    }
+}

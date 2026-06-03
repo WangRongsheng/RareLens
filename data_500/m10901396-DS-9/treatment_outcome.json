@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "pericardiocentesis with pericardial drain placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "300cc red fluid drained",
+            "treatment_response": "SOB and chest pain much improved, reports pain on lips from ulcers."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "valacyclovir",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1000 mg PO every 12 hours for 1 day",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to PCP with complaints of fatigue and was found to have UTI and anemia."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient transferred to OSH after developing severe L sided chest pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent pericardiocentesis and placement of pericardial drain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient moved to CCU for post-op monitoring."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient reports improvement in SOB and chest pain, with pain on lips from ulcers."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved and discharged home.",
+        "follow_up_details": "Follow-up instructions provided, but not specified.",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Fluid accumulation likely related to viral infection, but no bacterial or cancer evidence.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient was alert, interactive, and ambulatory at discharge.",
+        "patient_perspective": "Patient tolerated the procedure well and heart function returned to normal."
+    }
+}

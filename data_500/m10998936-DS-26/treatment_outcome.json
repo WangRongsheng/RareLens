@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "Decitabine and Venetoclax",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Treated 2 cycles of Decitabine with resolution of adenopathy; then treated with a combination of Decitabine and Venetoclax.",
+            "treatment_response": "Achieved resolution of blasts although with noted ongoing dysplasia on bone marrow biopsy."
+        },
+        {
+            "treatment_type": "immunotherapy",
+            "specific_treatment": "Ipilimumab",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Part of protocol for Phase 1 Study of Ipilimumab in Combination with Decitabine.",
+            "treatment_response": "Not specified."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Initiated 2 cycles of Decitabine treatment, resolution of adenopathy was noted."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started treatment with Decitabine and Venetoclax, achieved resolution of blasts with ongoing dysplasia."
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent bronchoscopy with biopsies."
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted with low-grade fevers and multiple complications transitioned to CMO."
+        },
+        {
+            "date": "Not specified",
+            "event": "Participated in Phase 1 Study of Ipilimumab in Combination with Decitabine."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Not specified directly but transitioned to CMO implying a critical condition.",
+        "follow_up_details": "Not specified.",
+        "complications": "Multiple complications including fever, respiratory failure, and possible ongoing leukemia cutis.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Not specified."
+    }
+}

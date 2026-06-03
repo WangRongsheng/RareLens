@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Cough",
+        "history_of_present_illness": "M with h/o HTN presents with cough for 2 weeks. His symptoms started with a fever and cough for which he presented to clinic. An X-ray showed pneumonia and he was started on azithromycin. His symptoms improved initially but then worsened once the antibiotics were stopped. Since then, he has been having fevers to 104 and a dry cough.",
+        "past_medical_history": "Hypertension",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS 101/6 BP 153/97 RR 16 93/RA. GEN: Well appearing, NAD, speaking in complete sentences.",
+        "specialty_examination": "HEENT: OP clear, MMM, No LAD CV: RRR no m/r/g P: CTAB no w/r/r. Nl insp/exp phase ABD: S NT ND EXT: WWP No C/C/E."
+    }
+}

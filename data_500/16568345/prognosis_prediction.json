@@ -1,0 +1,77 @@
+{
+    "basic_information": {
+        "age": "71",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "diﬃculty reading small print",
+        "history_of_present_illness": "Over the last couple of years, her vision had ‘not been great’. Formal visual ﬁeld testing revealed a heteronymous inferior quadrantanopsia suggestive of damage to the superior chiasmatic ﬁbers. She did not experience headache and an endocrinological evaluation was normal.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Magnetic resonance imaging of the brain revealed a suprasellar mass lesion with a solid, enhancing component surrounded by large cysts ﬁlled with CSF-isointense material. A biopsy was performed. Hematoxylin and Eosin stained sections disclosed vaguely lobular and trabecular arrangements of epithelioid cells in a background of hyalinized vessels, frequently cuﬀed by mature lymphocytes and plasma cells. The tumor cells contained one or a few ovoid nuclei with open ﬁnely dispersed chromatin and pinpoint nucleoli. The nuclei were surrounded by ﬁne and pale eosinophilic cytoplasm, which featured subplasmamembrane oedema, imparting focally prominent ‘lacunar’ appearance. No foci of necrosis were seen and no mitoses were identified. The tumor was strongly positive for glial ﬁbrillary acidic protein (GFAP), establishing a diagnosis of chordoid glioma of the third ventricle."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematoxylin and Eosin stained sections",
+            "date": "Not specified",
+            "findings": "Vaguely lobular and trabecular arrangements of epithelioid cells in a background of hyalinized vessels, frequently cuﬀed by mature lymphocytes and plasma cells. The tumor cells contained one or a few ovoid nuclei with open ﬁnely dispersed chromatin and pinpoint nucleoli. The nuclei were surrounded by ﬁne and pale eosinophilic cytoplasm, which featured subplasmamembrane oedema, imparting focally prominent ‘lacunar’ appearance. No foci of necrosis were seen and no mitoses were identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glial fibrillary acidic protein (GFAP) test",
+            "date": "Not specified",
+            "findings": "The tumor was strongly positive for GFAP.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the brain",
+            "date": "Not specified",
+            "findings": "Suprasellar mass lesion with a solid, enhancing component surrounded by large cysts filled with CSF-isointense material.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Formal visual field testing",
+            "date": "Not specified",
+            "findings": "Heteronymous inferior quadrantanopsia suggestive of damage to the superior chiasmatic fibers.",
+            "changes_over_time": "Serial visual field examinations without deterioration."
+        },
+        {
+            "procedure_name": "Endocrinological evaluation",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Chordoid glioma of the third ventricle",
+        "diagnostic_reasoning": "The diagnosis was established based on the biopsy findings, which showed epithelioid cells in a background of hyalinized vessels, frequently cuffed by mature lymphocytes and plasma cells. The tumor cells were strongly positive for glial fibrillary acidic protein (GFAP). The absence of necrosis and mitoses, along with the specific histological features, supported the diagnosis of chordoid glioma of the third ventricle."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "Not specified",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

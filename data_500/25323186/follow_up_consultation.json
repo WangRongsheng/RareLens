@@ -1,0 +1,94 @@
+{
+    "basic_information": {
+        "age": "3",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Progressive lumbosacral scoliosis associated with a significant tilt of the lumbosacral/sacroiliac complex and neurogenic right side club foot",
+        "history_of_present_illness": "Short trunk dwarfism associated with congenital lumbar scoliosis, and myelomeningocele were the prominent clinical features. Anteroposterior (AP) radiograph showed extensive malsegmenation of the entire spine associated with congenital scoliosis and dislocation of the right hip",
+        "past_medical_history": "Hemimyelomeningocele (HMM) was diagnosed, and a lumbar lipoma was recognized via magnetic resonance imaging (MRI) intradural lipoma",
+        "family_history": "Verbral malsegmenation in the father and her cousin (paternal side)",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Short trunk dwarfism (−4 SD). No peculiar craniofacial dysmorphic features were encountered. Her hands were normal, but nevertheless, short trunk dwarfism was the most prominent feature. Significant spinal malformations complex were noted. Hearing, vision and intelligence were normal",
+        "specialty_examination": "Neurological examination was normal. Neurogenic right side club foot. Dislocation of the right hip. Extensive malsegmenation of the entire spine ranging between butterfly vertebrae to hemivertebrae associated with neurocentral synchondrosis of the entire cervical spine"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatine kinase plasma levels",
+            "date": "Not specified",
+            "findings": "Normal results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Metabolic screening of plasma and urine",
+            "date": "Not specified",
+            "findings": "Normal results for disturbances in the metabolism of amino acids, bile acids, phytanic acid and oligosaccharides",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum levels of luteinizing hormone, prolactin and estradiol",
+            "date": "Not specified",
+            "findings": "Normal results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood sugar, uric acid levels, serum calcium, phosphorous and parathyroid hormone levels",
+            "date": "Not specified",
+            "findings": "Within normal limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chromosomal analysis",
+            "date": "Not specified",
+            "findings": "Normal karyogram in both the patient and the parents",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Anteroposterior (AP) radiograph",
+            "date": "Not specified",
+            "findings": "Extensive malsegmenation of the entire spine associated with congenital scoliosis and dislocation of the right hip",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AP spine radiograph",
+            "date": "Not specified",
+            "findings": "Extensive malsegmentation of the entire spine ranging between butterfly vertebrae to hemivertebrae associated with neurocentral synchondrosis of the entire cervical spine",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Hemimyelomeningocele (HMM) was diagnosed, and a lumbar lipoma was recognized via MRI intradural lipoma. Sagittal T1-weighted and sagittal T2-weighted fat-saturated showed large intradural lipoma (a split cord malformation secondary to intradural lipoma, and the development of a tethered cord) (arrows), which is hyperintense on T1-weighted image and hypointense on T2-weighted fat-saturated image. Lipoma was attached to conus medullaris, which is low-lying",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Three-dimensional coronal computed tomography (CT) scan",
+            "date": "Not specified",
+            "findings": "Extensive defects of formation of the entire area (hemivertebrae), spondylopelvic dissociation and dislocation of the right hip joint and lateral displacement of the malsegmented sacrum",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Echo-Cardio-Doppler",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neurological examination",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

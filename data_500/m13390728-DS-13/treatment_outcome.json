@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "incision and drainage of right sided seroma and left sided fluid collection",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Under ultrasound guidance",
+            "treatment_response": "Improvement noted with antibiotics."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Cephalexin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO Q6H for 7 days",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient underwent left modified radical mastectomy and right oncoplastic reduction."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient re-admitted due to complications from previous surgeries."
+        },
+        {
+            "date": "Not specified",
+            "event": "Incision and drainage of seromas performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Antibiotics given for skin infection."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge instructions given for continuing antibiotic regiment."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient discharged to an Extended Care Facility, mental status clear and coherent.",
+        "follow_up_details": "Continue antibiotic regimen for seven more days.",
+        "complications": "Skin infection.",
+        "long_term_prognosis": "Improved but ongoing management for comorbid conditions.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Ambulatory - Independent.",
+        "patient_perspective": "Not specified."
+    }
+}

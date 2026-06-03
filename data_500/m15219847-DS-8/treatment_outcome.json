@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Levaquin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "750 mg po qday",
+            "treatment_response": "Improved shortness of breath"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Duonebs",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "3 mL neb tid",
+            "treatment_response": "Improved shortness of breath"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg po qday",
+            "treatment_response": "Improved shortness of breath"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient treated with Zithromax for sinusitis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Empirical treatment with Levaquin and Duonebs started"
+        },
+        {
+            "date": "Not specified",
+            "event": "Prednisone started"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge with improved shortness of breath"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved shortness of breath, stable",
+        "follow_up_details": "Follow-up with pulmonologist and liver tumor center",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

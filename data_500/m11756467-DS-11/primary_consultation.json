@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Substernal Chest Pain",
+        "history_of_present_illness": "Presenting with substernal chest pain (SSCP) radiation to left arm and jaw. She first noticed the pain at her rehab center. The pain has been intermittent, lasting at most an hour, associated with diaphoresis and nausea. This morning it came on after walking back from the bathroom. In the ED, initial vitals were 98.0, HR 80, BP 168/85, RR 18, O2 100% on NRB. An EKG showed 1 mm STE in V2, and mild STD seen in the lateral leads. Troponins were elevated to 0.09. After cardiac catheterization, two BMS were placed in the LAD.",
+        "past_medical_history": "1) Hypertension 2) Hypercholesterolemia 3) Diabetes Mellitus Type 2 4) Diastolic Congestive Heart Failure 5) Multinodular goiter 6) s/p Thyroid Cyst removal 7) Osteoarthritis 8) GERD and Gastritis with positive H. Pylori 9) Glaucoma 10) Bilateral TKR 11) Gout - polyarticular 12) Depression 13) Anxiety 14) Diverticulosis 15) S/P C Sections 16) hx of trochanteric bursitis.",
+        "family_history": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory. Son has been diagnosed with anginal symptoms and HTN. Both mother and father died of CVA.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "WDWN in NAD. Oriented x3. Mood, affect appropriate. Initial vitals: Temp 98.0, BP 168/85, HR 80, RR 18.",
+        "specialty_examination": "Cardiac examination normal S1, S2, no m/r/g. No chest wall deformities observed. Lungs CTAB, no crackles, wheezes or rhonchi."
+    }
+}

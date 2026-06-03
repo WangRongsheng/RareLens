@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "surgical intervention for perforated diverticulitis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient status improved; discharged home"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with abdominal pain and elevated white blood cell count"
+        },
+        {
+            "date": "Not specified",
+            "event": "Imaging confirmed acute perforated diverticulitis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgical intervention performed for perforated diverticulitis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home with medications"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home, alert and interactive",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient was ambulatory and independent upon discharge",
+        "patient_perspective": "Not specified"
+    }
+}

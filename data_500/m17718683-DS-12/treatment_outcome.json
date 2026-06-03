@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "coil embolization of hepaticojejunostomy varices and portal venous stent thrombectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Right internal jugular venous access, portal venogram, balloon sweep through SMV, extension of TIPS stent with 6 cm x 10 mm Luminexx stent, 10 mm balloon dilation",
+            "treatment_response": "Successful right internal jugular approach coil embolization of the hepaticojejunostomy varices; successful mechanical thrombectomy of the portal venous stent"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with GI bleeding"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT scan showed thrombus within TIPS"
+        },
+        {
+            "date": "Not specified",
+            "event": "Portal/SMV venography with stent thrombectomy and coil embolization of the varices recommended"
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery performed to clean out the blood clot and coil off bleeding blood vessels"
+        },
+        {
+            "date": "Not specified",
+            "event": "Endoscopy showed resolution of varices"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged in stable condition",
+        "follow_up_details": "Patient advised to have Coumadin levels checked regularly",
+        "complications": "No complications",
+        "long_term_prognosis": "Expected to have a more long-lasting solution to stop the bloody bowel movements",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Ambulatory and independent",
+        "patient_perspective": "Patient expressed hope for improvement in condition and was instructed on medication adherence and follow-up appointments"
+    }
+}

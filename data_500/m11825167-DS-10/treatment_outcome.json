@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "antibiotics",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient prescribed antibiotics by Dr. ___ for hematuria."
+        },
+        {
+            "date": "Not specified",
+            "event": "Psychiatric evaluation and monitoring planned."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for concern for ileitis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Final psychiatric evaluation cleared the patient for discharge."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home, clear and coherent.",
+        "follow_up_details": "Follow-up appointments were listed but not specified.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Patient expressed depressive thoughts but was cleared for discharge."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "rising LFTs while on treatment holiday",
+        "history_of_present_illness": "female with hx of orthotopic liver transplantation ___ years ago in ___ with humoral graft rejection, s/p treatment with plasmapheresis/IVIG x4 and rituxan x1 with improvement. Readmitted for worsening LFTs (bili from 4.5 (sun), 4.9 (mon) to 5.8(wed)) while on ___ holiday. Patient was recently admitted to ___ on ___ with abd pain, jaundice, and malaise, found to have humoral type liver rejection with Class II antibodies, not responsive to ATG and high dose steroids. Patient improved s/p plasmapheresis/IVIG x4 and rituxan x1 and was discharged home with close follow up. Patient also undergoing eval for re-transplantation, MELD 12. Patient currently feels well, no n/v/d/abd pain.",
+        "past_medical_history": "s/p liver transplant ___ ___ years ago, found to have acute humoral type rejection, anxiety, depression, h/o D&C for heavy menstrual periods, ? hidradenitis suppurativa",
+        "family_history": "cancer in her father, family history of anxiety and depression",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: 97.9 130/87 73 18 100%RA GENERAL - Alert, interactive, NAD HEENT - PERRL, EOMI, sclerae icteric, jaundice at bottom of tongue, MMM, OP clear NECK - Supple, no thyromegaly, no JVD HEART - PMI non-displaced, RRR, nl S1-S2, no MRG LUNGS - CTAB, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use ABDOMEN - NABS, soft, diffusely mildly tender (worse at mid lower quadrant and RUQ) EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses",
+        "specialty_examination": "Skin: R tunneled line with improved ecchymosis and tenderness, no erythema, no edema. PICC line c/d/i."
+    }
+}

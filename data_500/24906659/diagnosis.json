@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "X-linked periventricular nodular heterotopia (PNH) due to a loss of function mutation in the filamin A gene (FLNA)",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis was based on the presence of bilateral periventricular nodular heterotopia observed on brain MRI, a history of seizures, thrombocytopenia, and cardiac abnormalities (mildly dilated aortic root and ascending aorta with mild aortic regurgitation). Genetic testing confirmed a heterozygous c.2002C > T transition in exon 13 of the FLNA gene, resulting in a p.Gln668Ter mutation, which is a known disease-causing mutation for PNH. The mutation was not detected in the parents, suggesting germline mosaicism as the likely explanation."
+    }
+}

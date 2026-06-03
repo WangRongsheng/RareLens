@@ -1,0 +1,31 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Levofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "750 mg PO daily for a total of 2 doses",
+            "treatment_response": "Fever and delirium resolved"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient was given Levofloxacin before being admitted"
+        },
+        {
+            "date": "Not specified",
+            "event": "Last dose of Levofloxacin given today"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "stable clinical condition, ambulatory, at baseline mental status",
+        "follow_up_details": "Admitted to a nursing facility for ongoing treatment",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

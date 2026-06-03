@@ -1,0 +1,39 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Hypoxia improved after removal of casts... The patient had no further exacerbations from plastic bronchitis during the rest of the pregnancy and had a successfully delivery at 37 weeks. During the second bronchoscopy the cast had recurred in the left main bronchus.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "functional_status_evidence_excerpt": "No further exacerbations from plastic bronchitis during the rest of the pregnancy and successfully delivered at 37 weeks (suggesting daily activities generally preserved).",
+        "symptom_burden": "occasional",
+        "symptom_burden_evidence_excerpt": "The patient had no further exacerbations from plastic bronchitis during the rest of the pregnancy."
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "She developed hypoxia with oxygen saturation dropping to 90% requiring 100% FiO2; intubation was performed."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Hypoxia improved after removal of casts."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "She became hypoxic on day 2."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Bronchoscopy was repeated to remove residual cast; endobronchial N-acetylcystine was used as an adjunct."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "The patient had no further exacerbations from plastic bronchitis during the rest of the pregnancy and had a successfully delivery at 37 weeks."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "Follow-up is limited to the remainder of pregnancy (~6 months). No data beyond delivery; long-term (>12 months) status is unknown. Functional status and symptom burden are inferred from the absence of further exacerbations and successful progression to term."
+}

@@ -1,0 +1,38 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "The patients died at ages 8 and 7, respectively.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Followed by progressive deterioration of gait and mental functioning with gradual development of ataxia and spasticity; EEGs showed active generalized epileptic discharges with severe generalized disturbance of cerebral activity.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "unknown",
+            "evidence_excerpt": "Progressive deterioration of gait and mental functioning with gradual development of ataxia and spasticity."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "The younger sibling… had lost the ability to speak by 3–4 years."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "By the age of 5 years, the older boy had no comprehensible speech… markedly ataxic gait, with spasticity in all four limbs."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "unknown",
+            "evidence_excerpt": "EEGs showed active generalized epileptic discharges with severe generalized disturbance of cerebral activity."
+        },
+        {
+            "event_type": "death",
+            "time_period": "long_term",
+            "evidence_excerpt": "The patients died at ages 8 and 7, respectively."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Exact diagnosis date is not stated; a preliminary diagnosis was made by brain biopsy and later confirmed by serum hexosaminidase assays. Timing of EEG findings and progression relative to diagnosis is not precisely documented; mid- vs long-term categorizations are inferred from ages (onset ~18–24 months, speech loss by 3–5 years, death at 7–8 years). The record describes two siblings; outcomes reflect the shared clinical course."
+}

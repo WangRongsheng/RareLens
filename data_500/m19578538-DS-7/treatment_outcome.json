@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "Medication",
+            "specific_treatment": "Ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 gm IV Q24H",
+            "treatment_response": "Leg swelling decreased significantly."
+        },
+        {
+            "treatment_type": "Medication",
+            "specific_treatment": "Vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1500 mg IV every 12 hours",
+            "treatment_response": "Leg swelling decreased significantly."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Initial outpatient treatment with Keflex and Bactrim started."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient followed up and underwent ultrasound revealing no drainable collection."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the ED with persistent cellulitis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was treated with IV vancomycin and observed overnight."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged from the ED with a 14-day course of doxycycline and Bactrim."
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted for failed outpatient treatment of cellulitis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered Ceftriaxone and Vancomycin."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved",
+        "follow_up_details": "Outpatient lab work for monitoring while on antibiotics.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Expectation of resolution of cellulitis with appropriate antibiotic treatment.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Alert and interactive, independent ambulation.",
+        "patient_perspective": "Patient reported overall improvement in symptoms and expressed satisfaction with the care received."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "syncope",
+        "history_of_present_illness": "___ year old female with a pmh of cardiac bypass, diabetes, hyperlipidemia, stroke in ___ with residual left sided weakness who presents with syncopal episode and increased left sided weakness. She presented to the emergency department two weeks ago with similar complaints; an MRI at that time was negative for a new stroke. Tonight she had a witnessed syncopal episode with a LOC of several minutes while being assessed onto the bathroom. When EMS arrived, the patient was, per report, dramatically clenching her eyes shut. She currently is complaining of some chest pain and shortness of breath X 1 week, dizziness, and increased left sided weakness and pain. She also has continual dysphagia; she has not undergone her scheduled swallow evaluation.",
+        "past_medical_history": "- T2DM on insulin\n- HTN\n- HLD\n- CAD s/p MI and CABG in ___\n- Stroke in ___ in ___ with L hemiplegia and left hemisensory loss now improving post rehab with residual left arm>leg hemiparesis. Right frontal infarct on CT and basal ganglia lacunes with right internal capsule lacune.\n- osteoporosis\n- GERD\n- Glaucoma\n- Hypothyroidism",
+        "family_history": "Mother - died age ___\nFather - died age ___\n___ - 10 siblings - only 4 left. all died of CAD. 2 sisters had stroke in their ___ (one had breast ca and seemingly 5x strokes); brother with ___ dementia.\nChildren - well",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: 98.3 BP: 168/56 P: 55 R: 18 O2: 97RA. General: Alert, oriented, no acute distress.",
+        "specialty_examination": "Neurological: CNII-XII intact. EOMI, PERRLA, ocular fields intact. Str 5+ on the right, 5+ in left shoulder, biceps and triceps, 3+ in grip, 3+ dorsiflexion, 3+ hip flexion."
+    }
+}

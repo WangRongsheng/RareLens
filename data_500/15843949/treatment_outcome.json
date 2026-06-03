@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "open removal of the tumour from the left acetabular roof",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "anterior arthrotomy and dislocation of the hip",
+            "treatment_response": "uneventful recovery"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "open removal of the tumour from the left acetabular roof"
+        },
+        {
+            "date": "4 months after surgery",
+            "event": "normal gait, free mobility of the left hip joint with slightly reduced internal rotation"
+        },
+        {
+            "date": "2 years after surgery",
+            "event": "left hip range of motion comparable to 4 months post-surgery, normal gait without pain"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "normal gait without pain, free mobility of the left hip joint with slightly reduced internal rotation",
+        "follow_up_details": "Further clinical and radiological investigations are necessary to observe the development of the afflicted hip joint.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "4 months post-surgery: normal gait; 2 years post-surgery: normal gait without pain",
+        "quality_of_life": "normal gait without pain",
+        "patient_perspective": "Not specified"
+    }
+}

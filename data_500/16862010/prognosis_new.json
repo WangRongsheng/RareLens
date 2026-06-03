@@ -1,0 +1,48 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "Mouth opening is now normal... has had no further difficulties with either feeding or airway.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "No further difficulties with either feeding or airway.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "At review 8 weeks later, the infant had a 30-mm interalveolar opening."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Tongue base advancement with a circummandibular Prolene suture was performed at 8 months of age."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "In the following weeks oral intake increased to the extent that nasogastric feeding was able to be ceased."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Underwent successful elective decannulation of his tracheostomy at 12 months of age."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Mouth opening is now normal."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "The patient had an uncomplicated cleft palate repair at 18 months of age."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Has had no further difficulties with either feeding or airway."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The article reports two different cases. This summary pertains to Case 1 (VWS with interalveolar synechiae). Exact diagnosis date of the synechiae is not specified; events are aligned approximately relative to when the adhesions were identified and managed."
+}

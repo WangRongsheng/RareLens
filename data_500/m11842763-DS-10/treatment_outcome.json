@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ORIF Right distal periprosthetic femur fracture",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "ORIF surgery performed for right distal periprosthetic femur fracture"
+        },
+        {
+            "date": "Not specified",
+            "event": "Start of Enoxaparin Sodium 40 mg SC daily for 4 weeks post-operatively to prevent blood clots"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge with instructions for pain and constipation management"
+        },
+        {
+            "date": "Not specified",
+            "event": "Follow up scheduled in Trauma Clinic for evaluation"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Follow up with Dr. ___ in the Trauma Clinic ___ days post-operation for evaluation; follow up with primary care doctor within ___ weeks",
+        "complications": "No complications",
+        "long_term_prognosis": "Expected to improve over the first few days to week",
+        "recovery_timeline": "Not mentioned",
+        "quality_of_life": "Not mentioned",
+        "patient_perspective": "Not specified"
+    }
+}

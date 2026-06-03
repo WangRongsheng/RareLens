@@ -1,0 +1,91 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, prednisolone)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Reduced body temperature and serum LDH concentration"
+        },
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "R-CODOX-M/IVAC (rituximab, cyclophosphamide, vincristine, doxorubicin, methotrexate alternated with ifosfamide, etoposide, high-dose cytarabine)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Cyclophosphamide dose: 1,600 mg/m²",
+            "treatment_response": "Transient elevation of hepatobiliary enzyme levels after first cycle, severe liver injury after second cycle"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Nafamostat mesilate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No recovery of liver function"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Glycyrrhizic acid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No recovery of liver function"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ursodeoxycholic acid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No recovery of liver function"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Started R-CHOP chemotherapy for non-Hodgkin lymphoma"
+        },
+        {
+            "date": "Not specified",
+            "event": "Diagnosed with double-hit lymphoma (DHL) after 2 cycles of R-CHOP"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started R-CODOX-M/IVAC chemotherapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Transient elevation of hepatobiliary enzyme levels after first cycle of R-CODOX-M"
+        },
+        {
+            "date": "Not specified",
+            "event": "Severe liver injury after second cycle of R-CODOX-M/IVAC"
+        },
+        {
+            "date": "Not specified",
+            "event": "Liver biopsy performed showing sinusoidal dilatation and congestion"
+        },
+        {
+            "date": "Not specified",
+            "event": "Treated with nafamostat mesilate, glycyrrhizic acid, and ursodeoxycholic acid"
+        },
+        {
+            "date": "Not specified",
+            "event": "Developed CMV pneumonia"
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted to intensive care unit and received ventilator support"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Deceased due to respiratory failure from CMV pneumonia",
+        "follow_up_details": "Not specified",
+        "complications": "Hepatic sinusoidal obstruction syndrome (SOS), CMV pneumonia",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

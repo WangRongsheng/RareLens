@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "L’affaissement des lésions était noté après 10 semaines de traitement et le blanchiment était obtenu après 17 mois. Aucune rechute n’était rapportée au cours des 24 mois de suivi.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Aucune rechute n’était rapportée au cours des 24 mois de suivi.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "L’affaissement des lésions était noté après 10 semaines de traitement."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Le blanchiment était obtenu après 17 mois."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Aucune rechute n’était rapportée au cours des 24 mois de suivi."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Functional status was not explicitly described; none was inferred from complete lesion clearance and absence of relapse. The exact timing of diagnosis relative to treatment initiation was not specified, so the diagnosis date was used as the index reference."
+}

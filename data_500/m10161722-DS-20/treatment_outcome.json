@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2G IV",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Gabapentin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Increased to 2 pills at night",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vitamin D",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Started vitamin D; should be taken long-term",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Levothyroxine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Take only on an empty stomach",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted to ED with pain and swelling in right lower extremity"
+        },
+        {
+            "date": "Not specified",
+            "event": "Blood cultures obtained and patient received 2G IV vancomycin"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient transferred to the floor for further evaluation and treatment"
+        },
+        {
+            "date": "Not specified",
+            "event": "Gabapentin dosage increased to 2 pills at night"
+        },
+        {
+            "date": "Not specified",
+            "event": "Vitamin D started; should be taken long-term"
+        },
+        {
+            "date": "Not specified",
+            "event": "Levothyroxine instructions modified to take only on an empty stomach"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improving",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Patient would benefit from more help at home to improve mobility and care for legs",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

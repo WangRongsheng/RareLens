@@ -1,0 +1,31 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "Not specified",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Diagnosed with bilateral sensorineural deafness BSD at 12 months old"
+        },
+        {
+            "date": "Not specified",
+            "event": "Developed muscular weakness, polydipsia, nocturnal enuresis, hyperuricemia with a metabolic alkalosis and high levels of renin"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Not specified",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

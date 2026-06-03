@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "45",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "'folliculitis and impetigo'",
+        "history_of_present_illness": "He started developing skin lesions a year prior to his colectomy, when he was hospitalized for UC. The skin lesions had resolved while his UC was being treated with prednisone, but flared shortly after prednisone was discontinued. Initial examination showed erythematous crusted papules over his scalp, eyelids, eyes, chin and chest. He was treated with oral amoxicillin/clavulanic acid for suspected folliculitis with some improvement. He subsequently developed new vesicles and crusted papules. Histology showed subepidermal bullous dermatosis with neutrophils and eosinophils. Direct immunofluorescence (DIF) showed linear BMZ deposition of IgA and fibrinogen in addition to some minimal epithelial cell surface IgA. A diagnosis of LABD was made.",
+        "past_medical_history": "Known UC, status postcolectomy with a residual rectal pouch and ileostomy",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Initial examination showed erythematous crusted papules over his scalp, eyelids, eyes, chin and chest.",
+        "specialty_examination": "Histology showed subepidermal bullous dermatosis with neutrophils and eosinophils. Direct immunofluorescence (DIF) showed linear BMZ deposition of IgA and fibrinogen in addition to some minimal epithelial cell surface IgA."
+    }
+}

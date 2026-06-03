@@ -1,0 +1,87 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "L-carnitine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "intramuscular hydroxocobalamin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "betaine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "dietary",
+            "specific_treatment": "protein restriction",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "bilateral medial rectus resections",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Diagnosis of cbl C disease during newborn screening"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on L-carnitine, intramuscular hydroxocobalamin, betaine, and protein restriction"
+        },
+        {
+            "date": "3 months",
+            "event": "Normal eye exam"
+        },
+        {
+            "date": "5 months",
+            "event": "Macular pigmentary changes noted"
+        },
+        {
+            "date": "7 months",
+            "event": "Normal ERG and visual evoked potential"
+        },
+        {
+            "date": "10 months",
+            "event": "Macular pigmentary changes progressed to bilateral, atrophic, macular lesions"
+        },
+        {
+            "date": "2 years",
+            "event": "Bilateral medial rectus resections performed for large angle esotropia"
+        },
+        {
+            "date": "13 years",
+            "event": "Most recent exam with visual acuity 20/250 (right eye) and 20/400 (left eye)"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable visual acuity since age 5 years, with best corrected visual acuity of 20/250 (right eye) and 20/400 (left eye) at age 13",
+        "follow_up_details": "Yearly ophthalmic examinations",
+        "complications": "Nystagmus, consecutive exotropia, macular coloboma-like lesions, photoreceptor loss, inner retinal remodeling",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Well rehabilitated by a low vision service, functions well in school with the assistance of an iPad",
+        "patient_perspective": "Not specified"
+    }
+}

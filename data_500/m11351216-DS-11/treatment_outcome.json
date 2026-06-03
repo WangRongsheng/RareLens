@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Keflex",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "PO qid x 10 days",
+            "treatment_response": "Wound had not improved significantly after taking 8 days of Keflex."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1g IV, 1 dose",
+            "treatment_response": "Pt was transferred to the floor after administration."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Bactrim DS",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO daily for 5 days.",
+            "treatment_response": "Not specified."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Augmentin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO every twelve (12) hours for 5 days.",
+            "treatment_response": "Not specified."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Started on Keflex for presumed cellulitis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Presented to the ED for further evaluation after 8 days of Keflex."
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered 1 dose of Vancomycin in the ED."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged with oral antibiotics including Bactrim DS and Augmentin."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Afebrile, hemodynamically stable, and minimal pain.",
+        "follow_up_details": "Follow-up with PCP.",
+        "complications": "No complications",
+        "long_term_prognosis": "Wound significantly improved.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Pt was pleasant and cooperative; denied significant pain and discomfort."
+    }
+}

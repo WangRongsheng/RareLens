@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Transfer from out hospital with episode of unresponsiveness concerning for seizure",
+        "history_of_present_illness": "Year-old right-handed woman with history of MS since unknown, on unknown treatment, till unknown; PML diagnosed in unknown, seizure disorder on lamictal and klonopin, ischemic stroke in unknown and unknown with unknown presentation. Presented to ED with concern for seizure. This morning at 0830, found on bed with closed eyes, opened eyes to her name but spoke in an unintelligible mumbling language, confused and disoriented. No shaking movement, bladder control maintained, no tongue laceration. The previous night was routine, went to bed after dinner with sleep medications; woke up tired and confused. Transferred to OSH where she was drowsy but oriented x3. NCHCT showed hypodensity in the right parieto-occipital area, new compared to prior CT. Similar unresponsive episode noted by her mother on unknown date.",
+        "past_medical_history": "1. MS diagnosed in unknown after sensory symptoms with positive clonal band on CSF and enhancing lesions in MRI. Episodes of urinary urgency, visual changes (optic neuritis), balance issues. Started on unknown, switched to Tysabri till PML diagnosed in unknown, now on IV solumedrol every 3 months, followed by local neurologist.\n2. Seizure diagnosed after unknown event approximately unknown years ago; currently on lamictal 150 mg bid and clonazepam.\n3. Two strokes noted in unknown and unknown, symptoms not recalled.\n4. PML diagnosed in unknown without noted symptoms, receiving IV solumedrol every 3 months.\n5. Migraines and tension headaches.\nPsychiatric history includes depression, anxiety, eating disorder, adjustment disorder, insomnia.\n6. Colectomy for colitis and obstruction, ovarian cyst, B12 deficiency, appendectomy.",
+        "family_history": "No family history of MS; one healthy sister; maternal history includes Alzheimer's, CHF, diabetes, obesity.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: 98.2, P: 62 regular, R: 12, BP: 109/55, SaO2: 98% RA. General: Awake, cooperative, NAD.",
+        "specialty_examination": "Neurological: Oriented x3, inattentive, good knowledge of current events but unable to recall medication names; fluent speech, some decreased sensory perception on left side, especially cold sensation and proprioception. Motor exam shows decreased muscle bulk but normal tone; postural tremor observed. Cranial nerves: left hemianopia noted, EOMI with nystagmus. Coordination: mild dysmetria noted on left side."
+    }
+}

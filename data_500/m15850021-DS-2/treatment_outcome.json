@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ciprofloxacin HCl",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO Q12H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "MetroNIDAZOLE",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO Q8H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Docusate Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Senna",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "8.6 mg PO BID: PRN constipation",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "650 mg PO Q6H: PRN pain",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with abdominal pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Imaging indicated diverticulitis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Antibiotics and bowel rest initiated"
+        },
+        {
+            "date": "Not specified",
+            "event": "Abdominal pain decreased, resumed a regular diet"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental status clear and coherent; able to ambulate independently.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

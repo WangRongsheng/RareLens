@@ -1,0 +1,38 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "Diagnosed with PHS shortly after birth; at age 2 years she remains with global developmental delay and is not able to walk or speak, with ongoing hypothalamic tumor, isolated growth hormone deficiency, hip and renal dysplasia, laryngeal cleft, epiglottal hypoplasia, and a vascular ring—no sustained improvement or documented worsening.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Ongoing multisystem issues: hypothalamic tumor, isolated growth hormone deficiency, bilateral hip and renal dysplasia, laryngeal cleft, epiglottal hypoplasia, vascular ring; height on the 3rd centile and bilateral low-frequency hearing loss.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Further investigations including ultrasound and CT scan confirmed the presence of a hypothalamic tumor shortly after birth."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Isolated growth hormone deficiency was identified shortly after diagnosis."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Bilateral hip and renal dysplasia were documented on early evaluations."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Airway anomalies (laryngeal cleft and epiglottal hypoplasia) and a vascular ring were identified after diagnosis."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "By age 2 years, global developmental delay persists; she is not able to walk or speak, indicating ongoing functional impairment."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The report describes two patients. Long-term outcomes are only available for Patient 2 (diagnosed shortly after birth and followed to age 2 years); Patient 1 was a fetus with termination at 20 weeks and postmortem confirmation, which does not provide post-index long-term follow-up. Timings (short_term vs long_term) are inferred relative to the postnatal diagnosis for Patient 2."
+}

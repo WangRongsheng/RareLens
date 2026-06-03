@@ -1,0 +1,100 @@
+{
+    "basic_information": {
+        "age": "42",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Epigastric pain followed by hypovolemic shock due to intraperitoneal hemorrhage",
+        "history_of_present_illness": "Admitted to Tours Hospital in October 1991 for epigastric pain followed by hypovolemic shock due to intraperitoneal hemorrhage. Emergency laparotomy showed 5500 mL of blood coming from a large rupture of Glisson’s capsule. The liver was enlarged and soft, and Pringle’s maneuver temporarily stopped bleeding. Macroscopic examination and frozen sections of wedge biopsy specimens made in the right and left lobes and extemporaneously examined showed no evidence of tumor. Selective hepatic arteriography showed unusual distal vascularization. Bleeding was definitively stopped in a second laparotomy by ligation of the hepatic artery and gauze packing. After depacking and cholecystectomy in a third laparotomy, the outcome was marked by jaundice and acute pancreatitis; however, the patient was discharged 1 month later in good condition.",
+        "past_medical_history": "Not specified",
+        "family_history": "The father of case A1 had type 2 diabetes mellitus at the age of 60 years and died at the age of 73 years without clinical evidence of liver disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Hypovolemic shock due to intraperitoneal hemorrhage. The liver was enlarged and soft.",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood analysis",
+            "date": "Not specified",
+            "findings": "Normal liver function test results, plasma α-fetoprotein concentration, and fasting glucose level",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycosylated hemoglobin test",
+            "date": "Not specified",
+            "findings": "6.3% (normal, 4%–6%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fasting glucose level",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatitis B surface antigen test",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing for HNF-1α mutation",
+            "date": "Not specified",
+            "findings": "Heterozygous R229X germline mutation identified in HNF-1α",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasonography",
+            "date": "Not specified",
+            "findings": "Multiple hyperechogenic nodules (>10)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Hypodense nodules (>10) and a 12-cm pediculated liver mass of segment III that became hyperdense after injection",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "January 2003",
+            "findings": "Numerous nodules (>10) consistent with liver adenomatosis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Typical aspect of liver adenomatosis with numerous nodules (>10)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Not specified",
+            "findings": "Typical aspects of hepatocellular adenoma with steatosis and no signs of hepatocellular dysplasia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathologic study",
+            "date": "Not specified",
+            "findings": "Numerous foci of microvesicular and macrovesicular steatosis, intermingled with clear hepatocytes, irregularly dispersed in the parenchyma",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic study",
+            "date": "Not specified",
+            "findings": "Heterozygous 164–168del, G55fsX57 germline HNF-1α mutation identified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

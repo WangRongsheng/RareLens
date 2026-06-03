@@ -1,0 +1,57 @@
+{
+    "basic_information": {
+        "age": "8 months",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "weakness in both ankles and toes that had been progressing since birth",
+        "history_of_present_illness": "Neurological examination revealed decreased motor power of MRC Grade 1/5 and sensory impairment in both ankles and toes. A nerve conduction study revealed no evidence of peripheral neuropathy. Magnetic resonance imaging of the whole spine showed a large cystic and solid mass that extended from the midthoracic to sacral levels, compressing the spinal cord.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Neurological examination revealed decreased motor power of MRC Grade 1/5 and sensory impairment in both ankles and toes."
+    },
+    "laboratory_examinations": [],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic resonance imaging of the whole spine",
+            "date": "Not specified",
+            "findings": "A large cystic and solid mass that extended from the midthoracic to sacral levels, compressing the spinal cord. The main portion of the mass was located ventrally to the spinal cord and showed strong wall enhancement.",
+            "changes_over_time": "Follow-up MR images obtained 19 months after surgery revealed an unchanged residual lesion with decreased enhancement."
+        },
+        {
+            "procedure_name": "Abdominal ultrasonography",
+            "date": "Not specified",
+            "findings": "No apparent visceral lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Nerve conduction study",
+            "date": "Not specified",
+            "findings": "No evidence of peripheral neuropathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histopathological examination",
+            "date": "Not specified",
+            "findings": "The tumor was composed of sheets of monotonous primitive oval cells with abundant collagen in the background. The neoplastic cells were positive for smooth muscle actin and vimentin; however, they were completely negative for epithelial membrane antigen, S100 protein, desmin, myoglobin, myogenin, CD34, CD31, and GFAP. The Ki 67 labeling index was less than 0.1% of the cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electron microscopy examination",
+            "date": "Not specified",
+            "findings": "The tumor showed sheets of oval to spider-like cells containing oval to elongated heterochromatic nuclei and cytoplasmic processes. The perikaryal cytoplasm contained a well-developed Golgi apparatus, rough endoplasmic reticula, some mitochondria, and ribosomes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

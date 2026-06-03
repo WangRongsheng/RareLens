@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Etoh intoxication, PNA",
+        "history_of_present_illness": "Homeless male with a history of hypertension brought in by ambulance to ED last night for Etoh intoxication. Reports drinking 1 to 4 pints vodka/day. Found on the ground with a strong etoh odor, admitted to drinking 'too much'. Denied headache, shortness of breath, chest pain, blurred vision. Initial vitals: BP 147/92, HR 86. In ED, noted to be intoxicated, difficult to arouse with an ethanol level of 255. Developed tachycardia (110-120) with occasional hypoxia (90% w/ambulation). CXR revealed likely PNA. Treated with Levofloxacin and metronidazole, admitted for PNA and Etoh withdrawal. Denied fever, chills, night sweats, and other symptoms.",
+        "past_medical_history": "# HTN # Etoh abuse (no history of withdrawal seizures, DTs - no prior hospitalization) # L shoulder injury",
+        "family_history": "Non-contributory for this presentation. 1 brother died of cancer.",
+        "social_history": "Homeless, drinking 1 to 4 pints of vodka per day."
+    },
+    "physical_examination": {
+        "general_examination": "Vital Signs: 98.4°F, HR 91, BP 174/87, RR 19, SpO2 94% RA. Disheveled male, malodorous.",
+        "specialty_examination": "Neurological: Alert, oriented x 3, follows commands, non-focal. Cardiovascular: Regular, tachycardic. Pulmonary: Clear to auscultation, no rales/rhonchi/wheezing appreciated. Gastrointestinal: Normal bowel sounds, non-tender/non-distended. Extremities: Malodorous feet bilaterally with ~7 maggots found. Superficial abrasion on R arm, otherwise clear."
+    }
+}

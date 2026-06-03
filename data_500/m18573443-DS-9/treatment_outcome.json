@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Administered IV",
+            "treatment_response": "Improvement noted"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Cefazolin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Administered IV",
+            "treatment_response": "Improvement noted"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Percocet",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 tablets",
+            "treatment_response": "Reported pain relief"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Linezolid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "600 mg PO Q12H for 5 days",
+            "treatment_response": "Expected improvement"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ciprofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO Q12H for 5 days",
+            "treatment_response": "Expected improvement"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Colchicine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.6 mg PO daily for 2 doses",
+            "treatment_response": "Monitor for muscle aches or dark urine"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Started IV antibiotics (Vancomycin and Cefazolin) in ED"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered 2 tablets of Percocet for pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started Linezolid and Ciprofloxacin in discharge medications"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started Colchicine in discharge medications"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improvement noted; condition stable upon discharge",
+        "follow_up_details": "Follow up with PCP after discharge to evaluate kidney function and need for additional antibiotics",
+        "complications": "Stressed kidney function attributed to infection and exposure to penicillin-type antibiotic",
+        "long_term_prognosis": "Kidney function is stable and expected to improve post-infection",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Ambulatory and independent at the time of discharge",
+        "patient_perspective": "Patient reported overall improvement; needs continued antibiotics"
+    }
+}

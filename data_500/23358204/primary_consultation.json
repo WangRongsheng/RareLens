@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "12",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "generalized bone pain",
+        "history_of_present_illness": "Diagnosed with B cell acute lymphoblastic leukemia (ALL) in March 2003, completed treatment in March 2005. Relapsed in March 2006 with generalized bone pain, achieved remission after re-induction chemotherapy. Followed in remission between 2006 and 2010. Relapsed again in January 2010, achieved complete remission after induction therapy. Underwent allogeneic stem cell transplantation in September 2010 from her brother who has gray platelet syndrome (GPS). Achieved neutrophil and platelet engraftment at 12th and 42nd days post-transplant, respectively.",
+        "past_medical_history": "B cell acute lymphoblastic leukemia (ALL), relapsed twice (2006 and 2010).",
+        "family_history": "Brother diagnosed with gray platelet syndrome (GPS).",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Peripheral blood smear showed gray platelets. Electron microscope image showed absence of a-granules in platelets."
+    }
+}

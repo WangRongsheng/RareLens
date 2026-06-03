@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "56",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Papulovesicular skin lesions on the upper chest and back.",
+        "history_of_present_illness": "The symptoms began after the first week of erlotinib therapy and gradually progressed to the face and scalp region over three months. The patient has a history of metastatic adenocarcinoma of the lung and previous first-line chemotherapy failure.",
+        "past_medical_history": "Metastatic adenocarcinoma of the lung; previous first-line chemotherapy failure.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    },
+    "physical_examination": {
+        "general_examination": "The patient appears comfortable with no signs of systemic distress. Vital signs are not specified.",
+        "specialty_examination": "Physical examination revealed multiple pustular nodules on the scalp and papulovesicular skin lesions on the upper chest and back. The lesions are non-tender, with mild associated itching but no signs of infection."
+    }
+}

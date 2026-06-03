@@ -1,0 +1,87 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Dexamethasone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg PO DAILY",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Cyclobenzaprine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg PO TID: PRN muscle spasm",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Famotidine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lorazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oxycodone SR (Oxycontin)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO Q12H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oxycodone (Immediate Release)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "mg PO Q6H: PRN Pain - Moderate",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Dexamethasone started at 4 mg PO DAILY"
+        },
+        {
+            "date": "Not specified",
+            "event": "Cyclobenzaprine started at 10 mg PO TID: PRN muscle spasm"
+        },
+        {
+            "date": "Not specified",
+            "event": "Famotidine started at 20 mg PO BID"
+        },
+        {
+            "date": "Not specified",
+            "event": "Lorazepam started at 1 mg PO BID"
+        },
+        {
+            "date": "Not specified",
+            "event": "Oxycodone SR started at 20 mg PO Q12H"
+        },
+        {
+            "date": "Not specified",
+            "event": "Oxycodone (Immediate Release) started"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Home on hospice care",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "The patient decided to go home on hospice."
+    }
+}

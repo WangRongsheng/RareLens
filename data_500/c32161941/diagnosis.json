@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "SARS-CoV-2 infection",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The infant tested positive for SARS-CoV-2 via pharyngeal swab at 36 hours after birth, and the mother also had a positive test for SARS-CoV-2. Despite negative results for nucleic acid tests in cord blood and placenta, the possibility of vertical transmission could not be entirely excluded based on clinical symptoms and the context of the mother's infection."
+    }
+}

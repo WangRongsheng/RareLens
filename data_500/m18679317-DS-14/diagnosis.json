@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Atrial fibrillation",
+        "differential_diagnosis": "Deep vein thrombosis (DVT)",
+        "diagnostic_reasoning": "The patient presented with epigastric pain, weakness, and pre-syncope, and was found to have atrial fibrillation with a rapid ventricular rate (RVR) noted on EKG. Additionally, a lower extremity ultrasound revealed an occlusive right greater saphenous vein thrombus, supporting the concern for DVT. However, subsequent evaluations ruled out the presence of DVT in both lower extremities."
+    }
+}

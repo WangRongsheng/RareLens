@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin (ASA)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "325 mg",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metoprolol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg IV",
+            "treatment_response": "Heart rhythm returned to normal"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Heparin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Started as a continuous intravenous drip for DVT",
+            "treatment_response": "Stopped after ultrasound revealed no blood clot"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient started to experience symptoms (abdominal pain, weakness, labored breathing, pre-syncope)"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient admitted to ED with initial vital signs recorded"
+        },
+        {
+            "date": "Not specified",
+            "event": "EKG showed Afib/RVR with heart rate as high as 120s"
+        },
+        {
+            "date": "Not specified",
+            "event": "Bilateral lower extremity ultrasound revealed occlusive right greater saphenous vein thrombus"
+        },
+        {
+            "date": "Not specified",
+            "event": "Heparin gtt started for suspected DVT"
+        },
+        {
+            "date": "Not specified",
+            "event": "Ultrasound repeated and revealed no blood clot, heparin stopped"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with instructions to avoid standing up too rapidly and stay hydrated"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient returned to normal heart rhythm and was stable at discharge",
+        "follow_up_details": "Follow up with primary care doctor as indicated",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient reported feeling better"
+    }
+}

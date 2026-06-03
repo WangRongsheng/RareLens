@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg PO daily for 14 days, then decrease to 30 mg daily",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for evaluation of bloody diarrhea and abdominal pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Colonoscopy performed showing isolated ulcers throughout the colon"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on GoLYTELY in ED"
+        },
+        {
+            "date": "Not specified",
+            "event": "Prescribed Prednisone for treatment of Crohn's disease"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory and independent",
+        "follow_up_details": "Follow up with GI doctor for ongoing medication evaluation",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

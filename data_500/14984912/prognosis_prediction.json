@@ -1,0 +1,106 @@
+{
+    "basic_information": {
+        "age": "8 years",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Triosephosphate isomerase deficiency diagnosed in the neonatal period after developing jaundice",
+        "history_of_present_illness": "From 2 years of age neurologic involvement became evident. He had frequent falls, secondary to foot drop, with weakness of hip flexion and knee extension. Deep tendon reflexes were absent but with extensor plantar responses. His motor disability progressed to marked distal weakness, wasting, and contractures. At 7 years of age he underwent triple arthrodesis. At 8 years of age he could walk short distances but required a wheelchair for longer journeys. He had wasting of the forearms and lower limbs with marked distal weakness. He was areflexic, and his plantar responses were unreliable owing to weakness of the extensor hallucis muscles. Sensory deficits in two-point discrimination, vibration, proprioception, and touch were detected, suggesting large myelinated fiber or dorsal column involvement. His cognitive function remained unaffected.",
+        "past_medical_history": "Triosephosphate isomerase deficiency, chronic axonal neuropathy, episodes of subtle jaundice during minor illnesses",
+        "family_history": "Healthy, unrelated parents. Mother contributed the more common Glu104Asp mutation and father Cys41Tyr.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Neurological: Wasting of the forearms and lower limbs with marked distal weakness, areflexic, unreliable plantar responses, sensory deficits in two-point discrimination, vibration, proprioception, and touch. Absent deep tendon reflexes with extensor plantar responses."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "DNA mutation analysis",
+            "date": "Not specified",
+            "findings": "Two DNA mutations identified: mother contributed Glu104Asp mutation and father contributed Cys41Tyr mutation.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed tomography (CT) of the brain",
+            "date": "Age 6.5 years",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Peripheral electrophysiologic studies",
+            "date": "Age 3.5 years",
+            "findings": "Right sural sensory nerve action potential of 12.6 microvolts in amplitude with a conduction velocity of 51.1 m/s. Left sural sensory nerve action potential was 11.7 microvolts and conduction velocity was 48.1 m/s. Right common peroneal distal latency was 4.56 ms (2.62 ± 0.75), and common peroneal motor conduction velocity could not be determined because of lack of a proximal response. Left posterior tibial distal latency was 3.68 microseconds (2.81 ± 0.47), and motor conduction velocity was 38 m/s (49.8 ± 5.79). Left common peroneal distal latency was 3.20 microseconds (2.62 ± 0.75) with motor conduction velocity of 26.2 m/s (55.73 ± 4.45).",
+            "changes_over_time": "Repeat studies at the age of 4.5 years revealed a right sural sensory nerve action potential of 14.1 microvolts with a conduction velocity of 54.3 m/s. Right common peroneal distal latency was 3.28 ms (3.01 ± 0.43) with a motor conduction velocity of 38.5 m/s (56.14 ± 4.96). Left common peroneal distal latency was 4.4 ms (3.01 ± 0.43) with motor conduction velocity of 41.1 m/s (56.14 ± 4.96)."
+        },
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Age 6.5 years",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sural nerve biopsy",
+            "date": "Age 5.5 years",
+            "findings": "Reduced density of myelinated fibers with cluster formations on transverse section (toluidine blue stain). The cluster formations were identified by three or more closely located myelinated axons ideally surrounded by a single basal lamina membrane. These myelinated fibers originated within the space previously occupied by a single larger myelinated fiber and confirmed evidence of regeneration after axonal degeneration.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Chronic axonal neuropathy with triosephosphate isomerase deficiency",
+        "diagnostic_reasoning": "The diagnosis was confirmed on clinical and neurophysiologic grounds, supported by sural nerve biopsy findings of reduced density of myelinated fibers with cluster formations, indicative of axonal degeneration and regeneration. The patient's sensory deficits and progressive motor disability, along with the biopsy results, led to the conclusion of chronic axonal neuropathy associated with triosephosphate isomerase deficiency."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "phenobarbital",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vitamin C",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "large doses"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "physiotherapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "orthotic device",
+            "specific_treatment": "ankle-foot orthoses",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "orthotic device",
+            "specific_treatment": "night splints",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "triple arthrodesis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "subtotal thyroidectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No remission of hypercortisolism"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "removal of pituitary lesion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "3 mm hypodense and nonenhancing lesion",
+            "treatment_response": "No remission of hypercortisolism"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "metyrapone with hydrocortisone replacement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Difficult control of hypercortisolism"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "removal of ACTH-producing metastasis of the mesentery",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "21 × 15 mm tumor mass",
+            "treatment_response": "Temporary remission of Cushing’s syndrome"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "removal of well-differentiated neuroendocrine carcinoma of the ileum",
+            "start_date": "2007-12",
+            "end_date": "Not specified",
+            "dosage_or_details": "15 × 10 mm polypoid tumor, en bloc resection of 80 cm ileum",
+            "treatment_response": "Significant clinical improvement, remission of hypercortisolism and diabetes mellitus"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "2003-09",
+            "event": "Patient presented with weight gain, muscle tremor, general fatigue, perspiration, hypercholesterolemia, exophthalmos, enlargement of the thyroid gland, and cushingoid features"
+        },
+        {
+            "date": "Not specified",
+            "event": "Subtotal thyroidectomy and removal of pituitary lesion performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Treatment started with metyrapone combined with hydrocortisone replacement"
+        },
+        {
+            "date": "Not specified",
+            "event": "Removal of ACTH-producing metastasis of the mesentery"
+        },
+        {
+            "date": "2007-12",
+            "event": "Removal of well-differentiated neuroendocrine carcinoma of the ileum"
+        },
+        {
+            "date": "Not specified",
+            "event": "Follow-up examinations at 2, 7, 9, and 18 months post-surgery"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Remission of hypercortisolism and diabetes mellitus",
+        "follow_up_details": "Normal dexamethasone suppression test, no evidence of diabetes mellitus, normal bone densitometry at spine and hip",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Significant clinical improvement noted post-surgery",
+        "quality_of_life": "Improved physical fitness and mood, although still suffered from obesity and hypercholesterolemia",
+        "patient_perspective": "Felt fine, regained strength and muscle mass, did not need further potassium replacement"
+    }
+}

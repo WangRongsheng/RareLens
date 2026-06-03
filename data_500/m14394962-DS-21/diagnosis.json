@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Gastrointestinal bleed",
+        "differential_diagnosis": "Borderline personality disorder, ___ syndrome",
+        "diagnostic_reasoning": "The patient presented with abdominal pain and a history of low red blood cell levels and positive ostomy output for blood. Lab work indicated declining hematocrit levels, which support the diagnosis of a gastrointestinal bleed. While psychiatric evaluations were performed, the primary concern was the gastrointestinal condition requiring intervention."
+    }
+}

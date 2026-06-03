@@ -1,0 +1,95 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ventriculoperitoneal shunt procedure",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "steroids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "radiation",
+            "specific_treatment": "radiation therapy",
+            "start_date": "Not specified",
+            "end_date": "1980-10",
+            "dosage_or_details": "5500-6000 rad",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "shunt revision",
+            "start_date": "1980-10",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "some improvement in mental status"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "gastrostomy",
+            "start_date": "1980-10",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "1980-08",
+            "event": "Patient noted difficulty with upward gaze, headaches, occasional diplopia and ataxia."
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted to the Hospital of the University of Pennsylvania."
+        },
+        {
+            "date": "Not specified",
+            "event": "Ventriculoperitoneal shunt procedure was carried out and the patient was treated with steroids."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged and radiation therapy was given on an outpatient basis."
+        },
+        {
+            "date": "1980-09",
+            "event": "Readmitted because of weight loss and anorexia."
+        },
+        {
+            "date": "1980-10",
+            "event": "Discharged and completed radiation therapy (5500-6000 rad)."
+        },
+        {
+            "date": "1980-10",
+            "event": "Admitted for the final time because of dehydration and inanition."
+        },
+        {
+            "date": "1980-10",
+            "event": "Shunt revision resulted in some improvement in mental status and gastrostomy was done to improve nutrition."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient became increasingly lethargic."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient died three months after final admission and six months after the onset of illness."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "deceased",
+        "follow_up_details": "Not specified",
+        "complications": "gastric perforation, diabetes, pneumonia, wound dehiscence",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

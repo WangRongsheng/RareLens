@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abdominal pain, syncope",
+        "history_of_present_illness": "He presented with 2 days of epigastric pain radiating to the back, nausea, and emesis. Found to have hyperbilirubinemia of 3.5, WBC 20, and lactate of 4.1.",
+        "past_medical_history": "IDDM, COPD, HTN, Hyperlipidemia, PAD w/ arterial insufficiency, chronic decreased sensation in left foot, erectile dysfunction. Past surgical history includes right hemi-colectomy and 3 vascular procedures.",
+        "family_history": "Mother: d. colon cancer, Father: d. colon cancer, siblings all deceased including one sister who died of MI at age Not specified and another sister and brother who died Not specified years ago.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 98.8, HR: 88, BP: 121/77, RR: 18, O2: 94% RA. Patient appears uncomfortable.",
+        "specialty_examination": "Neurological: Not specified, Cardiovascular: RRR, Pulmonary: respirations unlabored, Abdomen: Soft, nondistended, +RUQ/epigastric tenderness to palpation."
+    }
+}

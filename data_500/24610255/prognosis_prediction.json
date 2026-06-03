@@ -1,0 +1,95 @@
+{
+    "basic_information": {
+        "age": "15",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "intellectual disability, spastic quadriparesis, and dystonia",
+        "history_of_present_illness": "At age 2 years, she had presented with global developmental delay and spastic quadriparesis. An initial evaluation, including karyotype and metabolic tests, was normal; but brain magnetic resonance imaging (MRI) showed delayed myelination with a hint of cerebral atrophy. She later developed seizures. At age 13 years, she developed generalized dystonia, and repeat brain MRI images showed T2 hypointensities in the globus pallidus, substantia nigra, and red nucleus in addition to cerebral and cerebellar atrophy and hypomyelination.",
+        "past_medical_history": "global developmental delay, spastic quadriparesis, seizures, generalized dystonia",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "mild bilateral optic atrophy, bilateral sensory neural hearing loss"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "karyotype",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "metabolic tests",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "sequence analysis of the PANK2, PLA2G6, and FAH2 genes",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chromosome microarray analysis",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "mitochondrial genome next-generation sequencing",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "whole-exome sequencing",
+            "date": "Not specified",
+            "findings": "identified a novel, de novo splice site mutation, c.342-2A>C, in WDR45",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "brain magnetic resonance imaging (MRI)",
+            "date": "At age 2 years",
+            "findings": "delayed myelination with a hint of cerebral atrophy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "brain magnetic resonance imaging (MRI)",
+            "date": "At age 13 years",
+            "findings": "T2 hypointensities in the globus pallidus, substantia nigra, and red nucleus in addition to cerebral and cerebellar atrophy and hypomyelination. The respective areas were faintly hyperintense on the T1-weighted images. Bilateral hippocampal sclerosis.",
+            "changes_over_time": "Progression from delayed myelination and cerebral atrophy to more extensive findings including hypointensities in specific brain regions and additional atrophy."
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Beta-Propeller Protein-Associated Neurodegeneration (BPAN)",
+        "diagnostic_reasoning": "The diagnosis was based on the patient's clinical presentation of intellectual disability, spastic quadriparesis, dystonia, and seizures, along with characteristic MRI findings of T2 hypointensities in the globus pallidus, substantia nigra, and red nucleus, cerebral and cerebellar atrophy, and hypomyelination. Whole-exome sequencing identified a novel, de novo splice site mutation in WDR45, confirming the diagnosis of BPAN."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "carbidopa/levodopa (L-dopa)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "Not specified",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with neuropathic pain initially restricted to the feet and toes"
+        },
+        {
+            "date": "Not specified",
+            "event": "Symptoms spread more proximally to involve the legs and hands with time"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent punch skin biopsy from proximal and distal sites"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent sural nerve biopsy"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Symptoms slowly spread centripetally with time, none developed painless foot ulceration or Charcot joints",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

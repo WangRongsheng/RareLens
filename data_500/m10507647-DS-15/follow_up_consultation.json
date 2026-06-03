@@ -1,0 +1,100 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "neck pain",
+        "history_of_present_illness": "Patient is a ___ PMHx leiomyosarcoma s/p resection, radiation therapy, and most recently s/p 1 cycle of Doxil (liposomal sarcoma), recently discharged from ___ for pathologic R trochanteric fracture s/p internal fixation, now presenting with R-sided neck, shoulder and arm pain, worse over this past week. The patient notified her oncologist who referred her to the ED for further evaluation and CT imaging. Initial VS 99.0 111 138/72 16 100% ra. CT neck and abdomen pelvis showed interval increase in the size of a left supraclavicular enhancing mass now measuring 2.7 x 2.4 cm. No focal weakness or deficits on neurologic exam. Upon transfer to the floor, patient's VS 97.5, 142/86, 98, 18, 100% on RA. Labs were notable for Hct 29 (at baseline).",
+        "past_medical_history": "Oncologic history includes febrile illness and finding of a large cystic mass which was thought to be an abscess but later revealed to be high-grade pleomorphic sarcoma possibly a liposarcoma. Underwent 5000 cGy of external beam radiotherapy and en bloc resection of the tumor. Postoperative scans showed no evidence of metastasis or local recurrence. Thyroid ultrasound indicated a 2.5-cm left lower pole heterogeneous nodule. Core needle biopsy suggested metastasis in left clavicular head. Patient has a history of dilated right breast duct, GERD, Osteopenia, Dyslipidemia, and seizure. Surgical history includes tubal ligation and TAH for fibroid uterus and benign neck mass excision.",
+        "family_history": "Significant for 2 brothers, one of whom may have had an intra-abdominal malignancy. There are no other family members that she is aware of with cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 97.5, 142/86, 98, 18, 100% on RA. Chronically ill-appearing female in NAD. Tenderness to palpation of c-spine, L shoulder and lateral posterior torso. AOx3, grossly symmetric strength of BUE and BLE, sensation grossly intact.",
+        "specialty_examination": "Neurological: No focal weakness or deficits noted. Cardiac: RRR, normal S1 and S2, no m/r/g. Lung: CTA bilaterally, no wheezes/rales. Abdomen: soft, NTND, normoactive bowel sounds. Extremities: Warm, 2+ DP pulses bilaterally."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC-7.0, RBC-3.21*, HGB-9.0*, HCT-29.0*, MCV-90, MCH-28.1, MCHC-31.1, RDW-17.6*",
+            "changes_over_time": "Hgb decreased from 9.0* to 8.7*; Hct remained at 29.0"
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel (BMP)",
+            "date": "Not specified",
+            "findings": "Glucose-123*, Urea N-16, Creat-0.9, Sodium-139, Potassium-4.2, Chloride-104, Total CO2-25, Anion Gap-14",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Urine color-straw, appear-clear, urine blood-neg, nitrite-neg, protein-neg, glucose-neg, ketone-neg, bilirubin-neg, urobilinogen-neg, pH-6.5, leu-k-neg",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC-6.8, RBC-3.18*, Hgb-8.7*, Hct-29.0*, MCV-91, MCH-27.2, MCHC-29.9*, RDW-18.7*",
+            "changes_over_time": "Compared to previous values, WBC decreased slightly; Hgb decreased from 9.0* to 8.7*; Hct remained at 29.0"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Calcium-9.7, Phos-5.3*, Mg-2.0",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "Final report: <10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT Neck",
+            "date": "Not specified",
+            "findings": "Interval increase in size of a 2.7 x 2.4 cm left supraclavicular mass with associated partial bony destruction of the left clavicular head.",
+            "changes_over_time": "Increased in size from previous scans."
+        },
+        {
+            "procedure_name": "CT Chest/Abdomen/Pelvis",
+            "date": "Not specified",
+            "findings": "Findings of metastatic leiomyosarcoma, with increased size of left supraclavicular region lesion and right upper lobe pulmonary lesion. New interval increase in size of a 2.8 x 2.6 cm right pelvic mass.",
+            "changes_over_time": "Lesion sizes increased compared to earlier examinations."
+        },
+        {
+            "procedure_name": "MRI Abdomen",
+            "date": "Not specified",
+            "findings": "Ill-defined right hepatic mass within segment VI, appears new since the prior examination, compatible with metastasis. New right lower lobe lung nodules.",
+            "changes_over_time": "New findings noted since previous examinations."
+        },
+        {
+            "procedure_name": "MRI Shoulder",
+            "date": "Not specified",
+            "findings": "Destructive mass arising from the medial aspect of left clavicular head with a large soft tissue component, increased since previous imaging.",
+            "changes_over_time": "Increased in size compared to prior studies."
+        },
+        {
+            "procedure_name": "CT Torso",
+            "date": "Not specified",
+            "findings": "Several bilateral pulmonary nodules have increased in size; interval decrease in a peripherally enhancing mass within the pelvis.",
+            "changes_over_time": "Notable increases in size for several nodules compared to prior study."
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Core Needle Biopsy",
+            "date": "Not specified",
+            "findings": "Pathology was thought suggestive of metastasis, stained positive for smooth muscle actin.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

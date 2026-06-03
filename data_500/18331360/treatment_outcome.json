@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "tropicamide (0.5%) and phenylephrine (2.5%)",
+            "start_date": "2004",
+            "end_date": "2004",
+            "dosage_or_details": "tropicamide (0.5%) supplemented with phenylephrine (2.5%)",
+            "treatment_response": "Mydriasis was relatively ineffective initially but improved with supplementation."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "1973",
+            "event": "Retinal photograph taken showing optic nerve coloboma."
+        },
+        {
+            "date": "1991",
+            "event": "Dense white cataract recorded with no view of the posterior segment; visual acuity less than 1/60."
+        },
+        {
+            "date": "2004",
+            "event": "Patient presented with a change in the appearance of her left pupil; examination revealed subluxation of the lens and total retinal detachment."
+        },
+        {
+            "date": "2004",
+            "event": "Mydriasis with tropicamide (0.5%) and phenylephrine (2.5%) performed."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "No action taken; advised to report any inflammatory symptoms.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient noticed a change in her appearance in a mirror but had no visual symptoms due to longstanding poor vision."
+    }
+}

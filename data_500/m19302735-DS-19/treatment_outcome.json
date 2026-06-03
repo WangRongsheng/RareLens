@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Keppra",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1000 mg BID",
+            "treatment_response": "Patient was seizure free for a few days before discharge."
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Brain biopsy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not applicable",
+            "treatment_response": "Biopsy consistent with inflammation/infection rather than lymphoma."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IVIg treatment",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Given for infection; the specific response is not clear."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ibrutinib",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "420 mg PO Q24H",
+            "treatment_response": "Restarted after IVIg treatment."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient was started on Keppra."
+        },
+        {
+            "date": "Not specified",
+            "event": "Brain biopsy performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "IVIg treatment initiated for infection."
+        },
+        {
+            "date": "Not specified",
+            "event": "ibrutinib was held while determining the management for infection."
+        },
+        {
+            "date": "Not specified",
+            "event": "A follow-up brain MRI showed worsening of affected areas."
+        },
+        {
+            "date": "Not specified",
+            "event": "IVIg treatment given again."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged and follow-up appointments arranged."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient was safe for discharge with symptoms controlled on Keppra.",
+        "follow_up_details": "Follow-up appointments arranged; patient advised not to drive due to seizure risk.",
+        "complications": "No complications noted from the brain biopsy.",
+        "long_term_prognosis": "Worsening affected areas on follow-up imaging indicate a need for close monitoring.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient reports inability to perform daily activities involving fine movement.",
+        "patient_perspective": "Patient reports recurrent seizure activities post-discharge."
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "basic_information": {
+        "age": "45",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "fevers, night sweats and non-productive cough",
+        "history_of_present_illness": "2-month history of fevers, night sweats and non-productive cough. He had been on a series of consecutive trials of daclizumab for Relapsing Remitting Multiple Sclerosis (RRMS), totalling 79 months (12-months placebo-controlled, 12-months dose-blinded, 55-months open-label of 150 mg monthly subcutaneously). He had experienced three relapses in the three years prior to commencing the trials but remained relapse-free during them.",
+        "past_medical_history": "Relapsing Remitting Multiple Sclerosis (RRMS)",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "new bilateral inguinal lymphadenopathy",
+        "specialty_examination": "Neurological examination demonstrated longstanding altered left-sided facial sensation, mild instability on Romberg testing; Expanded Disability Status Scale (EDSS) score was stable at 2.0."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ESR",
+            "date": "Not specified",
+            "findings": "35 mm/h (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ACE",
+            "date": "Not specified",
+            "findings": "62 IU/L (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IgG",
+            "date": "Not specified",
+            "findings": "27.65 g/L (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IgM",
+            "date": "Not specified",
+            "findings": "5.51 g/L (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total protein",
+            "date": "Not specified",
+            "findings": "91 g/L (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lymphocyte count",
+            "date": "Not specified",
+            "findings": "1.72 × 10^9 g/L (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Corrected-calcium",
+            "date": "Not specified",
+            "findings": "2.35 mmol/L (within normal range)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT-PET",
+            "date": "Not specified",
+            "findings": "High avidity lymphadenopathy in the mediastinum and abdominal chains, but no visceral uptake",
+            "changes_over_time": "6-months following daclizumab cessation demonstrated reduction in lymph node uptake"
+        },
+        {
+            "procedure_name": "Brain MRI before/after gadolinium",
+            "date": "Not specified",
+            "findings": "Stable with no new or enhancing lesions and no meningeal enhancement",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Spirometry",
+            "date": "2 months following daclizumab cessation",
+            "findings": "FEV1 2.13 (62.3% predicted), FVC 3.62 (83.7% predicted), FEV1/FVC ratio 58.8% (moderate obstruction)",
+            "changes_over_time": "Repeat spirometry 10-weeks following discontinuation of corticosteroids was normal; FEV1 3.01 (88% predicted), FVC 3.74 (86.5% predicted), FEV1/FVC ratio 80.5%"
+        },
+        {
+            "procedure_name": "Lymph node aspirate via endobronchial ultrasound",
+            "date": "Not specified",
+            "findings": "Non-necrotising granulomatous inflammation",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

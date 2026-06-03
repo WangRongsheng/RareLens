@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "immunotherapy",
+            "specific_treatment": "daclizumab",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "150 mg monthly subcutaneously",
+            "treatment_response": "Remained relapse-free during the trials but developed systemic, non-specific symptoms leading to diagnosis of sarcoidosis"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "inhaled corticosteroids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No effect on the non-productive cough"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "oral corticosteroids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "short trial",
+            "treatment_response": "No effect on the non-productive cough"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Started daclizumab monotherapy for Relapsing Remitting Multiple Sclerosis (RRMS)"
+        },
+        {
+            "date": "Not specified",
+            "event": "Developed fevers, night sweats, and non-productive cough after 79 months of daclizumab therapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Daclizumab was suspended pending further investigation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Diagnosed with sarcoidosis based on lymph node aspirate showing non-necrotising granulomatous inflammation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Commenced inhaled corticosteroids followed by a short trial of oral corticosteroids"
+        },
+        {
+            "date": "6 months after daclizumab cessation",
+            "event": "CT-PET demonstrated reduction in lymph node uptake"
+        },
+        {
+            "date": "10 weeks after discontinuation of corticosteroids",
+            "event": "Repeat spirometry was normal"
+        },
+        {
+            "date": "Not specified",
+            "event": "Daclizumab was permanently discontinued"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved with resolution of all symptoms except non-productive cough",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Symptoms resolved two months following daclizumab cessation except for non-productive cough",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

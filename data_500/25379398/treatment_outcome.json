@@ -1,0 +1,175 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "transsphenoidal surgery",
+            "start_date": "2005",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "transsphenoidal surgery",
+            "start_date": "2008",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "craniotomy",
+            "start_date": "2009",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "transsphenoidal surgery",
+            "start_date": "2011",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "radiation",
+            "specific_treatment": "gamma-knife surgery (GKS)",
+            "start_date": "2012-04",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No evidence of recurrence for 20 months after the last treatment"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "intravenous acyclovir, dexamethasone, and ceftriaxone",
+            "start_date": "2013-11",
+            "end_date": "Not specified",
+            "dosage_or_details": "Dexamethasone was administered intravenously for 6 days and then switched to oral prednisone for 6 days",
+            "treatment_response": "Her ears symptoms improved after one week of hospitalization and she was discharged"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "glimepiride and metformin",
+            "start_date": "2013-11",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "vitrectomy",
+            "start_date": "2014-01-06",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Her eye symptoms improved following the vitrectomy"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "intravenous fluconazole",
+            "start_date": "2014-01-06",
+            "end_date": "2014-01-11",
+            "dosage_or_details": "400 mg once daily",
+            "treatment_response": "Improved ocular infection and inflammation"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "oral bactrim",
+            "start_date": "2014-01-06",
+            "end_date": "Not specified",
+            "dosage_or_details": "480 mg once daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "radiation",
+            "specific_treatment": "gamma-knife surgery (GKS)",
+            "start_date": "2014-01-08",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Hypercortisolism was resolved 3 months after GKS"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "oral fluconazole",
+            "start_date": "2014-01-12",
+            "end_date": "2014-01-28",
+            "dosage_or_details": "400 mg daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "oral mitotane and cabergoline",
+            "start_date": "2014-01-08",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Hypercortisolism was resolved 3 months after GKS followed by cortisol lowering therapy"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "2005",
+            "event": "First transsphenoidal surgery"
+        },
+        {
+            "date": "2008",
+            "event": "Second transsphenoidal surgery"
+        },
+        {
+            "date": "2009",
+            "event": "Craniotomy"
+        },
+        {
+            "date": "2011",
+            "event": "Third transsphenoidal surgery"
+        },
+        {
+            "date": "2012-04",
+            "event": "Gamma-knife surgery (GKS)"
+        },
+        {
+            "date": "2013-11",
+            "event": "Hospitalization for herpes zoster oticus (HZO), treated with intravenous acyclovir, dexamethasone, and ceftriaxone"
+        },
+        {
+            "date": "2013-12-30",
+            "event": "Patient presented with headache and blurred vision in the left eye"
+        },
+        {
+            "date": "2014-01-06",
+            "event": "Vitrectomy and start of intravenous fluconazole and oral bactrim"
+        },
+        {
+            "date": "2014-01-08",
+            "event": "Gamma-knife surgery (GKS) and start of oral mitotane and cabergoline"
+        },
+        {
+            "date": "2014-01-11",
+            "event": "Discharged from the hospital after 6 days of intravenous fluconazole therapy"
+        },
+        {
+            "date": "2014-01-12",
+            "event": "Start of oral fluconazole"
+        },
+        {
+            "date": "2014-01-28",
+            "event": "End of oral fluconazole"
+        },
+        {
+            "date": "2014-03",
+            "event": "Follow-up visit, vision improved slightly to 20/500 with macular depigmented changes"
+        },
+        {
+            "date": "2014-05-26",
+            "event": "Last visit, ACTH level dropped to 132.4 pg/mL, serum cortisol was 9.4 mg/dL and 24-h urine free cortisol was 13.8 mg/day"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved ocular infection and inflammation, but poor visual outcome due to foveal photoreceptor damage",
+        "follow_up_details": "Follow-up visits on 2014-03 and 2014-05-26",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Hypercortisolism was resolved 3 months after GKS followed by cortisol lowering therapy",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

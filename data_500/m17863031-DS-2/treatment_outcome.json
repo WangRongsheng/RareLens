@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "60 mg",
+            "treatment_response": "Platelet counts improved."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IVIg",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Platelet counts improved."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ciprofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO Q12H",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with acute liver failure and was given medications for Tylenol toxicity."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient began treatment with prednisone and IVIg for low platelets."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on ciprofloxacin for Gram-negative rod bacteremia."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental status clear and coherent, activity status ambulatory - independent.",
+        "follow_up_details": "Follow up with OBGYN to consider removing the IUD.",
+        "complications": "Bacteria in the blood; had a fall during the stay.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

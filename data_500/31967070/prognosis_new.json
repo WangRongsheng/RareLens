@@ -1,0 +1,68 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "At age 9, she developed severe esophageal dysmotility requiring balloon dilations at ages 10 and 14; alacrima persisted and glucocorticoid replacement continued, though hypoglycemia control improved.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Ongoing alacrima requiring artificial tears (stable, no corneal ulcers); achalasia managed with dilations and soft diet; migraines controlled; no hypoglycemia episodes after age 9.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "After starting maintenance hydrocortisone, the patient improved and regained her energy level; ACTH normalized."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "Several hypoglycemic episodes down to 30 mg/dL, with 2 seizures around age 6 during viral illness."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Notable weight gain and elevated hemoglobin A1c (5.1% to 6.1%) between ages 7.5 and 8.5, attributed to higher steroid doses."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "No more severe hypoglycemia (<50 mg/dL) after age 7; later no episodes at all after implementing glucose gel plan."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "After adding glucose gel and lowering steroid doses, hemoglobin A1c improved from 6.2% to 5.4% and no hypoglycemia recorded after age 9."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "At age 9, she developed severe esophageal dysmotility confirmed by esophagram and manometry."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Required esophageal balloon dilation at age 10."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Required repeat esophageal balloon dilation at age 14."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Post-dilation, she is able to tolerate a soft diet."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Around age 9, she developed migraines."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Headaches under control with MigreLief."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time approximated to the initial diagnosis of Allgrove syndrome and initiation of hydrocortisone at age ~3. Exact dates are not provided; time periods are inferred from ages reported. Functional status and symptom burden are inferred from narrative descriptions of school performance, diet tolerance, and ongoing management."
+}

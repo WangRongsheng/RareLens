@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "bedside debridement of sacral ulcer",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ciprofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "total course of po cipro",
+            "treatment_response": "Developed C. diff, treated with oral vancomycin for 2 additional weeks"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "oral for 2 additional weeks after end of ciprofloxacin",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Keflex",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "14 day course",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "clindamycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "transitioned to po clindamycin",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Bedside debridement of sacral ulcer performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Ciprofloxacin administered for UTI and bacteremia"
+        },
+        {
+            "date": "Not specified",
+            "event": "Developed C. diff and treated with oral vancomycin"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received a 14 day course of Keflex for recurrent LLE cellulitis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Transitioned to oral clindamycin after LLE cellulitis"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and coherent at the time of discharge",
+        "follow_up_details": "Return if worsening fevers, chills, pain, or any other concerns",
+        "complications": "Developed C. diff during treatment",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

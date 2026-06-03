@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "pantoprazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg iv x 1",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "sigmoidoscopy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Did not indicate bleeding or cause of pain"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "antibiotics",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "For 2 months",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for suspected gastrointestinal bleeding and abdominal pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administration of pantoprazole 40 mg iv"
+        },
+        {
+            "date": "Not specified",
+            "event": "Sigmoidoscopy performed; did not indicate bleeding or cause of pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with improvement in pain and no bleeding from rectum"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on antibiotics to treat prostatitis"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved abdominal pain and no rectal bleeding",
+        "follow_up_details": "Follow up with primary doctor once discharged from rehabilitation facility",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Mental Status: Alert and interactive. Activity Status: Out of Bed with assistance to chair or wheelchair.",
+        "patient_perspective": "Patient did not have any episodes of bleeding during admission"
+    }
+}

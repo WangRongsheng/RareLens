@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Fatigue and Dyspnea",
+        "history_of_present_illness": "Mr. ___ is a ___ year old male with recurrent metastatic NSCLC, CAD s/p NSTEMI and VT storm s/p ICD who presents with progressive dyspnea. Recently admitted with syncope and unstable VT due to R on T phenomenon. Treated with defibrillation, transferred for ICD placement and started on metoprolol and verapamil. Noticed cough and dyspnea 2 weeks ago, diagnosed with PNA and treated with amoxicillin and doxycycline. Symptoms progressed to fatigue, dizziness, presyncope upon standing, and dyspnea on exertion, leading to presentation at the ED.",
+        "past_medical_history": "Metastatic Lung Cancer, L adrenal Metastasis, CAD s/p NSTEMI, HTN, HLD, OSA, GERD.",
+        "family_history": "Father with COPD, Identical twin with HCM.",
+        "social_history": "Not specified."
+    },
+    "physical_examination": {
+        "general_examination": "Tired, NAD, BP 132/61, HR 81, R 18, T 98.6, SpO2 97% RA, decreased breath sounds on left side with mild crackles.",
+        "specialty_examination": "Neurological: CN II-XII intact. Cardiovascular: Regular heart sounds, ICD over L anterior chest c/d/I without erythema."
+    }
+}

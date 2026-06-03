@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "oral vitamin E",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Vitamin E levels returned to normal (11.7 μg/ml)"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Age 3 years",
+            "event": "Noticed abnormal ocular movements, walking disorder with frequent falls and language difficulties"
+        },
+        {
+            "date": "Age 6 years",
+            "event": "Referred to Neuropaediatrics unit; diagnosed with oculomotor apraxia, ataxic gait and dysmetria"
+        },
+        {
+            "date": "Age 7 years",
+            "event": "Low vitamin E levels detected; started oral vitamin E treatment"
+        },
+        {
+            "date": "Age 9 years",
+            "event": "EMG results showed sensitive axonal polyneuropathy"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Typical AOA1 clinical presentation without a severe phenotype",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lasix",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO once a day",
+            "treatment_response": "Kidney function improved"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Omeprazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg PO once a day",
+            "treatment_response": "For heartburn and upset stomach"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Upper GI endoscopy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not applicable",
+            "treatment_response": "Found esophagitis and gastritis"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Exercise stress test",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Max HR achieved: 90, total exercise time: 10 minutes",
+            "treatment_response": "Normal results with no angina type symptoms"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Echocardiogram",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Heart function evaluated, LVEF > 55%",
+            "treatment_response": "Heart function normal, no recent heart attack"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for evaluation of atypical chest pain and worsening renal failure"
+        },
+        {
+            "date": "Not specified",
+            "event": "Upper GI endoscopy performed, gastritis and esophagitis biopsied"
+        },
+        {
+            "date": "Not specified",
+            "event": "Echocardiogram and exercise stress test performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Lasix 20 mg and Omeprazole 40 mg started"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged with improved kidney function"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved",
+        "follow_up_details": "Follow up for biopsy results in 3 weeks",
+        "complications": "No complications",
+        "long_term_prognosis": "Normal heart function indicated, kidney function improved",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Mental status clear and coherent",
+        "patient_perspective": "No subjective experience provided"
+    }
+}

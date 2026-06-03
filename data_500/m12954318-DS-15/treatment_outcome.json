@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "Substance Withdrawal Management",
+            "specific_treatment": "Alcohol withdrawal management",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient exhibited symptoms of severe alcohol withdrawal including tremors."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with severe epigastric pain and symptoms of acute pancreatitis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient reported stopping alcohol intake 1 day prior due to pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient exhibited symptoms consistent with alcohol withdrawal, including tremor."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient eloped from the hospital.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "By 18 months there was no echocardiographic evidence of pulmonary hypertension and the sildenafil was discontinued. At 2.5 years the child requires glasses for myopia, hearing aids for severe hearing impairment, oxygen for intercurrent respiratory tract infections, and has delayed motor development.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Persistent sensory issues (severe hearing impairment requiring hearing aids, myopia requiring glasses) and ongoing respiratory vulnerability (oxygen needed for intercurrent infections).",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Two further attempts of extubation were unsuccessful due to upper airway obstruction related to the cleft palate. Laryngomalacia was confirmed by laryngo-bronchoscopy."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "iNO was successfully weaned 4 days after commencing sildenafil; oxygenation index fell from 23.7 to 4.4 and echocardiography showed improvement in pulmonary hypertension."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At 3 months of age the infant was successfully extubated to CPAP of 10 cm H2O."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "CPAP pressure was decreased over the next 3 months to 3 cm H2O, with an oxygen requirement of 35–40%."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At 6 months of age, the baby was discharged home on intermittent CPAP."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 1 year of age the CPAP was discontinued and the baby remained on oxygen 0.5 L/min via subnasal prongs."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "By 18 months of age there was no echocardiographic evidence of pulmonary hypertension and the sildenafil was discontinued."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 2.5 years old, the child requires glasses for myopia and hearing aids for severe hearing impairment; cleft palate repair is planned."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time inferred as the initial definitive diagnosis period (PPHN secondary to SED congenita) early in the neonatal course, as exact date was not specified. Long-term quality of life reflects overall condition (SED-related sequelae) rather than PPHN alone, which resolved by 18 months."
+}

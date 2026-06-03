@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Thiamine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO DAILY",
+            "treatment_response": "Mental status improved significantly."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO Q6H Pain",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Admitted to the hospital due to confusion."
+        },
+        {
+            "date": "Not specified",
+            "event": "Received medication to help with alcohol withdrawal symptoms."
+        },
+        {
+            "date": "Not specified",
+            "event": "Received additional nutrition/medication (thiamine) to help with confusion."
+        },
+        {
+            "date": "Not specified",
+            "event": "Mental status improved significantly."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.",
+        "follow_up_details": "Follow up with all of your physicians as directed.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

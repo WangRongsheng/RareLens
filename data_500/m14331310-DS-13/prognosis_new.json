@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "Initial PET-CT showed no distant metastases, but later PET/CT demonstrated new metastatic right lower lobe pulmonary lesions and nodal disease; bronchoscopy found the bronchus intermedius 100% occluded by tumor requiring endobronchial debulking.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Ongoing management needs (fentanyl patch for pain, bowel regimen, chronic Foley, and antibiotics for post-obstructive pneumonia) but he denied major respiratory or systemic symptoms at discharge.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "unknown",
+            "evidence_excerpt": "PET/CT showed metastatic disease in the right lower lobe pulmonary lesions and nodal involvement after an earlier PET-CT had no distant metastases."
+        },
+        {
+            "event_type": "readmission",
+            "time_period": "unknown",
+            "evidence_excerpt": "Admitted for concern of obstruction (no ostomy output for 3 days with emesis) and for a planned bronchoscopy."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "unknown",
+            "evidence_excerpt": "Rigid and flexible bronchoscopy with tumor destruction/debridement (laser, electrocautery, cryodebridement), EBUS TBNA, and fiducial placement for airway obstruction."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "unknown",
+            "evidence_excerpt": "Post-obstructive pneumonia suspected with purulent airway secretions noted; treated with amoxicillin-clavulanate."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "unknown",
+            "evidence_excerpt": "Ostomy output improved with magnesium citrate and milk of magnesia along with his usual bowel regimen."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "unknown",
+            "evidence_excerpt": "After bronchoscopy he was briefly 85% on 4L but improved to 96% on room air a few hours later."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Dates are redacted, so events are placed relative to the established diagnosis and initial treatment. Long-term follow-up beyond the discharge is not documented; functional status and symptom burden reflect the status at the time of this later hospitalization and discharge. Time periods are marked unknown due to insufficient date information."
+}

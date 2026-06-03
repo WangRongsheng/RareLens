@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Clonazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Unknown mg PO TID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lamotrigine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "150 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Zolpidem Tartrate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15 mg PO HS: PRN insomnia",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Zovia",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Unknown mg-mcg oral daily",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient transferred to OSH due to concern for seizure"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was drowsy but oriented x3 upon arrival at OSH"
+        },
+        {
+            "date": "Not specified",
+            "event": "NCHCT performed showing hypodensity in the right parieto-occipital area"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home after a long sleep and woke up at baseline"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive, at baseline",
+        "follow_up_details": "Patient can be followed as an outpatient by her neurologist",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

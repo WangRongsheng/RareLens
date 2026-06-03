@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "laminectomy lumbar L3-L5",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Lumbar Decompression Without Fusion",
+            "treatment_response": "Patient was alert and interactive post-operation"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with back pain and numbness in feet"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent outpatient MRI, which indicated possible cauda equina syndrome"
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery (laminectomy L3-L5) performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with instructions for recovery"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Follow up appointment recommended in 2 weeks post-operation",
+        "complications": "No complications",
+        "long_term_prognosis": "Expected to check incision and baseline X-rays at follow-up visit",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

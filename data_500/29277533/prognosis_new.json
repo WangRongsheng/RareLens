@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Postoperative course included ventriculoperitoneal shunt for posthemorrhagic hydrocephalus, but follow-up was uneventful and he was discharged with full neurologic recovery; ventricular dilatation resolved by six-month follow-up.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Follow-up was uneventful and control CT at six months showed resolution of ventricular dilatation.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "During postoperative treatment in the ICU for 40 days, ventriculoperitoneal shunt was performed due to posthemorrhagic hydrocephalus."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Ventriculoperitoneal shunt was performed due to posthemorrhagic hydrocephalus during the postoperative ICU course."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Patient’s follow-up was uneventful and he was discharged with full neurologic recovery."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Resolution of the ventricular dilatation was seen in the control computed tomography in his sixth month follow up."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Exact dates are not provided; index time approximated to the CT angiography confirming LPChA aneurysm prior to emergent embolization. Long-term status of the VP shunt is not specified; partial_recovery chosen due to ongoing device placement despite full neurologic recovery."
+}

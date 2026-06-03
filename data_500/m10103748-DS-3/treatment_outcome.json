@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Left hip intramedullary nailing",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Long Synthes 11 x ___ x ___ TFN nail with removal of distal hardware",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Decision made to transfer for surgical management after diagnosis of left intertrochanteric fracture"
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent ORIF of left supracondylar femur fracture"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient expired"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient expired",
+        "follow_up_details": "Not specified",
+        "complications": "No complications documented",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

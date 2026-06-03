@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abdominal pain",
+        "history_of_present_illness": "Mrs. ___ is a ___ y/o woman status POD1 after uncomplicated laparoscopic incisional and umbilical hernia presenting today for persistent abdominal pain since discharge yesterday. She reports pain was present since discharged yesterday and continued into the evening with associated nausea and vomiting. The pain is described as sharp stabbing sensation at the two sites of hernia repairs that radiates to her back, worsened by moving and sitting up and not alleviated with discharge pain medication, Oxycodone 5mg ___ tables Q3H. This morning, the pain has persisted, but she was able to eat a muffin for breakfast with no associated nausea or vomiting. She denies any fever, chills, nausea, vomiting, diarrhea. She has not passed gas or had a bowel movement since surgery.",
+        "past_medical_history": "PMH: Asthma, HTN, Left Shoulder Injury, ? Fibromyalgia. PSH: Appendectomy, Laparoscopic Removal of Left Ovarian Cyst, Diagnostic Laparoscopy, s/p Right partial nephrectomy.",
+        "family_history": "Epilepsy, CAD, DM, CVA, HTN, IBD, no GU cancer",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: 98.3 131/83 69 18 9RA. GEN: Pleasant female in NAD, calm, cooperative. ABDOMEN: soft, mildly tender in right lower quadrant but improved, mildly distended but improved, port incision sites are c/d/I/well-healing.",
+        "specialty_examination": "NEURO: AA&O x 3. CARDIAC: RRR, no murmurs. CHEST: no increased work of breathing. EXTREMITIES: Warm, well perfused, no edema."
+    }
+}

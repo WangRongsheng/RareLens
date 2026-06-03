@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "recombinant human granulocyte colony-stimulating factor (G-CSF)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 μg/kg/day",
+            "treatment_response": "Despite prophylactic measures, she continued to develop recurrent pyogenic infections."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "prophylactic antibacterial therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Despite such prophylactic measures, she continued to develop recurrent pyogenic infections."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "prolonged intravenous antibiotic therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "The abscesses failed to resolve completely."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Diagnosed with Kostmann’s syndrome at 4 months of age"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started receiving subcutaneous G-CSF injections at a dose of 5 μg/kg/day and prophylactic antibacterial therapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Presented with drowsiness and multiple abscesses detected via CT scan"
+        },
+        {
+            "date": "Not specified",
+            "event": "Bone marrow aspiration revealed features suggestive of myelodysplastic syndrome (MDS) progressing to acute myeloid leukemia"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient passed away due to septicaemia"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Deceased",
+        "follow_up_details": "Not specified",
+        "complications": "Myelodysplastic syndrome (MDS) progressing to acute myeloid leukemia, septicaemia",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

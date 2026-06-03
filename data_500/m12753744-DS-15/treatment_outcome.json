@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "zosyn",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Improved symptoms post-admission"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Part of the antibiotic regimen started in ICU"
+        },
+        {
+            "treatment_type": "bi-level positive airway pressure (BiPAP)",
+            "specific_treatment": "BiPAP",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Required frequent suctioning for copious secretions"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with urosepsis and aspiration pneumonia"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on zosyn and normal saline"
+        },
+        {
+            "date": "Not specified",
+            "event": "CXR showed large right-sided infiltrate; code blue called during event"
+        },
+        {
+            "date": "Not specified",
+            "event": "Transferred to ICU and started on BiPAP"
+        },
+        {
+            "date": "Not specified",
+            "event": "Vancomycin added to antibiotics"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Condition improved",
+        "follow_up_details": "Follow-up appointments as scheduled",
+        "complications": "No complications",
+        "long_term_prognosis": "Patient able to be discharged to rehab, condition has improved",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient reports feeling better than the day before"
+    }
+}

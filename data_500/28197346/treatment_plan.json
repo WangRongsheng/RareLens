@@ -1,0 +1,91 @@
+{
+    "basic_information": {
+        "age": "25",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "worsening quality of life",
+        "history_of_present_illness": "Diagnosed with CyN at age one. Multiple hospitalizations for severe infections and required numerous surgeries related to underlying neutropenia. Extensive history of oral mucosa lesions, throat, ear, fingernail and buttock infections, and bouts of bloody diarrhea with colitis. Surgeries included tonsillectomy, mastoidectomy, appendectomy, and cholecystectomy. Neutropenic cycles initially every 25–28 days with 3–5 days of nadir, temporary improvement with filgrastim treatment. Cycles shortened to 15–18 days but remained vulnerable to infections during nadirs and suffered opportunistic infections despite G-CSF, later replaced with PEGylated G-CSF.",
+        "past_medical_history": "Cyclic neutropenia (CyN), familial Mediterranean fever (MEFV) mutation, multiple infections, surgeries (tonsillectomy, mastoidectomy, appendectomy, cholecystectomy).",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Bone marrow biopsy showed myeloid hyperplasia with prominent toxic granulation and a shift with immaturity consistent with G-CSF effect, but with no overt dysplasia and only 1% blasts, and otherwise normal hematopoiesis with no evidence of malignancy."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ELANE mutation testing",
+            "date": "Not specified",
+            "findings": "c.573 597 + 5del, heterozygous, frame-shift deletion mutation of neutrophil elastase",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Periodic Fever Syndromes Panel",
+            "date": "Not specified",
+            "findings": "Positive for MEFV with nucleic acid change c. [1105C>T; 1223G>A] and amino acid alteration p. [Pro369Ser; Arg408Gln]",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow biopsy (core and aspirate)",
+            "date": "Not specified",
+            "findings": "Myeloid hyperplasia with prominent toxic granulation and a shift with immaturity consistent with G-CSF effect, but with no overt dysplasia and only 1% blasts, and otherwise normal hematopoiesis with no evidence of malignancy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC count",
+            "date": "Day -5",
+            "findings": "18.5 (1000/uL)",
+            "changes_over_time": "Decreased to 4.9 (1000/uL) on Day -2, <0.1 (1000/uL) on Day +7, 2.9 (1000/uL) on Day +27 and Day +41, and 5.7 (1000/uL) on Day +78"
+        },
+        {
+            "procedure_name": "ANC",
+            "date": "Day -5",
+            "findings": "16.3 (1000/uL)",
+            "changes_over_time": "Decreased to 4.90 (1000/uL) on Day -2, too few on Day +7, 1.50 (1000/uL) on Day +27, 1.80 (1000/uL) on Day +41, and 5.50 (1000/uL) on Day +78"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Day -5",
+            "findings": "11.7 (g/dL)",
+            "changes_over_time": "Decreased to 10.8 (g/dL) on Day -2, 6.5 (g/dL) on Day +7, 10.6 (g/dL) on Day +27, 7.5 (g/dL) on Day +41, and 11.8 (g/dL) on Day +78"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Day -5",
+            "findings": "140 (1000/uL)",
+            "changes_over_time": "Decreased to 56 (1000/uL) on Day -2, 31 (1000/uL) on Day +7, 227 (1000/uL) on Day +27, 164 (1000/uL) on Day +41, and 77 (1000/uL) on Day +78"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [
+        {
+            "procedure_name": "Bone marrow biopsy (core and aspirate) post-transplant",
+            "date": "Not specified",
+            "findings": "Engrafting bone marrow with trilineage hematopoiesis and decreased cellularity compared to previous marrow (30% versus 80%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopy",
+            "date": "Day +53",
+            "findings": "Granularity and cobble stone appearance in the small bowel, consistent with GI GvHD",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy from endoscopy",
+            "date": "Day +53",
+            "findings": "Grade 4 of 4 GI GvHD, with extensive mucosal ulceration and development of pneumatosis cystoids intestinalis, acute serositis, and likely focal microperforation",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "ELANE and MEFV mutation positive severe cyclic neutropenia",
+        "diagnostic_reasoning": "The patient was diagnosed with cyclic neutropenia (CyN) at age one and had a history of multiple severe infections and hospitalizations. Testing revealed a heterozygous frame-shift deletion mutation in the ELANE gene and a positive MEFV mutation. The combination of these mutations was hypothesized to contribute to the severity of symptoms, leading to the decision for allogeneic bone marrow transplantation."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "cardiac catheterization with stent placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "3.0 x 15 Onyx drug eluting stent deployed, post dilated with a 3.25 NC balloon at 16 ATM",
+            "treatment_response": "Patient was hemodynamically stable and chest pain free post procedure, noted to be borderline confused but with no focal neurological findings."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient experienced chest pain and was taken to the ED."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 4 baby aspirin in the ED."
+        },
+        {
+            "date": "Not specified",
+            "event": "Cardiac catheterization performed and stent placed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Post procedure, patient was noted to be borderline confused but stable."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient had a heart attack but was stable and chest pain free after the procedure.",
+        "follow_up_details": "Patient advised to take all medications and keep all follow-up appointments.",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Patient is recommended to continue dual antiplatelet therapy for a minimum of one year post PCI.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

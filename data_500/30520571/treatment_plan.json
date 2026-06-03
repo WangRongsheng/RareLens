@@ -1,0 +1,97 @@
+{
+    "basic_information": {
+        "age": "33",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Syrian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Severe central hypotonia, poor suck, weak cry, minimal vision, and esotropia",
+        "history_of_present_illness": "Prenatal ultrasound showed hyperechogenic bowel, hand, and skull anomalies. Neonatal period was complicated by respiratory distress at birth requiring surfactant application and 2 days of respiratory support. She had dysmorphic facial features, severe central hypotonia, poor suck, weak cry, minimal vision, and esotropia. She was noted to have feeding difficulties, constipation, distended abdomen, and small thoracic cage. Cardiac concerns included mild left pulmonary stenosis and secundum atrial septal defect (ASD).",
+        "past_medical_history": "She had three affected siblings with similar clinical presentation who had died due to disease-related complications.",
+        "family_history": "Parents are first cousins. Three affected siblings with similar clinical presentation who had died due to disease-related complications.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Dysmorphic facial features, severe central hypotonia, poor suck, weak cry, minimal vision, and esotropia. Feeding difficulties, constipation, distended abdomen, and small thoracic cage.",
+        "specialty_examination": "Brain MRI showed irregular outline to prominent bodies of both lateral ventricles with abnormal periventricular T2 hyperintensity returned from the deep white matter, generous extra-axial CSF spaces with bilateral and symmetric underopercularization, and foreshortening and thinning of an otherwise intact corpus callosum."
+    },
+    "laboratory_examinations": [],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Irregular outline to prominent bodies of both lateral ventricles with abnormal periventricular T2 hyperintensity returned from the deep white matter, generous extra-axial CSF spaces with bilateral and symmetric underopercularization, and foreshortening and thinning of an otherwise intact corpus callosum",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Slight prominence to the supratentorial ventricular system with increased T2 hyperintensity returned from the bilateral posterior centra semiovale, irregular outline to the bodies of both lateral ventricles in addition to the increased T2 hyperintensity returned from the periventricular white matter, thinning and foreshortening to the body of the corpus callosum",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Prominence to the bodies of the lateral ventricles with generous extra-axial CSF spaces with bilateral and symmetric underopercularization, thinning and foreshortening of the corpus callosum",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Abnormally deep and box-like Sylvian fissures, diffuse reduction in cerebral volume, particularly the deep white matter signs of dysmyelination, diffuse reduction in the brainstem and vermian volume (molar tooth sign) and dysmorphic appearance of the corpus callosum and brainstem",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Karyotyping",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Comparative Genomic Hybridization (CGH)",
+            "date": "Not specified",
+            "findings": "Nondiagnostic",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole Exome Sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Homozygous truncating variants in PPP1R21 gene",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole Genome Sequencing (WGS)",
+            "date": "Not specified",
+            "findings": "Homozygous truncating variants in PPP1R21 gene",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunofluorescence",
+            "date": "Not specified",
+            "findings": "PPP1R21 co-localizes with early endosome marker EEA1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transferrin-488 uptake and clearance assay",
+            "date": "Not specified",
+            "findings": "Delayed transferrin-488 clearance in PPP1R21 mutant fibroblasts",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electron Microscopy (EM)",
+            "date": "Not specified",
+            "findings": "Increased number of myelin figures in PPP1R21 deficient fibroblasts",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "neurodevelopmental syndrome with impaired endocytic function caused by biallelic loss of function variants in PPP1R21",
+        "diagnostic_reasoning": "The diagnosis was based on the identification of homozygous truncating variants in the PPP1R21 gene through whole exome and whole genome sequencing in affected individuals from four independent families. Functional studies, including immunofluorescence and transferrin-488 clearance assays, demonstrated that PPP1R21 localizes to early endosomes and its loss results in a mild endo-lysosomal dysfunction. The clinical phenotype, including hypotonia, neurodevelopmental delay, facial dysmorphism, and brain abnormalities, along with the functional evidence, supported the final diagnosis."
+    }
+}

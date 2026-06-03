@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "liver mass",
+        "history_of_present_illness": "Patient is a gentleman with a history of hepatitis C and diverticulitis s/p sigmoid resection and diverting ileostomy who presents with an enlarging liver mass in segment III, most recently measuring 3.9 x 2.1 cm on MRI. This was felt to be consistent with hepatocellular carcinoma. He underwent a CT scan of his abdomen to rule out evidence of metastasis. An incidental finding of a pelvic abscess and sigmoid diverticulitis were identified. The patient was hospitalized on the same day and discharged on an unspecified date. During that time, he was treated with IV antibiotics and underwent a percutaneous drainage for a diverticular pelvic abscess. This was followed up with a laparoscopically assisted sigmoid colectomy with diverting loop ileostomy for perforated diverticulitis. He was hospitalized from an unspecified date through an unspecified date. Since discharge, Mr. has been doing okay at home. He actually has improved significantly over the last month. He is tolerating a regular diet and has a good appetite. He has gained approximately ten pounds over the last month. He is keeping up with his ileostomy output. He says he changes his ileostomy approximately six times per day. He does not feel dehydrated. He is feeling much stronger. He felt very weak early postoperatively. He now feels like he is getting his strength again. He is no longer having incisional discomfort. He is tolerating the ileostomy without difficulty but is very excited about getting his ileostomy taken down. He is no longer taking any Vicodin at this point.",
+        "past_medical_history": "PMHx: perforated diverticulitis, Hepatitis C, diagnosed in an unspecified date without antiviral therapy, history of alcohol abuse, history of tobacco abuse, glaucoma, cataracts. PSurgHx: sigmoidectomy & diverting loop ileostomy on an unspecified date.",
+        "family_history": "non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "post-op exam: T 99.5, HR 87, BP 114/63, RR 25, SPO2 99% on 3LNC. General: NAD, alert and oriented. Cardiac: RRR. Chest: CTAB. Abdomen: +BS, tender, nondistended, blood on dressing over ileostomy site (wick), clean dressings over liver site, sanguinous output in JP. GU: Foley in place. Extremities: warm, well-perfused, no edema.",
+        "specialty_examination": "Not specified"
+    }
+}

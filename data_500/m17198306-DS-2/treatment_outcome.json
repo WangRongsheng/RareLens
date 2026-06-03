@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ativan, Lidocaine, Versed",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5mg Ativan, 1mg Lidocaine, 6mg Versed",
+            "treatment_response": "Intubated due to respiratory compromise"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Keppra",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1.5g loading dose, now 1g IV BID",
+            "treatment_response": "Loading dose administered, no evidence of seizures on EEG monitoring"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Protonix IV",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "80mg IV",
+            "treatment_response": "Administered for upper gastrointestinal bleeding management"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV Fluids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4L Normal Saline",
+            "treatment_response": "Hematocrit dropped after IV fluids but stabilized"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Intubation/Extubation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Intubated upon arrival, extubated after stabilization",
+            "treatment_response": "Successfully extubated and stable pulmonary function"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient intubated due to respiratory compromise"
+        },
+        {
+            "date": "Not specified",
+            "event": "Keppra loading dose administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "EEG monitoring showed no seizures"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient extubated and stabilized"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged home"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental status improved, fully alert and interactive by discharge",
+        "follow_up_details": "Plans to follow-up with primary care physician and neurologist",
+        "complications": "Significant delirium post-extubation but eventually resolved",
+        "long_term_prognosis": "Expected to follow up for monitoring of alcohol use and mental status",
+        "recovery_timeline": "Mentally improved over the course of hospitalization",
+        "quality_of_life": "Patient was alert and independent at discharge but remained confused at times",
+        "patient_perspective": "Patient reported feeling groggy but oriented during assessment"
+    }
+}

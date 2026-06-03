@@ -1,0 +1,18 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "Follow-up up to age 3 years: phenotype restricted to hypopigmentation; 'He is now 3 yr old and did not have any problems except food allergy.' No neurologic or immune complications reported.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Ongoing mild atopic features: 'During follow-up, he had mild eczema, mild eosinophilia, and high serum IgE levels... He is now 3 yr old and did not have any problems except food allergy.'",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Initial respiratory/allergic issues earlier in infancy; by age 3 years course stable with 'no problems except food allergy,' indicating improvement of prior wheezing/pneumonia and severe milk reaction."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time approximated as the documented GS diagnosis at referral to Pediatric Immunology at 8 months. The report includes another unrelated SLE case; events before 8 months were excluded per instruction. Long-term details are limited but indicate stable hypopigmentation with mild atopic features and normal development."
+}

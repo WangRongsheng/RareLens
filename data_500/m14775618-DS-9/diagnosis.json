@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Coronary Syndrome Rule-Out",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with dizziness, chest tightness, and elevated troponin I levels, leading to concerns regarding NSTEMI. However, further tests indicated normal heart muscle enzyme levels, and a stress test showed no ischemic changes."
+    }
+}

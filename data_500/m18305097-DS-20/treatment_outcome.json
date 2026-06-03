@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Linezolid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO twice a day for 11 days",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Voriconazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO twice a day for 6 days",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Furosemide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO once a day",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient was admitted for suicidal ideation and wound infection"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Linezolid and Voriconazole"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Furosemide"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home against medical advice"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient left against medical advice",
+        "follow_up_details": "Follow up with Podiatry, PCP, and infectious diseases was advised",
+        "complications": "Foot infection and bloodstream infections with bacteria and yeast",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "total knee arthroplasty",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Pain well-controlled; incision healing well with staples"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Consultation for total knee arthroplasty"
+        },
+        {
+            "date": "Not specified",
+            "event": "Total knee arthroplasty performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Post-operative assessment showed stable vital signs and well-controlled pain"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - requires assistance or aid (walker or cane)",
+        "follow_up_details": "Follow up with primary physician regarding this admission and any new medications and refills; staples to be removed at first clinic visit.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Nutrition improved and patient felt better after steroids and IV nutrition, but with residual issues including persistent anasarca/edema and need for ongoing anticoagulation and insulin titration: \"With this your nutrition improved... we are happy that you're feeling better!\" and discharge exam noted \"persistent ... pitting edema... persistent anasarca.\" Ongoing Lovenox for DVT and diuretic started.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Persistent swelling/anasarca at discharge: \"some persistent ... pitting edema... persistent anasarca\" and started on a diuretic; ongoing anticoagulation and insulin dose titration anticipated.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "\"With this your nutrition improved.\" and \"we are happy that you're feeling better!\" after initiation of steroids and supplemental IV nutrition during hospitalization."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Earlier noted \"He ambulates minimally\"; at discharge: \"Activity Status: Ambulatory - Independent.\""
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "\"found to have a blood clot associated with the special IV line we placed while you were here. For this, we have started you on a blood thinner called Lovenox (Enoxaparin) which you will continue on for at least 3 months.\""
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "No follow-up beyond hospital discharge is provided; long-term outcome and quality-of-life categories are inferred from discharge status within the same hospitalization. Persistent edema and ongoing treatment needs support partial recovery rather than complete recovery, but the true long-term trajectory is not documented."
+}

@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vancomycin and Ceftriaxone (CTX)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Received for management of urinary tract infection and sepsis"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "G tube replacement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Confirmed that the tube is working"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Levetiracetam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metoprolol Tartrate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "25 mg PO BID",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with hypotension, fever, and abdominal distention."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 1.5 L Normal Saline (NS) with response."
+        },
+        {
+            "date": "Not specified",
+            "event": "Antibiotic therapy started with Vancomycin and CTX."
+        },
+        {
+            "date": "Not specified",
+            "event": "G tube was replaced."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient stabilized but eventually diagnosed with sepsis and a large mass."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Expired",
+        "follow_up_details": "Not specified",
+        "complications": "Sepsis resulting from a urinary tract infection",
+        "long_term_prognosis": "Considered to be possibly cancerous mass.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Goals of care were changed to comfort.",
+        "patient_perspective": "Not specified"
+    }
+}

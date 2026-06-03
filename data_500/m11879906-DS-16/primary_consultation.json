@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chest pain",
+        "history_of_present_illness": "Ms. ___ is an ___ y/o female with a history of CAD (s/p CABGx4 in ___ and Mitral valve repair in ___ who presents with acute onset substernal chest pain that awoke her from sleep this morning. The pain radiated down both arms although worse on the left. It was associated with shortness of breath, but no cough, fevers, or chills. The pain was not pleuritic. She does not usually have chest pain and this pain felt different from her heart attack in ___ although she says it is hard to remember the details. In the ED, initial vitals were T: 97.6, P: 79, BP: 154/65, RR: 16, 97% ra. EKG showed SR, ST depressions V2-V4, isolated ST elevation in III. Labs were notable for a troponin of 0.08. She received nitroglycerin immediately after arrival which resulted in resolution of her pain. She was then given Aspirin 325mg, Morphine IV, and started on a heparin drip. She was admitted to the cardiology service for further management. On arrival to the floor, the patient is chest pain free and feels back to her baseline except for being a little bit tired.",
+        "past_medical_history": "1. CAD status post four-vessel CABG (LIMA - LAD, SVG - OM1, SVG - OM2, SVG - RCA in ___ with concomitant MV repair for 3+ MR ___ ring, 26 mm). 2. Hypertension. 3. Hyperlipidemia, intolerant to multiple statins. 4. Peripheral vascular disease, abnormal ABIs in ___ (mild infrapopliteal arterial obstructive disease), asymptomatic. 5. Obesity. 6. Ovarian cyst, status post laparoscopic cystectomy. 7. Osteoporosis. 8. Osteoarthritis of the left knee, bilateral hip, spine and hands. 9. Fibroids. 10. Psoriasis. 11. Lumbar stenosis. 12. Adenomatous colonic polyps, resected in ___. 13. Bilateral total hip replacements (left, ___ right, ___.",
+        "family_history": "Mother had unknown 'trouble with her heart,' but died at age ___. Father had a stroke at ___. She has two siblings with no cardiac problems.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "On Admission: VS: T: 98.5, BP: 123/63 (SBPs107-146), P: 71 (54-89), RR: 18, 97%RA. General: NAD, comfortable, pleasant. CV: regular rhythm, and II/VI holosystolic murmur best heard over the apex. Lungs: CTAB, no w/r/r. Ext: trace pitting edema to ankles, WWP, no c/c, 2+ distal pulses bilaterally.",
+        "specialty_examination": "Neuro: moving all extremities grossly."
+    }
+}

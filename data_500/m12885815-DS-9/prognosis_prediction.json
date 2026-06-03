@@ -1,0 +1,146 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abd pain",
+        "history_of_present_illness": "Ms. ___ is a ___ year old female with history of multiple sclerosis, bilateral recurrent DVTs, hypertension, hyperlipidemia, diabetes, osteoarthritis, and dementia who presents with severe abdominal pain, nausea, and emesis. The pain started 3 hours prior to their arrival. In the ED, she denies chest pain, fevers, chills, or other symptoms.",
+        "past_medical_history": "Multiple sclerosis - relapsing remitting disease; Bilateral DVT's post TKR; Diabetes; HTN; Night time urinary incontinence.",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital Signs: T 98.4, BP 178/95, HR 104, RR 20, O2 100 on RA. General: Alert, able to follow simple commands and respond to simple questions, oriented to being in a hospital but could not name which.",
+        "specialty_examination": "Able to move all extremities with purpose; Clear bilateral lung exam; Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops; Abdomen soft, tender possibly lower > upper quadrants."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": {
+                "WBC": "13.1",
+                "RBC": "3.98",
+                "Hgb": "9.9",
+                "Hct": "32.2",
+                "MCV": "81",
+                "MCH": "24.9",
+                "MCHC": "30.7",
+                "RDW": "16.7",
+                "Plt": "91",
+                "Glucose": "144",
+                "UreaN": "14",
+                "Creat": "0.6",
+                "Na": "131",
+                "K": "9.0",
+                "Cl": "96",
+                "HCO3": "26",
+                "AnGap": "18",
+                "ALT": "26",
+                "AST": "90",
+                "CK": "89",
+                "AlkPhos": "127",
+                "TotBili": "0.4",
+                "Albumin": "3.6"
+            },
+            "changes_over_time": "Potassium decreased from 9.0 to 3.8, Hemoglobin decreased from 9.9 to 9.5"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": {
+                "Organism": "Escherichia coli",
+                "Concentration": ">100,000 organisms/mL",
+                "Sensitivities": {
+                    "Ampicillin": "<=2 S",
+                    "Cefazolin": "<=4 S",
+                    "Ciprofloxacin": "<=0.25 S",
+                    "Meropenem": "<=0.25 S",
+                    "Nitrofurantoin": "<=16 S"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT Abdomen/Pelvis",
+            "date": "Not specified",
+            "findings": {
+                "Hepatic Masses": "New hypodense enhancing hepatic masses mostly in the left lobe",
+                "Omental caking": "Suggestion of omental caking",
+                "Thickened urinary bladder wall": "Thickened urinary bladder wall seen with cystitis",
+                "Other Findings": "No small bowel obstruction or diverticulitis"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": {
+                "Impression": "No acute cardiopulmonary process"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI Head",
+            "date": "Not specified",
+            "findings": {
+                "New foci": "Punctate new foci of restricted diffusion in the right frontal and parietal lobes",
+                "Interpretation": "Likely represent acute/acute subacute infarcts"
+            },
+            "changes_over_time": "Otherwise, the examination is unchanged"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": {
+                "Rhythm": "RRR, sinus",
+                "QTc": "405",
+                "Waves": "Q waves III and TWI III"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Abdominal pain UTI, suspected cancer of the biliary tract",
+        "diagnostic_reasoning": "The patient presented with severe abdominal pain, and initial imaging indicated concerning findings of multiple hepatic lesions which suggested a potential malignancy such as cholangiocarcinoma, as well as cystitis. The combination of the patient's symptoms, lab findings, and imaging were critical in directing towards a diagnosis of possible cancer."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Morphine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 gm administered twice"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Normal Saline",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1L"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 gm"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ondansetron",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg"
+        }
+    ]
+}

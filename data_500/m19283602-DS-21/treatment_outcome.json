@@ -1,0 +1,111 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "650 mg PO Q6H: PRN pain",
+            "treatment_response": "Tolerated well and had improvement of nausea after switching from IV to oral pain medications."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oxycodone (Immediate Release)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg PO Q3H: PRN pain",
+            "treatment_response": "Nausea was experienced initially when given IV medications, but oral medications were tolerated well."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Cyclobenzaprine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg PO TID: PRN muscle spasm",
+            "treatment_response": "No specific response mentioned."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Docusate Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO BID",
+            "treatment_response": "No specific response mentioned."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Albuterol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.083% Neb Soln 1 NEB IH Q6H: PRN wheeze",
+            "treatment_response": "No specific response mentioned."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Fluoxetine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg PO DAILY",
+            "treatment_response": "No specific response mentioned."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Fluticasone Propionate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "110mcg 2 PUFF IH BID",
+            "treatment_response": "No specific response mentioned."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ipratropium Bromide Neb",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 NEB IH Q6H: PRN wheeze",
+            "treatment_response": "No specific response mentioned."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Montelukast Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg PO DAILY",
+            "treatment_response": "No specific response mentioned."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lidocaine Patch",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5% patch TD DAILY",
+            "treatment_response": "No specific response mentioned."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted after motor vehicle accident."
+        },
+        {
+            "date": "Not specified",
+            "event": "Initial pain medications given through IV, which caused nausea."
+        },
+        {
+            "date": "Not specified",
+            "event": "Switched to oral pain medications, tolerated well and nausea improved."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged home with a prescription for pain medicine."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home, mental status clear and coherent.",
+        "follow_up_details": "Information provided for appropriate follow up by the social worker.",
+        "complications": "No complications.",
+        "long_term_prognosis": "It is normal to feel some discomfort/pain following rib fractures.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient tolerated food and water well, safe to go home.",
+        "patient_perspective": "Patient experienced discomfort following treatment but received care as needed."
+    }
+}

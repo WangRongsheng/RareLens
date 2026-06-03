@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "shortness of breath",
+        "history_of_present_illness": "1 year old female with OSA, OHV, severe Pulmonary Hypertension, Cor Pulmonale, asthma, diastolic heart failure presents with 8lb weight gain over last week, increasing dyspnea on exertion concerning for heart failure exacerbation. Patient was recently admitted for hypercarbic respiratory failure requiring mechanical ventilation and tracheostomy placement. She notes gaining ~8lbs. Patient was seen in HCA and given concern for hypoxia, decision made to directly admit for IV diuresis.",
+        "past_medical_history": "1. Morbid obesity (s/p gastric bypass) 2. Obstructive sleep apnea 3. Obesity hypoventilation syndrome 4. Severe pulmonary artery hypertension attributed to OSA 5. Cor pulmonale attributed to severe pulmonary hypertension 6. Asthma 7. Osteoarthritis (bilateral knees) 8. Diastolic heart failure (2D-Echo showing LVEF 70-80%, PAP 64 mmHg) 9. Chronic kidney disease (stage III-IV, baseline creatinine 1.8-2.2) 10. Rosacea 11. Hypertension 12. Iron deficiency anemia",
+        "family_history": "Notable for diabetes mellitus in her mother and sister. Mom had breast cancer, no history of CAD. Hypertension in siblings, mother and throughout the maternal family as well as kidney disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 98.1 ___ 20 ___ on 2L. General: Alert, oriented, no acute distress. Ext: 3+ edema bilaterally to sacrum.",
+        "specialty_examination": "Lungs: Prominent crackles bilaterally, prominent upper airway sounds. CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops. Neuro: AOx3, no focal deficits appreciated."
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "basic_information": {
+        "age": "3 days",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "53.3 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Mixed (Caucasian, African American, and Hispanic)",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Multiple anomalies and dysmorphic features, including cleft palate, flat midface, hypertelorism, creases under the eyes, a small nose with anteverted nares, arachnodactyly of fingers and toes, laterally deviated great toes, and mild pectus carinatum",
+        "history_of_present_illness": "Born via Cesarean section at 35 weeks 5 days gestational age. Pregnancy was complicated by polyhydramnios starting at 21 weeks GA. At 22 weeks 3 days GA, an intracardiac echogenic focus and nuchal thickening were noted. At 23 weeks 1 day GA, left clubfoot was noted. At birth, APGAR scores were 8 and 8 at 1 and 5 min, respectively, but around 5 min, she developed respiratory distress requiring CPAP and admission to the NICU. She remained in the NICU for 6 weeks due to respiratory issues and slowing feeding.",
+        "past_medical_history": "Normal karyotype (46, XX). Head ultrasound performed 2 days after birth showed mild prominence of the lateral ventricles and no evidence of hemorrhage. Brain MRI performed at 5 weeks of age was overall normal. At 9 weeks of age, she was evaluated for bilateral wrist contractures.",
+        "family_history": "Significant for a brother and father with similar physical features. Her 17-month-old brother previously presented at 1 day of life with a long neck, excess nuchal skin, large hands and feet with long fingers and toes, and pectus excavatum. He also had a flat midface and a saddle nose. The father had similar features including long fingers and toes, pectus excavatum, and laterally deviated great toes. He also had anteverted nares and mild hypertelorism.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Respiratory distress requiring CPAP and admission to the NICU. Multiple anomalies and dysmorphic features, including cleft palate, flat midface, hypertelorism, creases under the eyes, a small nose with anteverted nares, arachnodactyly of fingers and toes, laterally deviated great toes, and mild pectus carinatum. Failed newborn hearing examination in both ears.",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Karyotype",
+            "date": "At birth",
+            "findings": "Normal (46, XX)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postnatal chromosome microarray analysis",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole-exome sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Heterozygous pathogenic variant, p.Glu227Lys (c.679G>A), in the FLNB gene in patient 1, patient 2, and patient 3. The mother was negative for this variant.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Head ultrasound",
+            "date": "2 days after birth",
+            "findings": "Mild prominence of the lateral ventricles and no evidence of hemorrhage",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "5 weeks of age",
+            "findings": "Overall normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "22 weeks 3 days GA",
+            "findings": "Intracardiac echogenic focus and nuchal thickening",
+            "changes_over_time": "Resolved by 23 weeks 1 day GA"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "23 weeks 1 day GA",
+            "findings": "Intracardiac echogenic focus and nuchal thickening had resolved but noted a left clubfoot",
+            "changes_over_time": "Not consistent with left clubfoot at 28 weeks 6 days GA"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "28 weeks 6 days GA",
+            "findings": "Not consistent with left clubfoot",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Newborn hearing examination",
+            "date": "At birth",
+            "findings": "Failed in both ears",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Evaluation for bilateral wrist contractures",
+            "date": "9 weeks of age",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

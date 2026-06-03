@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Chest Tube Placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Decreased breath sounds at the bases bilaterally; right greater than left."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Chest tube placed to drain fluid in lungs."
+        },
+        {
+            "date": "Not specified",
+            "event": "IVC filter placed due to bilateral subsegmental PE."
+        },
+        {
+            "date": "Not specified",
+            "event": "Treat for enterobacter UTI, discharged on Cipro."
+        },
+        {
+            "date": "Not specified",
+            "event": "Repeat echocardiograms showed pericardial effusion stable in size."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent.",
+        "follow_up_details": "Follow up appointments made for the patient.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Mental Status: Clear and coherent.",
+        "patient_perspective": "Not specified"
+    }
+}

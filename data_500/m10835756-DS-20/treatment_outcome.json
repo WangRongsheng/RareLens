@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Right craniotomy for tumor resection",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Expected postsurgical changes including mild right periorbital edema"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient experienced a first time seizure and was referred to neurosurgery for evaluation and treatment"
+        },
+        {
+            "date": "Not specified",
+            "event": "Right craniotomy for tumor resection performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home with service facility"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental status clear and coherent. Level of consciousness alert and interactive. Ambulatory - independent.",
+        "follow_up_details": "Not specified",
+        "complications": "Vasogenic edema noted",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

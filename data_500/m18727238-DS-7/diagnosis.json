@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Neutropenic Fevers, Pancytopenia",
+        "differential_diagnosis": "Acute Myelogenous Leukemia",
+        "diagnostic_reasoning": "The patient was admitted with a presentation of fever and low white blood cell counts (neutropenia), consistent with febrile neutropenia due to chemotherapy effects from recent treatment for Acute Myelogenous Leukemia (AML). The patient's ongoing low blood counts, resulting in pancytopenia, were confirmed by laboratory results, and IV antibiotics were administered during the hospitalization until recovery of the white blood cell count."
+    }
+}

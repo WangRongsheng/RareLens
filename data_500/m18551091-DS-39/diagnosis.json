@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Aortic stenosis",
+        "differential_diagnosis": "COPD exacerbation, Anemia, Diastolic heart failure, Atrial fibrillation, Constipation, Acute kidney injury",
+        "diagnostic_reasoning": "The patient presented with bilateral lower extremity erythema/swelling and worsening shortness of breath over the past 5 days, alongside a significant drop in hematocrit. Physical exam findings revealed diffuse wheezes, prolonged systolic murmur, and echocardiography showed severe aortic stenosis along with other cardiac abnormalities. Elevated BNP and improvements post-diuretic treatment also supported the diagnosis."
+    }
+}

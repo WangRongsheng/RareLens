@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Musculoskeletal chest pain",
+        "differential_diagnosis": "Pneumonia, COPD",
+        "diagnostic_reasoning": "The patient's tests indicated that he was not having a heart attack, leading to the conclusion that the chest pain is most likely musculoskeletal in nature."
+    }
+}

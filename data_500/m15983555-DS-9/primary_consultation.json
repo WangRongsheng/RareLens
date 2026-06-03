@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "shortness of breath",
+        "history_of_present_illness": "Dyspnea on exertion began about a week ago, prior to this, he says he was able to climb stairs without any problems. He also complains of lower extremity edema (R>L), increasing abdominal girth. He denies any orthopnea but endorses paroxysmal nocturnal dyspnea once a night. He is complaining of wheezing, which is new. His appetite is poor but he denies weight loss. Last dialysis was on an unspecified date. He endorses a chronic cough which is unchanged. He denies any fevers/chills. ER: dopplers negative for DVT.",
+        "past_medical_history": "Small cell lung cancer s/p carboplatin and etoposide. HYPERTENSION, ESSENTIAL; PNEUMONIA, ORGANISM UNSPECIFIED; OBESITY; NEPHROLITHIASIS; LUNG DISEASE, CHRONIC OBSTRUCTIVE; OSTEOARTHRITIS; SPONDYLOSIS, CERVICAL; PERIPHERAL VASCULAR DISEASE; OSTEOMYELITIS; HYPERCHOLESTEROLEMIA; ANEMIA; POLYCYSTIC KIDNEY DISEASE, UNSPEC; HEARING LOSS; GOUT; RENAL FAILURE, CHRONIC, UNSPEC; TOBACCO DEPENDENCE; Low tension glaucoma; One eye: severe vision impairment; Better eye: moderate vision impairment.",
+        "family_history": "Father prostate cancer, mother unspecified disease and dementia, both parents died of myocardial infarction. Patient is unaware of other family history as he said he was not close and they did not talk about medical issues.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission vitals: T 96.2, BP 118/71, HR 109, O2 Sat 96% on 2L O2 via nasal cannula. Alert and oriented, weak appearing. Distant heart sounds.",
+        "specialty_examination": "Cranial nerves grossly intact. Lungs: fair respiratory movement, expiratory wheezes, some diminished breath sounds in lower right lung field, mild diffuse crackles. Abdomen: soft, non-tender, mildly protuberant, mass palpated in left abdomen (likely enlarged kidney), bowel sounds present. Extremities: R>L 2+ pitting edema."
+    }
+}

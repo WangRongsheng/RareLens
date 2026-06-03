@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "58",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "loss of balance, diplopia, and blurred vision that increased with head movement",
+        "history_of_present_illness": "2-year history of symptoms, no falls, able to walk up to 3 miles on a paved trail, gait worsened in the dark, no vertigo, nausea, vomiting, headache, or motion intolerance, symptoms triggered by changing positions such as rising from a sitting position or walking",
+        "past_medical_history": "bilateral, symmetric sensori-neural hearing loss approximately 30 years before, insulin-dependent DM at the age of 34, hypertension, family history of diabetes, one niece who died from complications of MELAS at the age of 15, two siblings have hearing impairment",
+        "family_history": "family history of diabetes, one niece who died from complications of MELAS at the age of 15, two siblings have hearing impairment",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "alert and oriented, static visual acuity was 20/20 in each eye, dynamic visual acuity was significantly impaired (could only read the J16 line with side-to-side head oscillations), pupillary testing and ophthalmoscopy were normal, eye movements were full but there was an esophoria measuring 6 prism diopters in left gaze, visual fixation was steady, saccades, pursuit, and clinical vestibulo-ocular reflex (VOR) in light were intact, up-beating nystagmus on primary and lateral gaze, muscle strength was normal, areflexia in both lower limbs, significant dysmetria on heel-to-shin test, sensory examination demonstrated normal position and vibratory sense and mildly decreased distal pin prick in both feet, unsteady while testing the Romberg sign, could not perform tandem gait or the Fukuda step test",
+        "specialty_examination": "severe sensori-neural hearing loss with thresholds at 80 and 85 dB for the left and right ears, respectively, and a speech discrimination of 60%, video-nystagmography showed normal saccade main sequence, slightly impaired pursuit, and low VOR gain and phase lead for slow chair oscillation and impulsive rotation, and decreased time constant, horizontal and posterior canal gain values were bilaterally decreased, mean horizontal gain was R: 0.31; L: 0.37, mean vertical gain in the plane of the posterior canals was R: 0.58; L: 0.58, anterior canal gain was normal, vestibular evoked myogenic potentials (VEMPs) were bilaterally absent, serum lactate level was slightly elevated at 2.2 mmol/L, nerve conduction studies showed a sensory motor, axonal polyneuropathy that was length dependent, brain MRI showed moderate generalized brain atrophy and small vessel ischemic changes in the supratentorial white matter, muscle biopsy showed few scattered trichrome stained ragged red fibers and several cytochrome oxidase negative and succinate dehydrogenase hyper-reactive fibers, A3243G mutation with 90% heteroplasmy was identified"
+    }
+}

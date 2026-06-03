@@ -1,0 +1,58 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "The girl died at the age of 20 months, affected by pneumonia and acute respiratory distress syndrome.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Despite reduction of ‘big’ seizures, she continued to have 6–30 eye/head deviations per day and later 3–4 focal seizures daily, with transient worsening during intercurrent infections.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "After sodium bromide (up to 80 mg/kg), within 2–3 weeks she had three to six seizures a day with arm jerks and fewer discreet seizures."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "At 4 months, stiripentol was added; after 15 days, seizures with jerks were reduced to one per day."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "unknown",
+            "evidence_excerpt": "She had transient worse episodes during intercurrent infections."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At 6.5 months, levetiracetam was introduced; with this combination she had no seizures with arm jerk or tonic elevation, but 6–30 eye/head deviations per day persisted."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "She was discharged hypotonic and without psychomotor progress at the age of seven months."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Between 12 and 15 months, progressive microcephaly was noted."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "During seizure worsening periods, she received i.v. midazolam, lorazepam, phenobarbitone, and add-on Chloraldurat."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Mechanical ventilation was used when needed, and she was fed by nasogastric tube."
+        },
+        {
+            "event_type": "death",
+            "time_period": "long_term",
+            "evidence_excerpt": "Died at 20 months due to pneumonia and acute respiratory distress syndrome."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The source describes two patients with MMPSI. This summary pertains to Patient 1 because her long-term outcome (death) is clearly documented. The diagnosis (index time) was considered after recognizing migrating ictal discharges approximately one month after admission (~3 months of age). Timing categories are approximated relative to this diagnosis point."
+}

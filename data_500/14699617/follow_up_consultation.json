@@ -1,0 +1,88 @@
+{
+    "basic_information": {
+        "age": "7½",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Moderately severe developmental delay, absence of speech, talipes, congenital dislocation of the hips, premature adrenarche, dysmorphic facial features, deep palmar creases, and signs and symptoms of peripheral neuropathy consistent with Charcot–Marie–Tooth disease type 1A (CMT1A)",
+        "history_of_present_illness": "Hypotonic from birth, sucked poorly, and had talipes. Concerns about her development from 7 months. Sat at the age of 13 months, and walked at the age of 4½ years. She falls frequently, and can walk up stairs without difficulty, but is unable to rise from the floor unaided. She has moderately severe developmental delay, attends a special school, has no speech, but is making progress with a picture exchange communication system. She had a soft tissue release on the right foot at the age of 16 months, and bilateral congenital hip dislocations were diagnosed at the age of 7 years. She has had recurrent croup, constipation, and developed premature adrenarche.",
+        "past_medical_history": "CT scan of the head at the age of 10 months showed excess fluid over the frontal regions. Ophthalmology assessment at the age of 5 years showed hypermetropia, with the right pupil being smaller than the left, and with an alternating squint. Hearing evaluations were normal. Cardiac examination and cultured skin fibroblasts fatty acid oxidation studies at the age of 6 years were normal.",
+        "family_history": "First pregnancy ended in miscarriage at 9 weeks gestation. The second pregnancy resulted in a normal male, who is now 11 years old.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Height was between the 10th–25th centile, weight was at the 10th centile, and head circumference was between the 50th–98th centile. She had dysmorphic facial features, with a small, down-turned mouth, a thin upper lip, and deep palmar creases. She walked with a heel–toe gait, in a slightly crouched position, and had a kyphosis. She was hypotonic, had reasonable strength, elicitable knee, and supinator jerks, but ankle jerks were difficult to elicit. There was a very small leg length discrepancy. There was calf wasting, worse on the right than the left, and her feet were pronated, right worse than the left. She did not have the typical changes of CMT1A in the feet (pes cavus); her feet were in valgus position with collapsed arches (pes planus, as can be seen in ~10% of CMT1A patients), and no clawing of toes. She was able to rise from the floor through a half kneeling position with help.",
+        "specialty_examination": "Sural nerve biopsy at the age of 18 months showed mild loss of myelinated fibres, onion bulb formations, and teased fibres with 40% segmental demyelination, and 15% small tomacula."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Chromosome analysis",
+            "date": "Not specified",
+            "findings": "Partial duplication of one chromosome 17, dicentric structure confirmed by C-banding",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluorescence in situ hybridization (FISH) analysis",
+            "date": "Not specified",
+            "findings": "Duplication of 17p10-p12, including the PMP22 gene, confirmed by multiple probes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microsatellite polymorphism studies",
+            "date": "Not specified",
+            "findings": "Duplicated chromosome is of maternal origin",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sural nerve biopsy",
+            "date": "Age of 18 months",
+            "findings": "Mild loss of myelinated fibres, onion bulb formations, and teased fibres with 40% segmental demyelination, and 15% small tomacula",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultured skin fibroblasts fatty acid oxidation studies",
+            "date": "Age of 6 years",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "20 weeks gestation",
+            "findings": "Excess ventricular fluid",
+            "changes_over_time": "Repeat scan at 26 weeks was normal"
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Age of 10 months",
+            "findings": "Excess fluid over the frontal regions",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Ophthalmology assessment",
+            "date": "Age of 5 years",
+            "findings": "Hypermetropia, with the right pupil being smaller than the left, and with an alternating squint",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hearing evaluations",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac examination",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

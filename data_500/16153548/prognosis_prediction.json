@@ -1,0 +1,109 @@
+{
+    "basic_information": {
+        "age": "17",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Chinese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "drowsiness",
+        "history_of_present_illness": "Frequent pyogenic infections since birth, including oral ulceration, stomatitis, pharyngitis, cutaneous cellulitis, furunculosis, pneumonia, and septicaemia. Chronic periodontitis. Severity of infections ranged from mild to severe, some requiring hospital admission for intravenous antibacterial therapy and drainage of abscesses.",
+        "past_medical_history": "Diagnosed with Kostmann’s syndrome at 4 months of age. Recurrent bacterial infections. Developed myelodysplastic syndrome (MDS) progressing to acute myeloid leukemia.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "CT scan revealed three enhancing nodules in the right occipital lobe with perilesional oedema, in keeping with small abscesses. Abscesses in the chest wall, left gluteal region, right groin, both hamstring muscles, and both vastus lateralis muscles. Patchy consolidation in both lung fields. Moderate hepatosplenomegaly."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Differential blood count",
+            "date": "Not specified",
+            "findings": "Neutrophil count of less than 500×10^3 cells/l (normal: 2–7×10^9/l). Monocytosis and eosinophilia may be evident. Total leukocyte counts are frequently normal because of monocytosis. Lymphocyte production is unaffected. Mild anemia may be present from chronic inflammation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow aspiration",
+            "date": "Not specified",
+            "findings": "Arrest of neutrophil precursor maturation at the promyelocyte or myelocyte level. Later revealed features suggestive of myelodysplastic syndrome (MDS) progressing to acute myeloid leukemia.",
+            "changes_over_time": "Progression from myelodysplastic syndrome to acute myeloid leukemia."
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of the brain",
+            "date": "Not specified",
+            "findings": "Three enhancing nodules in the right occipital lobe with perilesional oedema, in keeping with small abscesses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest wall",
+            "date": "Not specified",
+            "findings": "Abscesses in the chest wall.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the pelvis",
+            "date": "Not specified",
+            "findings": "Abscess in the right iliopsoas and left obturator internus muscles.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the thighs",
+            "date": "Not specified",
+            "findings": "Abscesses in both vastus lateralis muscles.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Patchy consolidation in both lung fields.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the chest",
+            "date": "Not specified",
+            "findings": "Patchy consolidation in both lung fields. Moderate hepatosplenomegaly was present.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Kostmann’s syndrome with malignant transformation into myelodysplastic syndrome (MDS) progressing to acute myeloid leukemia",
+        "diagnostic_reasoning": "The diagnosis was based on the patient's history of severe congenital neutropenia, recurrent bacterial infections since birth, and bone marrow aspiration findings suggestive of myelodysplastic syndrome progressing to acute myeloid leukemia. The patient's clinical presentation included frequent pyogenic infections, abscesses in various parts of the body, and persistent neutropenia. Imaging studies confirmed the presence of abscesses and consolidation in the lungs. The patient was receiving G-CSF therapy, which is indicative of Kostmann’s syndrome."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "recombinant human granulocyte colony-stimulating factor (G-CSF)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 μg/kg/day"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "prophylactic antibacterial therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "prolonged intravenous antibiotic therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "basic_information": {
+        "age": "20",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Chinese",
+        "occupation": "Navy serviceman"
+    },
+    "medical_history": {
+        "chief_complaint": "vesicular rash on both forearms occurring after 2 days of continued sun exposure",
+        "history_of_present_illness": "recurrent vesicular eruptions localized to his nose, cheeks, the rim of his ears, dorsum of hands and forearms related to midday sun exposure of 1-3 h duration each time; itching and a prickly sensation 4-5 h later on the sun-exposed areas, followed by blister formation; healing within 1-2 weeks with scar formation",
+        "past_medical_history": "asthma",
+        "family_history": "negative for atopy, blistering diseases and photosensitivity",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "superficial erosions with crusts on the rim of his ears and the dorsum of his hands; vesicles seen on several occasions on the ears, face, extensor aspects of the forearms, and lips; hypertrophic scars present on his hands, and depressed scars on his face",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "white cell count",
+            "date": "Not specified",
+            "findings": "4.6 x 10^9 L^-1, mild lymphocytosis (53%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "erythrocyte sedimentation rate (ESR)",
+            "date": "Not specified",
+            "findings": "20 mm h^-1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "haemoglobin",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "platelet count",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "urinalysis",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "antinuclear antibody",
+            "date": "Not specified",
+            "findings": "negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "urinary porphyrin",
+            "date": "Not specified",
+            "findings": "negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "culture of blister fluid for herpes simplex virus",
+            "date": "Not specified",
+            "findings": "negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "full blood count",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "antinuclear factor",
+            "date": "Not specified",
+            "findings": "negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "urine porphyrin",
+            "date": "Not specified",
+            "findings": "negative",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [
+        {
+            "procedure_name": "skin biopsy of a vesicle",
+            "date": "Not specified",
+            "findings": "confluent epidermal necrosis, necrosis of vessel walls and microthrombi within the vessels of some upper dermal vessels",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "biopsy of a lip ulcer",
+            "date": "Not specified",
+            "findings": "dense superficial and deep perivascular and periadnexal lymphocytic infiltrate, with occasional eosinophils and neutrophils",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "phototesting",
+            "date": "Not specified",
+            "findings": "normal, with minimal erythema dose (MED) to UVA of 75 J cm^-2 (normal, 88 ± 43) and MED to UVB of 60 mJ cm^-2 (normal, 79 ± 27)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "phototesting with Dermaray for UVB and Mutzhas for UVA",
+            "date": "Not specified",
+            "findings": "decreased MED to UVB (40 mJ cm^-2; normal, 163 ± 50) and decreased MED to UVA (50 mJ cm^-2; normal, 148 ± 32)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "skin biopsy of a papule",
+            "date": "Not specified",
+            "findings": "sharply demarcated area of epidermal necrosis around a follicular opening, with an intraepidermal blister below it, containing serous fluid and a few neutrophils. Superficial and deep perivascular lymphohistiocytic infiltrate was seen, and scar tissue was present in the mid-reticular dermis",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

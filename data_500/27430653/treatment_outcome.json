@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "clonazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "minimal effect on the severity of the myoclonus"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "levetiracetam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "minimal effect on the severity of the myoclonus"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "sodium valproate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "minimal effect on the severity of the myoclonus"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Combination therapy with clonazepam, levetiracetam, and sodium valproate started"
+        },
+        {
+            "date": "Not specified",
+            "event": "Minimal effect on the severity of the myoclonus observed"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "wheelchair-bound and dependent for all the activities of daily living",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

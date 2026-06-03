@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "blood transfusion",
+            "specific_treatment": "blood transfusion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "two blood transfusions",
+            "treatment_response": "Increased blood counts back to their normal range"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Admitted for evaluation and treatment of low blood counts"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered two blood transfusions"
+        },
+        {
+            "date": "Not specified",
+            "event": "EGD performed to check for bleeding ulcers"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive with increased blood counts",
+        "follow_up_details": "Dr. ___ will continue to monitor blood counts after discharge",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

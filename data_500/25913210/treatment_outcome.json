@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "pyridostigmine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "mechanical ventilation",
+            "specific_treatment": "mechanical ventilation",
+            "start_date": "since birth",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "tolerated being off the ventilator for up to 8 hours during the day"
+        },
+        {
+            "treatment_type": "tube-feeding",
+            "specific_treatment": "G-tube feeding",
+            "start_date": "since birth",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "since birth",
+            "event": "mechanical ventilation started"
+        },
+        {
+            "date": "since birth",
+            "event": "G-tube feeding started"
+        },
+        {
+            "date": "Not specified",
+            "event": "pyridostigmine treatment started for possible congenital myasthenia"
+        },
+        {
+            "date": "26 months",
+            "event": "repeat muscle biopsy performed"
+        },
+        {
+            "date": "3 years and 2 months",
+            "event": "patient died"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "deceased",
+        "follow_up_details": "Not specified",
+        "complications": "respiratory insufficiency and dysphagia",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

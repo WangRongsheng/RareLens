@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "CABG x3 (LIMA-LAD, SVG-OM, SVG-PDA)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient is in stable rhythm, with preserved biventricular systolic function post-surgery"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented for outpatient stress test due to chest pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Cardiac catheterization revealed multivessel coronary disease"
+        },
+        {
+            "date": "Not specified",
+            "event": "CABG x3 performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged home with service facility"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and oriented x3, ambulating with steady gait",
+        "follow_up_details": "Follow up appointment with surgeon for driving clearance discussed",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Incisional pain managed with oral analgesia",
+        "patient_perspective": "Not specified"
+    }
+}

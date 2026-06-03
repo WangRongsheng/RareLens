@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Right groin hematoma",
+        "history_of_present_illness": "Patient with history of bleeding uterine fibroids who underwent uterine artery embolization. Concern for pseudoaneurysm of right groin access site, closed by angioseal. Duplex ultrasound showed normal right groin with no pseudoaneurysm. Experienced acute right groin pain and new ecchymosis while walking. Another groin ultrasound showed no hematoma or pseudoaneurysm, but a 1.4cm x 2mm wide blind ending tract from puncture site.",
+        "past_medical_history": "Large liver cyst under expectant management with serial imaging. Treated for cervical cancer, excision of melanoma, and left oophorectomy for suspicious ovarian cyst.",
+        "family_history": "Not compared",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Well NAD, A&Ox3. Vital signs: RRR.",
+        "specialty_examination": "Right groin with mild bruising from femoral puncture site to inferiomedial thigh. Small marble-sized pulsatile mass just cephalad to skin puncture site. Left femoral pulse palpable and less pronounced than right."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "50",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "White",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Pain in his right calf",
+        "history_of_present_illness": "Developed a deep vein thrombosis consequent to surgical placement of a titanium rod to correct a fracture of the femur. Maintained for over a year on daily oral doses of Coumadin 9 mg and aspirin 325 mg. Began to bruise spontaneously with multiple large hematomas appearing without provocation.",
+        "past_medical_history": "Previously healthy, fracture of the right femur corrected by insertion of a titanium rod.",
+        "family_history": "No known family history of DVT or coagulation abnormalities.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "DVT confirmed by Doppler ultrasonography."
+    }
+}

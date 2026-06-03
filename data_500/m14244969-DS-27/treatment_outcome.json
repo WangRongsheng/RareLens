@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "IVC filter placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "IVC filter placement performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Heparin administered without bolus"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on blood thinning medication"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused - always, level of consciousness: lethargic but arousable",
+        "follow_up_details": "Arrangements made for patient to return home with services",
+        "complications": "Confused mental status",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient is out of bed with assistance to chair or wheelchair.",
+        "patient_perspective": "Patient felt most comfortable at home"
+    }
+}

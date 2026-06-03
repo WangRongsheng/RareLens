@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "After removal of the inflamed rectal pouch, remission of cutaneous LABD occurred within 2 months; dapsone was tapered and discontinued, and he remained clear of cutaneous disease for 3 years of follow-up.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Following rectal pouch removal, he achieved remission and remained clear of cutaneous disease for 3 years, indicating no ongoing symptoms.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "For the next 4 years he had frequent flares of papulovesicles that required treatment with dapsone and courses of prednisone."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "On repeat anoscopy the rectal pouch was noted to be severely inflamed. The rectal pouch was removed."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Remission of his cutaneous disease ensued within 2 months after rectal pouch removal; dapsone was tapered off and he remained clear for 3 years."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The source is a case series with six different patients. This summary refers to Case 1 (45-year-old man with LABD and prior colectomy). The exact date of LABD diagnosis is not provided, so the first dermatologic diagnosis was used as the index time. Quality of life was inferred from sustained remission and discontinuation of therapy."
+}

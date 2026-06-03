@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Bilateral skin sparing mastectomies, left sentinel lymph node biopsy, and right axillary lymph node dissection with lymphaticovenous bypass",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient was well appearing, with incisions healing appropriately and no evidence of hematoma"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with symptoms including an enlarged right axillary lymph node and bloody nipple discharge"
+        },
+        {
+            "date": "Not specified",
+            "event": "Performed image-guided core biopsy of the enlarged right axillary lymph node, positive for metastatic carcinoma, likely of mammary origin"
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent bilateral MRI revealing enlarged lymph node in the lower right axilla"
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent second look ultrasound demonstrating a thickened lymph node"
+        },
+        {
+            "date": "Not specified",
+            "event": "Pathology from core biopsy shows metastatic mammary carcinoma"
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent bilateral skin sparing mastectomies, left sentinel lymph node biopsy, and right axillary lymph node dissection"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient is ambulatory and independent post-surgery with clear mental status.",
+        "follow_up_details": "Patient has discharge instructions including care for drains and follow-up appointments.",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient has reported being alert and interactive, indicating stable condition.",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "At the 13th month posttransplantation, she developed respiratory distress syndrome because of bronchiolitis obliterans organizing pneumonia and chronic graft-versus-host disease (GVHD) and died after a period in the ICU.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "functional_status_evidence_excerpt": "Developed respiratory distress syndrome due to BOOP and chronic GVHD, required ICU care, and subsequently died.",
+        "symptom_burden": "persistent_severe",
+        "symptom_burden_evidence_excerpt": "Long-term course complicated by chronic GVHD with bronchiolitis obliterans organizing pneumonia leading to severe respiratory distress and death."
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Successful neutrophil and platelet engraftment achieved at the 12th and 42nd day of reinfusion, respectively; patient was well with no major bleeding events early after transplant."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "At the 13th month posttransplantation, developed bronchiolitis obliterans organizing pneumonia and chronic GVHD."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Developed respiratory distress syndrome in the context of BOOP and chronic GVHD."
+        },
+        {
+            "event_type": "readmission",
+            "time_period": "long_term",
+            "evidence_excerpt": "Died after a period in the ICU, indicating hospitalization in the long-term posttransplant period."
+        },
+        {
+            "event_type": "death",
+            "time_period": "long_term",
+            "evidence_excerpt": "Thereafter death occurred."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "Index time approximated to the HSCT admission in September 2010. Early posttransplant functional status is not explicitly described beyond being 'well'; transfusion frequency is inconsistently reported ('infrequently' earlier vs 'often' in the conclusion). Long-term quality-of-life assessments are inferred from severe respiratory complications and ICU course leading to death."
+}

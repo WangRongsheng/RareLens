@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "high dose IV steroids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Tolerated well; left arm started to improve"
+        },
+        {
+            "treatment_type": "occupational therapy",
+            "specific_treatment": "outpatient occupational therapy evaluation and treatment",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "including adaptive equipment and compensatory strategy training",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "acetaminophen-caff-butalbital",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg-325 mg-40 mg, take by mouth every eight hours as needed for headache",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with left hand and arm weakness"
+        },
+        {
+            "date": "Not specified",
+            "event": "Tests performed including bloodwork, MRI of the brain and spine, and lumbar puncture"
+        },
+        {
+            "date": "Not specified",
+            "event": "Diagnosis of multiple sclerosis confirmed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on high dose IV steroids"
+        },
+        {
+            "date": "Not specified",
+            "event": "Left arm started to improve"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged with instructions for occupational therapy and follow-up"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improving; discharged alert and interactive",
+        "follow_up_details": "Continue treatment with a Multiple Sclerosis specialist",
+        "complications": "No complications",
+        "long_term_prognosis": "Expected continued improvement in arm strength",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "May continue to experience headaches and back pain",
+        "patient_perspective": "Patient's left arm improvement expected post-steroid therapy"
+    }
+}

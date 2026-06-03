@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Older sibling (patient 1) developed hypergonadotropic hypogonadism and gynecomastia in adolescence but ‘responded well to treatment’: gynecomastia and elevated gonadotropins/estradiol regressed with testosterone supplementation; ongoing endocrine follow-up and hormone replacement indicate residual issues.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Regular endocrinological control and continued testosterone supplementation for hypergonadotropic hypogonadism; gynecomastia and hormone abnormalities regressed, but treatment requirement persists.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "After entering adolescence, patient 1 developed gynecomastia and labs from age 14 showed hypergonadotropic hypogonadism with low testosterone."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "The older brother receives testosterone supplementation for completing his puberty (initiation of replacement therapy)."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "He responded well to treatment: gynecomastia and elevated gonadotropic hormone and estradiol levels regressed owing to negative feedback."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "This case report includes two siblings; long-term follow-up details are primarily available for patient 1 (older brother). The reference time approximates the point when ovotesticular tissue was histologically confirmed and management plans (surgical correction, endocrine follow-up) were formulated. Functional status is inferred conservatively from treatment response and lack of reported activity limitations."
+}

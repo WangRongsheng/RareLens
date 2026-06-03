@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Renal Failure",
+        "differential_diagnosis": "Obstructive Uropathy, Hydronephrosis, Hyperkalemia, Urothelial Carcinoma",
+        "diagnostic_reasoning": "The patient's acute renal failure was determined to be due to obstruction caused by a tumor pressing on the kidneys and bladder, leading to hydronephrosis and elevated potassium levels. Two drains were placed to relieve the obstruction, resulting in significant improvement in kidney function and potassium levels."
+    }
+}

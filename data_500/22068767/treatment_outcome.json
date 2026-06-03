@@ -1,0 +1,31 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "Not specified",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Diagnosis of White Sponge Nevus (WSN) after cytology and histopathological analysis"
+        },
+        {
+            "date": "Not specified",
+            "event": "No treatment was instituted; patients are being monitored"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Being monitored",
+        "follow_up_details": "Patients are being monitored",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

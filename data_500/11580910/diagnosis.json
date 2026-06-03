@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Very-long-chain acyl-CoA dehydrogenase (VLCAD) deficiency",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis was confirmed through direct enzyme assays in fibroblasts, which showed deficient VLCAD activity. Additionally, blood acylcarnitine analysis revealed increased concentrations of long-chain acylcarnitines (C16:0, C14:0, and C14:1), consistent with VLCAD deficiency. The clinical presentation varied among patients, including hypertrophic or dilated cardiomyopathy (VLCAD-C), recurrent hypoglycemia (VLCAD-H), and late-onset myopathy with rhabdomyolysis (VLCAD-M). Biochemical differences in the oxidation of unsaturated fatty acids further supported the diagnosis and helped distinguish between the clinical phenotypes."
+    }
+}

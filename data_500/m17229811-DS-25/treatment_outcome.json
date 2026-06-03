@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Clindamycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "300 mg PO Q8H",
+            "treatment_response": "Patient's infection got better."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Enoxaparin Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "60 mg SC Q12H",
+            "treatment_response": "Not specified."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Romiplostim",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "120 mcg SC 1X/WEEK",
+            "treatment_response": "Not specified."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient was treated with antibiotics for cellulitis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved, cellulitis treated.",
+        "follow_up_details": "Patient advised to follow up with outpatient doctors.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Patient's infection got better.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient gained back appetite and weight.",
+        "patient_perspective": "Patient reports feeling ok."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "Severe psychomotor deterioration (loss of language, gait, chewing/swallowing) with seizures; follow‑up noted marked improvement in breathing but \"remaining neurological features unchanged,\" indicating sustained deterioration of core neurologic status.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Ongoing major neurologic deficits with seizures (daily in case 1; monthly in case 2) and marked behavioral impairment; respiratory apneas previously caused cyanosis/fainting, later improved, but neurological features remained unchanged on follow‑up.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Follow‑up of cases 1 and 2 disclosed a marked regression of the respiratory disturbances."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "unknown",
+            "evidence_excerpt": "Seizure onset after regression (e.g., \"Since the age of three she has had daily seizures\"; \"At twelve years of age tonic‑clonic seizures also appeared\")."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "unknown",
+            "evidence_excerpt": "Prolonged wakeful apneas caused cyanosis and were sometimes followed by fainting (\"apneic episodes… facial cyanosis… sometimes followed by fainting\")."
+        }
+    ],
+    "reference_time_used": "unknown",
+    "notes_on_uncertainty": "The record describes three patients rather than a single individual, and the diagnosis date/index time is not specified. Long‑term follow‑up explicitly documents respiratory improvement with unchanged neurological deficits; timing of seizure onset and apneic complications relative to index time is unclear, so these events are marked as unknown time period. Overall outcome is classified as progression due to sustained neurologic deterioration despite partial respiratory improvement."
+}

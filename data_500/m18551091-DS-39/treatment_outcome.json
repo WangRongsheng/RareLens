@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV Lasix",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg",
+            "treatment_response": "Improved dyspnea after transfusion."
+        },
+        {
+            "treatment_type": "transfusion",
+            "specific_treatment": "PRBC (Packed Red Blood Cells)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One unit",
+            "treatment_response": "Improved dyspnea after transfusion."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "IV Lasix 40 mg administered."
+        },
+        {
+            "date": "Not specified",
+            "event": "One unit of PRBC administered."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent, with improved symptoms.",
+        "follow_up_details": "Labs to be drawn for warfarin level on ___, and follow-up with NP at primary care.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Not specified."
+    }
+}

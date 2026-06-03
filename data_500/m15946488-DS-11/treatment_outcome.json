@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "blood transfusion",
+            "specific_treatment": "pRBC transfusion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 units of pRBC during admission",
+            "treatment_response": "Patient's hemoglobin stabilized"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "PPI (Proton Pump Inhibitor)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "PPI bolus and gtt",
+            "treatment_response": "Patient stabilized and did not show additional signs of active hemorrhage"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Endoscopy (EGD)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "EGD showed large fungating, ulcerated circumferential mass",
+            "treatment_response": "Recommended conservative management due to bleeding mass"
+        },
+        {
+            "treatment_type": "consultation",
+            "specific_treatment": "Radiation oncology and surgery",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Consult requested for further management",
+            "treatment_response": "Plan to provide radiation to tumor area"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with hematemesis and anemia"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received 2 units of pRBC during admission"
+        },
+        {
+            "date": "Not specified",
+            "event": "EGD performed, revealing bleeding mass in stomach"
+        },
+        {
+            "date": "Not specified",
+            "event": "Consulted radiation oncology and surgery teams"
+        },
+        {
+            "date": "Not specified",
+            "event": "Planned for radiation therapy"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable and discharged",
+        "follow_up_details": "Will be seen by radiation oncology as an outpatient later this week",
+        "complications": "No complications reported",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient was alert, oriented, and ambulatory independent at discharge",
+        "patient_perspective": "Not specified"
+    }
+}

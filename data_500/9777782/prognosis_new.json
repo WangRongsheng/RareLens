@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Treatment with topical isotretinoin cleaned the lesions in 3 months, but they recurred when treatment ended. Therefore we initiated a maintenance dose applied twice weekly.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Lesions described as asymptomatic and chronic; no pruritus or pain reported.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Treatment with topical isotretinoin cleaned the lesions in 3 months."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Lesions recurred when treatment ended."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Therefore we initiated a maintenance dose applied twice weekly."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Long-term follow-up duration after starting maintenance therapy is not provided. The statement that lesions are asymptomatic is presented in general disease context; patient-specific symptom details are not explicitly documented, but no symptoms were reported in the case narrative."
+}

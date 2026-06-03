@@ -1,0 +1,13 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "After WSN was diagnosed no treatment was instituted and the patients are being monitored; the lesions were described as asymptomatic.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "functional_status_evidence_excerpt": "Lesions were asymptomatic and no systemic changes were reported; no treatment was required, suggesting no functional impairment in daily activities.",
+        "symptom_burden": "none",
+        "symptom_burden_evidence_excerpt": "Patients presented with asymptomatic rough, diffuse white patches; absence of pain noted."
+    },
+    "timeline_events": [],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The case report does not provide documented follow-up outcomes beyond noting that no treatment was initiated and the patients were monitored. Long-term classifications are inferred from the asymptomatic presentation and observation-only management rather than explicit longitudinal data."
+}

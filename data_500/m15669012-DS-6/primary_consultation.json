@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Left sided weakness",
+        "history_of_present_illness": "Patient presented with headache, left sided weakness, and slurred speech. Developed severe headache between his eyes while golfing, non-throbbing, causing light sensitivity and blurry vision in the right eye. Became disoriented 10 minutes after headache onset. Initial exam showed gaze preference to right, left facial droop, left neglect, and dense left hemiparesis. Negative head CT, received tPA. Workup showed right ICA high resistance and acute infarct in right ACA and MCA territories.",
+        "past_medical_history": "Hypertension, hyperlipidemia, recent foot surgery for bone spur.",
+        "family_history": "Mother had migraines and myocardial infarction at age Not specified; father had blood clots post-knee surgery.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: afeb, P: 65, R: 16, BP: 138/87, SaO2: 95/RA. General: Awake, cooperative, NAD.",
+        "specialty_examination": "Neurological: Alert, oriented x 3, mildly dysarthric speech, left lower facial weakness, left hemiplegia, intact light touch and pain sensation, DTRs: L 2 with clonus, R 2. Motor: L 0 throughout, R 5. Cranial Nerves: PERRL 3 to 2mm, brisk. Gaze preference to right but can cross midline."
+    }
+}

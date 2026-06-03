@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "15",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Pakistani",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "balance difficulties in infancy",
+        "history_of_present_illness": "prominent myoclonus and cerebellar ataxia, generalized myoclonus, action induced, and stimulus-sensitive, cerebellar signs included nystagmus, dysmetria, and tremor, profound visual loss, rod cone dysfunction, exotropia, difficulty initiating saccades, mild spasticity, and axonal sensory-motor neuropathy leading to trophic changes, developed scoliosis, wheelchair-bound and dependent for all the activities of daily living",
+        "past_medical_history": "Not specified",
+        "family_history": "consanguineous parents, 20-year-old brother similarly though more mildly affected",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "gaze-evoked nystagmus, difficulties initiating saccades, generalized myoclonus, stimulus-sensitive (tactile, acoustic), cerebellar ataxia, spasticity, distal reflex loss"
+    }
+}

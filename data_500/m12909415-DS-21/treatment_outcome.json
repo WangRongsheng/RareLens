@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV Unasyn",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient's condition improved; feeling better on discharge."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "dexamethasone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient's condition improved; feeling better on discharge."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "racemic epinephrine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient's condition improved; feeling better on discharge."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Amoxicillin-Clavulanic Acid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "875 mg-125 mg, 1 tablet by mouth twice a day for 9 days",
+            "treatment_response": "Patient's condition improved; feeling better on discharge."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Methylprednisolone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "12 mg PO DAILY for 1 Dose, followed by 8 mg and then 4 mg, each for 1 Dose",
+            "treatment_response": "Patient's condition improved; feeling better on discharge."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with throat pain, difficulty breathing, and had severe tonsillar hypertrophy."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received IV Unasyn, dexamethasone, and racemic epinephrine."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications provided including Amoxicillin-Clavulanic Acid and tapering doses of Methylprednisolone."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was discharged in stable condition with improved symptoms."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved; medically stable for discharge.",
+        "follow_up_details": "Follow up with PCP in 1 week, ENT for severe OSA, and repeat chest X-ray in a few weeks.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient felt better and was medically stable for discharge."
+    }
+}

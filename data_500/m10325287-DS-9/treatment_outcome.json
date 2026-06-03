@@ -1,0 +1,111 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "IABP placement and removal",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Successful IABP placement"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "diuretics (Lasix)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg IV Lasix",
+            "treatment_response": "Diuresed for pulmonary edema"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "antibiotics (Levoquin)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg IV Levoquin",
+            "treatment_response": "Remained afebrile"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Kayexalate, Insulin, Calcium gluconate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Clopidogrel",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "600 mg loaded, then 75 mg daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Heparin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Continuous infusion",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Nitroglycerin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Gtt continued after re-initiation",
+            "treatment_response": "Rapid resolution of symptoms"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with chest pain and dyspnea"
+        },
+        {
+            "date": "Not specified",
+            "event": "Initial EKG showed Q waves and STD"
+        },
+        {
+            "date": "Not specified",
+            "event": "Troponin-I levels were elevated"
+        },
+        {
+            "date": "Not specified",
+            "event": "Diuresed with 40 mg IV Lasix"
+        },
+        {
+            "date": "Not specified",
+            "event": "500 mg IV Levoquin administered for UTI"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient loaded with 600 mg clopidogrel"
+        },
+        {
+            "date": "Not specified",
+            "event": "Heparin began for anticoagulation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Nitroglycerin gtt was restarted"
+        },
+        {
+            "date": "Not specified",
+            "event": "IABP was placed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Successful cardiac catheterization and stenting of LMCA"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "stable, ambulating",
+        "follow_up_details": "Follow-up with Urology for foley catheter",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient required assistance and monitoring",
+        "patient_perspective": "Expressed satisfaction with care received during hospital stay"
+    }
+}

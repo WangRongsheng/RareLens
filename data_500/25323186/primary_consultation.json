@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "3",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Progressive lumbosacral scoliosis associated with a significant tilt of the lumbosacral/sacroiliac complex and neurogenic right side club foot",
+        "history_of_present_illness": "Short trunk dwarfism associated with congenital lumbar scoliosis, and myelomeningocele were the prominent clinical features. Anteroposterior (AP) radiograph showed extensive malsegmenation of the entire spine associated with congenital scoliosis and dislocation of the right hip",
+        "past_medical_history": "Hemimyelomeningocele (HMM) was diagnosed, and a lumbar lipoma was recognized via magnetic resonance imaging (MRI) intradural lipoma",
+        "family_history": "Verbral malsegmenation in the father and her cousin (paternal side)",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Short trunk dwarfism (−4 SD). No peculiar craniofacial dysmorphic features were encountered. Her hands were normal, but nevertheless, short trunk dwarfism was the most prominent feature. Significant spinal malformations complex were noted. Hearing, vision and intelligence were normal",
+        "specialty_examination": "Neurological examination was normal. Neurogenic right side club foot. Dislocation of the right hip. Extensive malsegmenation of the entire spine ranging between butterfly vertebrae to hemivertebrae associated with neurocentral synchondrosis of the entire cervical spine"
+    }
+}

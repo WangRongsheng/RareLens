@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "growth hormone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "good response"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "tonsillectomy and adenoidectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "removal of pilomatrixoma",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "therapy",
+            "specific_treatment": "physical, occupational, and speech therapy",
+            "start_date": "2 years of age",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "improved"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "birth",
+            "event": "hospitalized in the NICU for 2 weeks due to feeding difficulties"
+        },
+        {
+            "date": "2 years of age",
+            "event": "started physical, occupational, and speech therapy"
+        },
+        {
+            "date": "8 years of age",
+            "event": "growth noted to plateau and crossed from the 50th–8th centile within 1 year"
+        },
+        {
+            "date": "Not specified",
+            "event": "prescribed growth hormone with good response"
+        },
+        {
+            "date": "Not specified",
+            "event": "underwent tonsillectomy and adenoidectomy"
+        },
+        {
+            "date": "Not specified",
+            "event": "had one pilomatrixoma surgically removed from the upper arm"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "mild cognitive impairment, low-average intelligence",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

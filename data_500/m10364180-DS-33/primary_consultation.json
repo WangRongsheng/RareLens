@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "53.1 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "dyspnea",
+        "history_of_present_illness": "This is a ___ with COPD on 3L home O2, dCHF, recently discharged on ___ for exacerbations of both issues presents with progressive dyspnea and orthopnea. Ms. ___ came in to her PCP's office for scheduled follow up after admission earlier this month with the latest in a series of flares of advanced COPD. She was discharged ___, has had slow decline in respiratory status, more rapid over last few days. She has had to sleep sitting up last three nights with O2 sats in mid-80s, as low as 79% at home. Minimal cough and volume /weight low with minimal edema. No fever. Has been on daily azithromycin. No prednisone. Her last dose of prednisone was on ___. She does endorse having a runny nose. She denies being around sick contacts. She feels poorly and is anxious about her worsening respiratory status. In the ED initial vitals were: 97.6 76 177/55 20 93% 4L. Labs were significant for BNP of 27342 and creatinine of 1.8. CXR revealed pulmonary edema and LENIs did not reveal a DVT. Patient was given methylpred 60mg, ipratropium, albuterol, 40mg Iv lasix, azithro 500mg, hydral 50mg PO and Isosorbide idintrate. Vitals prior to transfer were: 97.5 78 138/58 24 91%.",
+        "past_medical_history": "COPD; spirometry in ___: FVC 1.53L (71%), FEV1 0.87L (52%), FEV1/FVC 57 (74%); Asthma - peak flows 340 at best; dCHF (dry weight likely 56 kg [124 lbs], more recently 109lbs); CKD Stage III; Hypertension; Hyponatremia; Vitamin B12 deficiency; Gastritis; h/o abnormal LFTs; Chronic abdominal pain; Alcohol use; Ischemic colitis in ___ and ___.; Colon polyps; Low back pain; Agoraphobia; s/p tonsillectomy.",
+        "family_history": "Mother with congenital heart disease, HTN, deceased age ___.; Sister with ovarian ca.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "ADMISSION PHYSICAL EXAM: Vitals - T: 98 BP: 160/52 HR: 86 RR: 20 02 sat: 86 on 3L NC. GENERAL: Sitting up hunched over. Breathing with accessory muscles.",
+        "specialty_examination": "HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, MMM. NECK: nontender supple neck, no LAD, no JVD. CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs. LUNG: Diffuse scattered bilateral expiratory wheeze. ABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly. EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 extremities with purpose. PULSES: 2+ DP pulses bilaterally. NEURO: CN II-XII intact. SKIN: warm and well perfused, no excoriations or lesions, no rashes."
+    }
+}

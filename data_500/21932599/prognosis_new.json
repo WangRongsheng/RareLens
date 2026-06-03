@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "At last review at 8 months, plasma sodium was normal (137 mmol/L) and weight gain was established, but weight remained <3rd centile and salt supplements were still required; eczema persisted.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "At 8 months, plasma sodium was normal on continued sodium chloride supplements; diffuse dry eczematous skin persisted though somewhat improved.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Within a week of treatment, plasma sodium normalised and sodium was detected in the urine."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "She was discharged home at 3 months of age on sodium chloride supplements with an established weight gain."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At last review at 8 months of age, plasma sodium was normal (137 mmol/L)."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The exact date of definitive diagnosis is not explicitly documented; the start of sodium chloride supplements at 10 weeks was used as the proxy index (diagnosis/treatment plan). Follow-up is limited to 8 months, so long-term beyond 12 months is not available. Functional status in an infant is inferred conservatively from growth and clinical management rather than explicit developmental assessments."
+}

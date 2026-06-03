@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "FOLFOX with desensitization",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient had a syncopal event and ongoing pain; chemotherapy regimen continues with adjustments"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for chemotherapy desensitization"
+        },
+        {
+            "date": "Not specified",
+            "event": "Chemotherapy started with FOLFOX regimen"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient experienced a syncopal event"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient monitored, given IVF overnight"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged from hospital after observation"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent, mental status clear and coherent",
+        "follow_up_details": "Patient to go to clinic appointment for chemotherapy",
+        "complications": "Patient had syncopal event and abdominal pain",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient had difficulty with mobility and required help around the house",
+        "patient_perspective": "No subjective perspective provided"
+    }
+}

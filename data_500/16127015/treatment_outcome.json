@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "intravenous methylprednisolone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 g every day for 3 days, followed by 20 mg i.v. methylprednisolone three times a day for a week, followed by prednisone 20 mg three times a day",
+            "treatment_response": "No improvement in excruciating pain"
+        },
+        {
+            "treatment_type": "immunotherapy",
+            "specific_treatment": "intravenous immunoglobulin (IVIg) Omr-IgG-am",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 g/kg body weight given for 2 days",
+            "treatment_response": "Drastic response noticed with significant decrease in excruciating pain. Gradual improvement in depression, agitation, and confusion"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "hydroxychloroquine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient in good health for 3 years since IVIg therapy"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "cyclophosphamide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Stopped after patient was in remission"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "3-day course of intravenous methylprednisolone started"
+        },
+        {
+            "date": "Not specified",
+            "event": "High-dose IVIg Omr-IgG-am administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Drastic response noticed with significant decrease in excruciating pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient went back to school and continued treatment with low-dose prednisone, hydroxychloroquine, and cyclophosphamide"
+        },
+        {
+            "date": "Not specified",
+            "event": "Cyclophosphamide and prednisone stopped"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Good health",
+        "follow_up_details": "Patient has been in good health for 3 years since IVIg therapy",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Gradual improvement over time",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

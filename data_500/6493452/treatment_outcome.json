@@ -1,0 +1,31 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Valproate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "600 mg/daily (plasma levels 74.3-81.7 µg/ml)",
+            "treatment_response": "Unsuccessful"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Treatment with Valproate started"
+        },
+        {
+            "date": "Not specified",
+            "event": "Treatment with Valproate ended due to lack of success"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Severe neuropsychological impairment with loss of verbal and gestural language, total withdrawal from the environment, stereotyped rubbing movements of the hands, gait disturbances, impaired chewing and swallowing, dystonic posturing, and a slight pyramidal syndrome",
+        "follow_up_details": "Not specified",
+        "complications": "Prolonged apneas causing labial cyanosis and sometimes loss of consciousness",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

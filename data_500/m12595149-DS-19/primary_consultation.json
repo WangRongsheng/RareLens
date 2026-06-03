@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "55 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "headache, hypertension",
+        "history_of_present_illness": "Former smoker with HTN, thyroid nodule, and anxiety presents with headache. She came to the emergency room because she had a headache and thought her BP must be elevated. She does not have a history of headaches and the last time she had a headache, her BP was elevated so she felt it must be the case this time. Denies vision changes, lightheadedness or chest pain. No numbness/tingling except for some stiff/tingling left fingers this afternoon after waking from a nap, but it quickly resolved. In the ED, initial vitals were remarkable for SaO2 of 90% RA. Pt denies SOB. HA resolved with sublingual nitroglycerin given by EMS. HTN treated in ED with a total of 15mg lopressor IV. Ambulatory SaO2 was 90% RA. CXR showed new large R pleural effusion, with possible air bronchograms. Pt given levofloxacin and admitted for workup of new pleural effusion.",
+        "past_medical_history": "Thyroid nodule, anxiety, type 2 diabetes, hyperlipidemia, hypertension, right subclavian stenosis, chronic kidney disease, bilateral less than 40% ICA stenosis.",
+        "family_history": "non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Afebrile BP: 190/92 (R arm), 240/100 (L arm) P: 72 O2: 94% 2L (90% RA). General: Pleasant, alert, oriented, appears anxious. CV: RRR, normal S1 + S2, systolic murmur at RUSB and LUSB, no rubs or gallops.",
+        "specialty_examination": "Neurological: CN II-XII intact, able to follow simple commands, no dysarthria. CV: Bronchial breath sounds on R, basilar rales on L, dullness to percussion, trace nonpitting edema of L leg."
+    }
+}

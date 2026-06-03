@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "At 2, 7, 9, and 18 months after ileal tumor resection, there was remission of Cushing’s syndrome and diabetes, improved fitness and mood, with residual obesity and hypercholesterolemia; antihypertensive therapy was reduced (two of four medications discontinued).",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Long-term follow-up showed remission of hypercortisolism and diabetes; however, he still suffered from obesity and hypercholesterolemia.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "At 2 months post-surgery, dexamethasone suppression was normal, with remission of Cushing’s syndrome and no evidence of diabetes."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Ga-68 DOTATOC PET at 5 months post-surgery showed no pathologic uptake."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "By 18 months, physical fitness and mood had improved considerably, and two of four antihypertensive medications were discontinued."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 18 months post-surgery, continued remission of Cushing’s syndrome and no diabetes were documented; bone densitometry was normal."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The definitive diagnosis/localization of the primary ileal ACTH-secreting tumor was established in December 2007 prior to resection and used as the reference. Follow-up is reported up to 18 months; outcomes beyond that are not available. Functional status is inferred from narrative improvement and persistent obesity with partial reduction of antihypertensive therapy."
+}

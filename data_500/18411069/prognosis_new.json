@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "Patient 4: By 7 years of age he has poor muscle strength and minimal dystonia and is mostly wheelchair bound ... intermittent dystonic posturing noted at 2 years and 2 months; minimal progression on imaging but persistent functional impairment.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Ongoing significant motor impairment (mostly wheelchair bound) and dystonia; prior neuropsychological assessment showed severe expressive language impairment and articulation difficulties.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At ~6 months: on medical review 1 month after a febrile illness at 5 months, he was noted to have truncal hypotonia."
+        },
+        {
+            "event_type": "readmission",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Hospital admission at 9 months with acute gastroenteritis."
+        },
+        {
+            "event_type": "readmission",
+            "time_period": "long_term",
+            "evidence_excerpt": "Hospital admission at 2 years and 2 months with acute gastroenteritis; he was moderately dehydrated."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "During the 2 years and 2 months admission he was noted to have intermittent dystonic posturing."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "By 7 years of age he has poor muscle strength and minimal dystonia and is mostly wheelchair bound."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Intense physiotherapy has improved his strength and he recently started cruising."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The source summarizes multiple patients with GA I. This extraction focuses on Patient 4, who has the most detailed long-term outcome. Exact diagnosis date is not specified but he was managed per the newborn screening cohort, so diagnosis_date was used as the index. Some outcomes (e.g., developmental delay) may be confounded by a period of neglect; imaging later showed no significant progression, but sustained severe functional limitations persisted."
+}

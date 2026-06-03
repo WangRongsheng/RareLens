@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "biopsy",
+            "specific_treatment": "excision biopsy of right aryepiglottic fold",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "biopsy showed non-specific inflammatory changes only"
+        },
+        {
+            "treatment_type": "speech therapy",
+            "specific_treatment": "speech therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "did not improve the voice"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "direct laryngoscopy performed revealing a small lesion of the right aryepiglottic fold"
+        },
+        {
+            "date": "Not specified",
+            "event": "excision biopsy of right aryepiglottic fold performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "speech therapy initiated"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT scan performed showing a type-2 submucosal PLC"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Not specified",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Treatment of the dysphonia and exertional stridor is expectant",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

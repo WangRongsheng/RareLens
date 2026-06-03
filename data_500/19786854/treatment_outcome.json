@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "immunotherapy",
+            "specific_treatment": "rituximab",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "375 mg/m2 weekly for 4 weeks",
+            "treatment_response": "KD lesions became softer and less nodular; MF lesions flared transiently then exhibited sustained improvement over 1 year"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "corticosteroids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "topical, intralesional, and systemic",
+            "treatment_response": "prompt improvement but recurrence shortly after therapy was discontinued"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with multiple persistent and disfiguring lesions over the trunk"
+        },
+        {
+            "date": "Not specified",
+            "event": "Treatment with topical, intralesional, and systemic corticosteroids initiated"
+        },
+        {
+            "date": "Not specified",
+            "event": "Treatment with rituximab 375 mg/m2 weekly for 4 weeks initiated"
+        },
+        {
+            "date": "3 months after end of treatment",
+            "event": "Follow-up revealed significant improvement of MF lesions"
+        },
+        {
+            "date": "6 months after end of treatment",
+            "event": "Follow-up revealed sustained improvement of MF lesions; KD lesions were softer and less nodular; serum IgE level dropped to 222 IU/L"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "KD lesions persisted but became softer and less nodular; MF lesions exhibited sustained improvement",
+        "follow_up_details": "Follow-up at 3 and 6 months after the end of treatment",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Sustained improvement of MF lesions over a follow-up period of 1 year",
+        "quality_of_life": "Markedly affected due to disfigurement from the lesions",
+        "patient_perspective": "Patient was bothered by the cosmetic disfigurement from the lesions"
+    }
+}

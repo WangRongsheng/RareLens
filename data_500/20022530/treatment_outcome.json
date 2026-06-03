@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "dietary",
+            "specific_treatment": "modified ketogenic diet",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Significant improvement in concentration, fine motor control, decreased fatigability, no dystonic episodes since commencing the diet"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Started on a modified ketogenic diet"
+        },
+        {
+            "date": "Not specified",
+            "event": "Improvements in concentration, fine motor control, and decreased fatigability reported"
+        },
+        {
+            "date": "Not specified",
+            "event": "No dystonic episodes since commencing the diet"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Improved fine and gross motor skills, less ataxic",
+        "patient_perspective": "Parents report improvements in concentration, fine motor control, and decreased fatigability"
+    }
+}

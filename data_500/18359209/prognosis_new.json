@@ -1,0 +1,68 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "After Bloom syndrome diagnosis, she developed multiple chronic conditions and malignancies: early menopause requiring HRT, type 2 diabetes with right-eye blindness, cirrhosis, a basal cell carcinoma excised at 38, and an intramucosal colon carcinoma in a polyp at 39, with ongoing intensive surveillance.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Ongoing issues include a long-standing photosensitive facial rash, diabetes with complications, cirrhosis with fluctuating liver enzymes, and recurrent minor infections (e.g., fungal toenails), indicating persistent but not clearly debilitating symptoms.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "In her mid-twenties she entered an extremely early menopause and started hormone replacement therapy."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "She developed fibroids and underwent total abdominal hysterectomy and bilateral salpingo-oophorectomy at age 35."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "She reported a prolonged recovery period of several years after her hysterectomy."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "In her early thirties, she developed type 2 diabetes mellitus."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "She has lost the sight in her right eye due to diabetic complications."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "She has been diagnosed with cirrhosis of the liver after years of fluctuating liver enzymes."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "At age 38, she developed a basal cell carcinoma on her right upper lip."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "The basal cell carcinoma was treated successfully by excision."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "At age 39, a 10 cm pedunculated sigmoid polyp had a focus of intramucosal carcinoma."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "The 10 cm sigmoid polyp was excised."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Two years prior, six small colon polyps (tubular adenomas with low-grade dysplasia) were removed."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time was set to Bloom syndrome diagnosis (1978) as the clearest definitive diagnosis point; subsequent events are summarized relative to that. Functional status and symptom burden were inferred from documented chronic conditions and complications since explicit activity-based assessments were not provided. The report stops in 2007–2008; later outcomes are unknown."
+}

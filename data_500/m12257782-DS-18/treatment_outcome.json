@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "right foot debridement and right toe amputation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Extensive debridement of the dorsal aspect of the foot; metatarsals spared with visible tendon.",
+            "treatment_response": "Surgical procedure was performed, but further response details not provided."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lantus and sliding scale insulin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15U Lantus and sliding scale as needed for glycemic control.",
+            "treatment_response": "Initiated insulin treatment for DKA with no specific response detailed."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1000 mg IV every 12 hours",
+            "treatment_response": "Response to antibiotic treatment not specified."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "650 mg PO every 6 hours",
+            "treatment_response": "Response to pain management not specified."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with wet gangrene of right toes."
+        },
+        {
+            "date": "Not specified",
+            "event": "Insulin treatment initiated for DKA."
+        },
+        {
+            "date": "Not specified",
+            "event": "First right foot debridement and right toe amputation performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Second debridement and amputation of right toe performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications prescribed."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental status clear and coherent, level of consciousness alert and interactive.",
+        "follow_up_details": "Discharged to an extended care facility; follow-up not explicitly mentioned.",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Ambulatory with assistance, requires walker or cane.",
+        "patient_perspective": "Not specified."
+    }
+}

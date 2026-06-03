@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Weakness",
+        "history_of_present_illness": "Patient with Afib and DM who presents due to weakness causing concern among family and nursing home. The patient did not have any acute complaints. He has dementia and is generally oriented only to himself. In the ED he was noted to be febrile to 101.2 and CXR with subtle LL opacity. He was thus thought to have a pneumonia and given Levofloxacin before being admitted. UA is nitrite neg with only 4WBCs and few bacteria.",
+        "past_medical_history": "Dementia - Alzheimer's, Afib, DM2, Macular Degeneration, Cervical Spondylitis, Cataracts, Hyperlipidemia",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: 98.8°F, BP 128/76, HR 95, RR 16. Neuro: Alert and oriented to person. Does not answer other questions. CN II-XII grossly intact. HEENT: No scleral icterus, oropharynx moist, without exudate. Neck: supple. Lungs: Clear to auscultation bilaterally, no wheeze, no rhonchi, exam difficult as patient not fully cooperative. Cardiovascular: RRR, normal S1/S2, no rubs, SEM heard best at RUSB. Abdomen: Positive bowel sounds, soft, nontender, nondistended, no hepatosplenomegaly. Extremities: warm, well perfused, no edema. Skin without obvious lesions.",
+        "specialty_examination": "Not specified"
+    }
+}

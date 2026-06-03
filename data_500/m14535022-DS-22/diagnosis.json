@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Cerebellar stroke",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with acute onset of vertigo and was found to have a cerebellar infarction on MRI. An echocardiogram did not show a clot that could have caused the stroke, leading to the conclusion that the event was not related to her AGUS (gastroesophageal reflux disease)."
+    }
+}

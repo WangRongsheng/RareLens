@@ -1,0 +1,53 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "After being fitted with bone-conduction hearing aids at 8 months, verbal communication increased; by 19 months she could occasionally drink and eat small amounts orally. However, she continued to have global developmental delay and relied mainly on a gastrostomy tube, with persistent conductive hearing loss and microtia.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Persistent multisystem issues including severe conductive hearing loss with canal atresia, bilateral microtia, partial facial palsy, posterior cleft palate, left choanal stenosis, growth deficiency, and near-total alopecia; cardiac defect required repair.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "At 2 weeks of life a Blalock-Taussig shunt was performed."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "At 1 month of age, a gastrostomy feeding tube was placed for significant growth deficiency."
+        },
+        {
+            "event_type": "readmission",
+            "time_period": "short_term",
+            "evidence_excerpt": "At 6 weeks, she was hospitalized for apneic episodes."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Sleep study showed mixed central and obstructive apnea; left choanal stenosis diagnosed at that time."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "She was fitted with bilateral bone-conduction hearing aids at 8 months of age."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Shortly thereafter increased verbal communication was noted."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Definitive cardiac repair was performed at 15 months of age."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 19 months, she occasionally drank from a cup and ate small amounts of baby foods by mouth, although most of her diet was via gastrostomy."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "The exact date of definitive diagnosis of Johnson–McMillin syndrome is not stated. Admission at birth with congenital anomalies was used as the proxy index time to allow inclusion of subsequent events. Follow-up extends to 19 months; longer-term outcomes beyond this period are not documented."
+}

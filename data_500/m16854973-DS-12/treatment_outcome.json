@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Cardiac catheterization",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No evidence of blockage in coronary arteries; pressures in heart were within normal limits."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Furosemide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO DAILY",
+            "treatment_response": "Switched from Triamterene-HCTZ to Furosemide and spironolactone."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Spironolactone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "12.5 mg PO DAILY",
+            "treatment_response": "Switched from Triamterene-HCTZ to Furosemide and spironolactone."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Cardiac catheterization performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Triamterene-HCTZ switched to Furosemide and spironolactone"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Attend follow-up appointments as instructed.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient's shortness of breath thought to be due to overweight and not taking deep breaths."
+    }
+}

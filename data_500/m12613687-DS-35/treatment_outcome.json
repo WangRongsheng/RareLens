@@ -1,0 +1,99 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Risperidone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Risperidone 3 mg PO QHS and Risperidone 2 mg PO DAILY",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Trazodone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "150 mg PO QHS: PRN insomnia",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Benztropine Mesylate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 mg PO QHS",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1000 mg PO Q8H: PRN pain",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aluminum-Magnesium Hydrox.-Simethicone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15 mL PO Q8H: PRN reflux",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Omeprazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO DAILY",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Docusate Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Simvastatin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO QHS",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Diphenhydramine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "25 mg PO QHS: PRN insomnia",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient evaluated and medication adjusted for worsening psychotic symptoms."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications provided including Risperidone and Trazodone."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged to home."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved from initial state after treatment, discharged home.",
+        "follow_up_details": "Please follow up with all outpatient appointments as listed.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient appeared pleasant, cooperative upon discharge but displayed poor dentition.",
+        "patient_perspective": "Not specified regarding the patient's subjective experience."
+    }
+}

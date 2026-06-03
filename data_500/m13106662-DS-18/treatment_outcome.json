@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Phenytoin Sodium Extended",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "200-300 mg PO BID",
+            "treatment_response": "Patient came in with low seizure drug level; doses were increased."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Divalproex (Extended Release)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO BID",
+            "treatment_response": "Patient came in with low seizure drug level; doses were increased."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient evaluated in ED for left hand numbness and weakness."
+        },
+        {
+            "date": "Not specified",
+            "event": "Basic blood work and CT performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient transferred for further workup."
+        },
+        {
+            "date": "Not specified",
+            "event": "Increased Phenytoin dosage to 250 mg twice daily."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental Status: Clear and coherent. Neurologic Status: Patient ambulates independently.",
+        "follow_up_details": "Patient should follow up with Dr. ___ neurologist in the next ___ weeks.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Ambulatory - Independent.",
+        "patient_perspective": "Not specified"
+    }
+}

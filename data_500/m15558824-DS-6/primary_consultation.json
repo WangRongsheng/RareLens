@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abdominal pain",
+        "history_of_present_illness": "Patient presents to the ED with chronic back pain, hx of microhematuria/recurrent UTIs, with ___ days of crampy, spasmodic R flank/RLQ pain. The pain is always present, but comes in waves. She's never had pain like this before. No nausea/vomiting, no dysuria/urinary symptoms, no change in bowels. She believes she may have had some intermittent chills. No numbness or tingling in her R leg. No hx of trauma. In the ED: - initial vitals: 98.0 84 118/55 24 100% RA - Labs were significant for: Hgb 10.2, WBC 3.9, lipase 148 - Imaging showed - Received IV cipro 400 mg /IV flagyl 500 mg x1, 5 IV morphine x3, ketorolac 30 mg x1, and 1 L NS - Vitals prior to transfer: 98.1 69 117/69 18 99% RA - Exam notable for moderate RLQ TTP without peritoneal signs, (+) R CVAT.",
+        "past_medical_history": "Microscopic hematuria, Cystitis (recurrent infections but mostly negative cultures), Hypertension, Hyperlipidemia, Chronic lower back pain s/p lumbar discectomies, TAH.",
+        "family_history": "No family hx of kidney stones, no family hx of IBD.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "ADMISSION PHYSICAL EXAM: VS: 97.7 123/72 59 18 98% RA. GEN: NAD, sitting in bed, about to eat dinner. ABD: + BS, non-tender on left side, mild suprapubic tenderness, and tenderness on R-side. No hepato-splenomegaly. +CVA tenderness.",
+        "specialty_examination": "NEURO: CN II-XII grossly intact, motor function grossly normal."
+    }
+}

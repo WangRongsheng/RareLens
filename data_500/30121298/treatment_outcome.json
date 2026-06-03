@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "intravenous immunoglobulin (IVIg)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "400 mg/kg monthly",
+            "treatment_response": "Patient is now four years old without apparent growth retardation, infection and autoimmune manifestations."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "TMP-SMX",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Used for prophylaxis."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "inhaled budesonide and salbutamol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Given for recurrent wheezing and bronchiolitis."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient #1 admitted to the hospital with pneumonia and intravenous antibiotics were initiated."
+        },
+        {
+            "date": "Not specified",
+            "event": "Monthly intravenous immunoglobulin (IVIg) therapy and TMP-SMX for prophylaxis were started for patient #1."
+        },
+        {
+            "date": "Not specified",
+            "event": "Skin biopsy performed on patient #1."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient #1 required additional hospitalizations for pneumonia."
+        },
+        {
+            "date": "Not specified",
+            "event": "Inhaled budesonide and salbutamol were given to patient #1 for recurrent wheezing and bronchiolitis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Monthly IVIg therapy and TMP-SMX for prophylaxis were started for patient #2."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient #2 treated for URTI once and suffered from recurrent diarrhea episodes."
+        },
+        {
+            "date": "Not specified",
+            "event": "Granulomatous skin lesions developed in patient #2 when she was six months old."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient #1 is now four years old without apparent growth retardation, infection and autoimmune manifestations. Patient #2 is currently two years old and has apparent growth retardation.",
+        "follow_up_details": "Hematopoietic stem cell transplantation (HSCT) is planned for both patients from their 9/10 matched aunt.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

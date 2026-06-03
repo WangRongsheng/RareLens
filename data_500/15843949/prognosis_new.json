@@ -1,0 +1,29 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Two years after the operation, the patient had a normal gait without pain and range of motion comparable to 4 months post-op, but with slightly reduced internal rotation and persistent secondary dysplasia/partially uneven acetabulum.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "functional_status_evidence_excerpt": "Four months after surgery: normal gait, free mobility with slightly reduced internal rotation. At two years: range of motion comparable to 4 months with normal gait; persistent secondary dysplasia on imaging.",
+        "symptom_burden": "none",
+        "symptom_burden_evidence_excerpt": "Two years after the operation: 'We found a normal gait without any pain.'"
+    },
+    "timeline_events": [
+        {
+            "event_type": "functional_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Four months after the operation, the patient showed normal gait and free mobility of the left hip with only slightly reduced internal rotation."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Two years after the operation, the patient had a normal gait without any pain."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Two years after the operation, hip range of motion was comparable to 4 months post-op and the femoral head remained centrally positioned, although the acetabulum was partially uneven with secondary dysplasia."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The exact date of definitive diagnosis is not stated; the timeline is interpreted relative to pre-operative diagnosis and subsequent surgery. Follow-up described at approximately 4 months and about 22–24 months post-op; long-term structural dysplasia persisted but without pain."
+}

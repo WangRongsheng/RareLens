@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Now at 24 months of age, the child is developmentally normal except sandal gap toe. Table notes at 2 y weight at 3rd %ile and neurodevelopment normal.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Neonatal course was largely uncomplicated; at 24 months development normal except sandal gap toe.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At 34 weeks of gestation vaginal bleeding ensued and labor was induced for suspected abruption."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 24 months of age, the child is developmentally normal except sandal gap toe."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Table 1: tonsillectomy at 2 y of age."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The record describes two cases. This summary pertains to Case 2 (26-year-old primigravida with placental biopsy at 19 weeks showing triploidy and fetal karyotype 46,XY). Long-term data available to 24 months; minor residual issues (sandal gap toe, low weight percentile) are noted but overall development is normal."
+}

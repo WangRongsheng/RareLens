@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chest pain, shortness of breath",
+        "history_of_present_illness": "Mr. ___ is a ___ year old man with a history of coronary artery disease with prior stent to RCA, diabetes mellitus, hyperlipidemia, and hypertension. He was admitted to an OSH after he became lightheaded, flushed, and passed out. There was no evidence of seizure or urinary incontinence. His wife called EMS and he was brought to ___. He stated that he had back pain between his scapula that radiated to his chest. He was hypotensive with systolic blood pressure in the ___ while enroute to the hospital. CT chest demonstrated no evidence of aortic dissection, speculated 9mm nodule to the right upper lobe. CT abdomen revealed no evidence of dissection or acute process. A head CT was negative for evidence of acute process. He also noted leg pain and ultrasound was obtained without evidence of deep vein thrombosis. A cardiac catheterization was significant for multivessel coronary artery disease. He was transferred to ___ for surgical evaluation.",
+        "past_medical_history": "Chronic Obstructive Pulmonary Disease, Coronary Artery Disease, stent to RCA, Diabetes Mellitus Type II, Hyperlipidemia, Hypertension",
+        "family_history": "Father died of aortic aneurysm",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "HR: 55 SB. BP: 154/64. RR: 18. O2 sat: 99% RA. General: Sitting on side of bed in NAD.",
+        "specialty_examination": "Neuro: Grossly intact. Cardiac: RRR, Irregular. Chest: Lungs clear bilaterally. Abdomen: Soft, non-distended, non-tender, bowel sounds +. Extremities: Warm, well-perfused."
+    }
+}

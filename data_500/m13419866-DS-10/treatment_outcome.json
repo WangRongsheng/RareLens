@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "transanal excision of rectal polyp",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient tolerated the procedure well and was stable for discharge."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Surgery performed: transanal excision of rectal polyp."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home after surgical observation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Pathology results to be reviewed at follow-up appointment."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient stable and ambulating independently.",
+        "follow_up_details": "Results from the polyp sent to pathology to be reviewed at follow-up appointment.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient is tolerating a regular diet and has pain controlled with Tylenol.",
+        "patient_perspective": "Not specified."
+    }
+}

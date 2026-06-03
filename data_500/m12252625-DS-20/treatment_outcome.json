@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "intramedullary nail for left subtrochanteric femur fracture",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Improved anatomic alignment following surgery"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the emergency room after a mechanical fall."
+        },
+        {
+            "date": "Not specified",
+            "event": "Full medical evaluation completed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery performed to place intramedullary nail for fracture."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

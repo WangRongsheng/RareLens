@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Right internal jugular tunneled catheter placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15.5 double-lumen dialysis line via the right internal jugular vein",
+            "treatment_response": "Successful placement of the catheter, ready for use"
+        },
+        {
+            "treatment_type": "dialysis",
+            "specific_treatment": "hemodialysis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Initiation of hemodialysis",
+            "treatment_response": "Patient declined hemodialysis initially but accepted later"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient was admitted for initiation of hemodialysis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Placement of right internal jugular tunneled catheter performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Initiation of hemodialysis was accepted by the patient after initially declining"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "stable",
+        "follow_up_details": "Continue to receive dialysis upon return to facility",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient reported not desiring hemodialysis initially"
+    }
+}

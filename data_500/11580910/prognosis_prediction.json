@@ -1,0 +1,116 @@
+{
+    "basic_information": {
+        "age": "24",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Rhabdomyolysis",
+        "history_of_present_illness": "First episode of rhabdomyolysis at age 9 years. Many episodes of myalgia associated with 'red urine' until age 22 years. Severe episode of rhabdomyolysis produced acute renal failure (creatine kinase, CK=540,000 U/l; myoglobin=11,500 ug/l). Secondary carnitine deficiency. No hypoglycemia or cardiac involvement.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Acylcarnitine analysis",
+            "date": "Not specified",
+            "findings": "Increased concentrations of long chain acylcarnitines (C16:0, C14:0, and C14:1). The C14:1 species is the dominant acylcarnitine observed in blood from these patients.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Enzyme assay for VLCAD activity",
+            "date": "Not specified",
+            "findings": "VLCAD deficiency was confirmed in all 16 cell lines utilized in these experiments by direct enzyme assay. Ten of these cell lines were derived from patients with the cardiomyopathic form of the disease. Of the remaining, four had only recurrent hypoglycemia and two had late onset myopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood glucose test",
+            "date": "Not specified",
+            "findings": "Hypoglycemia observed in patients with VLCAD deficiency.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine kinase (CK) test",
+            "date": "Not specified",
+            "findings": "Increased serum CK activities observed in patients with VLCAD deficiency.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum aminotransferases test",
+            "date": "Not specified",
+            "findings": "Increased serum aminotransferases observed in patients with VLCAD deficiency.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood acylcarnitine analysis",
+            "date": "Not specified",
+            "findings": "Consistent with VLCAD deficiency.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Hypertrophic or dilated cardiomyopathy observed in patients with VLCAD deficiency.",
+            "changes_over_time": "Cardiac hypertrophy had disappeared after treatment in some patients."
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Fibroblast incubation with fatty acids",
+            "date": "Not specified",
+            "findings": "Analysis of acylcarnitine intermediates following incubation of intact human cells with fatty acids revealed that the milder clinical phenotypes could be distinguished from the severe cardiomyopathic phenotype.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tandem mass spectrometry analyses",
+            "date": "Not specified",
+            "findings": "Used for quantitation of individual acylcarnitines.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Very-long-chain acyl-CoA dehydrogenase (VLCAD) deficiency",
+        "diagnostic_reasoning": "The diagnosis was confirmed through direct enzyme assays in fibroblasts, which showed deficient VLCAD activity. Additionally, blood acylcarnitine analysis revealed increased concentrations of long-chain acylcarnitines (C16:0, C14:0, and C14:1), consistent with VLCAD deficiency. The clinical presentation varied among patients, including hypertrophic or dilated cardiomyopathy (VLCAD-C), recurrent hypoglycemia (VLCAD-H), and late-onset myopathy with rhabdomyolysis (VLCAD-M). Biochemical differences in the oxidation of unsaturated fatty acids further supported the diagnosis and helped distinguish between the clinical phenotypes."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "L-carnitine supplement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "dietary",
+            "specific_treatment": "fat-restricted diet",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Portagen formula",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Polycose",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

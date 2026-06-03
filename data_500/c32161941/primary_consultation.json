@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "3205g",
+        "height": "Not specified",
+        "BMI": "Not applicable",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Neonatal COVID-19 infection confirmed by pharyngeal swabs tested positive for SARS-CoV-2.",
+        "history_of_present_illness": "The symptoms commenced 36 hours after birth with no symptoms reported at birth. The mother's symptoms began on February 1, 2020, with per vaginal bleeding and lower abdominal pain at 20:00, followed by fever at 22:00. The mother sought medical advice shortly after.",
+        "past_medical_history": "Mother has hypothyroidism for 4 years, a previous termination of pregnancy due to chromosome abnormalities in 2016, and is allergic to penicillin and first-generation cephalosporins.",
+        "family_history": "Not specified.",
+        "social_history": "Lives near the Huanan Seafood Wholesale Market; no known contact with COVID-19 cases in the family."
+    },
+    "physical_examination": {
+        "general_examination": "Infant's temperature is 37.8 °C, pulse: 96 bpm, respiratory rate: 20 breaths per minute, blood pressure: 131/89 mmHg, and blood oxygen saturation is at 99%. The infant appears stable with no signs of respiratory distress or discomfort. Abdominal examination reveals a soft, non-tender abdomen with no palpable masses.",
+        "specialty_examination": "Chest CT shows high-density nodular shadows under the pleura of the right lung, indicating possible pneumonia resulting from COVID-19. Oxygen levels are stable, and no discomfort or signs of systemic infection are reported."
+    }
+}

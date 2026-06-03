@@ -1,0 +1,87 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "hydrocortisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "12.5 mg/m2/day initially, later adjusted to 10 mg/m2/day",
+            "treatment_response": "Improved energy levels, normalized ACTH levels, but experienced several hypoglycemic episodes and seizures during illness"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "dextrose supplementation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15 mg of glucose gel every 15 to 30 minutes as needed to maintain blood glucose levels >60 mg/dL",
+            "treatment_response": "Effective in treating hypoglycemia, no more episodes of hypoglycemia recorded after age 9"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "balloon dilation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed at ages 10 and 14",
+            "treatment_response": "Able to tolerate a soft diet"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "artificial tears",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Used regularly for dry eyes",
+            "treatment_response": "Symptoms stable with no report of corneal ulcerations"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "MigreLief",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Dietary supplement containing magnesium, riboflavin, and puracol (feverfew)",
+            "treatment_response": "Headaches under control"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Age 3",
+            "event": "Initial presentation with altered mental status due to hypoglycemia, diagnosed with primary adrenal insufficiency"
+        },
+        {
+            "date": "Age 3",
+            "event": "Started on maintenance hydrocortisone therapy (12.5 mg/m2/day)"
+        },
+        {
+            "date": "Age 6",
+            "event": "Experienced hypoglycemic episodes leading to seizures during viral illness"
+        },
+        {
+            "date": "Age 7",
+            "event": "No more severe hypoglycemia (<50 mg/dL) occurred, but glucose levels were low (50 to 60 mg/dL) during acute illness"
+        },
+        {
+            "date": "Age 8",
+            "event": "Notable weight gain, concerns for development of metabolic syndrome"
+        },
+        {
+            "date": "Age 9",
+            "event": "Developed severe dysmotility, confirmed by esophagram and manometry study"
+        },
+        {
+            "date": "Age 10",
+            "event": "Required balloon dilation for achalasia"
+        },
+        {
+            "date": "Age 14",
+            "event": "Required balloon dilation again for achalasia"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable with normal puberty development and regular menstrual cycles",
+        "follow_up_details": "Regular monitoring of growth, puberty, and development",
+        "complications": "Hypoglycemic episodes, seizures, weight gain, elevated hemoglobin A1c levels, dysmotility, migraines",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "No more episodes of hypoglycemia recorded after age 9",
+        "quality_of_life": "Able to tolerate a soft diet, headaches under control, mild learning difficulty but able to maintain average grades",
+        "patient_perspective": "Not specified"
+    }
+}

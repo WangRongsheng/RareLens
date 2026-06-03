@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "antibiotics",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Provided for urinary tract infection"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "pain medicines",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Given to help manage rib fractures"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented after a fall"
+        },
+        {
+            "date": "Not specified",
+            "event": "Found to have right rib fractures and hemothorax"
+        },
+        {
+            "date": "Not specified",
+            "event": "Treated with pain medications and antibiotics"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged to an extended care facility"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive but sometimes confused",
+        "follow_up_details": "Keep follow-up appointments as instructed",
+        "complications": "Confusion related to infection and environment",
+        "long_term_prognosis": "Expect improved confusion over time",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient's confusion expected to improve with time"
+    }
+}

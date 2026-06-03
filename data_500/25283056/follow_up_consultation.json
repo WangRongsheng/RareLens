@@ -1,0 +1,141 @@
+{
+    "basic_information": {
+        "age": "7 months",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "eczema and wheezing",
+        "history_of_present_illness": "First admitted at 5 months with coughing and wheezing, treated with inhaler bronchodilator and steroid therapy. At 6 months, severe allergic reaction to cow’s milk. Hospitalized at 7 months with pneumonia and bronchial hyper-reactivity. Laboratory results showed leukocytosis and positive anti-CMV IgM antibody.",
+        "past_medical_history": "First pregnancy resulted in abortion. First child died at 4 years with atopic dermatitis and chronic diarrhea. Present case had severe allergic reaction with cow’s milk.",
+        "family_history": "Parents are first degree cousins. First child died with atopic dermatitis and chronic diarrhea.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Silvery-gray hair and eyebrow and eyelashes, eczema. Development was normal. Neurological examination was unremarkable. Microscopic examination of hair shafts showed large discrete clumps of melanin pigment.",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hemoglobin test",
+            "date": "Not specified",
+            "findings": "10.8 g/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White blood cell count",
+            "date": "Not specified",
+            "findings": "20.4 x 10^9/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "240 x 10^9/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-CMV IgM antibody test",
+            "date": "Not specified",
+            "findings": "Positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cow’s milk specific IgE",
+            "date": "Not specified",
+            "findings": "Positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Specific IgE for common food allergens",
+            "date": "Not specified",
+            "findings": "Positive for peanuts, egg, wheat, banana",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stool pH test",
+            "date": "Not specified",
+            "findings": "6",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stool reductant substance test",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stool steatocrit test",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow aspiration smear",
+            "date": "Not specified",
+            "findings": "Hypercellularity, rare erythroid vacuolization, and eosinophilia (18%), no hemophagocytosis observed",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunologic workup (Table 1)",
+            "date": "7 months",
+            "findings": "Hb: 10.8 g/dl, WBC: 20,400/mm3, Plt: 240,000/mm3, ALC: 7600/mm3, ANC: 8000/mm3, AEC: 510/mm3, IgA: 201 g/dl, IgG: 846 g/dl, IgM: 25 g/dl, IgE: 657 IU/l, CD3: 51%, CD4: 39%, CD8: 15%, CD19: 34%, CD16+56: 13%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunologic workup (Table 1)",
+            "date": "8 months",
+            "findings": "Hb: 11.4 g/dl, WBC: 46,500/mm3, Plt: 640,000/mm3, ALC: 18,600/mm3, ANC: 9300/mm3, AEC: 13,950/mm3, IgA: 68 g/dl, IgG: 2430 g/dl, IgM: 353 g/dl, IgE: 726 IU/l, CD3: 56%, CD4: 21%, CD8: 22%, CD19: 33%, CD16+56: 13%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunologic workup (Table 1)",
+            "date": "18 months",
+            "findings": "Hb: 11.4 g/dl, WBC: 10,400/mm3, Plt: 270,000/mm3, ALC: 5200/mm3, ANC: 3000/mm3, AEC: 700/mm3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunologic workup (Table 1)",
+            "date": "21 months",
+            "findings": "Hb: 11.7 g/dl, WBC: 15,900/mm3, Plt: 421,000/mm3, ALC: 6500/mm3, ANC: 7200/mm3, AEC: 800/mm3, IgA: 202 g/dl, IgG: 1080 g/dl, IgM: 51 g/dl, IgE: 1314 IU/l",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [
+        {
+            "procedure_name": "Microscopic examination of hair shafts",
+            "date": "Not specified",
+            "findings": "Large discrete clumps of melanin pigment along with the length of the shaft consistent with the diagnosis of Griscelli syndrome",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin prick testing",
+            "date": "Not specified",
+            "findings": "Sensitized to cow’s milk, peanut, and egg white",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic analysis (segregation linkage analysis)",
+            "date": "Not specified",
+            "findings": "GS3 locus excluded, homozygous haplotype identified in the patient indicating Rab27a and MYO5A as potential candidate genes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mutation screening of RAB27A gene",
+            "date": "Not specified",
+            "findings": "No mutation identified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sequencing of MYO5A gene",
+            "date": "Not specified",
+            "findings": "Identified a homozygous 2439-bp genomic deletion (g.189721_192160del) spanning the whole F-exon sequence",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

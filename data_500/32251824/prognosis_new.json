@@ -1,0 +1,23 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "At 6-month follow-up, the patient had full strength in all extremities and her numbness resolved. Surprisingly, she lived a normal life without any symptoms.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "At 6-month follow-up... her numbness resolved... she lived a normal life without any symptoms.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "functional_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At 6-month follow-up, the patient had full strength in all extremities."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At 6-month follow-up... her numbness resolved and she lived a normal life without any symptoms."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "Follow-up data reported only up to 6 months postoperatively; no information beyond 12 months, so long-term (>12 months) outcomes are inferred from mid-term results. There is minor inconsistency about timing of planned laminoplasty (reported as 6 months vs 1 year), and it was scheduled but not documented as performed."
+}

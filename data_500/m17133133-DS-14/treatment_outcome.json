@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Olanzapine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg IM x2",
+            "treatment_response": "Patient was more calm upon arrival to the floor"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Miralax",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "x1",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Fleet enema",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "x1",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Risperidone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 mg PO",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Mirtazapine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "30 mg PO QHS",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Received IM zyprexa (5 mg x2)"
+        },
+        {
+            "date": "Not specified",
+            "event": "Manual disimpaction and started on Miralax and Fleet enema"
+        },
+        {
+            "date": "Not specified",
+            "event": "Upon transfer to the floor, patient was more calm"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental Status: Confused - always. Level of Consciousness: Lethargic but arousable.",
+        "follow_up_details": "Not specified",
+        "complications": "Not specified",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

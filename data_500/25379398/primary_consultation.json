@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "53",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Korean",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "blurred vision in the left eye",
+        "history_of_present_illness": "A 2-month history of blurred vision and floaters in her left eye. She had a medical history of recurrent non-functioning pituitary adenomas. She had transsphenoidal surgeries in 2005 and 2008, and then craniotomy in 2009. She visited a neurosurgeon in our hospital due to recurred pituitary tumor and got the third transsphenoidal surgery in 2011. On April 2012, the pituitary tumor was recurred again, and we treated her with gamma-knife surgery (GKS).",
+        "past_medical_history": "Recurrent non-functioning pituitary adenomas, transsphenoidal surgeries in 2005, 2008, and 2011, craniotomy in 2009, gamma-knife surgery in 2012, herpes zoster oticus (HZO), diabetes mellitus",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Best corrected visual acuities were 20/20 in the right eye and 20/1000 in the left. Intraocular pressure was 12 mmHg in the right eye and 11 mmHg in the left. Slit-lamp examination showed mild (1+) inflammatory reaction in the anterior chamber and anterior vitreous in her left eye. Ophthalmoscopy of the left eye revealed vitreous haze along with large, fluffy, creamy white epiretinal mass and retinal infiltrates near the foveal center."
+    }
+}

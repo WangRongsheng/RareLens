@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "photoprotection",
+            "specific_treatment": "sunscreens",
+            "start_date": "1992",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Decreased frequency and severity of recurrences"
+        },
+        {
+            "treatment_type": "vocational adjustment",
+            "specific_treatment": "non-combat vocation",
+            "start_date": "1992",
+            "end_date": "Not specified",
+            "dosage_or_details": "Precluded sun exposure",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "1992",
+            "event": "Initial presentation with vesicular rash after sun exposure"
+        },
+        {
+            "date": "1992",
+            "event": "Diagnosis of hydroa vacciniforme based on clinical features and histology"
+        },
+        {
+            "date": "1992",
+            "event": "Initiation of photoprotection with sunscreens and vocational adjustment"
+        },
+        {
+            "date": "2000",
+            "event": "Moderately severe flare after prolonged sun exposure"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Experiencing infrequent, mild exacerbations",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Healing within 1-2 weeks with scar formation after each episode",
+        "quality_of_life": "Working in construction with intermittent, short periods of sun exposure",
+        "patient_perspective": "Not specified"
+    }
+}

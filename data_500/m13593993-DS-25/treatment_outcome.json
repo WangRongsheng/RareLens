@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "levofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "250 mg every other day",
+            "treatment_response": "No significant change in symptoms"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IVIG",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15g",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Started levofloxacin 250 mg every other day"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered 15g IVIG"
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted for management of respiratory infection"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged with ongoing treatment plan"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Good; ambulating, taking good POs",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Minimal, non-productive cough, and is at her mental and physical baseline",
+        "patient_perspective": "Not specified"
+    }
+}

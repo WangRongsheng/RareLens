@@ -1,0 +1,24 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "At the last examination 42 months after transplantation, the patient was asymptomatic with unremarkable clinical examination and imaging (including 3 h 18-FDG PET/CT) and undetectable (Em2+) or weak and declining (Em18) serology levels; oral albendazole was uninterrupted and dose-adjusted, with ongoing long-term monitoring planned.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "functional_status_evidence_excerpt": "Patient was asymptomatic at 42 months and continued professional activities as a veterinarian; clinical exam and imaging were unremarkable.",
+        "symptom_burden": "none",
+        "symptom_burden_evidence_excerpt": "At 42 months post-transplant, the patient was asymptomatic with normal imaging and declining/undetectable serologies."
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Hepatectomy and right adrenalectomy were performed 15 months post-transplantation with free resection margins."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 42 months after transplantation, the patient was asymptomatic with unremarkable clinical examination and imaging, and declining/undetectable serology."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time approximated as the date of definitive AE diagnosis (~12 months post-transplantation) when imaging, biopsy, and serology confirmed AE and albendazole was initiated. Subsequent events are mapped relative to this approximation (surgery at ~3 months after diagnosis; asymptomatic status at ~30 months after diagnosis). Functional status inference is based on asymptomatic status and continued work; precise activity level not quantified."
+}

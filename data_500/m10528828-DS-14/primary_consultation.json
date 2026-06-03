@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "left leg swelling and pain",
+        "history_of_present_illness": "G4P3 presents with increasing left leg swelling and pain. Pt was seen on ___ and had ___ which was negative for DVT. The swelling has increased and she now has even more pain with ambulation. No personal or family hx of DVT. Denies chest pain, shortness of breath. Feels irregular mild ctx, especially at night. Poor control of blood glucose over past few days with highs of 280 and lows overnight and premeal.",
+        "past_medical_history": "T1DM; Surgical history includes open appendectomy.",
+        "family_history": "Not specified",
+        "social_history": "Late transfer of care from ___. No T/E/D."
+    },
+    "physical_examination": {
+        "general_examination": "VS 96.8 87 18 120/72 NAD RRR, nl S1/S2 CTAB Abd soft, gravid, NT Ext LLE with 1+ pitting edema from ankle to inguinal region. Slight erythema appreciated; no palpable cords, but diffusely painful to palpation. RLE soft, nontender, nonedematous, no erythema.",
+        "specialty_examination": "SVE 1/long/posterior/medium consistently; Toco q2-5mins, irregular FHT 140/mod var/+accels/no decels."
+    }
+}

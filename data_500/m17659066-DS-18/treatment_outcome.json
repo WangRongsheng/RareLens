@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV fluids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Blood pressure improved with IV fluids."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with hypotension and bradycardia; started on IV fluids."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient's blood pressure monitored; improved with IV fluids."
+        },
+        {
+            "date": "Not specified",
+            "event": "Blood pressure medications held."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Blood pressure improved; patient stable.",
+        "follow_up_details": "Patient advised to continue holding blood pressure medications until follow-up.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

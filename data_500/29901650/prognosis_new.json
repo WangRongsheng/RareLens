@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "The patient is alive with no dysphagia and no evidence of recurrence for over 39 months; endoscopic assessment at 31 months showed no esophageal stricture and no evidence of recurrence.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Over 39 months post-treatment there was no dysphagia and no evidence of recurrence.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "One month after surgery, radiotherapy combined with chemotherapy (paclitaxel and cisplatin) was provided; four additional cycles were administered."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Endoscopic assessment at 31 months postsurgery revealed no esophageal stricture and no evidence of recurrence."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "The patient is alive with no dysphagia for over 39 months."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time was approximated as the date of definitive diagnosis by endoscopic biopsy prior to treatment. CT showed esophageal wall thickening at 17, 19, and 31 months, but without symptoms or endoscopic evidence of recurrence; authors suggested possible radiation esophagitis, which is not confirmed, so no deterioration or complication events are recorded."
+}

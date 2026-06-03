@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "After ANCA vasculitis was diagnosed, she required high-dose prednisone and rituximab, remained non-ambulatory (discharged to an extended care facility, 'while you cannot walk' with heparin for DVT prophylaxis), and had an occluded right radial artery requiring nitropaste for decreased perfusion.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Persistent neurologic deficits at discharge (absent Achilles reflexes, decreased vibratory/proprioception below ankles) and ongoing neuropathic symptoms treated with gabapentin; continued high-dose prednisone and rituximab indicate ongoing disease activity.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "“You were then treated with steroids and rituximab.”"
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Discharge activity status: 'Out of Bed with assistance to chair or wheelchair' and 'heparin… while you cannot walk' indicating non-ambulatory status."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "unknown",
+            "evidence_excerpt": "Arterial duplex: 'Occluded right radial artery…' with nitroglycerin ointment ordered for decreased perfusion of the right hand."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Discharge labs show anemia (Hgb 8.4 g/dL) and hypoalbuminemia (Albumin 2.6 g/dL), consistent with clinical decline/malnutrition during follow-up."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The exact date of ANCA vasculitis diagnosis is not specified; it was established in-hospital after sural nerve biopsy and bowel pathology. Events clearly preceding diagnosis (e.g., small bowel obstruction and surgical resections) were not included as post-index events. The timing of the radial artery occlusion relative to diagnosis is unclear, so its period is marked unknown. No data beyond hospital discharge is available; long-term assessments are inferred from discharge status, which may not reflect outcomes beyond 12 months."
+}

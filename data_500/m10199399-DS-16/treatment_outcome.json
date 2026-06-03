@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Chest tube insertion and removal",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Intubation and extubation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Enoxaparin Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "80 mg SC every 12 hours",
+            "treatment_response": "Anticoagulation treatment for pulmonary embolism"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient was diagnosed with pulmonary embolism and required chest tube insertion."
+        },
+        {
+            "date": "Not specified",
+            "event": "Intubation and extubation were performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Enoxaparin started as anticoagulation treatment."
+        },
+        {
+            "date": "Not specified",
+            "event": "Chest tube was removed."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged in stable condition",
+        "follow_up_details": "Follow up with Dr. ___ to discuss treatment approach for lymphoma.",
+        "complications": "hemopneumothorax requiring drainage",
+        "long_term_prognosis": "Pending evaluation for lymphoma treatment.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Improvement noted; patient ambulating independently.",
+        "patient_perspective": "The patient should monitor for shortness of breath, chest pain, or bleeding at the chest tube site."
+    }
+}

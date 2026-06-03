@@ -1,0 +1,58 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "After cranio-cervical decompression with expansile duroplasty, she had immediate improvement and stable neurology over many months with regained weight, but continued to use a wheelchair for mobility.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Post-operatively she had immediate improvement in weakness and cranial nerve palsies, was soon tolerating a soft diet, and her neurology was stable over many months.",
+        "symptom_burden": "occasional"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "In April 2007 she underwent fourth ventricular cysto–pleural shunt insertion."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At 4 months following surgery she deteriorated with left 7th nerve palsy, right 6th nerve palsy, tetraparesis, and difficulty swallowing."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "A second shunt was placed in the new cyst in August 2007."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "After the second operation the patient did not improve and developed increasing weakness and more marked bulbar disturbance."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "The cysto–pleural shunt was clipped in December 2007."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Despite shunt clipping, her clinical state continued to deteriorate; she required naso-enteric feeding and developed marked tetraparesis."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "In mid-April 2008 a posterior fossa and upper cervical canal decompression with expansile duroplasty was performed and the cysto–pleural shunt removed."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Post-operatively she had immediate improvement in weakness and 6th and 7th nerve palsies and was soon tolerating a soft diet."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Her motor function improved dramatically; follow-up MRI showed resolution of brainstem/cervical edema and decreasing syrinx."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The exact month of diagnosis in 2006 is not specified; time periods are approximated relative to diagnosis. Long-term follow-up is described as \"many months\" post-decompression without precise duration beyond one year; functional limitation (wheelchair use) persists despite neurologic stabilization."
+}

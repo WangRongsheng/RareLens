@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "antibiotics (Augmentin, Vancomycin/Zosyn)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 day course of antibiotics for pneumonia; 10 day course of Augmentin (1 dose received)",
+            "treatment_response": "Patient's symptoms initially improved but there was recrudescence of respiratory symptoms within 7 months."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "high dose steroids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Used to reduce inflammation in airways."
+        },
+        {
+            "treatment_type": "device therapy",
+            "specific_treatment": "Trilogy mask",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "14 hours/day, settings: tidal volume 450, max pressure 30, pressure support max 15, pressure support min 6, EPAP max 16, EPAP min 14, with 1L.",
+            "treatment_response": "Patient required Trilogy mask for respiratory support."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with dyspnea, cough, and chest tightness."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was empirically prescribed a ten-day course of Augmentin."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 1 dose of Augmentin."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was started on broad spectrum antibiotics (Vancomycin/Zosyn)."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was treated with a 5-day course of antibiotics for pneumonia."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was treated with high dose steroids for TBM."
+        },
+        {
+            "date": "Not specified",
+            "event": "Settings on Trilogy machine were adjusted."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ongoing respiratory symptoms.",
+        "follow_up_details": "Follow up at the listed appointments.",
+        "complications": "Recrudescence of respiratory symptoms within 7 months.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Not specified."
+    }
+}

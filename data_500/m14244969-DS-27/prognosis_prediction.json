@@ -1,0 +1,101 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "syncope",
+        "history_of_present_illness": "Aphasic, hx of seizures with stage IV GBM here with syncopal episode witnessed by wife. Pt was sitting at a table about to eat when he suddenly slumped in the chair and lost consciousness. The family lowered him to the floor and attempted to rouse him but he did not wake up. Was somewhat confused when he awoke but not for very long. Family noted increased RLE swelling and DOE over the past weeks but otherwise no f/c, hemoptysis, cough, chest pain, abdominal pain, diarrhea. Some nausea/vomiting after chemo - no bile or blood. In the ED, initial vitals 95 124 124/85 20 92% RA. ECG showed new Afib with RBBB. Labs notable for lactate 5.9->4.9 after 3L IVF, UA with trace bld, few bacteria, trop x 1 negative, Na 130, Hct 38.9, plt 95. CTA Chest showed large saddle embolus and segmental PE involving all segments concerning for right heart strain.",
+        "past_medical_history": "ONCOLOGIC HISTORY: First presentation  ___ yrs ago - presented with episodes of speech arrest, right facial droop and right hand weakness. Pathology from brain biopsy revealed glioblastoma grade IV. Status post multiple treatments including brain biopsy, radiation, and chemotherapy among others. Other past medical history includes hypertension and hyperlipidemia.",
+        "family_history": "He has no family history of cancer, heart disease, diabetes. He has no seizure history.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 64 98%3L 18 118/88. General: Well appearing in no acute distress. HEENT: Moist mucous membranes, white plaques over tongue. JVP non elevated. CV: Regular rate and rhythm, normal S1 S2, no murmurs.",
+        "specialty_examination": "Neuro: AOx3, +R facial droop, dilated pupils but equal and reactive to light, EOMI, VF intact, other CNs intact, dysmetria on FTN on R, absent grip on R, otherwise intact."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Initial lactate 5.9, decreased to 4.9 after 3L IVF",
+            "changes_over_time": "Decreased from 5.9 to 4.9"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Trace blood, few bacteria",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel",
+            "date": "Not specified",
+            "findings": "Sodium 130, Potassium 4.4, Chloride 91, Urea N 14, Creat 0.6, Glucose 345",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 5.8, RBC 3.66, Hgb 14.7, Hct 38.9, MCV 106, Plt 95",
+            "changes_over_time": "Platelet count declined from 95 to lower levels"
+        },
+        {
+            "procedure_name": "PTT",
+            "date": "Not specified",
+            "findings": "PTT 150",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA Chest",
+            "date": "Not specified",
+            "findings": "Large saddle embolus with segmental pulmonary emboli, no signs of right heart strain.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Head",
+            "date": "Not specified",
+            "findings": "Redemonstration of left frontotemporal glioblastoma, no definite change.",
+            "changes_over_time": "No definite change noted"
+        },
+        {
+            "procedure_name": "Lower Extremity Ultrasound",
+            "date": "Not specified",
+            "findings": "Occlusive thrombus within the distal right superficial femoral vein.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "New Afib with RBBB",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram (TTE)",
+            "date": "Not specified",
+            "findings": "Left atrium normal, left ventricular function normal, mitral valve trivial regurgitation.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Saddle pulmonary emboli, glioblastoma multiforme",
+        "diagnostic_reasoning": "The patient presented with syncope, confusion, and right leg swelling, prompting further evaluation. CTA Chest revealed a saddle embolus and segmental pulmonary emboli concerning for right heart strain, while a CT Head showed glioblastoma, consistent with his oncologic history."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "IVC filter placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

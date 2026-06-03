@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "Not specified",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient diagnosed with lateral medullary syndrome due to an infarction in the posterior inferior cerebellar artery area"
+        },
+        {
+            "date": "2 weeks after infarction",
+            "event": "Patient transferred to rehabilitation department with severe vertigo, ataxia, and dysphasia"
+        },
+        {
+            "date": "6 weeks after onset",
+            "event": "Berg balance scale scored 17 points and functional ambulation category scored 2 grade; ataxia and gait problems persisted"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ataxia and gait problems persisted",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

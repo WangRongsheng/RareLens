@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "hypotension and bradycardia",
+        "history_of_present_illness": "Homeless male with a past medical history of hypertension, diabetes mellitus, and schizophrenia presents with hypotension and bradycardia. Patient was found to have a BP of 72/p and HR in ___, and was asymptomatic. Baseline SBP is 140 and HR ___, per PCP. Patient has reportedly been more somnolent per report at Shelter x ___ days. No recent medication changes. Denies history of trauma. Asymptomatic at this time. Denies chest pain, shortness of breath, palpitations, cough, lightheadedness. Had a r/o DVT admission for enlarged right leg after traumatic injury involving a baseball bat. In the ED, started on fluids and troponin was negative. Tox screen negative. CXR reportedly normal. Admitted to medicine to work up somnolence and hypotension.",
+        "past_medical_history": "NIIDM, Asthma, Hypertension, Schizophrenia, Overactive bladder, GERD, HCV and HBV, history of polysubstance abuse",
+        "family_history": "Does not know, non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: 98 BP: 110/82 P: 42 R: 16 SaO2: 100ra. Patient awakes to verbal stimuli but is falling asleep during questions. Comfortable.",
+        "specialty_examination": "Neurologic: Alert, oriented x 3. Cranial nerves II-XII intact. Normal bulk, strength and tone throughout. No deficits to light touch throughout. No nystagmus, dysarthria, intention or action tremor. Cardiac: Bradycardic, RR, normal S1 S2, no murmurs, rubs or gallops appreciated. Pulmonary: Decreased breath sounds at bases, no wheezing/rales/rhonchi appreciated."
+    }
+}

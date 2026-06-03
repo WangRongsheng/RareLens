@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "wound washout",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "antibiotic therapy",
+            "specific_treatment": "nafcillin",
+            "start_date": "Not specified",
+            "end_date": "ongoing",
+            "dosage_or_details": "2 g IV every four hours",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Wound washout performed due to wound infection"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on nafcillin 2 g IV every 4 hours"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged with follow-up instructions for wound care and medication regimen"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged in stable condition",
+        "follow_up_details": "Follow-up in outpatient clinic for wound care",
+        "complications": "No complications reported",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Activity status: ambulatory, independent",
+        "patient_perspective": "Patient advised on proper wound care and to monitor for signs of infection"
+    }
+}

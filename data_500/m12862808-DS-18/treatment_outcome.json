@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "Medication",
+            "specific_treatment": "Cefepime",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient felt she was getting worse, certainly not improving."
+        },
+        {
+            "treatment_type": "Medication",
+            "specific_treatment": "Azithromycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "250 mg PO daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "Medication",
+            "specific_treatment": "Tobramycin Inhalation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "300 mg IH BID",
+            "treatment_response": "Caused some discomfort, brought down to 2 week cycles."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient last admitted for Cefepime IV treatment."
+        },
+        {
+            "date": "Not specified",
+            "event": "Treatment with nebulized Tobramycin started, initially on 4 weeks on, 4 weeks off, later reduced to 2 week cycles."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received a PICC line and antibiotics after direct admission."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent.",
+        "follow_up_details": "Patient will have a visiting nurse come to help with IV antibiotics and should follow up with Dr. ___",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient felt she was getting worse, certainly not improving."
+    }
+}

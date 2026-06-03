@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "58",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Progressive odynophagia and dysphagia.",
+        "history_of_present_illness": "Symptoms began recently and have progressed. The patient has significant weight loss over the past month due to difficulty in swallowing solid foods. He is diagnosed with esophageal squamous cell carcinoma.",
+        "past_medical_history": "Esophageal squamous cell carcinoma diagnosed via endoscopic biopsy.",
+        "family_history": "Not specified.",
+        "social_history": "The patient has a history of heavy smoking but quit six months ago. He drinks alcohol socially."
+    },
+    "physical_examination": {
+        "general_examination": "The patient appears in moderate distress, experiencing significant odynophagia. Mild cervical lymphadenopathy is noted on the left side. Abdominal examination is unremarkable. Cardiac and respiratory evaluations are normal. Neurological examination is intact.",
+        "specialty_examination": "FDG PET/CT scan indicated two foci of esophageal lesions indicating double primary esophageal cancers, with metastatic lesions in the chest wall and bones. Follow-up CT showed progressive enlargement of a vaguely hypodense area associated with the left psoas muscle."
+    }
+}

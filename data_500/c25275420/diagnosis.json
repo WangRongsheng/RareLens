@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Erlotinib-Induced Cutaneous Toxicity",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient developed papulovesicular skin lesions shortly after starting erlotinib therapy, which progressed and were confirmed as FDG avid on PET/CT imaging. These cutaneous lesions correlated with the history of recent erlotinib treatment and disappeared after stopping the drug, indicating they were likely induced by erlotinib rather than due to metastatic disease."
+    }
+}

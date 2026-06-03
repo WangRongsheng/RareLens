@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "41",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Ataxic-spastic signs",
+        "history_of_present_illness": "Ataxic-spastic signs evident from the age of 15 years. Clinical evaluation before starting DHA supplementation (T0, 39 years) showed moderate spastic-ataxic gait, mild dysarthria, mild diffuse leg weakness and dysmetria, bilateral Babinski sign, pes cavus and hammertoes.",
+        "past_medical_history": "Not specified",
+        "family_history": "Neurologically-healthy father had died at the age of 40 of myocardial infarction linked to severe hypercholesterolemia.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Moderate spastic-ataxic gait, mild dysarthria, mild diffuse leg weakness and dysmetria, bilateral Babinski sign, pes cavus and hammertoes. Electroneurography showed severe sensorimotor axonal and demyelinating polyneuropathy. Brain MRI documented mild cerebellar atrophy, prominent in the cerebellar vermis, and hypointense stripes in the pons. Spine MRI was normal."
+    }
+}

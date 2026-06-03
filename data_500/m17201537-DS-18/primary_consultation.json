@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abdominal pain, hematemesis",
+        "history_of_present_illness": "Patient reports that she began to have decreased appetite 3 days prior to admission. On the day prior to admission, the patient began to experience sharp abdominal pain radiating to her back. It improved with a heating pad and lying still but was made worse by movement. The pain also radiated to her chest, described as chest tightness. The evening prior to presentation, she had nausea and non-bloody emesis, along with retching, and then an episode of 'dark' vomit that looked like coffee grounds. This prompted her to present to the ED.",
+        "past_medical_history": "Chronic pancreatitis c/b tear, Gastritis, Asthma s/p cholecystectomy",
+        "family_history": "Mother with disease not specified",
+        "social_history": "Denies alcohol use over at least the past 6 months."
+    },
+    "physical_examination": {
+        "general_examination": "VITAL SIGNS: 98.2 PO | 129/86 | 85 | 16 | 98% RA. General: thin, middle-aged woman, mildly uncomfortable, in no acute distress.",
+        "specialty_examination": "NEUROLOGIC: A&Ox3, moving all 4 limbs with purpose, no gross neurologic deficits. ABDOMEN: soft, non-distended, tenderness to light palpation in the epigastrium."
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "sparfloxacin (SPFX)",
+            "start_date": "1996-03-22",
+            "end_date": "1996-03-25",
+            "dosage_or_details": "300mg for 3 days",
+            "treatment_response": "Symptoms slightly improved but diarrhea persisted"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "sulfamethoxazole/trimethoprim (ST)",
+            "start_date": "1997-07-11",
+            "end_date": "1997-07-18",
+            "dosage_or_details": "4 tablets (each tablet contains S:400mg, T:80mg), divided into 2 doses per day for 7 days",
+            "treatment_response": "Clinical course was good, stool consistency normalized to 1-2 times per day"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "metronidazole",
+            "start_date": "2000-08",
+            "end_date": "2000-08",
+            "dosage_or_details": "750mg, divided into 3 doses per day for 10 days",
+            "treatment_response": "Giardia lamblia and Blastocystis hominis disappeared but loose stools continued"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "sulfamethoxazole/trimethoprim (ST)",
+            "start_date": "2000-08",
+            "end_date": "2000-08",
+            "dosage_or_details": "6 tablets, divided into 3 doses per day for 11 days",
+            "treatment_response": "Stool consistency improved to soft stools 2-4 times per day"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "antiretroviral therapy (zidovudine, lamivudine, efavirenz)",
+            "start_date": "2000-08",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Clinical course was good"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "sulfamethoxazole/trimethoprim (ST)",
+            "start_date": "2000-08",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 tablet per day for Pneumocystis carinii pneumonia prevention",
+            "treatment_response": "Clinical course was good"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "1996-02-28",
+            "event": "Patient traveled to Thailand and Cambodia"
+        },
+        {
+            "date": "1996-03-14",
+            "event": "Patient developed soft stools 1-2 times per day"
+        },
+        {
+            "date": "1996-03-17",
+            "event": "Patient developed watery diarrhea 10 times per day with lower abdominal pain"
+        },
+        {
+            "date": "1996-03-20",
+            "event": "Stool consistency temporarily improved to mushy stools 2-3 times per day"
+        },
+        {
+            "date": "1996-03-21",
+            "event": "Watery stools recurred 2-5 times per day"
+        },
+        {
+            "date": "1996-03-22",
+            "event": "Patient visited Komagome Hospital Infectious Diseases Department"
+        },
+        {
+            "date": "1996-03-22",
+            "event": "Empiric therapy with sparfloxacin (SPFX) 300mg for 3 days started"
+        },
+        {
+            "date": "1996-03-26",
+            "event": "Patient reported symptoms slightly improved but diarrhea persisted"
+        },
+        {
+            "date": "1997-06-08",
+            "event": "Patient traveled to Southeast Asia (Myanmar, Singapore, Thailand, Cambodia)"
+        },
+        {
+            "date": "1997-06-18",
+            "event": "Patient developed fever (40°C), watery diarrhea 3-4 times per day, and vomiting"
+        },
+        {
+            "date": "1997-06-21",
+            "event": "Fever subsided but watery diarrhea continued 2-3 times per day"
+        },
+        {
+            "date": "1997-07-01",
+            "event": "Patient visited Komagome Hospital Infectious Diseases Department"
+        },
+        {
+            "date": "1997-07-11",
+            "event": "Treatment with sulfamethoxazole/trimethoprim (ST) started"
+        },
+        {
+            "date": "1997-07-14",
+            "event": "Stool consistency normalized to 1-2 times per day"
+        },
+        {
+            "date": "2000-04",
+            "event": "Patient traveled to Thailand and Cambodia"
+        },
+        {
+            "date": "2000-07",
+            "event": "Patient developed watery diarrhea up to 8 times per day"
+        },
+        {
+            "date": "2000-08",
+            "event": "Patient diagnosed with HIV and admitted to Komagome Hospital"
+        },
+        {
+            "date": "2000-08",
+            "event": "Treatment with metronidazole for Giardia lamblia and Blastocystis hominis started"
+        },
+        {
+            "date": "2000-08",
+            "event": "Treatment with sulfamethoxazole/trimethoprim (ST) for Cyclospora started"
+        },
+        {
+            "date": "2000-08",
+            "event": "Antiretroviral therapy (zidovudine, lamivudine, efavirenz) started"
+        },
+        {
+            "date": "2000-08",
+            "event": "ST for Pneumocystis carinii pneumonia prevention started"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "varied by case: Case 1 - symptoms slightly improved but diarrhea persisted; Case 2 - stool normalized, Cyclospora negative; Case 3 - mild diarrhea and nausea resolved; Case 4 - stool improved to soft stools 2-4 times per day, clinical course good",
+        "follow_up_details": "Case 1 - no follow-up; Case 2 - follow-up after 1 month, no diarrhea and Cyclospora negative; Case 3 - no follow-up; Case 4 - transferred to another hospital with good clinical course",
+        "complications": "Case 2 - microscopic hematuria; Case 4 - weight loss >10%",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Case 1 - symptoms persisted; Case 2 - stool normalized within 3 days of ST treatment; Case 3 - symptoms resolved within 6 days; Case 4 - stool improved within 11 days of ST treatment",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Case 1 - patient reported symptoms slightly improved but diarrhea persisted; Case 4 - clinical course was good"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abdominal pain",
+        "history_of_present_illness": "Patient with a background history of COPD, presenting with persistent shortness of breath, fatigue, abdominal distention and abdominal pain. Two recent admissions for COPD exacerbation treated with IV steroids transitioning to PO steroids, nebulizers and antibiotics. Over the past two months, persistent shortness of breath has impacted daily lifestyle, with abdominal distention and severe dull pain in the LLQ, predominantly following eating.",
+        "past_medical_history": "1. COPD 2. ___ disease 3. History of Non-Hodgkin's lymphoma 4. History of ___ status post RLL wedge resection 5. H. pylori status post multiple antibiotic regimens 6. Bilateral renal cysts 7. Chronic back pain 8. Adrenal adenoma 9. Elevated PSA 10. Anxiety 11. IBS-C 12. Sciatica",
+        "family_history": "Daughter with IBD vs UC, H. pylori infection and gastroparesis. Son with stomach problems. Mother had colorectal cancer. Father died of a heart attack. Brother was murdered but had a stomach problem requiring hospitalization in his teens. Cousin with ___ disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: Temp 98.0 BP 128/72 HR 92 RR 16 SaO2 92% RA. Anxious appearing man, no acute distress.",
+        "specialty_examination": "Neurological: A/O x3, CN II-XII intact. Cardiovascular: RRR, S1 and S2 normal, no murmurs/rub/gallops. Respiratory: no air entry at right base secondary to wedge resection, poor inspiratory effort. Abdominal: soft, non-tender, distended left greater than right, BS normoactive. Skin: erythematous rash over upper back, posterior aspect of upper arms."
+    }
+}

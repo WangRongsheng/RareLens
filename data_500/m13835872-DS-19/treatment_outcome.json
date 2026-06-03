@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "uterine artery embolization",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Concern for a pseudoaneurysm of her right groin access site closed by angioseal; duplex ultrasound confirmed no pseudoaneurysm or AV fistula."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Uterine artery embolization performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Angioseal closure of right groin access site."
+        },
+        {
+            "date": "Not specified",
+            "event": "Duplex ultrasound showed normal right groin ultrasound with no pseudoaneurysm."
+        },
+        {
+            "date": "Not specified",
+            "event": "Presented with acute onset of right groin pain and observed new ecchymosis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Groin ultrasound confirmed no hematoma, pseudoaneurysm, or AV fistula, but revealed a 1.4cm x 2mm blind ending tract from the puncture site."
+        },
+        {
+            "date": "Not specified",
+            "event": "Transferred for further management."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home.",
+        "follow_up_details": "Follow-up with the surgeon and Primary Care Provider as advised.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Alert and interactive; ambulatory - independent.",
+        "patient_perspective": "Not specified."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Febrile neutropenia",
+        "history_of_present_illness": "Recently diagnosed AML, s/p 7+3 induction resulting in morphologic remission but persistent cytogenetic abnormality. Patient reports feeling somewhat fatigued since her discharge from an extended hospital stay, attributing this to her anemia and recent chemotherapy. On the week prior to admission, she received 1 unit pRBCs and 3 bags of platelets. On the morning of admission, she awoke feeling 'chilly' with a temperature of 100.6. She denied cough, nasal congestion, diarrhea, dysuria, or pain at the PICC site. Initial ED vitals were 99.0, BP 132/66, HR 120, RR 18.",
+        "past_medical_history": "Chronic conditions include asthma, chronic neck pain, and obesity. Surgical history includes cholecystectomy.",
+        "family_history": "No blood disorders reported. Maternal uncle died of a malignancy, but the patient is unsure of the details.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission vital signs: 98.9, BP 140/84, HR 113, RR 24, 100% RA. Patient described as a young obese female, NAD.",
+        "specialty_examination": "Neurological: CN II-XII intact. Cardiovascular: RRR, S1/S2, no murmurs. Lungs: CTAB, no wheezes, rales or rhonchi. Abdomen: nondistended, +BS, nontender. Extremities: L PICC c/d/i, nontender; no cyanosis or edema. Skin: warm and well perfused, 0.5 cm shallow ulcer in right axillary skin fold, not appreciably tender."
+    }
+}

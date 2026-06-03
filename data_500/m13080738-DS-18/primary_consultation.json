@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "chemotherapy",
+        "history_of_present_illness": "History of grade IIIB follicular lymphoma, status post six cycles of R-CHOP, presented with persistent diffuse parotid gland swelling, dry mouth, weight loss, increased splenomegaly. Underwent splenectomy for diagnostic purposes, which showed probable lymphoproliferative disorder. Re-staging CT showed new hilar opacities and enhancing structures within the retroperitoneum. Underwent excisional biopsy, which revealed DLBCL, likely relapsed or transformed from initial grade 3b follicular lymphoma.",
+        "past_medical_history": "Stage 3b follicular lymphoma, depression, vitiligo, diagnosed at age Not specified, mitral valve repair for severe MR Not specified, history of cell carcinoma.",
+        "family_history": "Hodgkin Disease in paternal grandfather. Father underwent coronary artery bypass grafting at age Not specified.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VITALS - 98.5 66 18 95% RA. Well appearing woman, NAD. No adenopathy.",
+        "specialty_examination": "Neurological: Alert x 3. Cardiovascular: S1, S2 RRR, no murmurs, rubs, or gallops. Lungs: Clear to auscultation. Abdomen: Soft, non-tender. Gastrointestinal: Deferred. Extremities: No lower extremity edema."
+    }
+}

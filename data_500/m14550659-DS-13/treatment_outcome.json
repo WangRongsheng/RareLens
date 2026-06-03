@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "hydroxyurea",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1500 mg on admission, 500 mg Capsule PO BID after discharge",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "clotrimazole cream",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Applied topically BID as needed",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Bactrim DS",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "800-160 mg Tablet PO twice a day for 7 days",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the ED for worsening left second digit cellulitis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was previously seen in the ED for a left digit ulcer and discharged with antibiotics and a surgical shoe"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was seen by PCP who recommended re-presentation to the ED due to nonimprovement"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on hydroxyurea, clotrimazole cream, and Bactrim DS upon discharge"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

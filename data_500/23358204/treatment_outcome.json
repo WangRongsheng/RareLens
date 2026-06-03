@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "induction chemotherapy",
+            "start_date": "2003",
+            "end_date": "2005",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Remission achieved"
+        },
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "re-induction chemotherapy",
+            "start_date": "2006-04",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Remission achieved"
+        },
+        {
+            "treatment_type": "hematopoietic stem cell transplantation",
+            "specific_treatment": "allogeneic hematopoietic stem cell transplantation (allo-HSCT)",
+            "start_date": "2010-09",
+            "end_date": "Not specified",
+            "dosage_or_details": "Donor: one mismatch compatible brother with gray platelet syndrome (GPS)",
+            "treatment_response": "Successful neutrophil and platelet engraftment achieved at the 12th and 42nd day of reinfusion, consecutively. Gray platelets were seen on peripheral blood smear. Complete donor chimerism achieved at chimerism analysis in the first month of reinfusion."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "2003",
+            "event": "Diagnosed with B cell acute lymphoblastic leukemia (ALL). Treatment with induction, consolidation, and maintenance chemotherapy started."
+        },
+        {
+            "date": "2005-03",
+            "event": "Treatment completed."
+        },
+        {
+            "date": "2006-03",
+            "event": "Relapsed ALL diagnosed. Re-induction chemotherapy started."
+        },
+        {
+            "date": "2006-04",
+            "event": "Remission achieved after first block of treatment."
+        },
+        {
+            "date": "2010-01",
+            "event": "Relapse developed. Induction chemotherapy started immediately."
+        },
+        {
+            "date": "2010-09",
+            "event": "Allogeneic stem cell transplantation performed from GPS donor brother."
+        },
+        {
+            "date": "2010",
+            "event": "Neutrophil engraftment achieved at 12th day of reinfusion."
+        },
+        {
+            "date": "2010",
+            "event": "Platelet engraftment achieved at 42nd day of reinfusion."
+        },
+        {
+            "date": "2011",
+            "event": "Developed respiratory distress syndrome due to bronchiolitis obliterans organizing pneumonia and chronic graft-versus-host disease (GVHD). Death occurred after a period in the ICU."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Deceased",
+        "follow_up_details": "Follow-up visits (outpatient) with remission until 13th month posttransplantation.",
+        "complications": "Bronchiolitis obliterans organizing pneumonia, respiratory distress syndrome, chronic graft-versus-host disease (GVHD).",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

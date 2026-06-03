@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "seroquel",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "600 mg PO QHS",
+            "treatment_response": "Patient had improvement in symptoms."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "remeron",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15 mg PO HS",
+            "treatment_response": "Patient had improvement in symptoms."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "zoloft",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg PO DAILY",
+            "treatment_response": "Patient had improvement in symptoms."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient started feeling more depressed with low energy and other symptoms."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient attempted to alleviate depression through alcohol and cocaine."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was admitted to the hospital due to worsening depression with suicidal thoughts."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient's medications were changed during hospitalization."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was discharged in stable condition."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "discharged condition stable with clear and coherent mental status.",
+        "follow_up_details": "Attend all follow-up appointments.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Improvement in symptoms noted.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Not specified."
+    }
+}

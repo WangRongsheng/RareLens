@@ -1,0 +1,29 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "Post-operative course was uneventful with resolution of the CSF rhinorrhoea. At seven months follow-up, the patient was symptom free and an MRI showed no residual nasopharyngeal mass.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "functional_status_evidence_excerpt": "Resection of the nasal encephalocele occluding the choana relieved the obstruction and restored the nasal air passage; at seven months the patient was symptom free.",
+        "symptom_burden": "none",
+        "symptom_burden_evidence_excerpt": "Post-operative course was uneventful with resolution of CSF rhinorrhoea; at seven months follow-up, the patient was symptom free."
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Post-operative course was uneventful with resolution of the CSF rhinorrhoea."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "The resection of nasal encephalocele occluding the choana relieved the obstruction and restored the nasal air passage."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At seven months follow-up, the patient was symptom free and an MRI showed no residual nasopharyngeal mass."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Follow-up reported is seven months (mid-term), with no data beyond twelve months. Functional status is inferred from resolution of nasal obstruction and being symptom free. Prior transcranial surgery occurred before the chosen index period and is not included in events."
+}

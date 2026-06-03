@@ -1,0 +1,48 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "Patient #2 developed granulomatous skin lesions at 6 months, had recurrent diarrhea, and by age 2 had apparent growth retardation; HSCT is planned for both siblings.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "For patient #2: \"recurrent diarrhea episodes, and granulomatous skin lesions developed when she was six months old... She is currently two years old and has apparent growth retardation.\"",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "readmission",
+            "time_period": "unknown",
+            "evidence_excerpt": "Patient #1: \"During followup the patient required additional hospitalizations for pneumonia again.\""
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "unknown",
+            "evidence_excerpt": "Patient #1: \"inhaled budesonide and salbutamol were given for recurrent wheezing and bronchiolitis.\""
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Patient #1: \"The patient is now four years old without apparent growth retardation, infection and autoimmune manifestations.\""
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Patient #1: \"now four years old without apparent growth retardation\" suggests improved function/growth status."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Patient #2: \"granulomatous skin lesions developed when she was six months old despite regular IVIg therapy.\""
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Patient #2: \"weight and height percentiles decreased gradually as she had recurrent diarrhea episodes.\""
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Patient #2: \"She is currently two years old and has apparent growth retardation.\""
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The record describes two siblings with PRKDC-related combined immunodeficiency and differing trajectories. Long-term outcome and quality-of-life categories were assigned to reflect the worst sustained course (patient #2) after diagnosis. Timing of some events (patient #1 readmissions and respiratory symptoms) is not precisely stated; thus, time periods are marked as unknown where needed. HSCT is planned but not yet performed, so it is not listed as a re-intervention."
+}

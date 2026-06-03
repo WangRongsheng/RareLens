@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Fatigue and right hip pain",
+        "history_of_present_illness": "___ year old male with h/o GI bleed, h/o duodenal ulcer, CAD and ischemic CMY, atrial fibrillation on coumadin presents with fatigue and R hip pain x ___ weeks. His HCT was checked and it was 22.3. His grand-daughter was then asked to bring him to the ED. In the ED his HCT was 23.4. INR = 2.9. GI contacted and said no need to reverse HCT. Just monitor for now. No colonoscopy prep. Pt had a largely normal EGD and ___ in ___. Per ED he had a fall a few days ago but per patient and dtr, his last fall was 6 months ago. He has chronic R hip pain.",
+        "past_medical_history": "Atrial fibrillation, on Coumadin; Hypertension; CAD: ___ stress-MIBI showing ischemic EKG changes in inferior and lateral leads, medical management only; CHF: ischemic cardiomyopathy (mildly depressed EF 50-55%); ?COPD: no PFTs, not on inhalers; Upper GI Bleed, known h/o duodenal ulcer; Aspiration pneumonia ___ as discussed above ___ without diagnosis of DM, ___ (on modified diet); Melanoma: s/p excision ___ & ___ R posterior auricular region, s/p XRT (last in ___, concern for recurrence in ___ but pt refused further w/u); Basal cell carcinoma: s/p excision on ___ & ___; Anemia--baseline Hct 30, macrocytosis; Sacral Wound--punch biopsies done ___, pending; Diverticulosis; Glaucoma; Venous insufficiency longstanding with frequent ulcers; Hearing impairment (left ear with hearing aid); Irritable bowel syndrome; Macular degeneration; Bradycardia at ___s; Urinary retention/BPH-flomax/proscar, sees ___.",
+        "family_history": "Brothers died of CAD. Positive for DM, htn. Sister died of unknown cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 96.4 154/55 ___ 18 98%RA; Pain: ___; Access: PIV; Gen: nad, pleasant, pale; HEENT: conj pallor, mmm; CV: RRR, ___ SM all over precordium; Resp: CTAB, no crackles or wheezing; Abd; soft, nontender, +BS; Ext; 1+ b/l R>L edema; Neuro: A&OX3, grossly nonfocal; Skin: no changes; psych: appropriate.",
+        "specialty_examination": "Not specified"
+    }
+}

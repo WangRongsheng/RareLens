@@ -1,0 +1,53 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "The patient showed a complex phenotype progressing throughout the years from Noonan syndrome at birth towards LEOPARD syndrome and Noonan-like/multiple giant cell lesion syndrome, with persistent issues including severe hearing loss, skeletal hypomineralisation, and incomplete pubertal development at long-term follow-up.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Ongoing significant issues include bilateral severe sensorineural hearing loss, generalized hypomineralisation with cyst-like mandibular lesions, and incomplete development of secondary sexual characteristics.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At 7 months of age, bilateral severe sensorineural hearing loss and delayed psychomotor development mainly in the motor area was noticed."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "At the age of 4 years, she underwent cardiac catheterisation and pulmonary valve angioplasty."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "At the age of 4 years, failure to thrive was reported."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 4 years she developed multiple lentigines and multiple café-au-lait spots; a diagnosis of LEOPARD syndrome was proposed."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Only with increasing age, the development of multiple lentigines, sensorineural deafness and hypertrophic cardiomyopathy prompted the diagnosis of full-blown LEOPARD syndrome."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 10 years, pulmonary valve stenosis surgical correction with patch was performed."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "A skeletal survey showed generalised hypomineralisation with thickened trabeculae and cyst-like lesions in the mandible, leading to a diagnosis of Noonan-like/multiple giant cell lesion syndrome."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "At present, she presents incomplete development of secondary sexual characteristics with small breasts and hypoplastic external genitalia."
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "A precise index date of definitive diagnosis is not documented; the first specialist evaluation at 1 month was used as the proxy. Timing categories are approximated relative to this reference. Improvement after cardiac interventions or resolution of early motor delay is not explicitly documented; functional status and symptom burden are inferred conservatively from long-term descriptions."
+}

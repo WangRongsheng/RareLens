@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Sepsis / Ecoli and Klebsiella Bacteremia / Acute Cholangitis / Acute cholecystitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain and signs of infection in the biliary tract (cholangitis) and gallbladder (cholecystitis). Blood cultures showed E. coli and Klebsiella resulting in bacteremia. Imaging and clinical findings supported the diagnoses."
+    }
+}

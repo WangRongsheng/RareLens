@@ -1,0 +1,104 @@
+{
+    "basic_information": {
+        "age": "39",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "English, Irish, and Belgian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Seizures",
+        "history_of_present_illness": "First seizure at 24 years with no evidence of any precipitating factors. Brain MRI shows bilateral periventricular nodular heterotopia. Thrombocytopenia at age 23 years. Mildly dilated aortic root and ascending aorta with mild aortic regurgitation at age 32 years.",
+        "past_medical_history": "Ectopic 3rd kidney and patent ductus arteriosus requiring surgical closure at 18 months of age. Thrombocytopenia at age 23 years.",
+        "family_history": "Parents are healthy with normal brain MRI. Younger sister has bilateral periventricular nodular heterotopia but no seizures or cardiac abnormalities.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Neurologic examination was normal.",
+        "specialty_examination": "Brain MRI revealed bilateral multiple and diffuse periventricular nodular heterotopia. Echocardiography revealed a mildly dilated aortic root and ascending aorta with mild aortic regurgitation."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "DNA sequencing",
+            "date": "Not specified",
+            "findings": "Both sisters heterozygous for a c.2002C > T transition in exon 13 of the FLNA gene resulting in a p.Gln668Ter mutation. This mutation was not detected in peripheral blood lymphocytes from the unaffected parents.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow aspiration",
+            "date": "Age 23 years",
+            "findings": "No abnormalities detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thrombocytopenia evaluation",
+            "date": "Age 23 years",
+            "findings": "Thrombocytopenia noted with complaints of unexplained weight loss. Continued easy bruising and prolonged bleeding time.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Index patient: Bilateral multiple and diffuse periventricular nodular heterotopia (PNH). Sister: Heterotopic gray matter of both hemispheres.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Age 32 years (index patient), Not specified (sister)",
+            "findings": "Index patient: Mildly dilated aortic root and ascending aorta with mild aortic regurgitation. Sister: Normal echocardiogram.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Sister: Did not show any interictal abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Parental relationship verification",
+            "date": "Not specified",
+            "findings": "Verified molecularly using the Identifier kit (Applied Biosystems).",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "X-linked periventricular nodular heterotopia (PNH) due to a loss of function mutation in the filamin A gene (FLNA)",
+        "diagnostic_reasoning": "The diagnosis was based on the presence of bilateral periventricular nodular heterotopia observed on brain MRI, a history of seizures, thrombocytopenia, and cardiac abnormalities (mildly dilated aortic root and ascending aorta with mild aortic regurgitation). Genetic testing confirmed a heterozygous c.2002C > T transition in exon 13 of the FLNA gene, resulting in a p.Gln668Ter mutation, which is a known disease-causing mutation for PNH. The mutation was not detected in the parents, suggesting germline mosaicism as the likely explanation."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "patent ductus arteriosus closure",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Surgical closure at 18 months of age"
+        },
+        {
+            "treatment_type": "diagnostic procedure",
+            "specific_treatment": "bone marrow aspiration",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed at age 23 years after complaints of unexplained weight loss"
+        },
+        {
+            "treatment_type": "diagnostic imaging",
+            "specific_treatment": "brain MRI",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Revealed bilateral multiple and diffuse periventricular nodular heterotopia"
+        },
+        {
+            "treatment_type": "diagnostic imaging",
+            "specific_treatment": "echocardiography",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed at age 32 years"
+        }
+    ]
+}

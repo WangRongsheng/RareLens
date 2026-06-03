@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "transferred from ___ for bowel perforation",
+        "history_of_present_illness": "Patient was transferred from ___ after undergoing ex-lap, SBR, and side-to-side functional end-to-end anastomosis on ___ for small bowel perforations, with notable histories including acute renal failure and leukocytosis. She has remained intubated postoperatively, maintained on TPN, with notable temperature spikes and WBC increase from 13 to 31. A CT scan indicated pneumoperitoneum consistent with perforation.",
+        "past_medical_history": "- normal pressure hydrocephalus s/p shunt placement in ___\n- GERD\n- HLD\n- anxiety\n- asthma\n- HTN\n- alcohol abuse\n- tobacco abuse\nPSH: - hernia surgery (___)\n- removal of cyst in head (___)\n- wisdom tooth extraction (___)\n- tonsillectomy\n- cardiac stent in ___",
+        "family_history": "- Father deceased at ___, history of alcoholism\n- Mother living",
+        "social_history": "Patient has a history of tobacco and alcohol abuse."
+    },
+    "physical_examination": {
+        "general_examination": "Intubated, BP 135/84, HR 87, RR 16, Temp 96.9°F, unresponsive on no sedation, pressure ulcer on L heel.",
+        "specialty_examination": "Neurological: fluctuating responsiveness; Cardiovascular: regular rate and rhythm, normal S1 S2, no murmurs, tachycardic."
+    }
+}

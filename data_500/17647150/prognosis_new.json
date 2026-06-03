@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Two months after the hemorrhage she developed renewed massive neuropathic pain, which was then well controlled with pregabalin and a low-dose antidepressant; under reduction of medication she remained symptom-free up to a follow-up talk about 6 months later.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "“Unter Reduktion der Medikation blieb die Patientin bis zu einem Verlaufsgespräch etwa 6 Monate später beschwerdefrei.”",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Circa 2 Monate nach der Einblutung entwickelte die Patientin ein erneutes massives, neuropathisches Schmerzsyndrom."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "…das dieses Mal jedoch mit Pregabalin und einem niedrig dosierten Antidepressivum analgetisch gut beherrschbar war."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Unter Reduktion der Medikation blieb die Patientin bis zu einem Verlaufsgespräch etwa 6 Monate später beschwerdefrei."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Follow-up is reported only to ~6 months after diagnosis; no data beyond 12 months. Index time assumed as the admission/diagnosis when the brainstem cavernoma with subacute hemorrhage was identified and a non-surgical management plan was set. Persistent sensory deficit (hypaesthesia) at presentation may have resolved, but this is not explicitly stated; functional status inferred from being symptom-free on reduced medications."
+}

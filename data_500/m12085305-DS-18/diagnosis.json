@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Urinary tract infection",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with symptoms of lethargy, fever, urinary frequency, and had a urinalysis showing 22 WBCs, which supports the diagnosis of a urinary tract infection (UTI). Blood and urine cultures further validated the diagnosis with a positive result for Escherichia coli."
+    }
+}

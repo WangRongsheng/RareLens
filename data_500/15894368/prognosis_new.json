@@ -1,0 +1,23 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "Postoperative course was uneventful; at last follow-up 12 months after diagnosis, there was no clinical or radiologic evidence of recurrent disease and no adjuvant therapy was given.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "At 12 months after diagnosis, there was no clinical evidence of disease or recurrence, implying no ongoing symptoms.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "The patient’s postoperative course was uneventful."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At the time of her last follow-up, 12 months after diagnosis, the patient has no clinical or radiologic evidence of recurrent disease."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The precise index time (diagnosis prior to treatment) is not explicitly stated; the pathology-confirmed diagnosis around the time of initial surgery was used as the reference. Long-term follow-up is reported only to 12 months, which is at the threshold of the long_term category. Functional status is inferred from the absence of complications and disease; explicit activity descriptions are not provided."
+}

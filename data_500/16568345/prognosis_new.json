@@ -1,0 +1,13 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "No therapy has been provided so far and the patient has had serial visual field examinations without deterioration.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "functional_status_evidence_excerpt": "She had difficulty reading small print and a heteronymous inferior quadrantanopsia; follow-up visual field exams showed no deterioration, suggesting stable but mild functional limitation.",
+        "symptom_burden": "persistent_mild",
+        "symptom_burden_evidence_excerpt": "Persistent visual deficit (heteronymous inferior quadrantanopsia) with serial exams showing no deterioration; symptoms noted without progression."
+    },
+    "timeline_events": [],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Duration of follow-up after diagnosis is not specified; only that serial visual field tests showed no deterioration. Functional impact is inferred primarily from the documented visual field defect and reported reading difficulty; no detailed activity assessment provided."
+}

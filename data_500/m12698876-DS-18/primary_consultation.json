@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "166 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "shortness of breath",
+        "history_of_present_illness": "This is a ___ yo M with a past medical history significant for morbid obesity, type 2 DM, HTN, atrial fib on coumadin, OSA on CPAP, CHF, CKD stage III, sent to the ED by his PCP for increasing DOE over the past month. He reports increasing DOE with minimal exertion (become SOB with walks to the bathroom). He denies weight gain, leg swelling, chest pain, and fever. In the ED, initial vs were: T: 97.8 P: 133 BP: 200/126 R: 24 96% on RA. Labs remarkable for lactate 2.7, BNP of 737, negative trop.",
+        "past_medical_history": "Congestive heart failure, unspecified CKD (chronic kidney disease) stage 3, GFR ___ ml/min, obesity - morbid, hyperlipidemia, DM (diabetes mellitus), type 2, uncontrolled, with renal complications, hypertension, sleep apnea, atrial fibrillation, mitral regurgitation mild, aortic stenosis, arthritis of knee, chronic pain.",
+        "family_history": "non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "On Admission: Vitals: T: 98.1 BP: 182/103 P: 72 R: 20. General: Alert, oriented, no acute distress, morbidly obese.",
+        "specialty_examination": "Neuro: non-focal. Cardiovascular: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops. Extremities: Warm, well perfused, 2+ pulses, 4+ edema of legs bilaterally, 3+ edema of arms bilaterally."
+    }
+}

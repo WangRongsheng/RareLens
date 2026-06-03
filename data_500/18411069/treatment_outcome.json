@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "dietary modification",
+            "specific_treatment": "mild protein restriction",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2–2.5 g/kg/day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "supplementation",
+            "specific_treatment": "carnitine supplementation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg/kg per day in 3–4 divided doses",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medical management",
+            "specific_treatment": "aggressive management of intercurrent illnesses",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "temporary cessation of protein intake, increase in calorie intake, IV carnitine, aggressive anti febrile and anti infectious treatment",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Diagnosis of GA I through newborn screening"
+        },
+        {
+            "date": "Not specified",
+            "event": "Initiation of mild protein restriction and carnitine supplementation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Aggressive management of intercurrent illnesses"
+        },
+        {
+            "date": "Not specified",
+            "event": "Neuropsychological assessment for patients older than 3 years of age"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "varied among patients, from normal development to severe motor difficulties",
+        "follow_up_details": "Not specified",
+        "complications": "No complications mentioned for most patients; one patient had intermittent dystonic posturing",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "varied among patients, from normal to wheelchair-bound",
+        "patient_perspective": "Not specified"
+    }
+}

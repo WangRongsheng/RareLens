@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "excision",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "successfully treated"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "total abdominal hysterectomy and bilateral salpingo-oophorectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "prolonged recovery period of several years"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "hormone replacement therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vitamin C and multivitamin supplements",
+            "start_date": "mid-twenties",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vitamins A, C and E supplements",
+            "start_date": "more recently",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "vaccination",
+            "specific_treatment": "influenza and pneumococcal vaccinations",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "no side-effects"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "mid-twenties",
+            "event": "started hormone replacement therapy"
+        },
+        {
+            "date": "age 35",
+            "event": "total abdominal hysterectomy and bilateral salpingo-oophorectomy"
+        },
+        {
+            "date": "age 38",
+            "event": "excision of basal cell carcinoma on right upper lip"
+        },
+        {
+            "date": "age 39",
+            "event": "excision of 10 cm pedunculated polyp from sigmoid colon with focus of intramucosal carcinoma"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "ongoing symptoms",
+        "follow_up_details": "annual breast examinations and MRI, annual skin examinations, annual colonoscopy and upper gastrointestinal endoscopy",
+        "complications": "diabetic complications leading to loss of sight in right eye, cirrhosis of the liver, osteoporosis, intermittent viral labyrinthitis, fungal toenail infections, episodes of urticaria",
+        "long_term_prognosis": "shortened life expectancy, no patient with Bloom syndrome has yet been reported to have survived into their fifties",
+        "recovery_timeline": "prolonged recovery period of several years after hysterectomy",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "reluctant to undergo further major surgery due to prolonged recovery period after hysterectomy"
+    }
+}

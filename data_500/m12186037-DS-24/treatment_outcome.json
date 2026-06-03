@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "EGD and duodenal stent placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Placement of duodenal stent to relieve obstruction",
+            "treatment_response": "Improvement in discomfort after fluid removal and placement of stent"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Protonix, Morphine, Tylenol, Zofran, IV fluids, heparin drip",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Assisted in managing symptoms of pain and nausea"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with vomiting and epigastric pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "EGD performed, malignant stenosis found in duodenum and duodenal stent placed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Fluid removal (paracentesis) performed, 2.5L fluid removed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started heparin drip for pulmonary embolism"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient advised to eat a soft diet to prevent future obstruction"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive; discharged home",
+        "follow_up_details": "Follow up with Dr. ___ as scheduled",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient advised to stay well-hydrated and eat soft foods",
+        "patient_perspective": "Not specified"
+    }
+}

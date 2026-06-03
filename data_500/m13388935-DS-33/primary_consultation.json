@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "46 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abnormal labs",
+        "history_of_present_illness": "Mr. ___ is a ___ with a history of DM2, HTN, and hepatitis C cirrhosis s/p orthotopic liver transplant in ___ with a Roux-en-Y hepaticojejunostomy, complicated by acute cellular rejection, CMV viremia and leukopenia, severe osteoporosis, and recurrent hepatitis C with fibrosing cholestatic hepatitis. He was admitted for further evaluation of anemia, renal failure, and elevated LFTs.",
+        "past_medical_history": "Cirrhosis, s/p TIPS placement ___, s/p OLT ___ with recurrent hepatitis C ___ and acute cellular rejection ___, now with fibrosing cholestatic hepatitis. CMV viremia. Nonresponder to interferon and ribavirin after six months of therapy in ___. Treated with pegylated interferon and ribavirin for six months, treatment was discontinued for unclear reasons. Chronic Renal Insufficiency. Depression. Osteoarthritis. Hip osteopenia. Right knee surgery. Bilateral hernia repair. s/p Umbilical hernia repair. HTN. DM II.",
+        "family_history": "5 siblings. Some with thyroid and arthritis problems. No FHx liver or kidney disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: T97.8 BP149/97 P61 Sat100RA RR20. Thin appearing male, frail but in NAD.",
+        "specialty_examination": "Neurological: AAOx3, CN2-12 intact bilaterally. Cardiovascular: RRR, S1 S2 clear and of good quality without murmurs, rubs or gallops. Lungs: bibasilar crackles appreciated. Abdomen: SNT ND, +BS, well healed surgical scars."
+    }
+}

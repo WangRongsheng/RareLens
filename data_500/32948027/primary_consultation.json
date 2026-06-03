@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "41",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Veterinarian"
+    },
+    "medical_history": {
+        "chief_complaint": "Irregular hepatomegaly detected associated with persisting pain in the right hypochondrium",
+        "history_of_present_illness": "Ten months after transplantation, irregular hepatomegaly was detected associated with persisting pain in the right hypochondrium. An abdominal scan performed twelve months after transplantation revealed a 44 mm lesion in the hepatic segment IV with satellite nodules and necrotic adenomegaly suggesting cholangiocarcinoma.",
+        "past_medical_history": "Underwent a right lung transplantation (LT) for pulmonary fibrosis. In addition to tacrolimus, mycophenolate and prednisolone started immediately post-transplantation, basiliximab—an interleukin 2 receptor antagonist—was required two months post-transplantation for persistent acute cellular rejection treated with intravenous methylprednisolone since one month post-transplantation.",
+        "family_history": "Not specified",
+        "social_history": "Lives in a rural part of the French Massif Central region (France), a historic endemic zone for alveolar echinococcosis. Ownership of two dogs and four cats that were dewormed regularly but were free to roam outdoors and hunt unattended including in her unfenced garden visited by foxes; living in a house close to fields; vocational activities in the forest and growing leaf and root vegetables. Worked as a veterinarian for pets prior to transplantation but did not resume work before seven months post transplantation."
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Abdominal gray-scale ultrasound showing a heterogeneous mass lesion in the right lobe of the liver. The lesion is generally hyperechoic with a central linear hypoechoic suggesting liquid component. There are also small hyperechoic nodules surrounding this main lesion. Axial T2 weighted image after fat suppression demonstrates a tumor like hepatic mass, heterogeneous with a thick irregular border and central liquid component. Axial and coronal T1-weighted images with fat suppression, obtained after injection of gadolinium-based contrast agent showing a large heterogeneous tumor like mass in the liver, with intense peripheral enhancement and inflammation of adjacent liver. There are also satellite small hypointense vesicles with moderate peripheral contrast enhancement."
+    }
+}

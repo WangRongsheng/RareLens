@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Middle-Eastern",
+        "occupation": "Disabled, on SSDI"
+    },
+    "medical_history": {
+        "chief_complaint": "\"I told my SW I want to be committed.\"",
+        "history_of_present_illness": "Pt is a ___ y/o M ___ client with history of schizoaffective disorder, multiple prior psychiatric admissions, h/o assaultive behavior in the setting of medication non-adherence, HLD, asthma presenting to the ED on a ___ by his outpatient team at ___. He presented to the ___ ED with paranoia and disorganization after not taking medication x1 week. While in the ED, he assaulted staff members while attempting to elope from the facility. He was started on Depakote 500mg BID. He has paranoid ideation about the pharmacy and would only accept medication samples. He called his therapist requesting to be hospitalized, fearing that someone was controlling his thoughts and behaviors. He last took medications two weeks ago. He was noted to be paranoid and irritable during the ED visit.",
+        "past_medical_history": "Multiple psychiatric hospitalizations; most recently at ___ (___) for psychosis. History of state hospitalizations dating back to ___. Chronic conditions include HLD and intermittent asthma. Previous treatment included Rexulti 4mg (good efficacy), olanzapine 10mg, and Quetiapine 50mg.",
+        "family_history": "Unknown",
+        "social_history": "Lives at a hostel in ___ with a roommate. Emigrated to ___ at age ___. Has a history of regular tobacco use, occasional cannabis use, denies alcohol and illicit drug use."
+    },
+    "physical_examination": {
+        "general_examination": "VS: 98.9 F, HR 66, BP 117/72, RR 20, SpO2 97% RA. Appearance: disheveled, lying in bed. Behavior: guarded, fair eye contact. Mood: \"in danger\" / irritable. Thought process: disorganized.",
+        "specialty_examination": "Neurological: Awake and alert. Orientation: oriented to person, date, place, and situation. No motor deficits noted. Paranoid delusions with reports of auditory hallucinations."
+    }
+}

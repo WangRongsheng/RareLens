@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hemoptysis",
+        "history_of_present_illness": "___ year old F h/o NSCLC with mets to LNs, progression of disease despite chemo/xrt now on maintenance palliative pemetrexed p/w hemoptysis. Pt has had cough productive of yellow sputum x 2 weeks with hemoptysis x 2 days.",
+        "past_medical_history": "Onco Hx -RUL adenocarcinoma: Presented with progressive SOB, fatigue, and right lower chest and rib pain on ___. PMH COPD Afib on Pradaxa MVP s/p bovine MVR - osteoporosis - Raynauds phenomenon - mitral valve prolapse s/p mitral valve repair for endocarditis in ___ with bovine MVR.",
+        "family_history": "Mother who had lymphoma, maternal aunt who had cervical cancer, maternal aunt who had aplastic anemia.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "t 98.5 bp 96/45 hr 66 rr 20 sat 100% ra NAD eomi, perrl neck supple no ___ chest: b/l apical and anterior exp wheeze: clears with cough rrr abds benign ext w/wp neuro non-focal erythema on dorsal aspect of hands.",
+        "specialty_examination": "Lung: decreased breath sounds on the right, bibasilar crackles."
+    }
+}

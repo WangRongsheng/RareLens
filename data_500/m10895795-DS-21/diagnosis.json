@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Non ST-Segment Elevation Myocardial Infarction",
+        "differential_diagnosis": "Coronary Artery Disease, Peripheral Vascular Disease",
+        "diagnostic_reasoning": "The patient presented with left shoulder pain and had ECG changes suggestive of interolateral ischemia, along with positive cardiac biomarkers. Cardiac catheterization confirmed moderate coronary artery disease without obstructive lesions that required stenting."
+    }
+}

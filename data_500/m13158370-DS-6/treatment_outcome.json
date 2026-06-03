@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Clipping of A-Comm aneurysm",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No residual aneurysm identified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Levetiracetam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1,000 mg Tablet PO twice a day for 3 months",
+            "treatment_response": "Neurologically stable on discharge"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "325 mg Tablet as needed Q4-6H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Percocet",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Dosage Not specified, every four (4) hours as needed",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Attempted coiling of A-Comm aneurysm"
+        },
+        {
+            "date": "Not specified",
+            "event": "Clipping of A-Comm aneurysm performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Multiple cerebral angiograms conducted"
+        },
+        {
+            "date": "Not specified",
+            "event": "Placement of external ventricular drain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Removal of external ventricular drain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Levetiracetam prescribed for three months"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Neurologically stable with visual field deficits",
+        "follow_up_details": "Follow-up visit to discuss clearance to drive",
+        "complications": "Right eye blindness, left eye visual field cut, right basal ganglia infarct",
+        "long_term_prognosis": "Expected to improve, ongoing management for visual deficits",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

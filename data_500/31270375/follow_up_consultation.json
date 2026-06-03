@@ -1,0 +1,112 @@
+{
+    "basic_information": {
+        "age": "7",
+        "gender": "Female",
+        "weight": "21.65 kg",
+        "height": "121 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Brazilian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Seizures and sequential hemiparesis caused by a left thalamic hemorrhage",
+        "history_of_present_illness": "At 1 year of age, she experienced seizures and sequential hemiparesis caused by a left thalamic hemorrhage without cerebral vascular anomalies. Chronic hypertension was observed, and abdominal computed tomography angiography showed characteristic bilateral renal artery stenosis. At 3 years of age, hypertension was noted (130/80 mmHg [ >95th percentile]). Despite initiation of amlodipine (calcium channel blocker), her BP remained high at approximately the 95th percentile. She was admitted to the hospital due to the second episode of seizure at 5 years of age. No hemorrhage was observed on intracranial imaging and the cause of the second seizure episode remained unknown. Abdominal CT revealed bilateral renal artery stenosis. Hypertension was well controlled since starting an additional anti-hypertensive drug carvedilol (β-blocker). An antiepileptic drug (oxcarbazepine) and immunosuppressants (prednisolone and azathioprine) were initiated for seizures of unknown causes and suspected inflammatory vasculitis. No further seizure episodes have been reported.",
+        "past_medical_history": "Chronic hypertension, bilateral renal artery stenosis, seizures, left thalamic hemorrhage at 1 year of age",
+        "family_history": "Healthy parents with a healthy sister",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "BP was 110/60 mmHg (95th percentile) and heart rate was 74 beats/min. Neurological examinations showed mild cognitive impairment, no dysmetria, normal cranial nerves, and normal deep tendon reflexes. Funduscopy was normal. Livedo reticularis, follicular hyperkeratosis, and strabismus were observed, but no characteristic facial features were determined.",
+        "specialty_examination": "Proportionate limbs and hands with clinodactyly of the fifth fingers were noted. Her hand X-ray showed middle phalanx shortening of the fifth finger, with an appropriate bone age for her chronological age. Spine radiographs showed mild dorso-lumbar scoliosis. Abdominal three-dimensional CT revealed bilateral renal artery stenosis. Measurements of the right and left kidneys were 8.2 × 3.7 cm (−0.2 SD) and 7.2 × 3.2 cm (−2.2 SD), respectively, which indicated that her left kidney was relatively small for her age. Electrocardiogram and ultrasonography of her heart and carotid arteries were normal. A laboratory examination was normal, including whole blood cell counts, renal function (creatinine: 0.34 mg/dL and blood urea nitrogen: 27 mg/dL), electrolyte levels (sodium: 139 mEq/L, potassium: 4.5 mEq/L, and chloride: 101 mEq/L), blood clotting tests, and inflammatory tests."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Whole blood cell counts",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal function tests",
+            "date": "Not specified",
+            "findings": "Creatinine: 0.34 mg/dL, blood urea nitrogen: 27 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolyte levels",
+            "date": "Not specified",
+            "findings": "Sodium: 139 mEq/L, potassium: 4.5 mEq/L, chloride: 101 mEq/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood clotting tests",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Inflammatory tests",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain computed tomography (CT)",
+            "date": "At 1 year of age",
+            "findings": "Left thalamic-caudate hemorrhage, no cerebrovascular abnormalities",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal computed tomography angiography",
+            "date": "At 3 years of age",
+            "findings": "Bilateral renal artery stenosis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance angiography (MRA)",
+            "date": "At 1 year of age",
+            "findings": "No abnormal findings",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spinal bone X-rays",
+            "date": "Not specified",
+            "findings": "Mild dorso-lumbar scoliosis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hand X-ray",
+            "date": "Not specified",
+            "findings": "Middle phalanx shortening of the 5th finger, appropriate bone age",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal three-dimensional CT",
+            "date": "Not specified",
+            "findings": "Bilateral renal artery stenosis, left kidney relatively small for age (7.2 × 3.2 cm)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography of heart and carotid arteries",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole-exome sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Novel homozygous 1-bp deletion in YY1AP1 (NM_001198903.1; c.1169del: p.Lys390Argfs*12)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "low-phenylalanine diet",
+            "start_date": "1985-12-28",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "reduced blood phenylalanine strikingly to 30 pmol/1 within 1 week"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "DOPA, Carbidopa, and 5-hydroxytryptophan",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "6 weeks",
+            "treatment_response": "terminated, since normal values of biogenic amine metabolites and biopterin in cerebrospinal fluid were found"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "tetrahydrobiopterin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2-5mg/kg in a single oral dose per day",
+            "treatment_response": "resulted in serum phenylalanine concentrations between 42 and 133pmol/1"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "1985-12-28",
+            "event": "low-phenylalanine diet introduced"
+        },
+        {
+            "date": "Not specified",
+            "event": "DOPA, Carbidopa, and 5-hydroxytryptophan therapy started"
+        },
+        {
+            "date": "Not specified",
+            "event": "DOPA, Carbidopa, and 5-hydroxytryptophan therapy terminated"
+        },
+        {
+            "date": "Not specified",
+            "event": "tetrahydrobiopterin therapy started"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "moderately delayed psychomotor development",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

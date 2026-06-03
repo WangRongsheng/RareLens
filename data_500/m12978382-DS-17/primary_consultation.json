@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "R foot infection",
+        "history_of_present_illness": "Patient with DM presented to the clinic with concern of a small 'pimple' forming along the incision line where there had been a foreign body removed. He denies fever, chills, nausea, or vomiting, and reports some minor discomfort if he 'stepped wrong' on that foot since the past weekend. The wound was opened in clinic, and purulent material was expressed. A wound culture was taken, and betadine packing was placed. Patient completed at least a 2 week course of antibiotics.",
+        "past_medical_history": "Diabetes mellitus, asthma",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Appearance: NAD, AAOx3. Heart: RRR, no murmur/gallop. Lungs: CTA. Abdomen: NT/ND. Pedal Pulses: Palpable. Vascular: Sub-Papillary VFT: < 3 sec.",
+        "specialty_examination": "Neurological: Sensation intact, proprioception absent at digits. Integument: Pre/Post-ulcerative at plantar midfoot with drainage that is purulent. The wound has granular margins, undermines and tracks."
+    }
+}

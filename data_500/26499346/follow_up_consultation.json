@@ -1,0 +1,130 @@
+{
+    "basic_information": {
+        "age": "6 months",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Pathologically increasing head circumference and symptoms of increased intracranial pressure, in combination with marked developmental delay and loss of abilities",
+        "history_of_present_illness": "At 1 month of age, she underwent an echocardiogram revealing a persistent foramen ovale but no cardiac insufficiency and also had two suspected left partial epileptic seizures. At 2 months, developmental delay was noted with lack of eye contact, no smiles, and feeding difficulties, and at 3.5 months, an increase in head circumference was noted. At 6 months of age, she had opisthotonus-like attacks with an increasing frequency. She also kept her head extended when placed in bed, all signs corresponding to symptoms of increased intracranial pressure.",
+        "past_medical_history": "Persistent foramen ovale, suspected left partial epileptic seizures, developmental delay, feeding difficulties",
+        "family_history": "Mother with similar cutaneous capillary haemangiomas and RASA1 mutation",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Radiological evaluation with transfonatanellar ultrasound and MRI revealed a vein of Galen malformation with hydrocephalus, and tonsillar prolapse. Angiographic examination revealed a mural type of vein of Galen malformation with its main supply from the postero-lateral and postero-medial choroidal arteries. There was a pronounced hypoplasia of the superior sagittal sinus compensated by enlarged cortical veins draining mainly into the cavernous sinus. Persisting occipital and marginal sinuses were noted and there was a high-grade stenosis of the right jugular bulb."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "DNA analysis",
+            "date": "Not specified",
+            "findings": "Mutation in exon 16 of the RASA1 gene (c.2125C > T)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DNA analysis",
+            "date": "Not specified",
+            "findings": "Mutation in exon 21 of the RASA1 gene (c.2707C > T)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DNA analysis",
+            "date": "Not specified",
+            "findings": "Mutation in exon 9 of the RASA1 gene (c.1279C > T)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Transfontanellar ultrasound",
+            "date": "Not specified",
+            "findings": "Vein of Galen malformation with hydrocephalus, and tonsillar prolapse",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Vein of Galen malformation with hydrocephalus, and tonsillar prolapse",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebral angiography",
+            "date": "Not specified",
+            "findings": "Mural type of vein of Galen malformation with its main supply from the postero-lateral and postero-medial choroidal arteries",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transfontanellar ultrasound",
+            "date": "Not specified",
+            "findings": "High-flow shunts at the level of the superior sagittal sinus",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Large dural sinus malformation with multiple fistulous communications between meningeal arteries and the malformed superior sagittal sinus itself",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Angiography",
+            "date": "Not specified",
+            "findings": "Malformation of the superior sagittal sinus with associated high-flow fistulas",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transfontanellar ultrasound",
+            "date": "Not specified",
+            "findings": "Left-sided fast-flow shunt",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Bilobulated venous ectasia close to the midline with dominant arterial supply arising from the posterior circulation with normal brain parenchyma",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Angiography",
+            "date": "Not specified",
+            "findings": "Direct arteriovenous fistula between along a circumferential artery and an ectatic tectal vein that secondarily drained towards the dilated vein of Galen",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Persistent foramen ovale but no cardiac insufficiency",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Considered normal despite some MR signal abnormalities in the brain white matter",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "No structural cardiac anomaly but significant cardiac insufficiency with cardiac enlargement, and pulmonary hypertension requiring assisted ventilation",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prenatal ultrasound",
+            "date": "Gestational week 33",
+            "findings": "Intracranial high-flow shunt visible",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "No signs of cardiac insufficiency",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Phenytoin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient hospitalized due to symptoms of left facial weakness"
+        },
+        {
+            "date": "Not specified",
+            "event": "Repeat head CT scans showed no changes in the sign of the bleed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Neurological exam remained stable"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT scan of the chest showed a small benign pulmonary nodule requiring follow-up"
+        },
+        {
+            "date": "Not specified",
+            "event": "Abdominal CT showed evidence of previous external iliac vein thrombosis"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable condition",
+        "follow_up_details": "Follow-up CT scan of the chest in 6 months",
+        "complications": "No complications",
+        "long_term_prognosis": "Bleeding likely due to amyloid angiopathy",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

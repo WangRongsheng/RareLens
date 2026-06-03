@@ -1,0 +1,100 @@
+{
+    "basic_information": {
+        "age": "3 years",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Moroccan",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Abnormal ocular movements, walking disorder with frequent falls and language difficulties",
+        "history_of_present_illness": "At age 3 years, parents noticed abnormal ocular movements, walking disorder with frequent falls and language difficulties. Clinically diagnosed with cerebellar ataxia. Cranial MRI scans showed cerebellar atrophy. At age 6 years, referred to Neuropaediatrics unit. Neurological exam showed oculomotor apraxia, ataxic gait and dysmetria. Also presented distal limb dystonia, bilateral spontaneous Babinski and rotulian and achillean hyporeflexia. Vitamin E levels were low at age 7 years (1.3 μg/ml and 0.4 μg/ml; normal range 3–15 μg/ml). Vitamin E levels returned to normal (11.7 μg/ml) after oral vitamin E treatment. EMG at age 7 years showed a discrete reduction of the sural sensory nerve action potential (SNAP) amplitude. At age 9 years, EMG results were in agreement with sensitive axonal polyneuropathy.",
+        "past_medical_history": "Cerebellar ataxia, oculomotor apraxia, dysmetria, distal limb dystonia, hyporeflexia, sensitive axonal polyneuropathy",
+        "family_history": "Healthy non-consanguineous Moroccan parents. Two healthy brothers. No family history of interest.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Neurological exam showed oculomotor apraxia, ataxic gait and dysmetria. Also presented distal limb dystonia, bilateral spontaneous Babinski and rotulian and achillean hyporeflexia."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Vitamin E levels",
+            "date": "Age 7 years",
+            "findings": "Low (1.3 μg/ml and 0.4 μg/ml; normal range 3–15 μg/ml)",
+            "changes_over_time": "Returned to normal (11.7 μg/ml) after oral vitamin E treatment"
+        },
+        {
+            "procedure_name": "Blood levels of albumin, cholesterol, immunoglobulins, alpha-fetoprotein, carcinoembryonic antigen",
+            "date": "Not specified",
+            "findings": "All normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Molecular testing of TTPA",
+            "date": "Not specified",
+            "findings": "No abnormalities observed",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Molecular testing of ATM",
+            "date": "Not specified",
+            "findings": "No abnormalities found",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "APTX sequencing and MLPA",
+            "date": "Not specified",
+            "findings": "Homozygous deletion of exons 3 to 9",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "SNP array analysis",
+            "date": "Not specified",
+            "findings": "Deletion of 62 kb between positions 32.932.194 and 32.994.500 on chromosome chr9p21.1",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Cranial Computed Tomography",
+            "date": "Age 3 years",
+            "findings": "Cerebellar atrophy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cranial Magnetic Resonance Imaging (MRI)",
+            "date": "Age 3 years",
+            "findings": "Cerebellar atrophy",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Brainstem Auditory Evoked Response (BAER) test",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ophthalmologic assessment",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiological assessment",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electromyography (EMG)",
+            "date": "Age 7 years",
+            "findings": "Discrete reduction of the sural sensory nerve action potential (SNAP) amplitude",
+            "changes_over_time": "At age 9 years, results were in agreement with sensitive axonal polyneuropathy"
+        }
+    ]
+}

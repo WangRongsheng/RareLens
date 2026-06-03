@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "knee pain, skin tag",
+        "history_of_present_illness": "Mr. ___ is a very pleasant gentleman with a history of myocardial infarction back in approximately ___ for which he had stents placed. He is also with a history of stroke back in ___ with residual left peripheral vision deficit for which he is on Coumadin. He saw Dr. ___ in clinic in ___ for consultation for total knee arthroplasty for his ___ knee arthritis. He presents today for surgery.",
+        "past_medical_history": "1. HTN 2. CAD -s/p PTCA ___ at ___ 3. Polio as a child with residual left leg weakness and atrophy 4. CVA with residual left visual field deficit 5. Afib on rivaroxaban",
+        "family_history": "Mother had stroke in her ___. Father died in ___ of cancer (?type)",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Well appearing in no acute distress. Afebrile with stable vital signs. Pain well-controlled.",
+        "specialty_examination": "Neurologic: Intact on right side, weakness on left which is patient's baseline. Musculoskeletal: Lower Extremity: Incision healing well with staples, scant serosanguinous drainage, thigh full but soft, no calf tenderness."
+    }
+}

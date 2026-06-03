@@ -1,0 +1,86 @@
+{
+    "basic_information": {
+        "age": "59",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Difficulty in swallowing",
+        "history_of_present_illness": "A 2-month history of progressive dysphagia, without hoarseness. Iohexol swallowing revealed a malignant-appearing structure in the inferior-thoracic region. Endoscopic assessment revealed a lesion of mucosal hyperplasia forming a luminal stenosis 36cm from the incisor teeth.",
+        "past_medical_history": "Hypertension for the last 9 years, diagnosed with type 2 diabetes over 1 year ago. No prior malignant disease or distant metastases.",
+        "family_history": "Not specified",
+        "social_history": "Smoked 60 cigarettes per day for 40 years and had been a heavy alcohol drinker for 40 years."
+    },
+    "physical_examination": {
+        "general_examination": "Neck and supraclavicular lymph nodes were not palpable. No significant abnormal values were detected in the blood count or in serum and biochemical analysis.",
+        "specialty_examination": "Endoscopic assessment revealed a lesion of mucosal hyperplasia forming a luminal stenosis 36cm from the incisor teeth. Biopsy of the lesion demonstrated an esophageal MEC. On computed tomography (CT) scanning, the tumor was deemed to be resectable."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood count",
+            "date": "Not specified",
+            "findings": "No significant abnormal values detected",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum and biochemical analysis",
+            "date": "Not specified",
+            "findings": "No significant abnormal values detected",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy of the lesion under endoscopy",
+            "date": "Not specified",
+            "findings": "Demonstrated a mucoepidermoid carcinoma of the esophagus",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histopathological analysis",
+            "date": "Not specified",
+            "findings": "Histological characteristics typical of an esophageal MEC, positive for p-63 and CK5/6, mucus-secreting cells identified using Periodic Acid-Schiff staining",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Iohexol swallowing",
+            "date": "Not specified",
+            "findings": "Revealed a malignant-appearing structure in the inferior-thoracic region",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic assessment",
+            "date": "Not specified",
+            "findings": "Revealed a lesion of mucosal hyperplasia forming a luminal stenosis 36cm from the incisor teeth",
+            "changes_over_time": "No evidence of recurrence at 17, 19, and 31 months after surgery"
+        },
+        {
+            "procedure_name": "Computed tomography (CT) scan",
+            "date": "Not specified",
+            "findings": "The tumor was deemed to be resectable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Esophageal CT scan",
+            "date": "17 months after surgery",
+            "findings": "Revealed that the wall of esophagus was evenly thickened",
+            "changes_over_time": "Further CT scans at 19 and 31 months after surgery also showed a thickened esophageal wall"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Physical examination",
+            "date": "Not specified",
+            "findings": "Neck and supraclavicular lymph nodes were not palpable",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "mucoepidermoid carcinoma of the esophagus",
+        "diagnostic_reasoning": "Biopsy of the lesion under endoscopy demonstrated a mucoepidermoid carcinoma of the esophagus. Histopathological analysis of the tumor revealed histological characteristics typical of an esophageal MEC, including epidermoid cells arranged in nests, keratin pearl formation, and columnar mucus-secreting cells. Immunohistochemistry results confirmed the diagnosis with positive staining for p-63 and CK5/6."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "seziure",
+        "history_of_present_illness": "___ yo M with bipolar d/o and polysubstance abuse presenting with general malaise, diaphoresis and tremors. He was admitted overnight for four days of nausea/vomiting but now denies these symptoms. He reports general malaise, diaphoresis, tremors, headache, pruritis and tactile hallucinations. His last alcoholic drink was yesterday or the day before at 9am. He also reports that he had a seizure yesterday and the day before, though neither were witnessed. He reports a visual aura of flashing lights and then lost consciousness, waking up confused on the floor. He has left facial pain at the site of an old facial fracture due to a prior seizure. He also has right knee pain of unknown etiology, worse with movement. He lives with his aunt, who reports that he is not compliant with his medications or MD appointments. She reports he spends much of his time in ___ with friends who provide him with drugs and alcohol. She does not keep alcohol or drugs in the home but is unable to control his actions beyond that. She has been trying to assist him with The Ride so he can get to doctor appointments but has been unsuccessful. He was recently admitted to this hospital with similarly vague symptoms, and discharged home on citalopram, seroquel, gabapentin and keppra. He had follow-up planned in ___ on ___ but did not make his appointment. Initial VS were 99.4 120 128/65 16 92% RA. Labs significant for anion gap 16, creatinine 1.1, etoh 50, negative benzo. CBC WNL. CT mandible showed depressed left zygomatic arch fracture that was healing from prior CT. CT C-spine was nl as well CT head. Knee Xray unremarkable. CXR WNL. Left shoulder without acute process. In ED, patient only required one dose of valium in ED, patient still elevated on CIWA scale to 8, but was able to tolerate four hours without redosing. VS on transfer were 97.9, 98, 130/73, 16, 95/RA. He had received 1250 cc of IVF.",
+        "past_medical_history": "- Schizoaffective DO - Borderline PD - Bipolar DO - heavy substance abuse - ADHD diagnosed at age ___ - MDD - GAD - Social anxiety disorder - PTSD - h/o SIB by cutting; h/o SI/SA. - Multiple med trials including quetiapine (felt tired), wellbutrin, risperidal, clonazepam, effexor, trileptal, Other PAST MEDICAL HISTORY: - hx of grand mal seizures secondary to prior brain trauma and alcohol - craniotomy after a traumatic insult ___ ?reportedly hit by bat - prior stabbings to torso and back - hepatic dysfunction - HCV - s/p assault on ___ and seen @ ___ s/p Lt Zygomatic arch fracture.",
+        "family_history": "Mother with depression and alcohol dependent",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: afebrile, 120s/80s, 80s, high ___. GENERAL: Comfortable, slow speaking, somnolent HEENT: indentation of left cheek painful to palpation, PERRLA, EOMI, sclerae anicteric, MMM, OP clear. HEART: RRR, no MRG, nl S1-S2. LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored. ABDOMEN: Soft/NT/ND, no masses or HSM, no rebound/guarding. EXTREMITIES: no edema, chronic excoriations posterior left leg, excoriations over left forearm NEURO: Awake, CNs II-XII grossly intact PSYCH: responses not congruent.",
+        "specialty_examination": "Not specified"
+    }
+}

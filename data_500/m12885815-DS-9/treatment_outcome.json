@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Morphine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 gm administered twice",
+            "treatment_response": "Provided pain relief"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Normal Saline",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1L",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 gm",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ondansetron",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg",
+            "treatment_response": "Potentially alleviated nausea"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presents with severe abdominal pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Vital signs recorded in ED"
+        },
+        {
+            "date": "Not specified",
+            "event": "Morphine, Normal Saline, Ceftriaxone, and Ondansetron administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT Abdomen/Pelvis indicates possible cystitis and metastatic liver lesions"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge with hospice comfort medications"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused and lethargic but arousable",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Patient likely has cancer of the biliary tract",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Focus on keeping the patient comfortable",
+        "patient_perspective": "Patient's options discussed with family; decision made to focus on comfort"
+    }
+}

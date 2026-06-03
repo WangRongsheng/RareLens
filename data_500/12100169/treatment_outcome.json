@@ -1,0 +1,111 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "immunosuppressive therapy",
+            "specific_treatment": "anti-thymocyte globulin (ATG)",
+            "start_date": "1995-06",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg/kg/d intravenously for 4 d",
+            "treatment_response": "transfusion independent by 6 weeks (Hb 8.2 g/dl, platelets 86 · 10^9/l, ANC 1.94 · 10^9/l)"
+        },
+        {
+            "treatment_type": "immunosuppressive therapy",
+            "specific_treatment": "prednisone",
+            "start_date": "1995-06",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 mg/kg/d orally for 2 weeks",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "immunosuppressive therapy",
+            "specific_treatment": "cyclosporine (CSA)",
+            "start_date": "1995-06",
+            "end_date": "1996-06",
+            "dosage_or_details": "15 mg/kg/d orally",
+            "treatment_response": "transfusion independent by 6 weeks (Hb 8.2 g/dl, platelets 86 · 10^9/l, ANC 1.94 · 10^9/l)"
+        },
+        {
+            "treatment_type": "immunosuppressive therapy",
+            "specific_treatment": "cyclosporine (CSA)",
+            "start_date": "1996-09",
+            "end_date": "1999-05",
+            "dosage_or_details": "12 mg/kg/d orally",
+            "treatment_response": "gradually increasing platelet counts (152 · 10^9/l in March 1998)"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "methylphenidate hydrochloride (Ritalin)",
+            "start_date": "1999-11",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "atenolol",
+            "start_date": "2001-04",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.8 mg/kg/d",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "radiation therapy",
+            "specific_treatment": "radioactive Iodine (I131)",
+            "start_date": "2001-04",
+            "end_date": "Not specified",
+            "dosage_or_details": "9.11 mCi orally",
+            "treatment_response": "tolerated well"
+        },
+        {
+            "treatment_type": "immunosuppressive therapy",
+            "specific_treatment": "cyclosporine (CSA)",
+            "start_date": "2001-09",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "1995-06",
+            "event": "Diagnosed with idiopathic severe aplastic anaemia (SAA); started immunosuppressive therapy with ATG, prednisone, and CSA"
+        },
+        {
+            "date": "1996-06",
+            "event": "CSA stopped after tapering"
+        },
+        {
+            "date": "1996-09",
+            "event": "CSA resumed at 12 mg/kg/d orally due to falling platelet counts"
+        },
+        {
+            "date": "1998-03",
+            "event": "Platelet counts increased to 152 · 10^9/l"
+        },
+        {
+            "date": "1999-05",
+            "event": "CSA discontinued after slow wean; CBC remained normal"
+        },
+        {
+            "date": "1999-11",
+            "event": "Diagnosed with ADHD; started on methylphenidate hydrochloride (Ritalin)"
+        },
+        {
+            "date": "2001-04",
+            "event": "Platelet count fell to 93 · 10^9/l; diagnosed with Grave’s disease; started on atenolol and radioactive Iodine (I131)"
+        },
+        {
+            "date": "2001-09",
+            "event": "CSA re-instituted due to worsening platelet counts (49 · 10^9/l)"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Not specified",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

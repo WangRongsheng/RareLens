@@ -1,0 +1,58 @@
+{
+    "basic_information": {
+        "age": "33",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Achondroplastic dwarf",
+        "occupation": "Circus clown, dwarf throwing competitor"
+    },
+    "medical_history": {
+        "chief_complaint": "Headache",
+        "history_of_present_illness": "Chronic alcohol abuse (100 to 400 g alcohol per day), poor eating habits, withdrawal seizures, aggression, poor concentration, impatience, panic symptoms, blackouts, ataxia, nystagmus, mild Rombergism, brisk reflexes, treated for Wernicke's encephalopathy",
+        "past_medical_history": "Cirrhosis, chronic pancreatitis, frequent hospital attendances for withdrawal seizures",
+        "family_history": "Not specified",
+        "social_history": "Alcohol abuse (100 to 400 g per day), poor eating habits, worked as circus clown for 15 years, knocked unconscious \"a dozen times\" during circus routines, worked sporadically in dwarf throwing competitions for 8 to 10 years prior to death, secretive about personal life"
+    },
+    "physical_examination": {
+        "general_examination": "Laceration 3 cm long below the right eyebrow, marked nicotine staining of the fingers, skull thicker than normal, acute bronchitis (cause of death), severe glycogenic acanthosis of the esophagus, early micronodular cirrhosis and mild fatty change in the liver",
+        "specialty_examination": "Ataxia, nystagmus, mild Rombergism, brisk reflexes, dilated lateral and third ventricles, thin corpus callosum, fenestrated septum pellucidum, severe superior vermal folial atrophy with gliosis and shrinkage of the folia, neurofibrillary tangles in hippocampal pyramidal neurones"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "Early micronodular cirrhosis and mild fatty change",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood alcohol level",
+            "date": "Not specified",
+            "findings": "Chronic alcohol abuse (100 to 400 g alcohol per day)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain imaging (post-mortem)",
+            "date": "Not specified",
+            "findings": "Dilated ventricles, fenestrated septum pellucidum, thin corpus callosum, diminished thalamus size, severe superior vermal folial atrophy in cerebellum, neurofibrillary tangles in hippocampal neurones",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Autopsy",
+            "date": "Not specified",
+            "findings": "Thick skull, fresh brain weight 1,940 g, fixed brain weight 1,833 g, no contusions, severe chronic pancreatitis, acute bronchitis, severe glycogenic acanthosis of the esophagus",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neuropathological examination",
+            "date": "Not specified",
+            "findings": "Fenestration of the septum pellucidum, severe superior vermal folial atrophy with loss of Purkinje cells, Bergmann astrogliosis, reduction in granular neurones, neurofibrillary tangles in hippocampal neurones, negative for amyloid precursor protein and beta A4 amyloid protein, Tau-positive neurofibrillary tangles",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

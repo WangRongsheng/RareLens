@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Seizures with low AED levels",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "Patient presented with symptoms suggestive of seizures, including tongue biting and incontinence. EEG during hospitalization showed no seizures, but patient had low levels of antiepileptic drugs (AEDs), indicating a possible breakthrough seizure due to insufficient medication dosing."
+    }
+}

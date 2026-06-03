@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Decadron",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg IV q8h",
+            "treatment_response": "Resolution of tongue swelling"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "diphenhydramine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "racemic epinephrine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "nebs prn",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "laryngoscopy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed by ENT",
+            "treatment_response": "No laryngeal edema, airway widely patent"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient experienced right tongue swelling and throat sensation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received Benadryl, steroids, and Pepsid at initial facility"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient transferred to ED for further management"
+        },
+        {
+            "date": "Not specified",
+            "event": "ENT performed laryngoscopy, noted right-sided tongue swelling"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 10 mg IV Decadron at OSH at around 2am"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient due for next Decadron dose at 10am"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with resolution of tongue swelling"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Resolved tongue swelling, stable condition",
+        "follow_up_details": "Follow-up with primary care physician recommended",
+        "complications": "No complications",
+        "long_term_prognosis": "Expected to avoid ACE inhibitors",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Breathing fine, satting well on room air",
+        "patient_perspective": "Patient was treated for angioedema secondary to lisinopril"
+    }
+}

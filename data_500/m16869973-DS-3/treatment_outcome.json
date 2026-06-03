@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "decadron",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg IV",
+            "treatment_response": "Swelling decreased significantly"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "benadryl",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg IV",
+            "treatment_response": "Swelling decreased significantly"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "60 mg orally",
+            "treatment_response": "Swelling decreased significantly"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "labetalol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "600 mg orally, 5 mg IV",
+            "treatment_response": "Blood pressure stabilized"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with worsening facial swelling"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 10 mg IV decadron"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 50 mg IV benadryl"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 60 mg prednisone"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 600 mg labetalol orally and 5 mg IV"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable and alert, significant improvement in facial swelling",
+        "follow_up_details": "Scheduled follow-up with ENT and Allergy, kidney specialist visit recommended",
+        "complications": "Acute Kidney Injury",
+        "long_term_prognosis": "Avoid ACE-inhibitors like lisinopril in the future",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient was satisfied with the treatment outcome"
+    }
+}

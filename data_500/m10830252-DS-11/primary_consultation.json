@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Black",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "I have agitation and I don't need to put up with all the people",
+        "history_of_present_illness": "Ms. ___ is a female group home resident with a past psychiatric history of bipolar disorder with psychotic features, brought in by EMS from group home for agitation, aggression, and mood instability. Upon arrival to Deaconess ___, Ms. ___ expresses her appreciation to work with qualified healthcare professionals. Interview limited by patient agitation. Agrees to voluntary room program. Notable for significant agitation, behavioral disruption, including threatening staff, throwing food and drink, spitting, and combative behavior. Multiple security interventions, including restraints and various medications administered. Time of initial approach, patient was agitated, threatening staff, hitting and kicking walls. Sedated and unable to participate in interview. Patient complained of foot pain due to arthritis. She has been increasingly agitated, with a history of violence when off medication, paranoid about medications, and behavior indicative of acute decompensation.",
+        "past_medical_history": "Gastroesophageal reflux disease (GERD), right breast nodule, burn to latissimus, history of head trauma. Past psychiatric history includes bipolar disorder with multiple hospitalizations. Medication trials include diphenhydramine, haloperidol, lurasidone, among others. History of sexual and physical abuse in childhood; Intimate Partner Violence by former partner.",
+        "family_history": "Family psychiatric history denies psychiatric diagnoses or substance use disorders.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital Signs: T: 98.0, HR: 117, BP: 127/91, RR: 20, SpO2: 100% on RA. Overweight black woman, appears older than stated age.",
+        "specialty_examination": "Neurological: Awake, alert, oriented to person, time, place, situation; cooperative, intermittently suspicious. Thought process tangential. Affect mood-congruent, irritable. No abnormal movements appreciated."
+    }
+}

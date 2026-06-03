@@ -1,0 +1,99 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Trihexyphenidyl",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "8 mg per day",
+            "treatment_response": "Transient improvement in dystonia with excess sedation; quickly weaned"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "L-dopa/carbidopa (Sinemet CR)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Up to 2000 mg per day",
+            "treatment_response": "No change in dystonia"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oral baclofen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "80 mg per day",
+            "treatment_response": "Transient reduction in spasticity and dystonia with sedation"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Clonazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg per day initially, reduced to 1.5 mg per day after pump implantation",
+            "treatment_response": "Transient reduction in spasticity and dystonia with sedation"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Intrathecal baclofen trial",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mcg and subsequently 100 mcg",
+            "treatment_response": "Substantial response with decreased tone and dystonia, improved ambulation, no sedation"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Intrathecal baclofen pump implantation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Dose titrated up to 1200 mcg per day over 3 months",
+            "treatment_response": "Sustained improvement: dystonia scale rating dropped from 3+ to 1+, improved ambulation, enhanced activities of daily living"
+        },
+        {
+            "treatment_type": "injection",
+            "specific_treatment": "Botulinum toxin type-A",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Injections in left proximal and distal upper extremity",
+            "treatment_response": "Response noted (specific details not provided)"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Trihexyphenidyl started and discontinued due to sedation"
+        },
+        {
+            "date": "Not specified",
+            "event": "L-dopa/carbidopa trial initiated with no improvement"
+        },
+        {
+            "date": "Not specified",
+            "event": "Oral baclofen and clonazepam added with transient effects"
+        },
+        {
+            "date": "Not specified",
+            "event": "Intrathecal baclofen trial administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Intrathecal baclofen pump implanted"
+        },
+        {
+            "date": "Not specified",
+            "event": "Baclofen dose titrated up to 1200 mcg/day over 3 months"
+        },
+        {
+            "date": "Not specified",
+            "event": "Botulinum toxin type-A injections administered pre- and post-pump"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved ambulation, decreased dystonia, enhanced activities of daily living",
+        "follow_up_details": "18 months post-implantation",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Gradual improvement over weeks",
+        "quality_of_life": "Improved social life",
+        "patient_perspective": "Not specified"
+    }
+}

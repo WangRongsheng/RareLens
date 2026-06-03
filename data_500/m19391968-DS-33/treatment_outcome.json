@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "nasogastric tube placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "obstruction resolved after conservative management"
+        },
+        {
+            "treatment_type": "supportive care",
+            "specific_treatment": "bowel rest and intravenous fluids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "patient tolerated a regular diet and pain controlled with oral medications"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for small bowel obstruction"
+        },
+        {
+            "date": "Not specified",
+            "event": "Nasogastric tube placed in stomach to decompress bowels"
+        },
+        {
+            "date": "Not specified",
+            "event": "Conservative management applied including bowel rest and IV fluids"
+        },
+        {
+            "date": "Not specified",
+            "event": "Obstruction resolved"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home with recovery instructions"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "obstruction resolved",
+        "follow_up_details": "Weigh yourself every morning, call MD if weight goes up more than 3 lbs.",
+        "complications": "No complications",
+        "long_term_prognosis": "Hope for quick return to life and usual activities",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient was alert, interactive, and independent at discharge",
+        "patient_perspective": "Patient tolerated a regular diet and expressed hope for a quick return to usual activities"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "33",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "20 kg/m2",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Intermittent abdominal pain, nausea, vomiting, constipation and numbness of bilateral lower limb extremities, of 3 days duration",
+        "history_of_present_illness": "Recurrent episodes of severe abdominal pain, nausea, vomiting, constipation and numbness of bilateral lower limb extremities over 2 years, with six acute hospital admissions. Previous misdiagnoses include acute appendicitis, sinus tachycardia, renal calculi, drug-induced acute interstitial nephritis, and partial intestinal obstruction.",
+        "past_medical_history": "Non-diabetic, no previous history of hypertension. Usage of over-the-counter analgesics for 6 weeks. Previous surgeries: appendectomy and laparoscopy.",
+        "family_history": "Four out of five family members who underwent targeted mutation analyses were mutation-positive for the HMBS gene mutation.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Thin built (BMI=20 kg/m2), pale. Brachial blood pressure was 160/90 mmHg. Scars of previous appendectomy and laparoscopy surgeries on the abdominal.",
+        "specialty_examination": "Muscle power was 4/5 in all four limbs (could not move against a good resistance)."
+    }
+}

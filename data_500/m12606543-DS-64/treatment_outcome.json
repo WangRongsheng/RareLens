@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lasix (furosemide)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "IV infusion",
+            "treatment_response": "Successful in removing fluid; patient weight decreased to 204 pounds by discharge."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for exacerbation of heart failure and fluid retention."
+        },
+        {
+            "date": "Not specified",
+            "event": "IV diuresis initiated with Lasix."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient's weight reduced to 204 pounds by discharge."
+        },
+        {
+            "date": "Not specified",
+            "event": "Tracheostomy was replaced after it was coughed out."
+        },
+        {
+            "date": "Not specified",
+            "event": "Follow-up appointment arranged with Dr ___."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient was discharged to an extended care facility.",
+        "follow_up_details": "Appointment with Dr ___ has already been arranged.",
+        "complications": "Coughing out trach requiring replacement.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient requires assistance for ambulation, uses a walker or cane.",
+        "patient_perspective": "Patient required monitoring of weight post-discharge and instructed to call the clinic if weight gain exceeded 3 lbs."
+    }
+}

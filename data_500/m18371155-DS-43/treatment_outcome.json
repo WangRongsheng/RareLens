@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Tylenol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "650 mg PO Q4H: PRN Pain - Mild",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV hydration",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1L NS",
+            "treatment_response": "Helped kidneys and brought blood numbers back to where they usually are"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Various medications",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "included atorvastatin, benzonatate, docusate, gabapentin, keppra, insulin, imdur, donepezil, ASA, lisinopril, pantoprazole, sertraline",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented after a fall at home"
+        },
+        {
+            "date": "Not specified",
+            "event": "IV hydration started"
+        },
+        {
+            "date": "Not specified",
+            "event": "Medications administered, including various medications for underlying conditions"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient advised to follow-up with lung doctors about possible sleep apnea"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused, alert and interactive, requires assistance for ambulation",
+        "follow_up_details": "Follow-up with lung doctors about possible sleep apnea",
+        "complications": "Acute kidney injury, intermittent brief hypoxia",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Requires assistance or aid (walker or cane)",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Micafungin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "150 mg IV Q24H",
+            "treatment_response": "Symptoms improved slightly to the point where the patient could start to tolerate liquids."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for IV treatment and PICC line due to progressive candidiasis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Micafungin treatment re-started during admission."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient's symptoms improved slightly."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved, able to tolerate liquids.",
+        "follow_up_details": "Infusions set up for follow up, will continue to follow closely with outpatient team.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Recommended initiation of AIDS therapy for long-term management of esophagitis.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient is knowledgeable about options and future plans."
+    }
+}

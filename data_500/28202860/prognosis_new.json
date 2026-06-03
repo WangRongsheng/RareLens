@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "Severe jaundice persisted with progressive liver atrophy and ascites; later complicated by CMV pneumonia requiring ICU and ventilator support, and he died of respiratory failure. Autopsy confirmed hepatic SOS.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Persistent severe jaundice with progressive liver atrophy and increased ascites; abdominal distention and edema.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "R-CHOP reduced his body temperature and serum LDH concentration."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "After the second cycle of R-CODOX-M/IVAC, AST/ALT rose to 516/288 IU/L and bilirubin to 5.5 mg/dL with jaundice, edema, weight gain, and ascites."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "unknown",
+            "evidence_excerpt": "Initiated nafamostat mesilate, glycyrrhizic acid, and ursodeoxycholic acid for severe cholestatic-type liver injury."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Severe jaundice persisted; liver function did not recover. CT showed progressive liver atrophy and increased ascites."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Developed CMV pneumonia; admitted to ICU and received ventilator support."
+        },
+        {
+            "event_type": "death",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Pneumonia worsened and he died of respiratory failure."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Exact dates are not provided; timeline inferred from the clinical course figure (2011/9–2012/3). Hepatic SOS was suspected clinically but confirmed at autopsy; index time anchored to the documented lymphoma diagnosis and treatment initiation."
+}

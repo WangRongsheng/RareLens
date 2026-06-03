@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "lumbar puncture",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "LP revealed 1 WBC and was unremarkable."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Dilaudid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 mg IV prior to transfer",
+            "treatment_response": "Pain significantly improved following administration."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Phenergan",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "IV prior to transfer",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient underwent facet injection at C2-C3."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was NPO after midnight for a GI motility study."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient developed nausea and began dry heaving."
+        },
+        {
+            "date": "Not specified",
+            "event": "Neurology was consulted, and the patient received Dilaudid and Phenergan."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient stated that her pain was significantly improved upon arrival to the floor."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent, experiencing significant improvement in migraine pain.",
+        "follow_up_details": "Follow-up with outpatient providers for further considerations about headaches.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient reported pain was significantly improved after treatment."
+    }
+}

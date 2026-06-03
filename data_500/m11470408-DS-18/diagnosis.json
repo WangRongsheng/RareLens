@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Community Acquired Pneumonia",
+        "differential_diagnosis": "Endocarditis",
+        "diagnostic_reasoning": "The patient was admitted with fever after dental work and a history of endocarditis. Blood cultures were negative, and an echocardiogram did not reveal any findings suggestive of endocarditis. The pneumonia was confirmed with chest imaging demonstrating lingular consolidation, and it was concluded that the fevers were secondary to pneumonia rather than endocarditis."
+    }
+}

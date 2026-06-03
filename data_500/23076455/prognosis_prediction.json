@@ -1,0 +1,104 @@
+{
+    "basic_information": {
+        "age": "9 months",
+        "gender": "Female",
+        "weight": "6.6 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Vomiting undigested food of 3 months duration and recurrent chest infection as well as failure to thrive",
+        "history_of_present_illness": "Symptoms started around the age of 6 months. Diagnosis was confirmed by barium swallow. Family history of achalasia with six members affected.",
+        "past_medical_history": "Not specified",
+        "family_history": "Six members of the same family had achalasia. Symptoms started around the age of 6 months in all affected members.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "No abnormalities apart from failure to thrive (weight 6.6 kg).",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Molecular genetic studies",
+            "date": "Not specified",
+            "findings": "Normal results and no DNA variants that could contribute to the phenotype were identified in the AAAS gene. The result does not exclude AAAS variants as variants outside of the analyzed region or variants not detectable by sequencing might be present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ACTH level",
+            "date": "Not specified",
+            "findings": "61.3 pg/ml (normal 0–46 pg/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "Not specified",
+            "findings": "0.3 µg/dl and 60 min after ACTH stimulation was 12.2 µg/dl (normal 6.2–19.4 µg/dl)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Barium swallow",
+            "date": "Not specified",
+            "findings": "Features of achalasia (bird’s peak sign)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follow-up barium swallow",
+            "date": "Not specified",
+            "findings": "Normal emptying of the esophagus with no evidence of gastroesophageal reflux",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [],
+    "diagnosis": {
+        "final_diagnosis": "Achalasia",
+        "diagnostic_reasoning": "The diagnosis was confirmed by barium swallow showing features of achalasia, including the bird’s peak sign. The patient also had a strong family history of achalasia, with six members of the same family affected, suggesting a hereditary component. Molecular genetic studies were conducted but no DNA variants contributing to the phenotype were identified in the AAAS gene."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "open Heller’s esophagomyotomy with Thal antireflux procedure",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "laparoscopic Heller’s myotomy with Dor antireflux procedure",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "balloon dilatation",
+            "specific_treatment": "hydrostatic balloon esophageal dilatation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Robotic-assisted Heller’s myotomy using the DaVinci Robotic system",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "hydrocortisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

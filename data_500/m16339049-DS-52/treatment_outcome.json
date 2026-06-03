@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "antibiotics",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Stopped prior to discharge"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "knee brace application",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Continue to wear the knee brace",
+            "treatment_response": "No need for surgery"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the emergency room with knee pain, chest pain, fever, and weakness."
+        },
+        {
+            "date": "Not specified",
+            "event": "Diagnosis of a small fracture in the right knee; advised to wear a knee brace."
+        },
+        {
+            "date": "Not specified",
+            "event": "Briefly treated with antibiotics."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge from hospital."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home with the ability to ambulate with assistance.",
+        "follow_up_details": "Follow-up with the orthopedic surgery team and primary physician.",
+        "complications": "No complications",
+        "long_term_prognosis": "Expected to recover with continued management of diabetes and follow-up care.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient reported no sign of infection and felt cared for by the team."
+    }
+}

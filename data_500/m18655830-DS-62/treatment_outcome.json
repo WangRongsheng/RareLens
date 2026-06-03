@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Cardiac Catheterization",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Drug eluting stent placement of the SVG to the RPDA",
+            "treatment_response": "Symptoms improved after the procedure"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for chest pain and symptoms"
+        },
+        {
+            "date": "Not specified",
+            "event": "Cardiac Catheterization performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Clopidogrel 75 mg daily started to prevent blood clots"
+        },
+        {
+            "date": "Not specified",
+            "event": " Ondansetron, Lorazepam, Prochlorperazine, and Maalox/Lidocaine administered for nausea and vomiting"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive, ambulatory - independent",
+        "follow_up_details": "Follow-up with diabetes management recommended",
+        "complications": "Nausea, vomiting, abdominal pain during admission",
+        "long_term_prognosis": "Need to continue clopidogrel and aspirin to prevent blood clots and heart attack",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Symptoms improved, managed with medications"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "After CT confirmed bilateral talocalcaneal coalitions, she underwent resection; at 1-year follow-up her range of motion and gait had markedly improved and she remained pain-free.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "She remains pain-free at 1-year follow-up.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "She underwent resection of bilateral talocalcaneal coalitions after CT diagnosis."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 1 year follow-up, her range of motion and gait had markedly improved."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 1 year follow-up, she remains pain-free."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time is approximated as the CT-confirmed diagnosis of talocalcaneal coalitions prior to surgical treatment. Exact timing of surgery relative to diagnosis is not specified, but appears soon after CT. Long-term beyond 1 year is not described; residual limitations are not explicitly documented, so functional status was conservatively classified as mild and overall outcome as partial_recovery."
+}

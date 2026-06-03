@@ -1,0 +1,31 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "morphine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg IV boluses",
+            "treatment_response": "Patient received morphine for pain relief. First set of cardiac biomarkers was negative."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the ED with prolonged chest pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was administered morphine 4 mg IV boluses for pain."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "stable, afebrile, chest pain free",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

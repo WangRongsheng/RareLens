@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "corticothérapie orale",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 mg/kg/j",
+            "treatment_response": "Affaissement des lésions noté après 10 semaines de traitement et blanchiment obtenu après 17 mois."
+        },
+        {
+            "treatment_type": "topical treatment",
+            "specific_treatment": "bains de bouche de corticoïdes",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "topical treatment",
+            "specific_treatment": "sérum bicarbonaté",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Début du traitement par corticothérapie orale, bains de bouche de corticoïdes et sérum bicarbonaté"
+        },
+        {
+            "date": "After 10 weeks",
+            "event": "Affaissement des lésions noté"
+        },
+        {
+            "date": "After 17 months",
+            "event": "Blanchiment obtenu"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Blanchiment obtenu après 17 mois de traitement",
+        "follow_up_details": "Aucune rechute rapportée au cours des 24 mois de suivi",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "17 mois pour obtenir le blanchiment",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

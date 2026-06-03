@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Sudden onset of headache",
+        "history_of_present_illness": "Patient states that he has been experiencing intermittent headaches. He was bending over to put on his boots when he felt a headache in which he took advil to relieve the pain with no success. While in the ambulance, patient reported dizziness and had one episode of vomiting. He also reports photophobia, but denies any dysarthria, changes in vision, or weakness. He was transferred to ___ after a head CT revealed diffuse SAH with intraventricular extension.",
+        "past_medical_history": "___ disease",
+        "family_history": "Denies any history of brain aneurysms or vascular malformations.",
+        "social_history": "___"
+    },
+    "physical_examination": {
+        "general_examination": "2 Fisher: 4 GCS E: 4 V: 5 Motor: 6 O: T: 97.5 BP: 148/92 HR: 49 R: 14 O2Sats 98% Gen: WD/WN, comfortable, NAD. HEENT: atraumatic, normocephalic. Pupils: 3-2mm bilaterally. EOMs: intact. Neck: mild nuchal rigidity.",
+        "specialty_examination": "Neurological: Mental status: Awake and alert, cooperative with exam, normal affect. Orientation: Oriented to person, place, and date. Motor: Normal bulk and tone bilaterally. No abnormal movements, tremors. Strength full power throughout. No pronator drift. Sensation: Intact to light touch."
+    }
+}

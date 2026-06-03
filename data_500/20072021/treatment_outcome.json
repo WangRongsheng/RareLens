@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "masseter muscle weakening",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "unsuccessful"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "coronoidectomy with fasciotomy and myotomy",
+            "start_date": "2007-10",
+            "end_date": "Not specified",
+            "dosage_or_details": "coronal approach, temporary zygomatic arch osteotomy, muscular stripping and stretching, forced mouth opening, repositioning and plating of the arch, resection of the lower border of the enlarged malar body, suction drain",
+            "treatment_response": "mouth opening of 30 mm achieved, enabling normal diet and dental care"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "aggressive postoperative physiotherapy",
+            "start_date": "2007-10",
+            "end_date": "Not specified",
+            "dosage_or_details": "bite openers and stretching exercises",
+            "treatment_response": "mouth opening of 35 mm after 18-month follow-up"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "2006",
+            "event": "Patient treated for TMJ arthrosis with masseter muscle weakening surgery, unsuccessful"
+        },
+        {
+            "date": "2007-10",
+            "event": "Patient referred to unit, diagnosed with unilateral right coronoid hyperplasia"
+        },
+        {
+            "date": "2007-10",
+            "event": "Surgery performed: coronoidectomy with fasciotomy and myotomy"
+        },
+        {
+            "date": "2007-12",
+            "event": "Mouth opening of 30 mm achieved, enabling normal diet and dental care"
+        },
+        {
+            "date": "2009-05",
+            "event": "Mouth opening of 35 mm after 18-month follow-up"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "improved mouth opening (35 mm), able to consume normal diet and take care of teeth",
+        "follow_up_details": "intensive follow-up, 18-month follow-up showed continued improvement",
+        "complications": "No complications",
+        "long_term_prognosis": "Early surgical treatment may be useful to recover morphology and function, but severity of mandibular asymmetry will be revaluated at age 6 to 8 years",
+        "recovery_timeline": "Mouth opening improved from 5 mm to 30 mm post-surgery, and to 35 mm after 18 months",
+        "quality_of_life": "able to consume normal diet and take care of teeth",
+        "patient_perspective": "Not specified"
+    }
+}

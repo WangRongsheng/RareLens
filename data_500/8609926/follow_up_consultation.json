@@ -1,0 +1,123 @@
+{
+    "basic_information": {
+        "age": "57",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Swedish",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Progressive ptosis and ophthalmoplegia",
+        "history_of_present_illness": "Muscular involvement commenced cranially and descended in relation to increasing disease duration. The neuromuscular signs were PEO, dysarthria, dysphonia, limb muscle weakness with wasting, absence of Achilles tendon reflexes, and distal vibration sensory loss.",
+        "past_medical_history": "Chronic conditions and prior diagnoses not specified. Surgical history includes bilateral ptosis operation.",
+        "family_history": "First-degree relatives' conditions not specified. Hereditary disease pattern: autosomal dominant progressive external ophthalmoplegia (adPEO) with hypogonadism.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Neurological: Motor/sensory/cognitive deficits include PEO, dysarthria, dysphonia, limb muscle weakness with wasting, absence of Achilles tendon reflexes, and distal vibration sensory loss. Cardiovascular: Not specified. Other system-specific abnormal findings: Not specified."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Full blood counts",
+            "date": "Not specified",
+            "findings": "Normal in all patients",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum bilirubin",
+            "date": "Not specified",
+            "findings": "Normal in all patients",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline phosphatase (ALP)",
+            "date": "Not specified",
+            "findings": "Increased in 2 patients",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alanine transferase (ALAT)",
+            "date": "Not specified",
+            "findings": "Increased in 3 patients",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aspartate transferase (ASAT)",
+            "date": "Not specified",
+            "findings": "Increased in 4 patients",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase (LDH)",
+            "date": "Not specified",
+            "findings": "Increased in 7 patients",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "γ-glutamyl transferase (GT)",
+            "date": "Not specified",
+            "findings": "Increased in 2 patients",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine kinase (CK)",
+            "date": "Not specified",
+            "findings": "Increased in 6 patients (up to 17-fold above normal in one patient)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Myoglobin (Mb)",
+            "date": "Not specified",
+            "findings": "Increased in 5 patients (up to 13-fold above normal in one patient)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Normal in all patients",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma lactate",
+            "date": "Not specified",
+            "findings": "Slightly increased in 5 of 9 clinically affected patients",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Carnitine (serum and urine)",
+            "date": "Not specified",
+            "findings": "Normal in all patients from generation IV",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [
+        {
+            "procedure_name": "Electromyogram (EMG)",
+            "date": "Not specified",
+            "findings": "Myopathic in facial and proximal limb muscles in 9 of 11 cases. Neurogenic involvement suspected in a few tibialis anterior muscles.",
+            "changes_over_time": "Repeated EMG 2 years later showed myopathy in frontalis muscle in one patient."
+        },
+        {
+            "procedure_name": "Neurography",
+            "date": "Not specified",
+            "findings": "Signs of axonal neuropathy correlated to clinical signs. Absent or abnormally low sural responses in 5 of 10 patients. F-responses reduced in number or absent in peroneal nerves.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Structural abnormalities of mitochondria, ragged-red fibers, and focal cytochrome c oxidase deficiency in advanced cases. No ragged-red fibers or COX-negative fibers in younger patients despite myopathic EMG.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electron microscopy of muscle",
+            "date": "Not specified",
+            "findings": "Pronounced structural alterations in mitochondria in older patients. Few abnormal mitochondria in younger patients.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

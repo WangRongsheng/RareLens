@@ -1,0 +1,95 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "phenobarbital",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vitamin C",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "large doses",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "physiotherapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "orthotic device",
+            "specific_treatment": "ankle-foot orthoses",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "orthotic device",
+            "specific_treatment": "night splints",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "triple arthrodesis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Diagnosed with triosephosphate isomerase deficiency in the neonatal period after developing jaundice"
+        },
+        {
+            "date": "2 years of age",
+            "event": "Neurologic involvement became evident with frequent falls, secondary to foot drop, with weakness of hip flexion and knee extension"
+        },
+        {
+            "date": "7 years of age",
+            "event": "Underwent triple arthrodesis"
+        },
+        {
+            "date": "8 years of age",
+            "event": "Could walk short distances but required a wheelchair for longer journeys"
+        },
+        {
+            "date": "3.5 years of age",
+            "event": "Peripheral electrophysiologic studies revealed axonal neuropathy"
+        },
+        {
+            "date": "4.5 years of age",
+            "event": "Repeat peripheral electrophysiologic studies confirmed axonal neuropathy"
+        },
+        {
+            "date": "5.5 years of age",
+            "event": "Sural nerve biopsy performed, confirming chronic axonal neuropathy"
+        },
+        {
+            "date": "6.5 years of age",
+            "event": "Electroencephalogram and computed tomography of the brain were normal"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Marked distal weakness, wasting, and contractures; could walk short distances but required a wheelchair for longer journeys",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

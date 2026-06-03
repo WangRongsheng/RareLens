@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "Brain-computer interface (BCI)",
+            "specific_treatment": "EEG-based endogenous BCI",
+            "start_date": "2016-01-28",
+            "end_date": "2016-12-09",
+            "dosage_or_details": "Offline and online experiments with mental-imagery tasks (left motor imagery, mental subtraction, tongue motor imagery)",
+            "treatment_response": "Online classification accuracy of 87.5% achieved with left-hand motor imagery and mental subtraction tasks"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "2016-01-28",
+            "event": "First visit: neurological assessment and auditory oddball test"
+        },
+        {
+            "date": "2016-02-04",
+            "event": "Second visit: offline experiment with mental-imagery tasks"
+        },
+        {
+            "date": "2016-08-12",
+            "event": "Third visit: online experiment with real-time feedback"
+        },
+        {
+            "date": "2016-12-09",
+            "event": "Last visit: follow-up assessment"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Unable to participate in follow-up experiments due to worsened physical status",
+        "follow_up_details": "No evidence of consciousness or alertness found in follow-up assessment",
+        "complications": "No complications mentioned",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

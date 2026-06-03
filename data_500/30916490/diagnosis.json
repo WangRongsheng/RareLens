@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Larsen syndrome",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "Whole-exome sequencing (WES) revealed a heterozygous pathogenic variant, p.Glu227Lys (c.679G>A), in the FLNB gene in three out of the four family members tested. This variant is associated with Larsen syndrome, a skeletal dysplasia condition with a wide range of phenotypic variability that usually includes congenital joint dislocations. The E227K variant meets the American College of Medical Genetics and Genomics criteria for pathogenicity."
+    }
+}

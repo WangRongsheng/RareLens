@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Six months after diagnosis, the patient was well; the pericardial effusion had disappeared and inflammatory parameters normalized, but she had evolution with chronic arthritis and continued anakinra and methotrexate.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Diffuse arthritis appeared after initial improvement and persisted as chronic arthritis; at six months she was well with normalized labs, but remained on anakinra and methotrexate.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Within 12–24 hours of starting anakinra, clinical condition improved; apyretic at 24 h, heart rate and respiratory rate decreased, CRP fell to 17 mg/L."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Discharged from ICU 1 day after starting anakinra; oxygen saturation 98% on ambient air and breathing improved."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Diffuse arthritis appeared in the next few days after initial improvement."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Subcutaneous methotrexate was started at 15 mg/week following the appearance of diffuse arthritis."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "unknown",
+            "evidence_excerpt": "Two local injections of triamcinolone hexacetonide were performed during follow-up."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Six months after diagnosis, the patient was well; the pericardial effusion had disappeared and inflammatory parameters had normalized."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time approximated to the point when pericarditis confirmed the SoJIA diagnosis and anakinra was initiated. Follow-up only reported to six months, so outcomes beyond 12 months are not available. Timing of triamcinolone injections is unspecified within the follow-up period."
+}

@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "breast I&D",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Left breast, erythema and induration have greatly improved. Dressing is clean/dry/intact. Bed of wound is clean with pink granulation tissue."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "antibiotics",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "IV medication; specific antibiotics not mentioned.",
+            "treatment_response": "Infection with staph (MSSA)."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the ED with worsening left breast pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Breast I&D performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "IV antibiotics administered."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with improved condition."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improvement noted with left breast condition.",
+        "follow_up_details": "Patient advised to follow up with her outpatient doctor.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Safe to be discharged; continue antibiotics and dressing changes as prescribed.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

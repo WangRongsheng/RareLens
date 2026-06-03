@@ -1,0 +1,214 @@
+{
+    "basic_information": {
+        "age": "47",
+        "gender": "Male",
+        "weight": "110 kg",
+        "height": "178 cm",
+        "BMI": "34.7 kg/m²",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "inexplicable progressive weight gain, muscle tremor, general fatigue, perspiration, hypercholesterolemia, exophthalmos, an enlargement of the thyroid gland, and typical cushingoid features like abdominal striae, 'moon face', central obesity, and a 'buffalo hump'",
+        "history_of_present_illness": "Presented in September 2003 at the age of 41 years with symptoms. Laboratory testing showed increased 24 h urinary free cortisol, significant elevation of basal serum cortisol and ACTH, and hyperthyroidism. Ectopic ACTH syndrome was suspected. Subtotal thyroidectomy and neurosurgical removal of a small lesion of the neurohypophysis did not lead to remission of hypercortisolism. Treatment was started with metyrapone combined with hydrocortisone replacement.",
+        "past_medical_history": "Hypercortisolism, diabetes mellitus, hypertension, hypercholesterolemia, multinodular goiter",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Obesity (110 kg bodyweight, BMI 34.7 kg/m²), pulse of 70 bpm, no signs of cardiopulmonary decompensation but cushingoid features like 'moon face', plethora, 'buffalo hump' and central obesity",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "24-hour urinary free cortisol",
+            "date": "September 2003",
+            "findings": "7,579 nmol per day (normal range: 22 – 212)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum cortisol",
+            "date": "September 2003",
+            "findings": "1,307 nmol/L (normal range: 187 – 724)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma ACTH",
+            "date": "September 2003",
+            "findings": "22.51 pmol/L (normal range: 1.98 – 11.4)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "TSH",
+            "date": "September 2003",
+            "findings": "Undetectable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free T4",
+            "date": "September 2003",
+            "findings": "32 pmol/L (normal range: 12 – 22)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Free T3",
+            "date": "September 2003",
+            "findings": "9 pmol/L (normal range: 3.95 – 6.80)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Overnight suppression test with 2 mg dexamethasone",
+            "date": "September 2003",
+            "findings": "Serum cortisol at 1,132 nmol/L (normal: <80)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Midnight cortisol",
+            "date": "September 2003",
+            "findings": "847 nmol/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Suppression test with 8 mg dexamethasone",
+            "date": "September 2003",
+            "findings": "Serum cortisol decreased by 38% of basal values",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CRH stimulated serum cortisol and plasma ACTH",
+            "date": "September 2003",
+            "findings": "Less than 4% of basal values",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "NSE",
+            "date": "Follow-up after surgery",
+            "findings": "10.7 ng/ml (normal: <13)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chromogranin A",
+            "date": "Follow-up after surgery",
+            "findings": "Not detectable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Calcitonin",
+            "date": "Follow-up after surgery",
+            "findings": "Not detectable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour serum cortisol profile",
+            "date": "24 months postoperatively",
+            "findings": "834 nmol/L at 8 a.m., 806 nmol/L at 1 p.m., 765 nmol/L at 4 p.m., 749 at 8 p.m. and 453 at midnight (normal range: 8 – 10 a.m.: 187 – 724 nmol/L, 4 – 6 p.m.: 104 – 397 nmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "1 mg dexamethasone suppression test",
+            "date": "24 months postoperatively",
+            "findings": "No suppression of morning cortisol (690 nmol/L at 8, 549 nmol/L at 11 p.m. and 546 nmol/L at 8 a.m. next day)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "5-hydroxyindole acetic acid (5-HIAA) in urine",
+            "date": "24 months postoperatively",
+            "findings": "No elevation detected",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Oral glucose tolerance test",
+            "date": "24 months postoperatively",
+            "findings": "Blood glucose level of 15 mmol/L after 2 h",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "DOTATOC PET",
+            "date": "Initial presentation",
+            "findings": "Focal octreotide enhancement in the abdomen interpreted to be nonspecific",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "F-18 fluorodeoxyglucose (FDG) PET",
+            "date": "Initial presentation",
+            "findings": "Normal results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scans of thorax and abdomen",
+            "date": "Initial presentation",
+            "findings": "Negative except for the left-sided adrenal tumor",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ga-68 DOTATOC-PET scan",
+            "date": "18 months after initial presentation",
+            "findings": "Tracer accumulation in at least 3 spots in projection of the upper and middle part of the right abdomen",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "F-18 FDG PET scan",
+            "date": "18 months after initial presentation",
+            "findings": "Increased glucose metabolism of the abdominal area",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT and MRI scans",
+            "date": "18 months after initial presentation",
+            "findings": "21 × 15 mm tumor mass in the right abdomen",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ga-68 DOTATOC-PET scan",
+            "date": "24 months postoperatively",
+            "findings": "Tracer enhancement within the right lower abdomen",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI and CT scans of the abdomen",
+            "date": "24 months postoperatively",
+            "findings": "Could not clearly identify any tumors",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fusion imaging of MRI and PET scans",
+            "date": "24 months postoperatively",
+            "findings": "Significant enhancement within the right lower abdomen in correlation with localized mural thickening of the ileum",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ga-68 DOTATOC-PET scan",
+            "date": "5 months post-surgery",
+            "findings": "Normal results",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Inferior petrosal sinus sampling (IPSS)",
+            "date": "September 2003",
+            "findings": "No significant central-to-peripheral ACTH gradients",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Initial presentation",
+            "findings": "Normal results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Double-balloon endoscopy",
+            "date": "24 months postoperatively",
+            "findings": "Could only partly visualize the ileum due to massive loops of the sigmoid colon",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Exploratory laparotomy",
+            "date": "December 2007",
+            "findings": "Small tumor confined to the terminal ileum and multiple enlarged lymph nodes in the adjacent mesentery",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "Six months after the postoperative episode, she was free from haemorrhaging but the anti–von Willebrand factor antibody titre remained highly positive, indicating persistent inhibitor without clear resolution.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "functional_status_evidence_excerpt": "Her bleeding phenotype is described as mild despite type 3 VWD, and she had no bleeding episodes for six months after the event.",
+        "symptom_burden": "none",
+        "symptom_burden_evidence_excerpt": "During the six-month interval after surgery, she did not receive any concentrate because she was free from haemorrhaging."
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Following surgery, constant oozing of blood was reported, prompting higher doses and shorter intervals of rFVIIa."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Continuous infusion of recombinant FVIII (Advate) was initiated at high dose (≈20 IU/kg/h) after a bolus to achieve and maintain therapeutic FVIII activity."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Bleeding stopped within 4 hours after intensifying rFVIIa; subsequently there was no bleeding, and rFVIII infusion was discontinued on the 10th postoperative day."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "A transfusion of red blood cells was administered on the third postoperative day."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Six months later, she was free from haemorrhaging and did not require any concentrate."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "Follow-up information extends to approximately six months after the index hospitalization; no data beyond 12 months are available. Functional status is inferred from clinician description of a mild bleeding phenotype and absence of bleeding episodes; specific activity or dependence details are not provided. The inhibitor remained highly positive at six months, but longer-term trajectory is not documented."
+}

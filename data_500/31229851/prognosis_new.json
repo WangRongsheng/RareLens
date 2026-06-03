@@ -1,0 +1,18 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "She was followed up through three years with stability of symptoms and no additional signs of PSP.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Frequent falls and axial rigidity persisted; levodopa 800 mg daily resulted in no improvement, and symptoms were stable over three years.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "unknown",
+            "evidence_excerpt": "Levodopa 800 mg daily resulted in no improvement."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time approximated to when FXTAS was confirmed by FMR1 premutation testing. Precise dates for treatment initiation and follow-up visits are not provided, so event timing is marked as unknown. Functional status severity is inferred conservatively from persistent frequent falls and axial rigidity without dopaminergic response."
+}

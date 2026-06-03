@@ -1,0 +1,95 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Insulin Glargine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "12 units daily at bedtime",
+            "treatment_response": "Improved blood sugar levels"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Humalog",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Sliding scale with meals and at bedtime",
+            "treatment_response": "Improved blood sugar levels"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Carvedilol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Twice a day",
+            "treatment_response": "Blood pressure management ongoing"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lisinopril",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Increased dosage",
+            "treatment_response": "Blood pressure management ongoing"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Diltiazem",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Increased dosage",
+            "treatment_response": "Blood pressure management ongoing"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Statin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "For primary prevention of worsening coronary artery disease",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Torsemide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "For fluid removal",
+            "treatment_response": "Fluid removed effectively"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient experienced hypoglycemia at home"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient admitted to hospital for management of hypoglycemia and hypertension"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received treatment with D50W and orange juice for hypoglycemia"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on carvedilol, increased doses of lisinopril and diltiazem, and initiated on statin therapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on torsemide for swelling management"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge with medication recommendations"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved blood sugar levels and ongoing management for hypertension",
+        "follow_up_details": "Future follow-up appointments scheduled",
+        "complications": "No complications",
+        "long_term_prognosis": "Requires continued monitoring of blood pressure and diabetes management",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

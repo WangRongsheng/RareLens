@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "At 14 years, renal function is normal (BUN 9 mg/dl; Cr 0.51), but hypokalaemia (3.1–3.4 mEq/l), metabolic alkalosis, impaired urine concentration, and bilateral nephrocalcinosis persist; no reported progression to renal failure.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Persistent biochemical abnormalities and low urine osmolality (136 mOsm/kg) suggest ongoing issues, but no sustained symptomatic complaints or daily activity limitations are described.",
+        "symptom_burden": "occasional"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Thiazide diuretics were started based on NDI treatment, but discontinued 3 months later due to persistent failure to thrive."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At 18 months, indomethacin and spironolactone were initiated for hypokalaemia with high renin and aldosterone."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Indomethacin and spironolactone produced improvement in hypokalaemia and failure to thrive."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "At around 12 years, bilateral nephrocalcinosis was identified by ultrasonography."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "From age 12–14, hypokalaemia (3.1–3.4 mEq/l) and metabolic alkalosis persisted despite indomethacin and spironolactone."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Impaired renal concentration persisted (urinary osmolality 136 mOsm/kg) despite normal serum osmolality."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The earliest documented diagnosis was impaired renal concentration at 1 year (with immediate treatment initiation). ERS (AI with nephrocalcinosis) was recognized later (~12 years). Event timing is approximated relative to the initial diagnosis; functional status and symptom burden are inferred due to limited explicit descriptions. No data on hospital readmissions or escalation beyond the reported medication changes."
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chest pain, acute renal failure, dyspepsia, cramps",
+        "history_of_present_illness": "The patient presented to his PCP office for follow evaluation of his serum chemistries which showed worsening renal failure. He had an 8 lb weight loss from his Lasix, nausea, dyspepsia, dysphagia for solids, diffuse muscle cramps lasting for a few seconds, right knee pain, back pain, and recent constipation. He recently stopped his Lisinopril 8 days ago.",
+        "past_medical_history": "- Obesity\n- Diabetes Mellitus Type 2\n- Obstructive Sleep Apnea\n- Status post corneal transplant\n- High cholesterol\n- Coronary Artery Disease - history of Myocardial Infarction\n- Gout\n- Chronic kidney disease\n- Dermatitis\n- Hypertension",
+        "family_history": "Mother passed away from renal failure, family history of coronary artery disease, pancreatic cancer, atherosclerosis",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: 98.6°F, 146/75 mmHg, HR 80 bpm, 95% RA.\nGeneral: NAD, Obese, conversant, missing left eye.",
+        "specialty_examination": "Neurological: AAO x3, CN intact. Cardiovascular: regular rate, normal S1 S2, no murmurs, rubs, or gallops. Extremities: no c/c/e. Respiratory: CTA. GI: Soft, obese, rotund, non-tender/non-distended, no rebound or guarding. Bowel sounds positive."
+    }
+}

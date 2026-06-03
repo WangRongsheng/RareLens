@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Weakness",
+        "history_of_present_illness": "Patient presents weakness x 1 day. Complains of fevers, chills and sweats for one day. Family has noticed a sharp gradual decline in functional status since hospitalization. Prior to hospitalization, patient was actively mobilizing with walker with good energy. Admitted for UTI and renal failure. CT scan showed an ill-defined 1 cm hypodense focus in the right paramedian, a possible stroke of indeterminate age. Admitted for duodenal bleed requiring a short ICU stay. Started on seroquel for agitation, with improved mental status but less functional at home.",
+        "past_medical_history": "Hypertension - essential, Hearing Loss, Sensorineural, Prostatic Hypertrophy - benign, Coronary Artery Disease - native coronary artery - s/p PCI, Osteoarthrosis, Generalized, Multiple Joints, Hyperparathyroidism, Keratosis - actinic, History of colon cancer, Depressive disorder, Atypical, Anisocoria, Ischemic cardiomyopathy, Trigger finger, Cardiac arrhythmia, Obesity, Macular degeneration, dry, Ocular hypertension, Cataract nuclear.",
+        "family_history": "Brother - Not specified, Father - Not specified, Mother - Not specified, CAD/PVD; Glaucoma, Sister - Alive.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals- 98.4 156/88 96 16 96 RA. Alert, oriented, no acute distress.",
+        "specialty_examination": "Neurological: CNs 2-12 intact, motor function grossly normal. Cardiovascular: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops."
+    }
+}

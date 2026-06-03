@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Atrial fibrillation",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with palpitations, dizziness, and weakness, and was found to have atrial fibrillation on EKG at 90 bpm. Previous episodes were suspected to be SVT without EKG confirmation. The clinical symptoms and findings during admission supported the diagnosis of atrial fibrillation."
+    }
+}

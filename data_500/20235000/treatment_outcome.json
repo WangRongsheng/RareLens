@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "cesarean delivery",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "repeat cesarean at 28 weeks of gestation",
+            "treatment_response": "delivery of a 1014 g baby with Apgars 5/7"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ileal stricture repair",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "surgical repair due to feeding problems",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "bilateral inguinal hernias repair",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "surgical repair",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "18 weeks of gestation",
+            "event": "referred for targeted sonography due to abnormal midtrimester ultrasound showing cystic formations within the placenta"
+        },
+        {
+            "date": "18 weeks of gestation",
+            "event": "genetic amniocentesis showed normal female karyotype"
+        },
+        {
+            "date": "28 weeks of gestation",
+            "event": "delivery by repeat cesarean due to severe preeclampsia"
+        },
+        {
+            "date": "Not specified",
+            "event": "placental cytogenetic studies showed a triploid placenta (69,XXX)"
+        },
+        {
+            "date": "Not specified",
+            "event": "neonate’s peripheral blood karyotype was normal"
+        },
+        {
+            "date": "Not specified",
+            "event": "diagnosis of ileal stricture, requiring surgical repair"
+        },
+        {
+            "date": "Not specified",
+            "event": "repair of bilateral inguinal hernias"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "At 6 years, weight and neurodevelopment reported normal",
+        "follow_up_details": "Not specified",
+        "complications": "feeding problems leading to ileal stricture, bilateral inguinal hernias",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

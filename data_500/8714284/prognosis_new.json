@@ -1,0 +1,18 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "A 33-yr-old male achondroplastic dwarf died during the night; the lungs demonstrated an acute bronchitis and this was felt to be the cause of death.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Ongoing withdrawal seizures and neurological/behavioral symptoms were documented; he complained of headache prior to death.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "death",
+            "time_period": "unknown",
+            "evidence_excerpt": "Died during the night; acute bronchitis was considered the cause of death at autopsy."
+        }
+    ],
+    "reference_time_used": "unknown",
+    "notes_on_uncertainty": "No definitive diagnosis of dementia pugilistica was made during life; it was inferred post-mortem from neuropathology. There is no documented index time for this condition, so event timing is marked as unknown. Many recorded deficits were attributed to alcohol abuse, and the cause of death (acute bronchitis) was not directly due to the neuropathologic condition."
+}

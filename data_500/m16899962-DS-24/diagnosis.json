@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Unstable Angina, Coronary Artery Disease",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with chest pain and ischemic changes on a stress test. Cardiac catheterization revealed blockages in the coronary arteries, which were addressed with stenting, leading to the diagnosis of unstable angina."
+    }
+}

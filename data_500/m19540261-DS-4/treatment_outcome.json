@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Morphine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Effective pain relief initialy; no further nausea/vomiting reported"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Zofran",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Effective in controlling nausea"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Admitted for severe abdominal pain and nausea/vomiting"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received morphine and fentanyl for pain management"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received Zofran for nausea"
+        },
+        {
+            "date": "Not specified",
+            "event": "Transferring to vascular evaluation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Elective surgery planned for aorto-renal-celiac stenosis upon stabilization"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable upon discharge with good condition",
+        "follow_up_details": "Follow up with vascular surgery and gastroenterology for anemia",
+        "complications": "Open back wound with mild purulent discharge",
+        "long_term_prognosis": "Ongoing management for chronic abdominal pain and anemia",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Describes ongoing chronic abdominal pain, impacting daily activities",
+        "patient_perspective": "Patient indicates the worsening abdominal pain may be due to aortic blockages"
+    }
+}

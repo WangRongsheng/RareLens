@@ -1,0 +1,150 @@
+{
+    "basic_information": {
+        "age": "32",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Nurse"
+    },
+    "medical_history": {
+        "chief_complaint": "7 years of slowly progressive left foot drop, and 2 years of left hand weakness and frequent cramps",
+        "history_of_present_illness": "Slowly progressive left foot drop for 7 years, left hand weakness and frequent cramps for 2 years. No sensory complaints. Limped in walking, could not type with left hand. Right limbs were normal. No changes in ocular, bulbar, bladder, bowel, or respiratory function.",
+        "past_medical_history": "Not specified",
+        "family_history": "No family history of neuromuscular illness",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Results of general physical examination were normal",
+        "specialty_examination": "Mental status, speech, and cranial nerve functions were all normal. Strength was normal in the right limbs and in proximal left limb muscles. There was distal weakness in the distribution of the left median radial (MRC grade 4); ulnar (grade 3); peroneal (grade 2); and tibial nerves of MRC grade 4+. Tone and muscle bulk (including those of weak muscles) and sensation were normal. Tendon reflexes were normal in the right arm and leg, and in the left triceps; hypoactive in the left biceps, brachioradialis, and knee; but absent at the left ankle."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cerebrospinal fluid (CSF) analysis",
+            "date": "Not specified",
+            "findings": "Acellular fluid with a normal protein level",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum anti-GM1 IgM antibody test",
+            "date": "Not specified",
+            "findings": "Titer was 1970 (NL < 118)",
+            "changes_over_time": "Remained unchanged after IVIg treatment"
+        },
+        {
+            "procedure_name": "Hematologic and biochemical screening",
+            "date": "Not specified",
+            "findings": "Normal or negative results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rheumatoid factor",
+            "date": "Not specified",
+            "findings": "Normal or negative results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine kinase",
+            "date": "Not specified",
+            "findings": "Normal or negative results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear antibody",
+            "date": "Not specified",
+            "findings": "Normal or negative results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine porphobilinogen",
+            "date": "Not specified",
+            "findings": "Normal or negative results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Delta-aminolevulinic acid",
+            "date": "Not specified",
+            "findings": "Normal or negative results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine heavy metal screening",
+            "date": "Not specified",
+            "findings": "Normal or negative results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum lead",
+            "date": "Not specified",
+            "findings": "Normal or negative results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HIV serology",
+            "date": "Not specified",
+            "findings": "Normal or negative results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum immunofixation electrophoresis",
+            "date": "Not specified",
+            "findings": "Normal or negative results",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Cervical spine MRI",
+            "date": "Not specified",
+            "findings": "Normal or negative results",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Electrophysiologic testing",
+            "date": "Not specified",
+            "findings": "Multifocal motor demyelination was evident, with PMCB in left median and ulnar nerves, prolonged distal motor latency in left peroneal and ulnar nerves, prolonged F-wave latency in all nerves so tested, with reduced conduction velocity in left median and ulnar nerves. Sensory nerve conduction studies showed normal sural, median, ulnar, and radial sensory nerve action potential (SNAP) amplitudes and conduction velocities. The sensory velocities were normal along segments that showed motor conduction block. Inching studies of motor conduction along the median nerve localized the site of PMCB to a 50-mm segment in the forearm. Sensory conduction velocities were normal in this segment.",
+            "changes_over_time": "The degree of PMCB declined after IVIg treatment"
+        },
+        {
+            "procedure_name": "Quantitative sensory testing",
+            "date": "Not specified",
+            "findings": "Normal cooling and vibratory thresholds in the left hand and foot",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sural nerve biopsy",
+            "date": "Not specified",
+            "findings": "Normal myelinated fiber density, a few thinly myelinated fibers, miniature onion bulb formation, and rare fibers undergoing active demyelination. No inflammatory cells were found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Left gastrocnemius muscle biopsy",
+            "date": "Not specified",
+            "findings": "Evidence of denervation and reinnervation",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Multifocal Motor Neuropathy (MMN)",
+        "diagnostic_reasoning": "The patient's clinical presentation of painless left foot drop and left hand weakness with frequent cramps, absence of sensory complaints, and normal sensory examination suggested MMN. Electrophysiologic testing revealed multifocal motor demyelination with partial motor conduction block (PMCB), the hallmark of MMN. The absence of deep tendon reflexes in clinically affected muscles, elevation of serum anti-GM1 antibodies, and dramatic response to intravenous immunoglobulin (IVIg) further supported the diagnosis. The differential diagnosis included CIDP and ALS, but the asymmetrical, predominantly distal weakness without sensory involvement and the presence of PMCB ruled out these alternatives."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "immunotherapy",
+            "specific_treatment": "intravenous human immunoglobulin (IVIg)",
+            "start_date": "1990",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.4 mg/kg for 5 days initially, then 2 g/kg over 2 days"
+        },
+        {
+            "treatment_type": "immunosuppressive",
+            "specific_treatment": "azathioprine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Over a year"
+        }
+    ]
+}

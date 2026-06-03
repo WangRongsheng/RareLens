@@ -1,0 +1,83 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "haldol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg IM",
+            "treatment_response": "Significantly agitated and combative upon admission, but sedation improved condition."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ativan",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "6 mg IM",
+            "treatment_response": "Sedation response noted."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "325 mg PR",
+            "treatment_response": "Part of treatment for ST elevation, no complications noted."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "heparin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "gtt",
+            "treatment_response": "Administered to manage anticoagulation."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "nitroglycerin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "gtt",
+            "treatment_response": "Administered to manage angina through vasodilation."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "diltiazem",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Part of treatment for coronary vasospasm, effective during the monitoring phase."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted after being found agitated; initial vitals showed significant tachycardia and hypertension."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 10 mg IM haldol and 6 mg IM ativan for agitation."
+        },
+        {
+            "date": "Not specified",
+            "event": "EKG revealed ST elevations in V2 and V3."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received treatment with aspirin, heparin, nitroglycerin, and diltiazem."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient stabilized with improved vitals prior to ICU transfer."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "fully recovered",
+        "follow_up_details": "Follow up with nurse practitioner for EKG reassessment.",
+        "complications": "No complications",
+        "long_term_prognosis": "Patient's EKG changes resolved without evidence of permanent damage.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient reported clear mental status and is independent in activity.",
+        "patient_perspective": "Patient was informed of the resolution of EKG changes and expressed interest in ongoing therapy for drug and alcohol use."
+    }
+}

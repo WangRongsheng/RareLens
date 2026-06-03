@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "HYDROmorphone (Dilaudid)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 mg Tablet, 1 tablet every 4 hours as needed for pain",
+            "treatment_response": "Pain was controlled"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lidocaine Jelly 2%",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mL Urojet",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ciprofloxacin HCl",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO Q12H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metronidazole (Flagyl)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO Q8H",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Admitted to hospital with rectal pain after hemorrhoidectomy"
+        },
+        {
+            "date": "Not specified",
+            "event": "MRI performed, no abscess found"
+        },
+        {
+            "date": "Not specified",
+            "event": "Pain medication and antibiotics administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with controlled pain"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory and independent, mental status clear and coherent",
+        "follow_up_details": "Follow-up as noted below (details not specified)",
+        "complications": "No complications mentioned",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient had controlled pain"
+    }
+}

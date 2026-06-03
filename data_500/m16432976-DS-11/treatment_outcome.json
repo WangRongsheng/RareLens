@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Valium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20mg for ethanol withdrawal",
+            "treatment_response": "Drowsy (which he attributes to valium)"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Hydroxyzine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "25mg",
+            "treatment_response": "Drowsy (which he attributes to valium)"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient evaluated in ED and received Valium and Hydroxyzine"
+        },
+        {
+            "date": "Not specified",
+            "event": "Psychiatry recommended inpatient medication titration"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.",
+        "follow_up_details": "Follow up with PCP and social worker regarding drug abuse.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient denied suicidal ideations later and expressed regret over initial thoughts."
+    }
+}

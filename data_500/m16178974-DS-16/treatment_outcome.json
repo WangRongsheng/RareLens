@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Mirtazapine and Lorazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Mirtazapine started, Lorazepam increased",
+            "treatment_response": "Patient admitted for medication titration"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metoprolol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50mg oral x 1",
+            "treatment_response": "Converted to sinus rhythm"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ASA and Atorvastatin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "ASA 325mg and atorvastatin 80mg",
+            "treatment_response": "Patient continued on ASA 81 and atorvastatin 80mg long term"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Coronary Angiography",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Via right radial access",
+            "treatment_response": "Showed 50% stenosis and severe calcifications, no interventions needed"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient started on Mirtazapine and Lorazepam"
+        },
+        {
+            "date": "Not specified",
+            "event": "Severe chest pain and shortness of breath developed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Converted to sinus rhythm with Metoprolol 50mg"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received ASA 325mg and Atorvastatin 80mg"
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent coronary angiography"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable and discharged",
+        "follow_up_details": "Follow up with cardiologist as instructed",
+        "complications": "No complications noted during procedures",
+        "long_term_prognosis": "Patient is expected to manage heart condition with medication",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Requires assistance with mobility (walker or cane)",
+        "patient_perspective": "Patient expressed understanding of treatment and follow up needs"
+    }
+}

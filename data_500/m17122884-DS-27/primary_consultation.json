@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "chest pain",
+        "history_of_present_illness": "The patient is an ___ y/o M with PMHx significant for COPD, bronchiectasis, mild oropharyngeal dysphagia, recurrent PNA who was recently admitted from ___ for musculoskeletal chest pain s/p fall as well as pneumonia (with confusion, fever, chest pain, weakness). During his recent admission, he was noted to have a leukocytosis, PNA was seen on CXR, mild lactate elevation. On the day of discharge, his ___ had improved back to baseline, his chest pain and weakness had improved and ___ had cleared him for home. At home, he states that his cough was stable, his chest pain unchanged and weakness unchanged as well.",
+        "past_medical_history": "Lung disease - Followed closely by Dr. ___ as well as PCP. Chronic conditions include: COPD, bronchiectasis, recurrent presumed bacterial pneumonias, hypertension, hyperlipidemia, coronary artery disease, B12 deficiency without anemia, diverticulosis. Surgical history includes cholecystectomy, skin cancer removal adjacent to L eye.",
+        "family_history": "Daughter with leukemia in her ___, now doing well. 3 other children healthy. Sister alive and well. Two brothers deceased, one died of lung cancer (active smoker). Mother died in ___ from heart condition and father died in ___ from alzheimer's disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals- 97.9 126/59 74 18 100% on RA. General- Alert, oriented, no acute distress. Lungs- CTAB no wheezes, rales, rhonchi. Chest- tenderness to palpation of L pectoralis muscle. Abdomen- soft, NT/ND, bowel sounds present.",
+        "specialty_examination": "Neuro- upper extremity strength equal bilaterally, 2+ DTRs in biceps, brachioradialis, no upper motor neuron signs. CV- RRR, Nl S1, S2, No MRG."
+    }
+}

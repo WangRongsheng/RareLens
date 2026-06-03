@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "dapsone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No benefit obtained, skin lesions worsened"
+        },
+        {
+            "treatment_type": "dietary",
+            "specific_treatment": "gluten-free diet",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Improvement in intestinal permeability and absorption studies two years following reinstitution"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Dapsone commenced for presumed dermatitis herpetiformis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Dapsone withdrawn after two weeks due to no benefit and worsening skin lesions"
+        },
+        {
+            "date": "Not specified",
+            "event": "Skin biopsy revealed features typical of porphyria, excluding dermatitis herpetiformis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Diagnosis of variegate porphyria confirmed by blood, urine, and fecal analysis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Duodenal biopsy showed near-total villous atrophy, confirming celiac disease"
+        },
+        {
+            "date": "Not specified",
+            "event": "Reinstitution of gluten-free diet"
+        },
+        {
+            "date": "Not specified",
+            "event": "Two years after diagnosis, patient developed worsening skin lesions during pregnancy despite sun screens"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Not specified",
+        "follow_up_details": "Not specified",
+        "complications": "Worsening skin lesions, scarring, and hyperpigmentation during pregnancy",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient felt that skin lesions worsened during dapsone treatment"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ligation of left brachiocephalic AV fistula branches",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to ER with dyspnea and was admitted with uremia and CHF."
+        },
+        {
+            "date": "Not specified",
+            "event": "R IJ tunneled HD catheter placed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Fistulagram demonstrated multiple cephalic-basilic vein collaterals."
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery performed to ligate left brachiocephalic AV fistula branches."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental status clear and coherent; ambulatory - independent.",
+        "follow_up_details": "Follow-up with surgeon and Primary Care Provider (PCP) as advised.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

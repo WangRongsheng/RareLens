@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "20",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Sweden and Portugal",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "moderate-severe intellectual disability (ID)",
+        "history_of_present_illness": "Developmental milestones were not met in time; he walked independently at 2 years of age and did not develop any spoken language. A diagnosis of moderate-severe ID with speech and language impairment was later established, and at present age he speaks only a few words and uses sign language for communication. Neurologic examination revealed impairment of fine and gross motor skills, left-sided mild hemiparesis, and spasticity with increased reflexes in the upper and lower extremities bilaterally. MRI of the brain at the age of three years was normal. There is no history of seizures or epilepsy. During childhood and adolescence he has had multiple fractures including clavicle and forearm. Radiological investigation of the spine at the age of 20 years has shown an aberrant pattern consistent with mild-moderate osteoporosis.",
+        "past_medical_history": "Cleft palate was noted early, with surgical correction at the age of 11 months. He has a high arched palate and narrow maxilla with malocclusion. Eruption of the primary as well as of the permanent teeth was late and he also has oligodontia. The teeth are morphologically abnormal with conical front teeth, generally large teeth crowns and with extremely short, malformed roots.",
+        "family_history": "nonconsanguineous healthy parents originating from Sweden and Portugal with no family history of ID",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Neurologic examination revealed impairment of fine and gross motor skills, left-sided mild hemiparesis, and spasticity with increased reflexes in the upper and lower extremities bilaterally. Facial features include a tall forehead, bushy eyebrows and a prominent nose. The facial expression during examination was somewhat striking with peering eyes and a joyful demeanor. His body habitus is slender with bowing of the tibiae and he exhibits a forward leaning posture with slightly flexed knees and flat feet. Also noted were broad thumbs and halluces."
+    }
+}

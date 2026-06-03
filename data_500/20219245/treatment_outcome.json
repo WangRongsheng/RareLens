@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "lamivudine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg/day PO",
+            "treatment_response": "Control HBV DNA level returned to normal limits (<2000 copy/ml with <357 UI/ml) and liver function tests normalized"
+        },
+        {
+            "treatment_type": "immunotherapy",
+            "specific_treatment": "rituximab",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "375 mg/m2 once a week as an intravenous infusion in 1 l of normal saline for 8 weeks",
+            "treatment_response": "After 4 weeks, two lesions disappeared and the others were partially regressed (> or =50% reduction of all the measurable lesions). Complete response for all lesions after 6 weekly cycles. Treatment completed to 8 weeks."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Treatment with lamivudine 100 mg/day PO initiated for hepatitis B"
+        },
+        {
+            "date": "1 month after lamivudine initiation",
+            "event": "Rituximab therapy started at 375 mg/m2 once a week"
+        },
+        {
+            "date": "4 weeks after rituximab initiation",
+            "event": "Two lesions disappeared and others partially regressed"
+        },
+        {
+            "date": "6 weeks after rituximab initiation",
+            "event": "Complete response for all lesions observed"
+        },
+        {
+            "date": "8 weeks after rituximab initiation",
+            "event": "Treatment completed"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Complete remission",
+        "follow_up_details": "15 months after rituximab therapy, patient was in complete remission with normal liver function tests under lamivudine treatment",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Complete response observed after 6 weeks of rituximab therapy",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

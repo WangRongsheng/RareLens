@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "56",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Elevated CA 19-9 serum level (3049 U/mL) detected during follow-up examination 11 years after breast cancer surgery",
+        "history_of_present_illness": "No symptoms (eg, pain or fever) were reported. Subsequent staging procedures showed high-grade, right-sided hydronephrosis. A renal calculus was found occluding the right pyeloureteral junction. Renal radionuclide imaging showed complete loss of function of the right kidney.",
+        "past_medical_history": "Breast cancer surgery 11 years prior",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Right-sided, palpable, upper-abdominal mass",
+        "specialty_examination": "Ultrasound showed massive hydronephrosis of the right kidney. Excretory urography showed occlusion of the right pyeloureteral junction by a renal calculus and renal duplication on the left side. Abdominal CT scan showed a large cystic renal mass."
+    }
+}

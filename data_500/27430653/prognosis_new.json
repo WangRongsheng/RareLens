@@ -1,0 +1,23 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "The condition is described as progressive, and \"More recently, he had developed scoliosis.\" He is wheelchair-bound and dependent for all activities of daily living, and medications had minimal effect on myoclonus.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Prominent generalized, action-induced, stimulus-sensitive myoclonus; profound visual loss with rod–cone dysfunction; axonal sensory-motor neuropathy with trophic changes; medications had minimal effect on myoclonus.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "unknown",
+            "evidence_excerpt": "More recently, he had developed scoliosis."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "unknown",
+            "evidence_excerpt": "Profound visual loss with optic atrophy and electroretinogram indicating rod–cone dysfunction."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The report is largely cross-sectional and does not provide clear dates for diagnosis or follow-up. The timing of events relative to the genetic diagnosis (WES identification of SLC25A46 mutation) is unclear, so event time periods are marked as unknown. Many features may have predated the diagnosis."
+}

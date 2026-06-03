@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "heparin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Coumadin (warfarin sodium)",
+            "start_date": "June 2006",
+            "end_date": "June 2007",
+            "dosage_or_details": "9 mg daily",
+            "treatment_response": "Patient developed spontaneous bruising and large hematomas"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "aspirin",
+            "start_date": "June 2006",
+            "end_date": "June 2007",
+            "dosage_or_details": "325 mg daily",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "June 2006",
+            "event": "Surgical placement of a titanium rod to correct a fracture of the femur"
+        },
+        {
+            "date": "One week after surgery in June 2006",
+            "event": "Patient complained of pain in his right calf, DVT confirmed by Doppler ultrasonography"
+        },
+        {
+            "date": "June 2006",
+            "event": "Anticoagulation started with heparin and Coumadin"
+        },
+        {
+            "date": "June 2006 to June 2007",
+            "event": "Maintained on 9 mg Coumadin and 325 mg aspirin daily"
+        },
+        {
+            "date": "June 2007",
+            "event": "Patient noticed spontaneous bruising and large hematomas"
+        },
+        {
+            "date": "July 2008",
+            "event": "Referred for evaluation of life-long anticoagulation decision"
+        },
+        {
+            "date": "Not specified",
+            "event": "Oral anticoagulation discontinued based on negative thrombophilia and normal Doppler ultrasonography"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Oral anticoagulation discontinued, normal blood flow in deep veins",
+        "follow_up_details": "Not specified",
+        "complications": "Spontaneous bruising and large hematomas",
+        "long_term_prognosis": "Minimal calculated risk for DVT recurrence",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient requested re-evaluation of anticoagulation due to bruising and hematomas"
+    }
+}

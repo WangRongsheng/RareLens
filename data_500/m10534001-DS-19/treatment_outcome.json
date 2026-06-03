@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "capecitabine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1500 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "morphine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "some symptomatic relief"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "dexamethasone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg PO BID",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Completed cycle 2 of capecitabine"
+        },
+        {
+            "date": "Not specified",
+            "event": "Presented to ED with worsening dyspnea and cough"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received morphine in ED with symptomatic relief"
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted to oncology floor for management"
+        },
+        {
+            "date": "Not specified",
+            "event": "Transferred to ICU due to tachypnea and unstable health status"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "deceased",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Remained wanting to be DNR/DNI and pursue aggressive measures for survival"
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "basic_information": {
+        "age": "13",
+        "gender": "Not specified",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Moroccan",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "bilateral sensorineural deafness BSD",
+        "history_of_present_illness": "diagnosed for a bilateral sensorineural deafness BSD at 12 months old, during his childhood he developed a muscular weakness, polydipsia, nocturnal enuresis, hyperuricemia with a metabolic alkalosis and high levels of renin",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Aldosterone test",
+            "date": "Not specified",
+            "findings": "12.8 ng/dl (Patient I2), 33 ng/dl (Patient II1); Normal values: 1-16 ng/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renin test",
+            "date": "Not specified",
+            "findings": "399.9 µU/ml (Patient I2), 80.02 µU/ml (Patient II1); Normal values: 5-47 µU/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sodium (Na) test",
+            "date": "Not specified",
+            "findings": "135 mEq/l (Patient I2), 137 mEq/l (Patient II1); Normal values: 141.1±2.1 mEq/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chloride (Cl) test",
+            "date": "Not specified",
+            "findings": "98.9 mEq/l (Patient I2), 100.1 mEq/l (Patient II1); Normal values: 101.6±3.7 mEq/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium (K) test",
+            "date": "Not specified",
+            "findings": "2.9 mEq/l (Patient I2), 3.05 mEq/l (Patient II1); Normal values: 4.56±0.43 mEq/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bicarbonate (HCO3) test",
+            "date": "Not specified",
+            "findings": "26 mEq/l (Patient I2), 30.6 mEq/l (Patient II1); Normal values: 23.0±1.8 mEq/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Uric acid test",
+            "date": "Not specified",
+            "findings": "5.9 mg/dl (Patient I2), 6.01 mg/dl (Patient II1); Normal values: 3.7±0.7 mg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnesium (Mg) test",
+            "date": "Not specified",
+            "findings": "2.12 mg/dl (Patient I2), 2.27 mg/dl (Patient II1); Normal values: 2.1±0.2 mg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Calcium (Ca) test",
+            "date": "Not specified",
+            "findings": "9.3 mg/dl (Patient I2), 10.24 mg/dl (Patient II1); Normal values: 10.1±0.38 mg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Phosphate (PO4) test",
+            "date": "Not specified",
+            "findings": "4 mg/dl (Patient I2), 2.8 mg/dl (Patient II1); Normal values: 5.1±0.6 mg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine test",
+            "date": "Not specified",
+            "findings": "0.37 mg/dl (Patient I2), 0.46 mg/dl (Patient II1); Normal values: 0.46±0.1 mg/dl",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [
+        {
+            "procedure_name": "Audiogram test",
+            "date": "Not specified",
+            "findings": "Profound bilateral sensorineural hearing loss with absence of evoked response to stimulation up to 90 dB",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole-exome sequencing",
+            "date": "Not specified",
+            "findings": "Identified two novel missense mutations p.Arg8Gly (c.22C>G) and p.Thr36Asn (c.107C>A) in exon 1 of BSND gene",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sanger sequencing",
+            "date": "Not specified",
+            "findings": "Confirmed the presence of mutations p.Arg8Gly (c.22C>G) and p.Thr36Asn (c.107C>A) in BSND gene",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Bartter syndrome type IV",
+        "diagnostic_reasoning": "The diagnosis was based on the identification of two novel homozygous missense mutations (p.Arg8Gly and p.Thr36Asn) in the BSND gene, which encodes barttin, a subunit of ClC-Kb and ClC-Ka channels. These mutations were found in patients presenting with hypokalemia, hyperuricaemia, metabolic alkalosis, high levels of plasmatic renin and aldosterone, and sensorineural deafness, which are characteristic clinical symptoms of Bartter syndrome type IV. The pathogenic effect of these mutations was supported by bioinformatics tools (PolyPhen-2 and SIFT) and the conservation of the affected residues across species."
+    }
+}

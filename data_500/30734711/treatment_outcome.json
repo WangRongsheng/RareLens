@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "total thyroidectomy and pre and para-tracheal dissection",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Preservation of recurrent laryngeal nerves and parathyroids",
+            "treatment_response": "Microscopic study showed tumor involvement in both lobes, medullary carcinoma type, without tumor necrosis, with macroscopic multicentric foci, with focal capsular invasion and no evidence of extrathyroid extension. Immunohistochemistry showed positivity for calcitonin, synaptophysin, CEA, and TTF-1 markers."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "levothyroxine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "125 µg daily for life",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "calcium citrate and vitamin D3",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4,500 mg and 1,200 mg daily, respectively",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient referred to Genetics consultation due to family history of medullary thyroid carcinoma (MTC) and presence of cervical tumor."
+        },
+        {
+            "date": "Not specified",
+            "event": "Physical examination revealed hard nodules in both thyroid lobes."
+        },
+        {
+            "date": "Not specified",
+            "event": "Ultrasound examination of the thyroid showed solid, hypoechoic nodules with microcalcifications and vascularization, highly suspicious for malignancy."
+        },
+        {
+            "date": "Not specified",
+            "event": "Plasma calcitonin levels were elevated (1,605 pg/mL), establishing the diagnostic possibility of MTC."
+        },
+        {
+            "date": "Not specified",
+            "event": "Genetic testing for RET gene mutations was performed, identifying the pathogenic variant c.1888T>A (p.Cys630Ser) in exon 11."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent total thyroidectomy and pre and para-tracheal dissection."
+        },
+        {
+            "date": "Not specified",
+            "event": "Post-surgery, patient was prescribed lifelong levothyroxine, calcium citrate, and vitamin D3."
+        },
+        {
+            "date": "Not specified",
+            "event": "Periodic analysis of calcitonin, parathyroid hormone, TSH, T4, and ionized calcium were performed, all within reference values."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable with periodic monitoring",
+        "follow_up_details": "Periodic analysis of calcitonin, parathyroid hormone, TSH, T4, and ionized calcium. Genetic counseling and testing recommended for at-risk family members.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

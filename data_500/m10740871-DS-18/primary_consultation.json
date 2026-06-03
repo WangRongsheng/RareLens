@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "___",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Retired ___"
+    },
+    "medical_history": {
+        "chief_complaint": "weakness/lightheadedness",
+        "history_of_present_illness": "Mr. ___ presented to the ED with complaints of a few days of foul smelling urine, 1 day of weakness, chills and generalized feeling of unwellness and dizziness c/w prior UTIs. He also reports that a few days before presentation he had left flank pain that resolved; right-sided flank pain followed, resolved by time of presentation. In the ED, initial VS: 98.5, 80, 160/70, 100%. Repeat vitals with Tmax 101, current 100. HR 89, BP 120/76, RR 19 sat 97% on RA. He reported improvement of symptoms after being given IV cipro and tylenol. He has a history of UTIs occurring 3x/month but reports it has been 5 months since his last UTI. Foley catheter is changed monthly.",
+        "past_medical_history": "1. BPH with Indwelling Foley - history of urinary retention 2. History of recurrent UTI 3. Anemia due to Alpha-Thalassemia Trait, B12 Deficiency 4. Gastritis 5. Endocarditis (spent one month for IV Abx) 6. Hypertension",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T98.2, Tmax 101.8, BP 114/61, HR 69, RR 20, sat 98% on RA. General: Pleasant elderly gentleman, sitting up in recliner, NAD. No conjunctival pallor. No scleral icterus.",
+        "specialty_examination": "Cardiac: Regular rhythm, normal rate. Normal S1, S2, with harsh systolic murmur heard loudest at ___ with radiation to the axilla suggestive of MR. Respiratory: B/l bibasilar crackles. Abdomen: Soft, NT, ND. No HSM. Neurological: A&Ox3. Appropriate. CN ___ grossly intact. Preserved sensation throughout. ___ strength throughout."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "immunotherapy",
+            "specific_treatment": "High Dose IL-2",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Cycle 2, week 1",
+            "treatment_response": "Dramatic decrease in soft tissue masses and other systemic lesions after cycle 1"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Admitted for cycle 1 week 1 of High Dose IL-2"
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent biopsy of left shoulder and left flank soft tissue masses revealing metastatic renal cell carcinoma"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received cycle 1 of therapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Ready to begin cycle 2 of therapy after head CT, torso CT for restaging"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started cycle 2 week 1 of High Dose IL-2"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Clear and coherent, ambulatory - independent",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

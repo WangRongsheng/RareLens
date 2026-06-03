@@ -1,0 +1,31 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Levodopa",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "800 mg daily",
+            "treatment_response": "No improvement"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Levodopa treatment started"
+        },
+        {
+            "date": "Not specified",
+            "event": "Levodopa treatment resulted in no improvement"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stability of symptoms",
+        "follow_up_details": "Followed up through three years",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

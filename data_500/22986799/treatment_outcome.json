@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "onabotulinumtoxinA (Botox)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "30 U in the right axillary",
+            "treatment_response": "Developed iatrogenic botulism with nasal speech, progressive dysphagia, and noticeable weakness in bulbar and upper limb muscles"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Mestinon (pyridostigmine)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "60 mg twice a day for 2 months",
+            "treatment_response": "Symptoms were gradually resolved"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Received 30 U onabotulinumtoxinA (Botox) in the right axillary for hyperhidrosis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Developed nasal speech and progressive dysphagia"
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted to hospital due to dyspnea"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started Mestinon (pyridostigmine) 60 mg twice a day"
+        },
+        {
+            "date": "3 months after injection",
+            "event": "Patient was in good health condition without any residual symptoms"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Fully recovered",
+        "follow_up_details": "Not specified",
+        "complications": "Iatrogenic botulism with nasal speech, progressive dysphagia, and noticeable weakness in bulbar and upper limb muscles",
+        "long_term_prognosis": "Good outcome with complete recovery",
+        "recovery_timeline": "3 months after the injection",
+        "quality_of_life": "Good health condition without any residual symptoms",
+        "patient_perspective": "Not specified"
+    }
+}

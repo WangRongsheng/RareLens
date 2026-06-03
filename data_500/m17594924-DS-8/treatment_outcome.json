@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "pacemaker lead/device extraction and replacement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient was comfortable and asymptomatic upon arrival; blood pressure stabilized after transfer to CCU."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented for generator replacement due to ERI."
+        },
+        {
+            "date": "Not specified",
+            "event": "Lead was cut during the procedure."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient transferred for device/lead extraction."
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery performed for pacemaker lead/device extraction and replacement."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient transferred to CCU for closer monitoring due to low blood pressure."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient's blood pressure stabilized in CCU and was transferred to the floor."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable condition at discharge.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient was ambulatory and independent at discharge.",
+        "patient_perspective": "Not specified"
+    }
+}

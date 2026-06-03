@@ -1,0 +1,91 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Right and left heart catheterization",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Amiodarone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "PO",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lopressor (Metoprolol)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "PO supplemented with IV",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Heparin gtt",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20U/hr: 26.4cc/hr",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medical procedure",
+            "specific_treatment": "Bilateral thoracentesis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "650 cc out on left, 1600 cc on right",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Right and left heart catheterization performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient resuscitated after PEA arrest x2"
+        },
+        {
+            "date": "Not specified",
+            "event": "Intubated and started on pressors"
+        },
+        {
+            "date": "Not specified",
+            "event": "Weaned from pressors"
+        },
+        {
+            "date": "Not specified",
+            "event": "Extubated"
+        },
+        {
+            "date": "Not specified",
+            "event": "Bilateral thoracentesis performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on PO amiodarone and Lopressor"
+        },
+        {
+            "date": "Not specified",
+            "event": "Anticoagulation maintained on Heparin"
+        },
+        {
+            "date": "Not specified",
+            "event": "Transfer to another facility for re-evaluation for possible mitral valve surgery"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved prior to transfer, alert and oriented",
+        "follow_up_details": "Will follow up as an outpatient with cardiac surgery for next steps in repairing the valve",
+        "complications": "No complications",
+        "long_term_prognosis": "Expected to regain strength at home prior to surgery",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient is ambulatory and independent",
+        "patient_perspective": "Patient expressed difficulty but was coherent and clear in communication"
+    }
+}

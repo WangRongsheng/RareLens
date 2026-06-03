@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Syncope",
+        "history_of_present_illness": "Ms. ___ is a ___ yo woman PMH uncontrolled HTN, DM2 (previously insulin dependent now diet controlled), ESRD on HD (T, TH, S) who presents with dizziness and presyncope found to have conversion pauses on EKG and ___ transferred to ___ from ___ for electrophysiology evaluation and intervention. Ms. ___ reports that she woke up morning of ___ feeling dizzy. Dizziness became worse as she walked to her kitchen and then went away. She reports that she had similar symptoms later in the afternoon and then again in the evening. After the third episode, she called EMS and was brought to ___ ___. She denies any associated chest pain, palpitations, nausea, vomiting, or LOC but endorsed some blurry vision during the episodes. She also endorsed diffuse weakness. At ___ she was noted to have significant bradycardia and sinus pauses which lasted up to 8 seconds. During the episode she endorsed feeling lightheaded and 'sensation that the room was going black.' Initially there was concern that these symptoms and EKG findings were due to hyperkalemia but K was 4.7. Troponin was .015. She was then transferred to ___ for EP evaluation who initially thought that she had sinus rhythm with conversion. However, on arrival to ICU appeared that she had atrial flutter. She currently denies any chest pain, SOB, lightheadedness, pre-syncopal symptoms.",
+        "past_medical_history": "ESRD HD T, Th, S lung cancer (unknown which type) s/p lobectomy, on home oxygen 2L NC, per records no active malignancy, no chemo, radiation DM HTN, poorly controlled no history of CAD, HF",
+        "family_history": "Many family members with hypertension and cardiac disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: T= 98 BP= 178/52 HR= 57 RR= 15 O2 sat 100% 2L. Gen: fair appearing woman, sitting in bed, speaking in full sentences, NAD.",
+        "specialty_examination": "CV: bradycardic, sinus, S1, S2, no M/R/G. NEURO: alert, appropriate, moving all extremities spontaneously."
+    }
+}

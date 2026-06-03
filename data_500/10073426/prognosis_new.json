@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "After 18 months, she continued to exhibit improved ambulation, decreased dystonia, and enhanced activities of daily living; dystonia scale rating dropped from 3+ to 1+ after intrathecal baclofen pump implantation, indicating improvement with residual symptoms.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Decreased dystonia sustained over 18 months; patient remained on intrathecal baclofen and low-dose clonazepam, indicating ongoing but mild symptoms.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "An intrathecal baclofen pump was implanted, and the dose was titrated up to 1200 mcg per day over 3 months."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Intrathecal baclofen trial and subsequent pump led to decreased tone and dystonia, increased lower extremity range of motion, and improved ambulation."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Dystonia scale rating dropped from 3+ (wheelchair required) to 1+ after pump implantation, with improved ambulation and ADLs."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "After 18 months, decreased dystonia was sustained."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "After 18 months, she continued to exhibit improved ambulation and enhanced activities of daily living."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "unknown",
+            "evidence_excerpt": "She also responded to botulinum toxin type-A injections in her left upper extremity prior to and after pump implantation (post-pump timing not precisely specified)."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "The case report provides 18-month follow-up and emphasizes sustained improvement but does not quantify exact functional independence. Baseline developmental and oromotor deficits may persist and are not fully separable from dystonia-related limitations. Timing of post-pump botulinum injections is not precisely stated."
+}

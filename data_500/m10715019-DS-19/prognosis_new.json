@@ -1,0 +1,39 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "CT Abd/Pelvis reported 'mild interval worsening of numerous hepatic masses, with interval worsening of large volume ascites' and concern for partial gastric outlet obstruction; patient discharged to hospice-level care with failure to thrive.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "functional_status_evidence_excerpt": "Discharge condition: Activity Status 'Out of Bed with assistance to chair or wheelchair,' indicating major dependence; hospice-level care.",
+        "symptom_burden": "persistent_severe",
+        "symptom_burden_evidence_excerpt": "Ongoing partial gastric outlet obstruction and large-volume ascites; discharged with morphine and multiple antiemetics; instructions emphasize comfort care via hospice."
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "CT Abd/Pelvis: 'Mild interval worsening of numerous hepatic masses, with interval worsening of large volume ascites' and concern for partial gastric outlet obstruction."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Left lower extremity ultrasound: 'Deep vein thrombosis involving the left common femoral, proximal femoral vein, distal femoral vein, popliteal vein, and posterior tibial and peroneal veins.'"
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Paracentesis performed: discharge instructions state 'You had a procedure to drain fluid from your abdomen'; ascitic fluid studies documented."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Treatment initiated for DVT: 'You were given a blood thinner because of a blood clot in your leg.'"
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Transition to hospice indicated: 'Take your medications unless directed otherwise by your hospice provider,' reflecting decline and comfort-focused care."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "No post-discharge follow-up is provided; long-term outcome and quality-of-life categories are inferred from in-hospital progression and transition to hospice. Exact diagnosis date is not stated, so admission date was used as the index reference."
+}

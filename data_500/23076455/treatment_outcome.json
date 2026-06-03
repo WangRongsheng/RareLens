@@ -1,0 +1,87 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "open Heller’s esophagomyotomy with Thal antireflux procedure",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "did well"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "laparoscopic Heller’s myotomy with Dor antireflux procedure",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "doing well"
+        },
+        {
+            "treatment_type": "balloon dilatation",
+            "specific_treatment": "hydrostatic balloon esophageal dilatation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "temporary improvement"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Robotic-assisted Heller’s myotomy using the DaVinci Robotic system",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "marked improvement and increase in weight"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "hydrocortisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "balloon dilatation at 7 months old"
+        },
+        {
+            "date": "Not specified",
+            "event": "surgery at 9 months old"
+        },
+        {
+            "date": "Not specified",
+            "event": "balloon dilatation at 9 months old"
+        },
+        {
+            "date": "Not specified",
+            "event": "surgery at 1 year old"
+        },
+        {
+            "date": "Not specified",
+            "event": "surgery at 9 months old"
+        },
+        {
+            "date": "Not specified",
+            "event": "balloon dilatation at 16 months old"
+        },
+        {
+            "date": "Not specified",
+            "event": "balloon dilatation at one year old"
+        },
+        {
+            "date": "Not specified",
+            "event": "Robotic-assisted Heller’s myotomy using the DaVinci Robotic system"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "doing well",
+        "follow_up_details": "follow-up barium swallow showed normal emptying of the esophagus with no evidence of gastroesophageal reflux",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "increase in weight",
+        "patient_perspective": "Not specified"
+    }
+}

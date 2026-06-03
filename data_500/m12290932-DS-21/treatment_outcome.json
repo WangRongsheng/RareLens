@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Right femoral artery access bronchial artery particle embolization to stasis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "procedure",
+            "specific_treatment": "Bronchoscopy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "procedure",
+            "specific_treatment": "Bronchial lavage, right upper lobe",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Negative for malignant cells, bronchial epithelial cells, pulmonary macrophages and abundant blood."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with hemoptysis and was evaluated."
+        },
+        {
+            "date": "Not specified",
+            "event": "Anticoagulation therapy stopped per hematologist recommendation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Episodes of hematemesis occurred leading to hospital admission."
+        },
+        {
+            "date": "Not specified",
+            "event": "Bronchial artery particle embolization performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Bronchoscopy and bronchial lavage performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Initial medication for bleeding provided."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received antibiotics for community-acquired pneumonia for 5 days."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Clear and coherent with activity status ambulatory - independent.",
+        "follow_up_details": "Follow up with primary care provider within one week and INR check within specified days.",
+        "complications": "No complications",
+        "long_term_prognosis": "Expected to continue coughing up phlegm with some dried blood.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient is expected to continue coughing up phlegm with some dried blood, which is to be expected."
+    }
+}

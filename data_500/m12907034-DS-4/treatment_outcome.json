@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "debridement and repair of head laceration and management of fractures",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient recovering well"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented for evaluation after fall with significant laceration and multiple fractures."
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery performed for laceration and fracture management."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged from hospital."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Recovering well",
+        "follow_up_details": "Follow-up needed for any concerns with pain or new symptoms.",
+        "complications": "No complications",
+        "long_term_prognosis": "Patient is ambulatory with assistance; prognosis for recovery appears positive.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient requires assistance or aid (walker or cane) after discharge.",
+        "patient_perspective": "Patient is recovering well and is ready for discharge"
+    }
+}

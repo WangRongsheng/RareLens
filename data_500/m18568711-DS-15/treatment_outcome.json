@@ -1,0 +1,31 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Total laparoscopic hysterectomy Bilateral salpingectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Recovered well and ready to be discharged home."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Total laparoscopic hysterectomy and Bilateral salpingectomy performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge from the hospital."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Recovered well, ready for discharge.",
+        "follow_up_details": "Follow up with Dr. ___ as needed.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient's mental status is clear and coherent, and she is ambulatory and independent.",
+        "patient_perspective": "Patient expressed readiness for discharge home."
+    }
+}

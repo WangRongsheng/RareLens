@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "cochlear implantation",
+            "start_date": "2000-11-17",
+            "end_date": "Not specified",
+            "dosage_or_details": "Nucleus 24M CI was inserted except five electrodes",
+            "treatment_response": "No complications were encountered. Both patients responded to acoustic stimuli, and their speech perception skills were improved."
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "adenoidectomy",
+            "start_date": "2000-11-17",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed at the beginning of the surgery due to severe symptoms of airway obstruction",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "2000-11-17",
+            "event": "Cochlear implantation performed on the right ear"
+        },
+        {
+            "date": "2000-11-17",
+            "event": "Adenoidectomy performed due to severe symptoms of airway obstruction"
+        },
+        {
+            "date": "Not specified",
+            "event": "Postoperative CT scan showed electrode array was in the cochlea"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved speech perception skills",
+        "follow_up_details": "Fitted 4 weeks after the operation using SPEAK strategy. All electrodes in the cochlea were activated.",
+        "complications": "No complications",
+        "long_term_prognosis": "Their results seem encouraging after 10 months of cochlear implant use.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Parents reported good outcomes.",
+        "patient_perspective": "Not specified"
+    }
+}

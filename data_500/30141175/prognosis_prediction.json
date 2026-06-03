@@ -1,0 +1,270 @@
+{
+    "basic_information": {
+        "age": "7",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Status epilepticus due to profound hypomagnesemia",
+        "history_of_present_illness": "Developed recurrent urinary tract infections (UTIs), neurogenic bladder dysfunction, proteinuria, partial Fanconi syndrome, bladder calculus, and left non-obstructing renal calculi",
+        "past_medical_history": "Severe developmental delay, microcephaly, spastic dystonic diplegia, facial dysmorphism, respiratory distress due to tracheomalacia, seizures, hypomagnesemia, renal tubulopathy",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Microcephaly, developmental delay, spastic dystonic diplegia, facial dysmorphism, neurogenic bladder dysfunction, hypomagnesemia (0.31 mmol/L), proteinuria (microalbumin/creatinine ratio 647 mg/mmol), partial Fanconi syndrome, bladder calculus (3.3 × 3.2 cm), left non-obstructing renal calculi"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum magnesium",
+            "date": "Age 3 years and 11 months",
+            "findings": "0.31 mmol/L (normal 0.65–1.05)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urine magnesium",
+            "date": "Age 3 years and 11 months",
+            "findings": "0.6 mmol/kg/day (suggesting renal tubulopathy)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microalbumin/creatinine ratio",
+            "date": "Age 3 years and 11 months",
+            "findings": "1466.2 mg/mmol creatinine (normal < 2.8 mg/mmol)",
+            "changes_over_time": "Increased to median 647 mg/mmol over time"
+        },
+        {
+            "procedure_name": "Beta-2-microglobulin/creatinine ratio",
+            "date": "Age 3 years and 11 months",
+            "findings": "453 μg/mmol (normal <29 μg/mmol)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fractional magnesium excretion",
+            "date": "Age 3 years and 11 months",
+            "findings": "18% (normal < 3%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Protein/creatinine ratio",
+            "date": "Age 7 years",
+            "findings": "1202 mg/mmol (normal <23 mg/mmol)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Albumin/creatinine ratio",
+            "date": "Age 7 years",
+            "findings": "253 mg/mmol (normal <2.8 mg/mmol)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum albumin",
+            "date": "Age 7 years",
+            "findings": "37 g/L (normal)",
+            "changes_over_time": "Average 31 g/L over time"
+        },
+        {
+            "procedure_name": "Serum cholesterol",
+            "date": "Age 7 years",
+            "findings": "6.17 mmol/L (normal < 5.2 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum triglycerides",
+            "date": "Age 7 years",
+            "findings": "1.89 mmol/L (normal < 1.70 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary calcium",
+            "date": "Age 7 years",
+            "findings": "0.88 mmol/mmol (normal < 0.6)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary oxalate",
+            "date": "Age 7 years",
+            "findings": "0.14 mmol/mmol (normal < 0.8 mmol/mmol)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum phosphate",
+            "date": "Age 7 years",
+            "findings": "0.73 mmol/L (normal 1.10–1.90 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tubular phosphate reabsorption",
+            "date": "Age 7 years",
+            "findings": "94% and 96% (normal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Generalized hyperaminoaciduria",
+            "date": "Age 7 years",
+            "findings": "Massive generalized hyperaminoaciduria of all amino acids, including cystine, ornithine, lysine, and arginine",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine pH",
+            "date": "Age 7 years",
+            "findings": "7 or higher (up to 8.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum bicarbonate",
+            "date": "Age 7 years",
+            "findings": "Never < 18 mmol/L, most levels normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cystatin C eGFR",
+            "date": "Most recent",
+            "findings": "120 mL/min/1.73 m2",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the head",
+            "date": "Age 17 months",
+            "findings": "Hypomyelination and progressive atrophy of the cerebellum and the brain stem",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal and bladder ultrasound",
+            "date": "Age 5 years",
+            "findings": "Normal kidneys and bladder",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Voiding cystourethrogram (VCUG)",
+            "date": "Age 5 years",
+            "findings": "Mildly trabeculated bladder and no vesicoureteral reflux",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dimercaptosuccinic acid scan",
+            "date": "Age 5 years",
+            "findings": "Normal split function without renal scarring",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI spine",
+            "date": "Age 6 years",
+            "findings": "Ruled out tethered cord or cord compression",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal bladder ultrasound",
+            "date": "Age 7 years",
+            "findings": "Large bladder calculus (3.3 × 3.2 cm) and left non-obstructing renal calculi (three in the left kidney)",
+            "changes_over_time": "Not present 1 year previously"
+        },
+        {
+            "procedure_name": "Low-dose computed tomography (CT) of the abdomen and pelvis",
+            "date": "Age 7 years",
+            "findings": "Confirmed large bladder calculus and left non-obstructing renal calculi",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat renal bladder ultrasound",
+            "date": "Post-surgery",
+            "findings": "Normal kidneys without hydronephrosis bilaterally and stable renal calculi on the left. The bladder is completely decompressed.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Urodynamic study",
+            "date": "Age 5 years",
+            "findings": "Normal age-specific bladder capacity (200 cc) with definitive episodes of detrusor overactivity but emptied completely. Detrusor leak point pressure was measured at 36 cm H2O with EMG activity indicative of detrusor sphincter dyssynergia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cystoscopy and laser lithotripsy",
+            "date": "Age 7 years",
+            "findings": "Incomplete laser lithotripsy of the bladder stone, which was white in appearance and extremely hard. Fragments of the stone analyzed and showed 100% struvite.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Open lithotomy and vesicostomy",
+            "date": "Age 7 years",
+            "findings": "Removal of the remaining bladder stone and creation of a vesicostomy to ensure complete low-pressure emptying.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Exome sequencing",
+            "date": "Not specified",
+            "findings": "Demonstrated a homozygous variant in c.974G>A (p.Arg325Gln) in Exome 11 of the OSGEP gene.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "homozygous c.974G>A (p.Arg325Gln) OSGEP mutations",
+        "diagnostic_reasoning": "The patient presented with status epilepticus due to profound hypomagnesemia, magnesium loss with associated proteinuria suggesting renal tubulopathy, recurrent urinary tract infections, neurogenic bladder dysfunction, and partial Fanconi syndrome. Genetic testing revealed a homozygous variant in c.974G>A (p.Arg325Gln) in Exome 11 of the OSGEP gene, confirming the diagnosis."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "magnesium oxide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "54 mg/kg/day"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "nitrofurantoin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "methenamine hippurate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "up to 58 mg/kg/day"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "cystoscopy and incomplete laser lithotripsy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "open lithotomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "creation of a vesicostomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "enalapril",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.5 mg daily"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "bethanechol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg thrice daily"
+        }
+    ]
+}

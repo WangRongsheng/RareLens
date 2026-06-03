@@ -1,0 +1,38 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Au dernier recul (33 ans), la fusion était acquise. Résultat fonctionnel très bon (genou indolore, 0–100° de mobilité), mais avec amputation médiotarsienne de Boyd à 22 ans, raccourcissement de 15 cm et appareillage.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "À 33 ans, le genou était indolore et la patiente satisfaite du résultat.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "À 19 ans, tibialisation de la fibula avec recentrage de l’appareil extenseur; consolidation obtenue en quatre mois."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "Environ un an après la fusion, fracture de fatigue du quart distal du tibia évoluant vers la pseudarthrose."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "À 21 ans, reprise par greffe intertibiofibulaire (GITP) basse, permettant d’obtenir la consolidation."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "À 22 ans, amputation médiotarsienne de Boyd avec arthrodèse tibiocalcanéenne pour améliorer appareillage et esthétique."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "À 33 ans, fonction satisfaisante, genou indolore, 0–100° de mobilité; intégration sociale/professionnelle et activités sportives."
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "L’index temporel est fixé à la prise en charge spécialisée à 17 ans. Certaines dates sont rapportées par âges (19, 21, 22, 33 ans) plutôt que des dates précises; l’événement de 'neuf mois plus tard' a conduit à une intervention finalement réalisée à 19 ans. Les périodes ont été normalisées par rapport à l’âge 17 ans, rendant tous les événements décrits ici en long terme (>12 mois). Les limitations fonctionnelles persistent malgré une bonne consolidation et une bonne adaptation à l’appareillage."
+}

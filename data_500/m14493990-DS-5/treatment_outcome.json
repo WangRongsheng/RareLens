@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Drainage of wound with debridement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV antibiotics",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Fever improved, erythema still present"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for evaluation of postoperative wound infection"
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent ultrasound which showed a fluid collection"
+        },
+        {
+            "date": "Not specified",
+            "event": "Decision made to proceed to the operating room for drainage"
+        },
+        {
+            "date": "Not specified",
+            "event": "IV antibiotics started"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive, but with ongoing issues",
+        "follow_up_details": "Follow up with Neurology and primary care physician",
+        "complications": "Acute ischemic stroke",
+        "long_term_prognosis": "Risk factors for future strokes identified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Activity status: Out of bed with assistance",
+        "patient_perspective": "Not specified"
+    }
+}

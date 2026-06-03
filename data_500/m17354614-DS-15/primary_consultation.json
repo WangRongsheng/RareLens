@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "urinary retention",
+        "history_of_present_illness": "Male with BPH and chronic urinary retention status post prostate needle biopsy, with negative result here for followup and urinary catheter removal. The patient had urodynamics, which showed an obstruction with a pressure Qmax of 144 mmH20, detrusor overactivity that was phasic, and he voided only with uninhibited contraction. He also had an underactive bladder with incomplete emptying. Postvoid residuals after uninhibited contraction were 30 to 100 mL. Most recent PSA was 10 prior to his prostate needle biopsy. He is here for scheduling of a bladder outlet procedure.",
+        "past_medical_history": "Hypertension.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "NAD soft, NT, ND",
+        "specialty_examination": "Not specified"
+    }
+}

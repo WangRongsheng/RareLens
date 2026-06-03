@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Keppra",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg BID, increased to 1000 mg BID",
+            "treatment_response": "Patient feeling more tired and lightheaded"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lacosamide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "150 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Nitrofurantoin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO Q12H for 3 days",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with right hand weakness and aphasia"
+        },
+        {
+            "date": "Not specified",
+            "event": "Keppra was increased from 500 mg BID to 1000 mg BID"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on Lacosamide 150 mg PO BID"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on Nitrofurantoin for urinary tract infection"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home ambulatory and independent",
+        "follow_up_details": "Follow up with Neurology as an outpatient",
+        "complications": "Urinary tract infection",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Mental Status: Clear and coherent",
+        "patient_perspective": "Patient was concerned for seizures"
+    }
+}

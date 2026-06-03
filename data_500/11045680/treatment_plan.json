@@ -1,0 +1,104 @@
+{
+    "basic_information": {
+        "age": "27",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Progressive dementia, dystonia, ataxia, apraxia, spasticity, choreoathetosis, visual and auditory hallucinations, and optic atrophy",
+        "history_of_present_illness": "At about the age of 21 she began to show changes of mood with dysphoria, increasing indifference and loss of impetus. In the following months she developed difficulties in walking and fell down the stairs several times. She required a long time to perform simple tasks such as dressing, and quickly showed signs of fatigue. At the age of 24 she was referred to a neurological clinic. The neurological examination revealed normal proprioceptive reflexes, positive Babinski’s sign on both sides, and a broad-based ataxic gait. Psychometric tests revealed an IQ of 81. She exhibited distinct disturbances in attention and concentration as well as impaired memory functions. Ophthalmo-logical examination revealed optic atrophy on both sides. Magnetic resonance imaging (MRI) showed limited subcortical and cerebellar atrophy. Blood, urine, and CSF studies were normal, including serum levels of copper and coeruloplasmin, enzyme activity of hexaminidase A and B, arylsulfatase A, and β-glucosidase. From that time on she lived in a daytime care clinic. About 1 year later, at the age of 25, her condition deteriorated drastically. She suffered from visual and auditory hallucinations and paranoia. Her speech was confused and her behavior occasionally aggressive. Upon admission to the clinic no communication was possible with her; her mood was instable. She was not able to understand simple commands or perform simple tasks. Her speech was monotonous and low-voiced. Testing of cognitive functions was not possible. She exhibited facial, cervical and limb dystonia, involuntary movements of the extremities, spasticity, dysmetric pointing tests and ataxic gait. Drug therapy with neuroleptics led to a deterioration of the paranoid symptoms and mobility and was therefore discontinued. MRI now showed a decreased signal intensity in the region of the globus pallidus, in the substantia nigra, and to a lesser extent in the dentate nuclei. In the following year the symptoms progressed and she became bedridden. Repeated MRI showed a further decrease in signal intensity in the globus pallidus and in the substantia nigra. At the age of 27 she died of acute bronchopneumonia.",
+        "past_medical_history": "Not specified",
+        "family_history": "No family history of neurological diseases",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Neurological examination revealed normal proprioceptive reflexes, positive Babinski’s sign on both sides, and a broad-based ataxic gait. Psychometric tests revealed an IQ of 81. She exhibited distinct disturbances in attention and concentration as well as impaired memory functions. Ophthalmo-logical examination revealed optic atrophy on both sides. She exhibited facial, cervical and limb dystonia, involuntary movements of the extremities, spasticity, dysmetric pointing tests and ataxic gait."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood studies",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine studies",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF studies",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum levels of copper and coeruloplasmin",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Enzyme activity of hexaminidase A and B",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arylsulfatase A",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "β-glucosidase",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "At age 24",
+            "findings": "Limited subcortical and cerebellar atrophy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "At age 25",
+            "findings": "Decreased signal intensity in the region of the globus pallidus, in the substantia nigra, and to a lesser extent in the dentate nuclei",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "At age 26",
+            "findings": "Further decrease in signal intensity in the globus pallidus and in the substantia nigra",
+            "changes_over_time": "Progression of signal intensity decrease in the globus pallidus and substantia nigra"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Psychometric tests",
+            "date": "At age 24",
+            "findings": "IQ of 81, distinct disturbances in attention and concentration as well as impaired memory functions",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ophthalmological examination",
+            "date": "At age 24",
+            "findings": "Optic atrophy on both sides",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Neurodegeneration with brain iron accumulation type 1 (NBIA-1; formerly known as Hallervorden-Spatz syndrome)",
+        "diagnostic_reasoning": "The diagnosis was supported by clinical features such as progressive dementia, dystonia, ataxia, apraxia, spasticity, choreoathetosis, visual and auditory hallucinations, and optic atrophy. Magnetic resonance imaging (MRI) showed decreased intensity in the globus pallidus, substantia nigra, and dentate nuclei in T2-weighted images. Neuropathological findings included mild frontotemporal atrophy, discoloration of the globus pallidus and substantia nigra pars reticularis, widespread axonal spheroids, and large deposits of iron pigment. Additionally, excessive numbers of Lewy bodies (LBs) were found throughout all examined brain stem and cortical regions, which were strongly labeled by antibodies against α-synuclein."
+    }
+}

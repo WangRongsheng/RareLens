@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Left hemithyroidectomy, parathyroid autotransplantation, intraoperative nerve monitoring",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Positive; the patient tolerated the surgery well with adequate pain control and was ambulatory post-surgery."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented for left hemithyroidectomy due to symptomatic thyroid nodule."
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery performed: Left hemithyroidectomy, parathyroid autotransplantation, intraoperative nerve monitoring."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge from the inpatient general surgery unit with home medications prescribed."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory and independent at discharge.",
+        "follow_up_details": "Follow up with Dr. ___ at the appointment listed below.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Adequate pain control and tolerated a regular diet.",
+        "patient_perspective": "Not specified."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "Como parte del seguimiento la paciente se realiza análisis periódicos de calcitonina, parathormona, TSH, T4 y calcio ionizado, los cuales hasta la fecha se encuentran dentro de los valores referenciales; la pieza quirúrgica mostró carcinoma medular sin extensión extratiroidea y no se describen complicaciones.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "No se describen síntomas persistentes en el seguimiento y los marcadores bioquímicos permanecen en valores referenciales.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "unknown",
+            "evidence_excerpt": "Análisis periódicos de calcitonina, PTH, TSH, T4 y calcio ionizado dentro de valores referenciales en el seguimiento, consistente con control biológico de la enfermedad."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "La duración exacta del seguimiento no está especificada (\"hasta la fecha\"). No hay detalles explícitos sobre actividad cotidiana postoperatoria; la recuperación e impacto se infieren principalmente de la normalización sostenida de marcadores bioquímicos y ausencia de complicaciones reportadas. La terapia con levotiroxina es esperable tras tiroidectomía total y no indica actividad tumoral residual."
+}

@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "furosemide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg IV x1",
+            "treatment_response": "Improved oxygen saturation from 90% on RA to 97% on 1.5L NC"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "duonebs",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "furosemide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO every other day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "metoprolol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "12.5 mg, reduced from 25 mg",
+            "treatment_response": "Due to low BPs, dizziness, and lightheadedness"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the ED with worsening dyspnea"
+        },
+        {
+            "date": "Not specified",
+            "event": "IV furosemide administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with furosemide 20 mg PO every other day"
+        },
+        {
+            "date": "Not specified",
+            "event": "Metoprolol dosage reduced from 25 mg to 12.5 mg"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused but alert and interactive",
+        "follow_up_details": "Follow up at listed appointments",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient was informed about the need to weigh herself daily and to call if weight increased significantly"
+    }
+}

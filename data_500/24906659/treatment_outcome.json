@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "patent ductus arteriosus closure",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Surgical closure at 18 months of age",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "diagnostic procedure",
+            "specific_treatment": "bone marrow aspiration",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed at age 23 years after complaints of unexplained weight loss",
+            "treatment_response": "No abnormalities found"
+        },
+        {
+            "treatment_type": "diagnostic imaging",
+            "specific_treatment": "brain MRI",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Revealed bilateral multiple and diffuse periventricular nodular heterotopia",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "diagnostic imaging",
+            "specific_treatment": "echocardiography",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed at age 32 years",
+            "treatment_response": "Revealed a mildly dilated aortic root and ascending aorta with mild aortic regurgitation"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Surgical closure of patent ductus arteriosus at 18 months of age"
+        },
+        {
+            "date": "Not specified",
+            "event": "Bone marrow aspiration at age 23 years"
+        },
+        {
+            "date": "Not specified",
+            "event": "First seizure at age 24 years"
+        },
+        {
+            "date": "Not specified",
+            "event": "Brain MRI revealed bilateral multiple and diffuse periventricular nodular heterotopia"
+        },
+        {
+            "date": "Not specified",
+            "event": "Echocardiography at age 32 years"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ongoing symptoms (thrombocytopenia, episodic headache with photophobia and phonophobia, mild aortic regurgitation)",
+        "follow_up_details": "Not specified",
+        "complications": "No complications mentioned",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

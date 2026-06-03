@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Gabapentin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "600 mg PO daily",
+            "treatment_response": "Discontinued due to symptoms improvement"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg PO daily",
+            "treatment_response": "Continued"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Calcitriol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.5 mcg PO BID",
+            "treatment_response": "Decreased dosage"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Gabapentin prescribed, ongoing treatment."
+        },
+        {
+            "date": "Not specified",
+            "event": "Gabapentin was discontinued due to symptom improvement."
+        },
+        {
+            "date": "Not specified",
+            "event": "Calcitriol dosage decreased."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Clear and coherent; ambulatory - independent.",
+        "follow_up_details": "Further work up recommended with primary care doctor.",
+        "complications": "No complications",
+        "long_term_prognosis": "Good prognosis for foot sprain.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Improved symptoms and condition",
+        "patient_perspective": "Patient advised to refrain from driving until cleared by primary care doctor."
+    }
+}

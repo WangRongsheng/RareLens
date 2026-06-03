@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ciprofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg twice daily",
+            "treatment_response": " Pt reports improvement of symptoms."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lisinopril",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "fluid management",
+            "specific_treatment": "IVF",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1.5 L",
+            "treatment_response": "Pt reports improvement of symptoms."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Tylenol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Pt reports improvement of symptoms."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with urinary infection."
+        },
+        {
+            "date": "Not specified",
+            "event": "1.5 L IVF administered."
+        },
+        {
+            "date": "Not specified",
+            "event": "IV Ciprofloxacin and Tylenol given."
+        },
+        {
+            "date": "Not specified",
+            "event": "Foley catheter changed during hospitalization."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Lisinopril for high blood pressure."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved symptoms but continued monitoring required.",
+        "follow_up_details": "Blood pressure and electrolytes should be checked in 1 week with PCP.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

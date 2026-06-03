@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Lumbar spinal stenosis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "Given the patient's symptoms and imaging findings, the possibility of cauda equina syndrome cannot be completely excluded, as indicated by the MRI showing severe spinal canal stenosis and buckling of the nerve roots."
+    }
+}

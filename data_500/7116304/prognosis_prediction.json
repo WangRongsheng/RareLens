@@ -1,0 +1,92 @@
+{
+    "basic_information": {
+        "age": "58",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "difficulty with upward gaze, headaches, occasional diplopia and ataxia",
+        "history_of_present_illness": "Well until August 1980, when he noted difficulty with upward gaze, headaches, occasional diplopia and ataxia. Admitted to the Hospital of the University of Pennsylvania where examination revealed paralysis of upward gaze, light-near dissociation, bilateral papilledema, and retractory nystagmus. A CT scan demonstrated an enhancing mass in the pineal region with hydrocephalus and a metastatic work-up was negative. A ventriculoperitoneal shunt procedure was carried out and the patient was treated with steroids. He was discharged and radiation therapy was given on an outpatient basis. Readmitted in September 1980, because of weight loss and anorexia at which time a diligent search for a primary outside the cranial cavity again proved negative. Discharged October 1980, and completed his radiation therapy (5500-6000 rad). Admitted for the final time because of dehydration and inanition. A shunt revision resulted in some improvement in his mental status and a gastrostomy was done to improve his nutrition. In the ensuing weeks he became increasingly lethargic. His course was complicated by gastric perforation, diabetes, pneumonia and wound dehiscence. He died three months after his final admission and six months after the onset of his illness.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "paralysis of upward gaze, light-near dissociation, bilateral papilledema, and retractory nystagmus",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "August 1980",
+            "findings": "An enhancing mass in the pineal region with hydrocephalus",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Autopsy",
+            "date": "Not specified",
+            "findings": "Obliteration of the pineal gland by a tan-grey tumor contiguous with the midbrain, enlarging the dorsal aspect of the midbrain and moderately effacing the corpora quadrigemina. The tumor did not extend into the cerebellum, corpus callosum or either cerebral hemisphere.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microscopic examination",
+            "date": "Not specified",
+            "findings": "The pineal gland was largely obliterated but remnants could be identified. The tumor was present as sheets of small cells with large areas of distinctly papillary growth pattern. Pseudorosettes and Flexner-Wintersteiner rosettes were present. GFAP-positive cells were confined to the periphery of the tumor and were interpreted as reactive astrocytes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Special stains",
+            "date": "Not specified",
+            "findings": "Weil stain for myelin, phosphotungstic-acid-hematoxylin (PTAH), DeGirolami and Zvaigne silver carbonate method for impregnating pineal parenchymal cells, and glial fibrillary acidic protein (GFAP) staining.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Malignant Pineocytoma with Prominent Papillary Features",
+        "diagnostic_reasoning": "The tumor was diagnosed as a pineocytoma based on its neuroectodermal appearance, the presence of pseudorosettes and Flexner-Wintersteiner rosettes, and the demonstration of fleurettes and club-shaped processes with the DeGirolami and Zvaigne silver impregnation technique. These features distinguished it from other papillary neoplasms in the pineal region."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ventriculoperitoneal shunt procedure",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "steroids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "radiation",
+            "specific_treatment": "radiation therapy",
+            "start_date": "Not specified",
+            "end_date": "1980-10",
+            "dosage_or_details": "5500-6000 rad"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "shunt revision",
+            "start_date": "1980-10",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "gastrostomy",
+            "start_date": "1980-10",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

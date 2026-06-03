@@ -1,0 +1,119 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ciprofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg by mouth every 12 hours",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metronidazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg by mouth every 8 hours",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Humira",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg/0.8 mL 1 pen subcutaneous once every other week",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Mesalamine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1000 mg by mouth four times a day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Loperamide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg by mouth three times a day as needed for diarrhea",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Clobetasol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.05% topical cream apply to ulcerated areas daily for 10 days per month",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Selenium sulfide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.5% topical suspension apply daily, lather with water for 20 minutes and remove daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Mupirocin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2% ointment apply to ulcer area using every other week for maintenance",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Clindamycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1% topical gel apply twice daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Fluocinonide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.05% topical cream apply daily for 1 to 2 weeks, then once or twice weekly as needed",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ketoconazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2% shampoo shower daily as needed",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presents with enterocutaneous fistula and receives assessment."
+        },
+        {
+            "date": "Not specified",
+            "event": "Antibiotic treatment with Ciprofloxacin and Metronidazole initiated."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient protected area with an ostomy bag."
+        },
+        {
+            "date": "Not specified",
+            "event": "Follow-up scheduled with primary gastroenterologist within two weeks."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental status clear and coherent, ambulatory and independent.",
+        "follow_up_details": "Follow up with Dr. ___ primary gastroenterologist within the next two weeks.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient remained active and felt systemically well.",
+        "patient_perspective": "Patient reported feeling very active and tolerating oral intake without issues."
+    }
+}

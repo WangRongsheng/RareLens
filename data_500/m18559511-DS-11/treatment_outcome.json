@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV fluids and symptomatic treatment",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "7L IV fluids, multiple doses of IV Zofran, IV Ativan 1mg, Haldol 2.5mg IV, Lisinopril 40mg x2, SQ insulin 17 units",
+            "treatment_response": "Nausea and vomiting resolved, patient felt dehydrated but denied additional symptoms."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the ED with nausea and vomiting."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received about 7L IV fluids and multiple doses of medications for nausea."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient denied pain, nausea or vomiting upon arrival to the floor."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Fully recovered",
+        "follow_up_details": "Recommended follow-up appointment with PCP in the next few weeks.",
+        "complications": "No complications",
+        "long_term_prognosis": "Encouraged to abstain from marijuana to reduce the risk of future episodes.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient advised to abstain from marijuana products due to potential causes for symptoms."
+    }
+}

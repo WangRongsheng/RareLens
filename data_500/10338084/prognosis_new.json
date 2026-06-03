@@ -1,0 +1,68 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "The patient died on October 15, 1995, 2 years and 2 months after the onset of the disease. Autopsy showed multiple metastatic lesions in the spinal cord and the abdominal and pleural cavities.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Gait disturbance was exacerbated; severe ascites developed and continued to accumulate and progressively worsened; conscious disturbance deteriorated.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "After initial surgery, the patient's symptoms subsequently improved."
+        },
+        {
+            "event_type": "readmission",
+            "time_period": "mid_term",
+            "evidence_excerpt": "One year after the first operation, the patient was readmitted because of gait disturbance and dementia."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "A ventriculoperitoneal shunt was placed for normal pressure hydrocephalus."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "In December 1994, a new mass in the left frontal lobe was resected; pathology showed necrotic tissue (no recurrence)."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "The ventriculoperitoneal shunt was exchanged to relieve dementia."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "In May 1995, gait disturbance was exacerbated and MRI revealed a spinal tumor; pathology suggested metastasis from the prior ganglioglioma."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Spinal tumors were partially resected; postoperative irradiation (61.2 Gy) and chemotherapy were given."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "In September 1995, the patient's conscious disturbance deteriorated."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "She developed severe ascites that continued to accumulate and progressively worsened."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Ventricular drainage and a ventriculoatrial shunt were performed to relieve hydrocephalus."
+        },
+        {
+            "event_type": "death",
+            "time_period": "long_term",
+            "evidence_excerpt": "The patient died on October 15, 1995."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The exact index time was approximated to the initial diagnosis period (August 1993). Functional status was inferred from documented gait and consciousness disturbances and need for repeated CSF shunting. Some dates are approximate; timing categories are mapped relative to the diagnosis date."
+}

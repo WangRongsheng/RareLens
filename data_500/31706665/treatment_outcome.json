@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "tympanocentesis with drainage positioning",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Language development did not improve"
+        },
+        {
+            "treatment_type": "therapy",
+            "specific_treatment": "speech therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Slow progression of linguistic abilities"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Underwent tympanocentesis with drainage positioning"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started speech therapy"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Low normal IQ with significant difficulties in verbal abstraction and deficit in working memory",
+        "follow_up_details": "Followed up along his development with speech therapy and neuropsychological evaluations",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Referred pleasant life events but with persistent phonological errors and rhinolalia",
+        "patient_perspective": "Not specified"
+    }
+}

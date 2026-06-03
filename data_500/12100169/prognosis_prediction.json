@@ -1,0 +1,113 @@
+{
+    "basic_information": {
+        "age": "10",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "White",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "bruising and epistaxis",
+        "history_of_present_illness": "Diagnosed with idiopathic severe aplastic anaemia (SAA) in June of 1995, when he presented with bruising and epistaxis at the age of 4 years. Complete blood count (CBC) showed a white blood count (WBC) of 2.6 · 109/l, an absolute neutrophil count (ANC) of 0.8 · 109/l, haemoglobin (Hb) of 5.8 g/dl and platelet count of 14 · 109/l. Bone marrow aspirate was hypocellular and cytogenetic studies of the marrow were normal. He was treated with immunosuppressive therapy of anti-thymocyte globulin (ATG) at 40 mg/kg/d intravenously for 4 d, prednisone 2 mg/kg/d orally for 2 weeks and CSA 15 mg/kg/d orally, and was transfusion independent by 6 weeks (Hb 8.2 g/dl, platelets 86 · 109/l, ANC 1.94 · 109/l). CSA was stopped after tapering in June 1996 (platelets 109 · 109/l). Shortly thereafter his platelet count fell to 25 · 109/l and CSA was resumed in September 1996 at a dose of 12 mg/kg/d orally. The patient responded with gradually increasing platelet counts (152 · 109/l in March 1998). After a very slow wean, CSA was discontinued in May 1999 and his CBC remained normal. About 6 months later, the child was diagnosed with attention deficit with hyperactivity disorder (ADHD) and placed on methylphenidate hydrochloride (Ritalin). In April 2001, his platelet count fell to 93 · 109/l. On a subsequent visit he was noted to have a goitre (5 · 4 cm on left, 6 · 4 cm on right), moderate exophthalmos, tachycardia at rest (131/min), mild hypertension (138/67 mm), warm moist skin and brisk reflexes. On direct questioning, the parents gave a history of a voracious appetite, but with poor weight gain, palpitations and excessive sweating. Grave’s disease was confirmed by a low TSH of 0.011 mU/l (n = 0.2–6.2), elevated total thyroxine (T4) of 335.6 nmol/l (n = 64.35–154.4), antimicrosomal thyroid auto antibody 7.7 (n = 0–2), free thyroxine index (FTI) 419.5 nmol/l (n = 81.07–159.56). Nuclear thyroid uptake scan was consistent with Grave’s disease. The patient was put on 0.8 mg/kg/d of atenolol and underwent treatment with 9.11 mCi of I131 orally. Due to worsening platelet counts (49 · 109/l), CSA was re-instituted in September 2001.",
+        "past_medical_history": "Diagnosed with idiopathic severe aplastic anaemia (SAA) in June of 1995, attention deficit with hyperactivity disorder (ADHD), Grave’s disease.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "goitre (5 · 4 cm on left, 6 · 4 cm on right), moderate exophthalmos, tachycardia at rest (131/min), mild hypertension (138/67 mm), warm moist skin and brisk reflexes.",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete blood count (CBC)",
+            "date": "June 1995",
+            "findings": "WBC: 2.6 × 10^9/l, ANC: 0.8 × 10^9/l, Hb: 5.8 g/dl, platelet count: 14 × 10^9/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow aspirate",
+            "date": "June 1995",
+            "findings": "Hypocellular, cytogenetic studies of the marrow were normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid function tests",
+            "date": "April 2001",
+            "findings": "TSH: 0.011 mU/l (n = 0.2–6.2), total thyroxine (T4): 335.6 nmol/l (n = 64.35–154.4), antimicrosomal thyroid auto antibody: 7.7 (n = 0–2), free thyroxine index (FTI): 419.5 nmol/l (n = 81.07–159.56)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Nuclear thyroid uptake scan",
+            "date": "April 2001",
+            "findings": "Consistent with Grave’s disease",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [],
+    "diagnosis": {
+        "final_diagnosis": "Severe aplastic anaemia (SAA) and Grave’s disease",
+        "diagnostic_reasoning": "The patient presented with bruising and epistaxis, and a complete blood count showed low white blood count, absolute neutrophil count, haemoglobin, and platelet count. Bone marrow aspirate was hypocellular with normal cytogenetic studies. Grave’s disease was confirmed by low TSH, elevated total thyroxine, antimicrosomal thyroid auto antibody, and free thyroxine index. Nuclear thyroid uptake scan was consistent with Grave’s disease. The patient also exhibited symptoms such as goitre, exophthalmos, tachycardia, hypertension, warm moist skin, brisk reflexes, voracious appetite with poor weight gain, palpitations, and excessive sweating."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "immunosuppressive therapy",
+            "specific_treatment": "anti-thymocyte globulin (ATG)",
+            "start_date": "1995-06",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg/kg/d intravenously for 4 d"
+        },
+        {
+            "treatment_type": "immunosuppressive therapy",
+            "specific_treatment": "prednisone",
+            "start_date": "1995-06",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 mg/kg/d orally for 2 weeks"
+        },
+        {
+            "treatment_type": "immunosuppressive therapy",
+            "specific_treatment": "cyclosporine (CSA)",
+            "start_date": "1995-06",
+            "end_date": "1996-06",
+            "dosage_or_details": "15 mg/kg/d orally"
+        },
+        {
+            "treatment_type": "immunosuppressive therapy",
+            "specific_treatment": "cyclosporine (CSA)",
+            "start_date": "1996-09",
+            "end_date": "1999-05",
+            "dosage_or_details": "12 mg/kg/d orally"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "methylphenidate hydrochloride (Ritalin)",
+            "start_date": "1999-11",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "atenolol",
+            "start_date": "2001-04",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.8 mg/kg/d"
+        },
+        {
+            "treatment_type": "radiation therapy",
+            "specific_treatment": "radioactive Iodine (I131)",
+            "start_date": "2001-04",
+            "end_date": "Not specified",
+            "dosage_or_details": "9.11 mCi orally"
+        },
+        {
+            "treatment_type": "immunosuppressive therapy",
+            "specific_treatment": "cyclosporine (CSA)",
+            "start_date": "2001-09",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

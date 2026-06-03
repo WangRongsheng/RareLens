@@ -1,0 +1,23 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Postoperative mouth opening reached 30 mm, enabling a normal diet and oral hygiene (Dec 2007), and increased to 35 mm at 18-month follow-up (May 2009). Ongoing monitoring was planned for potential facial asymmetry during growth.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Report notes functional eating and oral care after surgery and sustained mouth opening at 18 months, with no persistent pain or trismus symptoms described.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "After surgery, a mouth opening of 30 mm was achieved, enabling the patient to consume a normal diet and take care of her teeth (December 2007)."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 18-month follow-up, mouth opening was 35 mm (May 2009), indicating sustained improvement."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Long-term outcomes focus on mouth opening; detailed assessment of facial asymmetry and speech over time is not provided. Although improvement was sustained at 18 months, normal pediatric reference values for interincisal opening are not specified, and future intervention for asymmetry was only proposed if needed."
+}

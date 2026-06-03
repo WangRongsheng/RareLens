@@ -1,0 +1,103 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Mannitol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg IV",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Labetalol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg IV, followed by another 10 mg",
+            "treatment_response": "Blood pressure improved from 167/110 to 146/88 after first dose."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Hydralazine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg IV",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "procedure",
+            "specific_treatment": "Intubation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Paralytics: 20 mg Etomidate IV, 60 mg Rocuronium IV, followed by 40 mg Rocuronium IV",
+            "treatment_response": "Patient became less responsive and required intubation."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Propofol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient remained paralyzed for an additional period."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Nicardipine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "IV drip",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "PEG tube placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Provided nutrition due to swallowing difficulties."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Antibiotics",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "For urinary tract infection."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with severe headache and left-sided weakness."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient treated with IV Mannitol and blood pressure medications."
+        },
+        {
+            "date": "Not specified",
+            "event": "Intubation performed due to decline in mental status."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient placed on IV Nicardipine drip and re-imaging conducted."
+        },
+        {
+            "date": "Not specified",
+            "event": "PEG tube placed for nutrition management."
+        },
+        {
+            "date": "Not specified",
+            "event": "Antibiotics administered for urinary tract infection."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused, lethargic but arousable, bedbound.",
+        "follow_up_details": "Follow up with Neurology and primary care physician.",
+        "complications": "Urinary tract infection during hospitalization.",
+        "long_term_prognosis": "Not specified, but ongoing monitoring required.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient requires assistance and is bedbound.",
+        "patient_perspective": "Patient experienced the worst headache of life with subsequent stroke symptoms; not explicitly recorded beyond treatment course."
+    }
+}

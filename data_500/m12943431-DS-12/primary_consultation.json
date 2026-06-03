@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "R sided weakness, CODE STROKE",
+        "history_of_present_illness": "The patient is a ___ yo F with a history of DM2, HTN, CAD s/p multiple PCI, Afib not on anticoagulation given multiple falls, HL who presents with acute onset R sided weakness. Per her husband, she was last seen well at 5:30 PM. She may have had slight R sided weakness between ___, but he cannot be sure. She then was eating soup and had acute onset of R sided weakness, such that she had no movement of her R arm/leg, could not hold her head up, appeared to have R facial drooping and very slurred speech.",
+        "past_medical_history": "DM2, HTN, CAD s/p multiple PCI, Afib not on anticoagulation given multiple falls, HL, colitis, lumbar spinal stenosis, L eye blind after cataract surgery",
+        "family_history": "Two children with epilepsy.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 97.6 HR: 50 BP: 172/40 Resp: 18 O2 Sat: 98. Normal General: NAD. Neurologic Examination: MS: Awake, alert, oriented to name, hospital and ___. Continues to state she is ___ though she is ___ years old. Cranial Nerves - PERRL 3->2 brisk. Blind in L eye at baseline; appears to have R homonymous hemianopsia in R eye though difficult to test. + R arm drift.",
+        "specialty_examination": "Motor - Normal bulk and tone. + R arm drift. Sensory - Reports increased sensation to pp on R arm and leg. Coordination - Slight dysmetria on finger-to-nose on R. Gait - deferred."
+    }
+}

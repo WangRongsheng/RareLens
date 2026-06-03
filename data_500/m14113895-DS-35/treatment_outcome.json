@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "VNS generator replacement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "The procedure went well, and the patient was observed overnight."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Admitted for VNS battery replacement."
+        },
+        {
+            "date": "Not specified",
+            "event": "VNS generator replacement performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient observed overnight."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with instructions."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive.",
+        "follow_up_details": "Follow up with primary care as needed.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Not specified."
+    }
+}

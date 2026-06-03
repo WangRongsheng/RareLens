@@ -1,0 +1,55 @@
+{
+    "basic_information": {
+        "age": "4",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Pain + deformation",
+        "history_of_present_illness": "Posterior distal radius swelling, increasing in size with growth. Angular deformity related to intra-articular lesions of the wrist and knee.",
+        "past_medical_history": "Negative family history of bone dysplasia.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Posterior distal radius lesion leading to immediate instability of the wrist. Lesion of carpal ligaments and dorsal capsular distension."
+    },
+    "laboratory_examinations": [],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Plain radiograph",
+            "date": "Not specified",
+            "findings": "Asymmetrical epiphyseal overgrowth and exostoses of osteochondroma-like appearance. Irregular intra-articular mass with fragmented asymmetrical ossification arising from either the lateral or frequently the medial half of the affected epiphysis without metaphyseal changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Clear cleavage plane between the epiphysis and the abnormal cartilaginous growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Early diagnosis of DEH before the onset of ossification. Defines the intra-articular osteocartilaginous mass, its extension and anatomical relations. Provides detailed images of associated joint deformity. Shows a clear cleavage plane between the epiphysis and the pathological tissue.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Cartilaginous nodules with osseous metaplasia, like those of an osteochondroma picture. After complete ossification, the lesion is microscopically indistinguishable from an osteochondroma: a base of normal bone and a cap of hyaline cartilage are observed.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Dysplasia epiphysealis hemimelica (DEH)",
+        "diagnostic_reasoning": "The diagnosis was based on clinical findings of a swelling bony mass, imaging studies (plain radiographs, CT scans, and MRI) showing asymmetrical epiphyseal overgrowth and exostoses of osteochondroma-like appearance, and histological confirmation of cartilaginous nodules with osseous metaplasia. MRI was particularly useful in identifying a cleavage plane between the epiphysis and the pathological tissue, guiding surgical excision."
+    }
+}

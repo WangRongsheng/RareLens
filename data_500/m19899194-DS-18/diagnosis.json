@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Coronary Artery Disease (CAD)",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with chest pain and had a history of CAD, which led to further evaluations including a cardiac catheterization. The absence of significant findings in CTA for pulmonary embolus and aortic pathology, along with his medical history and symptomatology, supported the diagnosis of CAD. A heart attack was ruled out during hospitalization."
+    }
+}

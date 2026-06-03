@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "worst headache of life",
+        "history_of_present_illness": "Woke up at 5 am with worst headache of life. Took two aspirins, went back to sleep. Later noticed inability to move left side. EMS noted left face, arm, and leg weakness. Stat head CT showed a large right intraparenchymal hemorrhage with effacement of adjacent lateral ventricle. Received IV mannitol, labetalol, and hydralazine for blood pressure management. Had mental status decline leading to rapid intubation and sedation. Gradually regained spontaneous movements and re-imaging was obtained.",
+        "past_medical_history": "Hypertension",
+        "family_history": "Unknown",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Intubated and sedated, BP 167/110, later 146/88, T: 97.2",
+        "specialty_examination": "Neurological exam showed no spontaneous eye opening, non-responsive to commands, and left-sided paralysis. Right side showed trace movements; cranial nerves indicated bilateral 1mm pupils unreactive to light, absent corneals. Post-discharge neurological status indicated confusion, left-sided neglect, and dysarthria."
+    }
+}

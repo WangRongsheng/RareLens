@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Piperacillin-Tazobactam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4.5 g IV Q8H for 6 days",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Zosyn",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with necrotic toes and urinary tract infection."
+        },
+        {
+            "date": "Not specified",
+            "event": "Vascular surgery consulted; recommended no surgical intervention."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on Piperacillin-Tazobactam, Vancomycin, and Zosyn."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with home care instructions."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused but alert and oriented to person, place, and surroundings.",
+        "follow_up_details": "Home with service for physical therapy and medication administration.",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Toes may fall off on their own over time.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Bedbound.",
+        "patient_perspective": "Patient expressed a desire to live and not have a tube for nutrition."
+    }
+}

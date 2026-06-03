@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "15 months after rituximab therapy, the patient was in complete remission with normal liver function tests under lamivudine treatment; Table shows 13 months/NED for the present case.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "All lesions disappeared after 6 weekly cycles; patient remained in complete remission at 15 months.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "After 4 weeks, two lesions disappeared and the others were partially regressed (≥50% reduction)."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Complete response for all lesions after 6 weekly cycles of rituximab."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "15 months after rituximab therapy, the patient was in complete remission with normal liver function tests; Table lists 13 months/NED."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Follow-up duration is reported as both 13 months (table) and 15 months (text), but both indicate no evidence of disease. Functional status is not explicitly described; categorized as none based on sustained complete remission and absence of reported symptoms. Index time approximated to diagnosis date before initiation of lamivudine and rituximab."
+}

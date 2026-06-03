@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "speech therapy",
+            "specific_treatment": "speech therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Expressive language skills improved slowly"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "adenoidectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "allied health input",
+            "specific_treatment": "occupational and speech therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "intensive",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "speech therapy started"
+        },
+        {
+            "date": "Not specified",
+            "event": "adenoidectomy performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "intensive allied health input started"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "severe intellectual delay with minimal expressive language skills",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Viral upper respiratory infection",
+        "differential_diagnosis": "Chronic obstructive pulmonary disease, Congestive heart failure, Anxiety, Obstructive sleep apnea",
+        "diagnostic_reasoning": "The patient was admitted for difficulty breathing with hoarseness, a dry throat, and cough, which was most likely attributed to a viral upper respiratory infection. The chest x-ray and EKG were unchanged from the previous admission, and treatment included extra doses of Lasix for lower extremity swelling."
+    }
+}

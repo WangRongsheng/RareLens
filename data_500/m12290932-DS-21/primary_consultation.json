@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hemoptysis",
+        "history_of_present_illness": "Patient with history of LUL lung nodule, remote history of PUD, and APLS on warfarin and ASA with known PFO c/b ischemic infarct who presents with hemoptysis. Patient initially presented with hemoptysis, where CTA showed no evidence of PE. Her hematologist recommended stopping anticoagulation, and she had improvement of her symptoms. However, two days prior to admission, she again developed hemoptysis (___ cup of blood) with two subsequent episodes the day after. She reports becoming dyspneic with these events. Denies lightheadedness, fevers/chills, chest pain, palpitations, N/V, dysuria. Of note, she reports that she has had hemoptysis in the past and underwent a bronchoscopy that noted blood of unclear source.",
+        "past_medical_history": "HTN, PCA (L >R cerebellar, small R pontine) strokes s/p tPA, Osteoporosis, Migraine, Asthma, Esophageal dysmotility, lung nodule.",
+        "family_history": "Parents had strokes.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission vitals: Temp: 98.5 PO, BP: 96/59 R Lying, HR: 70, RR: 18, O2 sat: 95% on 2.5 L NC. Alert, pleasant, comfortable appearing woman, no acute distress. Breathing comfortably on RA. 2+ radial and DP pulses bilateral. Soft, nontender, nondistended abdomen. Skin warm and dry.",
+        "specialty_examination": "Neurologic: Grossly intact. Cardiovascular: Regular rhythm, normal rate. No murmurs/rubs/gallops. Respiratory: Bilateral inspiratory and expiratory crackles from the bases to mid lobes."
+    }
+}

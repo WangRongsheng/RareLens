@@ -1,0 +1,202 @@
+{
+    "basic_information": {
+        "age": "18 days",
+        "gender": "Female",
+        "weight": "2500 g",
+        "height": "48.5 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "hepatomegaly, abnormal coagulation, jaundice, and lethargy",
+        "history_of_present_illness": "The patient presented with hepatomegaly, abnormal coagulation, jaundice, and lethargy. Her condition progressively worsened and despite intensive management she died on day 31 of life of sepsis with diffuse, uncontrolled, cutaneous and mucosal bleeding, and multi-organ failure.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Post mortem evaluation revealed significant iron deposits in the pancreas, thyroid, heart, and in the liver, which presented extensive loss of parenchyma, and giant cell transformation, while residual hepatocytes showed iron overload. Reticuloendothelium was spared.",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Direct Coomb’s test",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "G6PD activity",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Indirect bilirubin",
+            "date": "Not specified",
+            "findings": "178 !103 mmol/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Direct bilirubin",
+            "date": "Not specified",
+            "findings": "19 (0–3.4 mmol/l)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Not specified",
+            "findings": "O6000 (30–45 s)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Clotting factor II",
+            "date": "Not specified",
+            "findings": "16%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Clotting factor V",
+            "date": "Not specified",
+            "findings": "!10%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Clotting factor VII",
+            "date": "Not specified",
+            "findings": "!10%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Clotting factor X",
+            "date": "Not specified",
+            "findings": "!10%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fibrinogen",
+            "date": "Not specified",
+            "findings": "90 (150–300 mg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "26 (35 mg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "31 (60 mg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum albumin",
+            "date": "Not specified",
+            "findings": "1.2 (3.6–5.4 mg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum transferrin",
+            "date": "Not specified",
+            "findings": "0.48 (2.2–4 g/l)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Saturation",
+            "date": "Not specified",
+            "findings": "96%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum ferritin",
+            "date": "Not specified",
+            "findings": "550 (10–300 mg/l)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Iron binding capacity, total (TIBC)",
+            "date": "Not specified",
+            "findings": "13.1 (47–68 mmol/l)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary succinylacetone",
+            "date": "Not specified",
+            "findings": "Absent",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Organic aciduria",
+            "date": "Not specified",
+            "findings": "Absent",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum amino acid profile",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alpha1 anti-trypsin deficiency",
+            "date": "Not specified",
+            "findings": "Ruled out",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ammoniemia",
+            "date": "Not specified",
+            "findings": "96 (!75 g%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Karyotype (high-resolution, 750 band level)",
+            "date": "Not specified",
+            "findings": "46, XX",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "TORCHES-CLAP",
+            "date": "Not specified",
+            "findings": "Negative/Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatitis (A, B, and C)",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-Ro/anti-LA antibodies",
+            "date": "Not specified",
+            "findings": "Negative/Negative",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [],
+    "diagnosis": {
+        "final_diagnosis": "neonatal hemochromatosis",
+        "diagnostic_reasoning": "Diagnosis was made after other causes of neonatal liver failure were ruled out, including alpha1 anti-trypsin deficiency, TORCHES-CLAP infections, hepatitis (A, B, and C), and anti-Ro/anti-LA antibodies. The presence of severe neonatal liver failure of intrauterine onset associated with extrahepatic siderosis that spares the reticuloendothelial elements supported the diagnosis of neonatal hemochromatosis."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "Intensive management",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "Aggressive support",
+            "specific_treatment": "Fresh-frozen plasma, packed red cells, platelets, coagulation factors, diuretics, pressors, and parenteral feeding",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

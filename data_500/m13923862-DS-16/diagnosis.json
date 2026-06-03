@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute kidney injury",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with an elevated creatinine level of 2.4 following a kidney transplant, indicating a risk for acute kidney injury. Despite concerns, a biopsy of the allograft showed no evidence of rejection, suggesting the elevated creatinine was not due to transplant rejection."
+    }
+}

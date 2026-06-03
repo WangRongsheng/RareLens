@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Rectal Polyp",
+        "history_of_present_illness": "S/p colonoscopy with rectal polyp incompletely removed piecemeal with pathology c/w tubular adenoma. Followup sigmoidoscopy redemonstrated the rectal polyp and it was again biopsied with pathology showing tubular adenoma but incompletely removed due to bleeding. She presents today for surgical evaluation. She has had other benign polyps removed from her colon during previous colonoscopies which have all been benign.",
+        "past_medical_history": "PMH: htn, breast ca; PSH: mastectomy",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Patient well, ambulating, tolerating regular diet, passing flatus, pain controlled with Tylenol. VSS.",
+        "specialty_examination": "Neuro: A&OX3; Lungs: CTAB; Cardiac: RRR; Abd: soft, nondistended, nontender."
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "left hip revision total hip replacement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO Q8H PRN pain",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "oxycodone (Immediate Release)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO Q4H PRN pain",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "enoxaparin sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg SC DAILY Duration: 28 Days",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg PO BID",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "left hip revision total hip replacement performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started acetaminophen for pain control"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started oxycodone for pain control"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started enoxaparin sodium for anticoagulation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started prednisone for rheumatoid arthritis management"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "alert and interactive, ambulatory with assistance",
+        "follow_up_details": "Follow up with primary physician and surgeon's office",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

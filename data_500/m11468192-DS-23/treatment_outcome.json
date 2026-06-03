@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient endorses continued right toe pain, but reports that pain and swelling are better than they have been over the past several weeks."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Percocet",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient reports improvement in pain."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient hospitalized for right toe infection and underwent I&D, and antibiotic treatment."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient referred to the ED for further evaluation due to continued pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received IV vancomycin and Percocet in the ED."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with a prescription for pain medication."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent; no infection present.",
+        "follow_up_details": "Follow up with PCP as per discharge instructions.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Pain is expected to improve with time.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient's mental status is clear and coherent; activity status is independent.",
+        "patient_perspective": "Patient feels that pain and swelling are currently better than they have been over the past weeks."
+    }
+}

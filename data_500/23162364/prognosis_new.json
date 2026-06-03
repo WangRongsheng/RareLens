@@ -1,0 +1,23 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "During follow-up, she developed depression and suicidal tendencies; after psychiatric evaluation she was diagnosed with major depression and started on antidepressant medication.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Major depression with suicidal tendencies identified during follow-up; antidepressant therapy initiated, indicating prominent ongoing symptoms affecting daily life.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "unknown",
+            "evidence_excerpt": "During the follow up visits, we noticed depression and suicidal tendencies… she was diagnosed with major depression."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "unknown",
+            "evidence_excerpt": "After a comprehensive psychiatric evaluation, she was… put on anti-depressant medication."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The exact timing and duration of follow-up visits are not specified. There is no clear documentation that hormone replacement therapy was initiated; management decisions regarding mitral valve prolapse were conservative. Long-term classifications are based on the documented psychiatric deterioration after diagnosis, but persistence beyond the immediate follow-up period is not quantified."
+}

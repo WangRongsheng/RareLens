@@ -1,0 +1,238 @@
+{
+    "basic_information": {
+        "age": "1",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Vomiting and lethargy without fever and diarrhea",
+        "history_of_present_illness": "Began to vomit and became lethargic 30 minutes after eating reheated fried rice, became unconscious 6 hours after eating the meal, died after 30 minutes of intensive resuscitation",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Severe hyperkalemia, hypoglycemia, mixed acidosis with an increase of anion gap, and hyperlactacidemia, with elevation of aspartate aminotransferase and alanine aminotransferase levels",
+        "specialty_examination": "Diffuse brain edema in the cerebrum, astroglias possessed disintegrated processes with beaded appearances (termed 'clasmatodendrosis') in the cerebrum, pons, medulla, and cerebellum. No steatosis was found in the liver, but zonal necrosis was observed in the midzonal area between portal tracts and central veins."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Venous base excess",
+            "date": "Not specified",
+            "findings": "-32.7 mmol/L (brother), -12.6 mmol/L (sister), -4.7 mmol/L (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Venous pH",
+            "date": "Not specified",
+            "findings": "6.252 (brother), 7.185 (sister), 7.336 (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bicarbonate",
+            "date": "Not specified",
+            "findings": "9.8 mmol/L (brother), 12.1 mmol/L (sister), 20.1 mmol/L (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anion gap",
+            "date": "Not specified",
+            "findings": "24.1 mEq/L (brother), 23.6 mEq/L (sister), 14.9 mEq/L (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "36.6% (brother), 39.2% (sister), 46.4% (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White blood cell count",
+            "date": "Not specified",
+            "findings": "6200 per μL (brother), 39,800 per μL (sister), 20,000 per μL (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neutrophils",
+            "date": "Not specified",
+            "findings": "2995 per μL (brother), 33,990 per μL (sister), 17,520 per μL (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelets",
+            "date": "Not specified",
+            "findings": "498,000 per μL (brother), 634,000 per μL (sister), 246,000 per μL (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "18 mg/dL (brother), 14 mg/dL (sister), 94 mg/dL (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "146 mmol/L (brother), 141 mmol/L (sister), 141 mmol/L (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "8.9 mmol/L (brother), 3.4 mmol/L (sister), 4.3 mmol/L (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chloride",
+            "date": "Not specified",
+            "findings": "110 mmol/L (brother), 100 mmol/L (sister), 106 mmol/L (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Carbon dioxide",
+            "date": "Not specified",
+            "findings": "127 mmol/L (brother), 24.8 mmol/L (sister), 37.7 mmol/L (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "0.4 mg/dL (brother), 0.28 mg/dL (sister), 0.57 mg/dL (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase",
+            "date": "Not specified",
+            "findings": "164 U/L (brother), 104 U/L (sister), 36 U/L (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alanine aminotransferase",
+            "date": "Not specified",
+            "findings": "131 U/L (brother), 34 U/L (sister), 27 U/L (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine kinase",
+            "date": "Not specified",
+            "findings": "175 U/L (brother), 114 U/L (sister), 127 U/L (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "23 mmol/L (brother), 11.6 mmol/L (sister), Not assessed (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ammonia",
+            "date": "Not specified",
+            "findings": "Not assessed (brother), 130 μg/dL (sister), 39 μg/dL (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "0.3 mg/dL (brother), 0.10 mg/dL (sister), 0.19 mg/dL (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum cereulide",
+            "date": "Not specified",
+            "findings": "4 ng/mL (brother and sister on admission), 2 ng/mL (sister before plasma exchange), undetected (sister after plasma exchange), undetected (mother)",
+            "changes_over_time": "Decreased to undetected level in sister after plasma exchange"
+        },
+        {
+            "procedure_name": "Urine cereulide",
+            "date": "Not specified",
+            "findings": "8 ng/mL (sister on admission), Not detected (mother)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stool cereulide",
+            "date": "Not specified",
+            "findings": "160 ng/g (sister on admission)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gastric fluid cereulide",
+            "date": "Not specified",
+            "findings": "4 ng/mL (sister on admission)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Intestinal contents cereulide",
+            "date": "Not specified",
+            "findings": "800 ng/g (brother at autopsy)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Leftover fried rice cereulide",
+            "date": "Not specified",
+            "findings": "Detected (not quantified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood acylcarnitine analysis",
+            "date": "Not specified",
+            "findings": "Diffuse increases from short-chained to long-chained acylcarnitines and mild decreases in free carnitine level (sister)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary organic acid analysis",
+            "date": "Not specified",
+            "findings": "Increased lactate, pyruvate, adipate, acetoacetate, and 3-OH-butyrate levels (sister)",
+            "changes_over_time": "Abnormalities returned to normal"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Head computed-tomography scan",
+            "date": "Not specified",
+            "findings": "Normal (sister at admission)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of head",
+            "date": "Not specified",
+            "findings": "Normal (sister on fourth hospital day)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Electroencephalogram",
+            "date": "Not specified",
+            "findings": "Normal (sister on fourth hospital day)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rapid test for 8 drugs (Triage)",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "B cereus isolation",
+            "date": "Not specified",
+            "findings": "Isolated from vomitus and intestinal contents (brother), stomach contents and stool (sister), leftover fried rice",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "S aureus detection",
+            "date": "Not specified",
+            "findings": "Not detected in any sample",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histopathologic studies",
+            "date": "Not specified",
+            "findings": "Diffuse brain edema in cerebrum, astroglias with disintegrated processes (brother); midzonal necrosis in liver (brother)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

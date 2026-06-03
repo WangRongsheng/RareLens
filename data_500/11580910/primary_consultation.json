@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "24",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Rhabdomyolysis",
+        "history_of_present_illness": "First episode of rhabdomyolysis at age 9 years. Many episodes of myalgia associated with 'red urine' until age 22 years. Severe episode of rhabdomyolysis produced acute renal failure (creatine kinase, CK=540,000 U/l; myoglobin=11,500 ug/l). Secondary carnitine deficiency. No hypoglycemia or cardiac involvement.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    }
+}

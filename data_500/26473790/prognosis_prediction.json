@@ -1,0 +1,150 @@
+{
+    "basic_information": {
+        "age": "28",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "voice hoarseness and dysphagia, and a 6-month history of left-sided blurred vision",
+        "history_of_present_illness": "3-year history of voice hoarseness and dysphagia, and a 6-month history of left-sided blurred vision. Development of multiple palpable nodular masses of the left hand beginning at 7 years of age, later accompanied by formation of subcutaneous blue, soft, nontender masses, diagnosed as hemangiomas on physical examination.",
+        "past_medical_history": "Maffucci syndrome diagnosed based on radiographs of the left hand showing skeletal phalangeal malformation with calcific nodules and multiple enchondromas. Chest CT demonstrated enchondromas of the bilateral ribs and scapulae. Technetium-99m methylene diphosphonate whole-body bone scintigraphy revealed foci of intense tracer uptake, involving multiple bones.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Multiple palpable nodular masses of the left hand, subcutaneous blue, soft, nontender masses diagnosed as hemangiomas.",
+        "specialty_examination": "Neurological examination revealed left-sided deficits in hearing and gag reflex, bilateral temporal hemianopia, and decreased visual acuity (left eye 20/30; right eye 20/50). Brain MRI demonstrated 2 heterogeneously enhancing lesions, 1 in the left jugular foramen and the other in the suprasellar region suggestive of a pituitary macroadenoma."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum prolactin (PRL)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Insulin-like growth factor-I",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Growth hormone (GH)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cortisol",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Adrenocorticotropic hormone (ACTH)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid hormone",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid-stimulating hormone (TSH)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Luteinizing hormone (LH)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Follicle-stimulating hormone (FSH)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DNA sequencing for IDH1 mutation",
+            "date": "Not specified",
+            "findings": "c.394C > T (R132C) mutation detected in both pituitary adenoma and chondrosarcoma",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radiograph of the left hand",
+            "date": "Not specified",
+            "findings": "Calcific nodules and lytic lesions of the phalanges, characteristic of enchondromas",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "Not specified",
+            "findings": "Enchondromas of the bilateral ribs and scapulae",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Technetium-99m methylene diphosphonate whole-body bone scintigraphy",
+            "date": "Not specified",
+            "findings": "Foci of intense tracer uptake, involving the right humerus, right ulna, right femur, right fibula, right tibia, left humerus, left radius, left hand, left femur, left fibula, and left tibia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Two heterogeneously enhancing lesions, one in the left jugular foramen and the other in the suprasellar region suggestive of a pituitary macroadenoma",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Neurological examination",
+            "date": "Not specified",
+            "findings": "Left-sided deficits in hearing and gag reflex, bilateral temporal hemianopia, and decreased visual acuity (left eye 20/30; right eye 20/50)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemical staining",
+            "date": "Not specified",
+            "findings": "Negative for GH, PRL, LH, FSH, TSH, and ACTH; positive for synaptophysin confirming neuroendocrine origin",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histopathological review",
+            "date": "Not specified",
+            "findings": "Grade II chondrosarcoma characterized by moderate cellularity with occasional mitotic figures, cellular atypia, and increased muco-myxoid degeneration of chondroid matrix; pituitary adenoma demonstrated a highly cellular tumor with prominent monomorphism and loss of the normal reticulin meshwork",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Maffucci syndrome associated with a nonfunctional pituitary adenoma",
+        "diagnostic_reasoning": "The patient presented with multiple enchondromas and hemangiomas, characteristic of Maffucci syndrome. Brain MRI revealed two intracranial tumors: a jugular foramen chondrosarcoma and a suprasellar lesion suggestive of a pituitary macroadenoma. Histopathological examination confirmed the diagnoses of chondrosarcoma and pituitary adenoma. DNA sequencing demonstrated identical IDH1 mutations in both tumors, supporting the inclusion of pituitary adenomas among tumors characterizing Maffucci syndrome."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "subtotal resection of the left jugular foramen lesion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "retrosigmoid approach"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "gross-total resection of the suprasellar lesion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "subfrontal approach"
+        }
+    ]
+}

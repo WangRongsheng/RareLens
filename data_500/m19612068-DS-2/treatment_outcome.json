@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "25mm Tissue Aortic Valve replacement, CABG x2 (SVG-OM, LIMA-LAD), pulmonary vein isolation, left atrial appendage ligation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient alert and oriented, nonfocal ambulating; incisional pain managed. Incisions healing well, no erythema or drainage."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Longstanding history of dyspnea, mild chest discomfort and fatigue with exertion reported."
+        },
+        {
+            "date": "Not specified",
+            "event": "Follow up with Dr. ___ for stress testing noted ischemia involving the Cx territory."
+        },
+        {
+            "date": "Not specified",
+            "event": "Aspirin started shortly after stress test."
+        },
+        {
+            "date": "Not specified",
+            "event": "Presented for left heart catheterization and found to have coronary artery disease."
+        },
+        {
+            "date": "Not specified",
+            "event": "Referred to cardiac surgery for revascularization."
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery performed including tissue valve replacement and CABG."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and oriented, ambulating but deconditioned.",
+        "follow_up_details": "Follow-up appointment with surgeon for driving and lifting instructions.",
+        "complications": "No complications noted.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Not specified."
+    }
+}

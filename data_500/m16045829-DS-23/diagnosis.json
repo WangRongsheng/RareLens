@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Non-ST Elevation Myocardial Infarction",
+        "differential_diagnosis": "Health Care Associated Pneumonia",
+        "diagnostic_reasoning": "The patient had elevated troponin levels and a history suggestive of myocardial infarction. Cardiac catheterization showed no significant blockages, supporting the diagnosis of a mild heart attack. Additionally, the patient developed pneumonia, confirmed as a secondary diagnosis."
+    }
+}

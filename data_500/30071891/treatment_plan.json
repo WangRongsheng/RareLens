@@ -1,0 +1,146 @@
+{
+    "basic_information": {
+        "age": "33",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "20 kg/m2",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Intermittent abdominal pain, nausea, vomiting, constipation and numbness of bilateral lower limb extremities, of 3 days duration",
+        "history_of_present_illness": "Recurrent episodes of severe abdominal pain, nausea, vomiting, constipation and numbness of bilateral lower limb extremities over 2 years, with six acute hospital admissions. Previous misdiagnoses include acute appendicitis, sinus tachycardia, renal calculi, drug-induced acute interstitial nephritis, and partial intestinal obstruction.",
+        "past_medical_history": "Non-diabetic, no previous history of hypertension. Usage of over-the-counter analgesics for 6 weeks. Previous surgeries: appendectomy and laparoscopy.",
+        "family_history": "Four out of five family members who underwent targeted mutation analyses were mutation-positive for the HMBS gene mutation.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Thin built (BMI=20 kg/m2), pale. Brachial blood pressure was 160/90 mmHg. Scars of previous appendectomy and laparoscopy surgeries on the abdominal.",
+        "specialty_examination": "Muscle power was 4/5 in all four limbs (could not move against a good resistance)."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum sodium test",
+            "date": "Not specified",
+            "findings": "Severe hyponatraemia of 115 mmol/L (normal range: 136–145)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum osmolality test",
+            "date": "Not specified",
+            "findings": "255 mOsmol/Kg (normal range: 275–295)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine osmolality test",
+            "date": "Not specified",
+            "findings": "460 mOsmol/Kg (normal range: 50–1200)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum creatinine test",
+            "date": "Not specified",
+            "findings": "106 µmol/L (normal range: 80–115)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood urea test",
+            "date": "Not specified",
+            "findings": "20 mg/dL (normal range: 6–20)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin test",
+            "date": "Not specified",
+            "findings": "8.2 g/dL (normal range: 13.5–17.5), normochromic and normocytic red cell morphology",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total cholesterol test",
+            "date": "Not specified",
+            "findings": "282 mg/dL (5th to 95th centile; 142–258)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LDL cholesterol test",
+            "date": "Not specified",
+            "findings": "225 mg/dL (5th to 95th centile; 78–185)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum ferritin test",
+            "date": "Not specified",
+            "findings": "646 ng/mL (normal range: 20–250)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial blood gas analysis",
+            "date": "Not specified",
+            "findings": "Suggestive of a metabolic acidosis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood lead concentration test",
+            "date": "Not specified",
+            "findings": "3 μg/dL (normal: <5 μg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Watson and Schwartz test",
+            "date": "Not specified",
+            "findings": "Positive for porphobilinogen (PBG) in urine",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spectrophotometry of urine for total porphyrins",
+            "date": "Not specified",
+            "findings": "Showed a 'Soret band', urine total porphyrin level was 5505.5 nmol/L (normal: <300 nmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mutation analysis by DNA sequencing",
+            "date": "Not specified",
+            "findings": "Revealed a previously reported missense mutation, c.517C>T encoding p.R173W in the HMBS gene",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Targeted mutation analysis",
+            "date": "Not specified",
+            "findings": "Four out of five family members were mutation-positive for the same HMBS gene mutation",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal X-ray",
+            "date": "Not specified",
+            "findings": "No significant radiological findings",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasonography",
+            "date": "Not specified",
+            "findings": "No significant radiological findings",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Evidence of left ventricular hypertrophy",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Nerve conduction studies",
+            "date": "Not specified",
+            "findings": "Not carried out because neurological symptoms were not observed in-between acute attacks",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Acute Intermittent Porphyria",
+        "diagnostic_reasoning": "The diagnosis was confirmed by a positive Watson and Schwartz test for urinary porphobilinogen (PBG) and mutation analysis revealing a missense mutation, c.517C>T encoding p.R173W in the HMBS gene. The patient's recurrent episodes of severe abdominal pain, nausea, vomiting, constipation, and numbness of bilateral lower limb extremities, along with previous misdiagnoses, raised suspicion of acute porphyria."
+    }
+}

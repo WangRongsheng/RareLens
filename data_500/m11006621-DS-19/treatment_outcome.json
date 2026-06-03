@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "paracentesis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Scheduled every 2-3 weeks",
+            "treatment_response": "Fluid drained from abdomen"
+        },
+        {
+            "treatment_type": "blood transfusion",
+            "specific_treatment": "administration of blood",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 bags of blood given",
+            "treatment_response": "Brought blood count back"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for anemia with lab results showing Hgb 3.7"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administration of 5 bags of blood"
+        },
+        {
+            "date": "Not specified",
+            "event": "Paracentesis performed to drain fluid"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused - sometimes; alert and interactive",
+        "follow_up_details": "Follow up with regular doctors",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Requires assistance or aid (walker or cane)",
+        "patient_perspective": "Grateful for the care received"
+    }
+}

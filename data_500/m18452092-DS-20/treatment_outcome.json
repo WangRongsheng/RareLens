@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "pRBC transfusion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Transfusion initiated with type and cross",
+            "treatment_response": "Patient's blood count remained stable"
+        },
+        {
+            "treatment_type": "procedure",
+            "specific_treatment": "EGD",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Thermal therapy with electrocautery applied to two angioectasias",
+            "treatment_response": "Successful hemostasis achieved"
+        },
+        {
+            "treatment_type": "procedure",
+            "specific_treatment": "Colonoscopy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Screening colonoscopy performed",
+            "treatment_response": "Did not show bleeding from colon"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "PPI 80mg IV bolus and gtt",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "80mg IV bolus, then infusion",
+            "treatment_response": "Recommended for continued management"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vitamin K 10mg PO",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10mg orally due to INR 1.9",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with BRBPR and melena, sharp substernal chest pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent EGD and colonoscopy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Transfusion of pRBC started"
+        },
+        {
+            "date": "Not specified",
+            "event": "Treatment with PPI and Vitamin K recommended"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable and discharged",
+        "follow_up_details": "Follow up with PCP in a few days and arrange GI appointment in several weeks",
+        "complications": "No complications",
+        "long_term_prognosis": "Ongoing monitoring required for anticoagulation and GI issues",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient was clear and coherent, ambulatory and independent at discharge",
+        "patient_perspective": "No subjective experiences or perspectives mentioned"
+    }
+}

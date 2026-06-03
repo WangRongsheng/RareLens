@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "pneumonia",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient was admitted due to cough, chest tightness, and shortness of breath. A chest x-ray was performed which was normal, but it was noted that sometimes it is difficult to see an early pneumonia on chest x-ray. Given the patient's symptoms, she was treated with a 5-day course of antibiotics for pneumonia."
+    }
+}

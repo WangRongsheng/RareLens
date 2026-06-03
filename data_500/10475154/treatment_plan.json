@@ -1,0 +1,326 @@
+{
+    "basic_information": {
+        "age": "29",
+        "gender": "Female",
+        "weight": "78 kg",
+        "height": "161.8 cm",
+        "BMI": "29.8 kg/m2",
+        "ethnicity": "Turkish",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hypertension and diabetes mellitus",
+        "history_of_present_illness": "In the preceding 2 years the patient had gained approximately 10 kg of weight and her menses had become irregular in the preceding few months. An ultrasonography of the abdomen showed a large mass in the region of the left adrenal gland and a CT scan demonstrated an adrenal tumor approximately 6 x 5 cm in size.",
+        "past_medical_history": "Her father had non-insulin-dependent diabetes mellitus. Ten years previously she had delivered a small healthy girl weighing 2500 g.",
+        "family_history": "Father had non-insulin-dependent diabetes mellitus.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "The adipose patient was in good general condition, the height being 161.8 cm, the weight 78 kg, the body mass index 29.8 kg/m2, the pulse 120/min and the blood pressure 140/104 mmHg (circumference of the upper arm 34 cm). The patient displayed discrete Cushing’s stigmata with slight moon facies and plethora, abdominal obesity and mild hirsutism, but no buffalo hump or purple striae were seen. A fine tremor was noted.",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Plasma ACTH",
+            "date": "02/96",
+            "findings": "<0.5 pg/ml (normal range: 9-60 pg/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma cortisol",
+            "date": "02/96",
+            "findings": "14.2 μg/dl (normal range: 5-18 μg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma cortisol after overnight dexamethasone 1.0 mg",
+            "date": "02/96",
+            "findings": "20.0 μg/dl (normal range: <5.0 μg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma aldosterone",
+            "date": "02/96",
+            "findings": "14.0 ng/dl (normal range: <15 ng/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma renin activity",
+            "date": "02/96",
+            "findings": "895 pg/ml/h (normal range: 150-2200 pg/ml/h)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma testosterone",
+            "date": "02/96",
+            "findings": "0.6 ng/dl (normal range: 0.2-0.7 ng/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma DHEAS",
+            "date": "02/96",
+            "findings": "472 μg/l (normal range: 500-3500 μg/l)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urinary adrenaline",
+            "date": "02/96",
+            "findings": "51 μg (normal range: <25 μg)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urinary noradrenaline",
+            "date": "02/96",
+            "findings": "194 μg (normal range: <100 μg)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urinary free cortisol",
+            "date": "02/96",
+            "findings": "176 μg (normal range: 46-131 μg)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour plasma cortisol profile",
+            "date": "02/96",
+            "findings": "12 h: 14.6 μg/dl; 18 h: 19.6 μg/dl; 24 h: 14.8 μg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fasting plasma glucose",
+            "date": "02/96",
+            "findings": "218 mg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycosylated hemoglobin (Hb A1c)",
+            "date": "02/96",
+            "findings": "9.1%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total cholesterol",
+            "date": "02/96",
+            "findings": "215 mg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HDL cholesterol",
+            "date": "02/96",
+            "findings": "44 mg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Triglycerides",
+            "date": "02/96",
+            "findings": "239 mg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycosuria",
+            "date": "02/96",
+            "findings": "50 mg/dl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma ACTH",
+            "date": "04/96",
+            "findings": "10.6 pg/ml (normal range: 9-60 pg/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma cortisol",
+            "date": "04/96",
+            "findings": "23.0 μg/dl (normal range: 5-18 μg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma cortisol after overnight dexamethasone 1.0 mg",
+            "date": "04/96",
+            "findings": "<5.0 μg/dl (normal range: <5.0 μg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urinary adrenaline",
+            "date": "04/96",
+            "findings": "55 μg (normal range: <25 μg)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urinary noradrenaline",
+            "date": "04/96",
+            "findings": "209 μg (normal range: <100 μg)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urinary free cortisol",
+            "date": "04/96",
+            "findings": "46-131 μg",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma ACTH",
+            "date": "08/96",
+            "findings": "1.6 pg/ml (normal range: 9-60 pg/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma cortisol",
+            "date": "08/96",
+            "findings": "1.3 μg/dl (normal range: 5-18 μg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma cortisol 60 min after Cosyntropin 0.25 mg iv",
+            "date": "08/96",
+            "findings": "4.5 μg/dl (normal range: >20.0 μg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma aldosterone",
+            "date": "08/96",
+            "findings": "6.0 ng/dl (normal range: <15.0 ng/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma aldosterone 60 min after Cosyntropin 0.25 mg iv",
+            "date": "08/96",
+            "findings": "19.1 ng/dl (normal range: >4.0 ng/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urinary adrenaline",
+            "date": "08/96",
+            "findings": "8 μg (normal range: <25 μg)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urinary noradrenaline",
+            "date": "08/96",
+            "findings": "50 μg (normal range: <100 μg)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urinary free cortisol",
+            "date": "08/96",
+            "findings": "16.8 μg (normal range: 46-131 μg)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycosylated hemoglobin (Hb A1c)",
+            "date": "08/96",
+            "findings": "6.4% (normal range: 4.3-5.8%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma ACTH",
+            "date": "02/97",
+            "findings": "14.5 pg/ml (normal range: 9-60 pg/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma cortisol",
+            "date": "02/97",
+            "findings": "6.4 μg/dl (normal range: 5-18 μg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma cortisol 60 min after Cosyntropin 0.25 mg iv",
+            "date": "02/97",
+            "findings": "16.5 μg/dl (normal range: >20.0 μg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma aldosterone",
+            "date": "02/97",
+            "findings": "13.0 ng/dl (normal range: <15.0 ng/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma aldosterone 60 min after Cosyntropin 0.25 mg iv",
+            "date": "02/97",
+            "findings": "22.5 ng/dl (normal range: >4.0 ng/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-hour urinary free cortisol",
+            "date": "02/97",
+            "findings": "38.4 μg (normal range: 46-131 μg)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycosylated hemoglobin (Hb A1c)",
+            "date": "02/97",
+            "findings": "5.2% (normal range: 4.3-5.8%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma ACTH",
+            "date": "07/97",
+            "findings": "14.3 pg/ml (normal range: 9-60 pg/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma cortisol",
+            "date": "07/97",
+            "findings": "4.5 μg/dl (normal range: 5-18 μg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma cortisol 60 min after Cosyntropin 0.25 mg iv",
+            "date": "07/97",
+            "findings": "25.1 μg/dl (normal range: >20.0 μg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma aldosterone",
+            "date": "07/97",
+            "findings": "15.8 ng/dl (normal range: <15.0 ng/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma aldosterone 60 min after Cosyntropin 0.25 mg iv",
+            "date": "07/97",
+            "findings": "29.7 ng/dl (normal range: >4.0 ng/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycosylated hemoglobin (Hb A1c)",
+            "date": "07/97",
+            "findings": "5.5% (normal range: 4.3-5.8%)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasonography of the abdomen",
+            "date": "01/96",
+            "findings": "Large mass in the region of the left adrenal gland",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "01/96",
+            "findings": "Adrenal tumor approximately 6 x 5 cm in size",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the abdomen",
+            "date": "05/96",
+            "findings": "Large (6.4x5.8 cm) and well-encapsulated tumor; isointense in T1 with small hypointense areas, and hyperintense in T2; medially hyperplastic adrenocortical tissue identified measuring 0.5x4 cm; right adrenal gland of normal size and shape",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Immunohistochemical staining",
+            "date": "Not specified",
+            "findings": "Positive immunostaining for IL-6, chromogranine A, synaptophysin, and NSE; negative immunostaining for ACTH, protein S 100, VIP and cytochrome P450",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "pheochromocytoma with coexisting non-ACTH-dependent cortisol hypersecretion",
+        "diagnostic_reasoning": "The patient presented with mild Cushing’s stigmata, hypertension, and diabetes mellitus. Hormonal work-up revealed elevated urinary catecholamines and dexamethasone non-suppressible hypercortisolism with low ACTH levels, suggesting non-ACTH-dependent cortisol hypersecretion. MRI findings and positive immunostaining for IL-6 in the pheochromocytoma suggested paracrine stimulation of the ipsilateral adrenal cortex by IL-6, leading to cortical hyperplasia and subclinical Cushing’s syndrome."
+    }
+}

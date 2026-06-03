@@ -1,0 +1,224 @@
+{
+    "basic_information": {
+        "age": "15",
+        "gender": "Female",
+        "weight": "47 kg",
+        "height": "154 cm",
+        "BMI": "Not specified",
+        "ethnicity": "European, non-Jewish",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "acute progressive gait disturbance associated with dystonic posturing of her back and the left upper extremity, and rapid choreic movements of the right upper extremity",
+        "history_of_present_illness": "One month prior to admission, she ambulated well and played soccer. Developed subacute and progressive choreic movements of the right arm, severe dystonic posturing of the left arm, and spastic dystonia in both legs. Transient improvement with trihexyphenidyl, baclofen, clonazepam; sustained response to intrathecal baclofen over 18 months.",
+        "past_medical_history": "Deletion of the short arm of chromosome 18 (18p deletion) with androgen insensitivity, mild mental impairment, expressive aphasia, oromotor apraxia. Surgical history: removal of undescended atrophic testes and reconstructive pelvic surgery.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs normal. Height: 154 cm, Weight: 47 kg, Head circumference: 54 cm.",
+        "specialty_examination": "Alert and oriented with limited dysarthric, nasal speech. Oromotor apraxia. Moderate hypertonia, diffuse hyperreflexia, extensor plantar responses. Intermittent choreic movements in right upper extremity, dystonic posture in left arm during ambulation. Asymmetric sternocleidomastoid spasms."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Sequential multiple analysis computer (SMAC)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete blood counts",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Partial thromboplastin time",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnesium",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ceruloplasmin",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Copper",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-3",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-4",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactic acid",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pyruvate",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IgG",
+            "date": "Not specified",
+            "findings": "632 mg/dL (slightly below normal range 694-1632 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear antibodies",
+            "date": "Not specified",
+            "findings": "Positive at 1:280",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Human immunodeficiency virus test",
+            "date": "Not specified",
+            "findings": "Nonreactive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DNA analysis for mitochondrial myopathy, encephalopathy, lactacidosis, and stroke (MELAS)",
+            "date": "Not specified",
+            "findings": "Negative at 3243 and 3271 positions",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lysosomal enzymes",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Very long-chain fatty acids",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Not specified",
+            "findings": "Acellular, glucose 106 mg/dL, protein 50 mg/dL, lactate 1.4 mg/dL, pyruvate 0.15 mg/dL; IgG synthesis and IgG index within normal limits",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Bilateral multifocal white-matter areas of increased signal, and a 2 mm area of increased signal in the anterior portion of the right thalamus",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain magnetic resonance angiogram (MRA)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain magnetic resonance spectroscopy (MRS)",
+            "date": "Not specified",
+            "findings": "N-acetyl aspartate within normal limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluorodeoxyglucose positron emission tomography (PET)",
+            "date": "Not specified",
+            "findings": "Hypometabolism of bilateral parietal, lateral occipital, and superior temporal cortices bilaterally, and asymmetrical hypometabolism of the right middle temporal cortex",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Chromosome analysis (G-banding)",
+            "date": "Not specified",
+            "findings": "46, XY, del(18)(p11.1)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalograph (EEG)",
+            "date": "Not specified",
+            "findings": "Abnormal with diffuse background disorganization, no definite epileptiform activity",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Visual evoked potentials",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroretinogram",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brainstem auditory evoked potentials",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Upper and lower extremities somatosensory evoked potentials",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neuropsychologic testing",
+            "date": "Not specified",
+            "findings": "Borderline range IQ (69) and limited verbal skills",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "18p deletion syndrome with progressive dystonia",
+        "diagnostic_reasoning": "Diagnosis was based on karyotype confirming 18p deletion, exclusion of metabolic and mitochondrial disorders (e.g., MELAS, dopa-responsive dystonia) through laboratory testing, and neuroimaging findings (white-matter lesions, PET hypometabolism). The 18p deletion was deemed significant in the pathogenesis of dystonia after ruling out other causes."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Numbness, tingling, ataxia",
+        "history_of_present_illness": "Mr. ___ is a ___ yo man with stage IV small cell lung cancer with left cerebellar metastasis. He presented with saddle anesthesia, ataxia, numbness/tingling, and constipation. Symptoms progressed over the last few days, including paresthesias in the left arm, both legs, and perineum. Notable for difficulty with balance and urinary straining. Initial exam showed moderate-severe gait ataxia. MRI and CT imaging revealed new metastatic lesions.",
+        "past_medical_history": "1. Small cell lung cancer 2. Tobacco use 3. Radiation pneumonitis 4. Macrocytic anemia 5. Depression 6. LUL collapse.",
+        "family_history": "Of his three sisters, one has rheumatoid arthritis, another has lupus, and the third has an autoimmune condition. His mother has breast cancer and is doing well, his father died with lung cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "T 96.7 F | 77 | 110/77 | 98% RA. Cheerful pleasant middle-aged Caucasian man resting in bed. Hard of hearing.",
+        "specialty_examination": "Neurological: Alert, awake, oriented, mental status somewhat scattered; decreased sensation in S2-S4 dermatomes; hyperreflexic. No evidence of high-grade spinal canal narrowing noted in MRI."
+    }
+}

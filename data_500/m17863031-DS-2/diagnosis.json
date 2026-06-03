@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute liver failure due to acetaminophen toxicity",
+        "differential_diagnosis": "Idiopathic thrombocytopenic purpura, Gram negative rod bacteremia, Coagulopathy",
+        "diagnostic_reasoning": "The patient presented with acute hepatitis and elevated liver enzymes, which were attributed to acetaminophen toxicity. The diagnosis was supported by the patient's history of taking OTC analgesics, including Tylenol, and the significant elevation of AST and ALT levels. Additionally, the patient developed low platelet counts consistent with idiopathic thrombocytopenic purpura (ITP), and blood cultures indicated the presence of a Gram negative rod, confirming bacteremia."
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "angiogram diagnostic",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not applicable",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Elective angiogram performed for treatment of basilar artery aneurysm"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "alert and oriented to person/place/time, full strength in all extremities",
+        "follow_up_details": "Not specified",
+        "complications": "Corneal abrasion in the right eye",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

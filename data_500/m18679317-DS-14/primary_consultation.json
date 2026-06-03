@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "weakness, presyncope, abdominal pain",
+        "history_of_present_illness": "The patient was feeling well until this morning, when she was showering with the help of her daughter. After getting out of the shower, the patient began to experience epigastric pain that felt like gas. Her daughter noticed labored breathing, but the patient just said that her nose was stuffed up. The patient felt pre-syncopal but did not lose consciousness. No nausea or diaphoresis. No weakness, tingling, numbness, visual changes, difficulty speaking or swallowing, or loss of bowel/bladder continence. The patient was recently admitted for syncope that was attributed to dehydration and vasovagal. In the ED, initial vital signs were T 99.9 BP 126/58 HR 104 RR 16 Sat 100%/RA. EKG showed Afib/RVR, with heart rate as high as 120s. CXR was unremarkable. Lower extremity ultrasound showed an occlusive right greater saphenous vein thrombus. Evaluation of the left distal superficial femoral/popliteal vein was limited, with inability to exclude thrombosis. CTA showed no dissection or PE, with stable left upper lobe pulmonary nodule. The patient was given ASA 325 mg and metoprolol 5 mg IV. She was also started on a heparin gtt for DVT. On the floor, the patient had no complaints. She specifically denied current dizziness/lightheadedness, chest pain, abdominal pain, or shortness of breath.",
+        "past_medical_history": "Hypertension, Hypercholesterolemia, Osteoarthritis s/p left TKR, s/p right TKR",
+        "family_history": "No family history of MI or blood clots.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Well-appearing woman in no acute distress. Vital signs: T 99.9, BP 126/58, HR 104, RR 16.",
+        "specialty_examination": "Neurological: A+Ox3. PERRL. Palatal elevation symmetric. Tongue protrudes in midline. Strength not tested in lower extremities due to concern for DVT but not grossly impaired. Cardiovascular: RRR. No M/G/R. Lungs: Normal respiratory effort. Abdomen: Soft, NT/ND. 1+ edema in LLE."
+    }
+}

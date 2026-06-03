@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "32",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Nurse"
+    },
+    "medical_history": {
+        "chief_complaint": "7 years of slowly progressive left foot drop, and 2 years of left hand weakness and frequent cramps",
+        "history_of_present_illness": "Slowly progressive left foot drop for 7 years, left hand weakness and frequent cramps for 2 years. No sensory complaints. Limped in walking, could not type with left hand. Right limbs were normal. No changes in ocular, bulbar, bladder, bowel, or respiratory function.",
+        "past_medical_history": "Not specified",
+        "family_history": "No family history of neuromuscular illness",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Results of general physical examination were normal",
+        "specialty_examination": "Mental status, speech, and cranial nerve functions were all normal. Strength was normal in the right limbs and in proximal left limb muscles. There was distal weakness in the distribution of the left median radial (MRC grade 4); ulnar (grade 3); peroneal (grade 2); and tibial nerves of MRC grade 4+. Tone and muscle bulk (including those of weak muscles) and sensation were normal. Tendon reflexes were normal in the right arm and leg, and in the left triceps; hypoactive in the left biceps, brachioradialis, and knee; but absent at the left ankle."
+    }
+}

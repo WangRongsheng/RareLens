@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "68.6 kg",
+        "height": "180 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "I don't know",
+        "history_of_present_illness": "This is a ___ year old single male with history of severe depression with psychotic features and PTSD, recently discharged from ___ who represents from group home with reported complaints of worsening depressive symptoms and possible medication nonadherence. Patient is poor historian; mostly silent, occasionally giving single-word answers or answers \"I don't know.\" He does not make eye contact and appears to be internally preoccupied. Responds \"No\" to questions of suicidal or homicidal ideation. He's had ___ hospitalizations this month (1 medicine, 2 psychiatric) and was discharged at the beginning of the month on his own accord. Requested evaluations due to worsening condition and had a decline after d/c'ing haldol in favor of geodon about 2 months ago.",
+        "past_medical_history": "Past psychiatric history includes several hospitalizations, last one in ___, Arbour HRI ___, currently treated with ziprasidone, venlafaxine, trazodone. History of MCA stroke with subsequent aphasia, impaired gait, right hand paralysis. History of marijuana and cocaine use.",
+        "family_history": "Non-contributory",
+        "social_history": "Reports alcohol and marijuana use, unable to quantify. Tobacco use of 2 packs per day."
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: BP 115/84, Temp 97.6, Resp 16, O2 Sat 98% RA. General: dressed in hospital gown, no acute distress.",
+        "specialty_examination": "Neurological: Mildly antalgic gait, decreased strength in right arm compared to left, decreased hip flexion in right lower extremity, aphasic speech with one-word answers."
+    }
+}

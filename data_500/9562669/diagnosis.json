@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Multifocal Motor Neuropathy (MMN)",
+        "differential_diagnosis": "Chronic Inflammatory Demyelinating Polyneuropathy (CIDP), Amyotrophic Lateral Sclerosis (ALS)",
+        "diagnostic_reasoning": "The patient's clinical presentation of painless left foot drop and left hand weakness with frequent cramps, absence of sensory complaints, and normal sensory examination suggested MMN. Electrophysiologic testing revealed multifocal motor demyelination with partial motor conduction block (PMCB), the hallmark of MMN. The absence of deep tendon reflexes in clinically affected muscles, elevation of serum anti-GM1 antibodies, and dramatic response to intravenous immunoglobulin (IVIg) further supported the diagnosis. The differential diagnosis included CIDP and ALS, but the asymmetrical, predominantly distal weakness without sensory involvement and the presence of PMCB ruled out these alternatives."
+    }
+}

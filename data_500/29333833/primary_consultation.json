@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "12",
+        "gender": "Female",
+        "weight": "66 kg",
+        "height": "155 cm",
+        "BMI": "27.47 kg/m2",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chronic kidney disease, bilateral optic nerve colobomas and an exceptional PAX-2 gene mutation",
+        "history_of_present_illness": "Diagnosed in prenatal scans with bilateral renal hypoplasia, she presented clinical and laboratory findings of chronic kidney disease at 5 days of life. Following tests showed grade II bilateral vesicoureteral reflux spontaneously solved, maintained non nephrotic proteinuria controlled with enalapril and bilateral colobomas with left macular atrophy. Renal function remained stable.",
+        "past_medical_history": "Chronic kidney disease, bilateral renal hypoplasia, grade II bilateral vesicoureteral reflux, proteinuria, bilateral colobomas with left macular atrophy, obesity.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Bilateral optic nerve colobomas with left macular atrophy, strabismus divergente and ambliopía profunda in the left eye."
+    }
+}

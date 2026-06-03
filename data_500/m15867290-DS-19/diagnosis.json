@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Bacteremia and Pyelonephritis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with fevers, chills, and hyperglycemia, and blood cultures grew Escherichia coli, indicating a likely urinary tract infection that led to bacteremia. The treatment included IV antibiotics and fluids due to dehydration."
+    }
+}

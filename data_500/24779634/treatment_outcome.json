@@ -1,0 +1,87 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "barbiturates",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Seizures were resistant to barbiturates"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "valproate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Seizures were resistant to valproate"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "levetiracetam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Seizures were controlled with levetiracetam and valproate"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "valproate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Seizures were controlled with levetiracetam and valproate"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Visual loss began"
+        },
+        {
+            "date": "Not specified",
+            "event": "Ophthalmologic examination revealed retinal dystrophy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Recurrent generalized tonic–clonic seizures and spontaneous myoclonic jerks began"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient referred due to poor seizure control"
+        },
+        {
+            "date": "Not specified",
+            "event": "Antiepileptic treatment with levetiracetam and valproate started"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient experienced transient but protracted visual disturbances consistent with palinopsia"
+        },
+        {
+            "date": "Not specified",
+            "event": "EEG showed 8 Hz background activity and rare paroxysms of slow waves"
+        },
+        {
+            "date": "Not specified",
+            "event": "fVEPs reevaluated after onset of recurrent episodes of palinopsia"
+        },
+        {
+            "date": "Not specified",
+            "event": "MRI revealed selective and severe cerebellar atrophy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Skin biopsy revealed polymorphic lysosomal storage"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Severe visual impairment but still able to work as a switchboard operator",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Still able to work despite severe visual impairment",
+        "patient_perspective": "Not specified"
+    }
+}

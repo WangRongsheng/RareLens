@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Back Pain",
+        "history_of_present_illness": "Patient is a male with history of HIV presenting for back pain and numbness in his feet. Patient states he has had a few weeks of lower back pain. States that he had an episode of fecal incontinence last week and another episode yesterday. Patient states that he has not had any bowel movements in the interim which is abnormal for him. Patient also states that he is having trouble initiating urination. States that his foot feels numb bilaterally with the left worse than the right. Patient denies any trauma. Patient had an outpatient MRI of the L-spine yesterday. Report came back today with concern for cauda equina so was referred to the emergency room.",
+        "past_medical_history": "ANXIETY, DAUNOXOME, DIARRHEA, GIARDIA, HEALTH MAINTENANCE, HEMOCHROMATOSIS, HIP PAIN, HIV INFECTION, HYPERCHOLESTEROLEMIA, HYPERTENSION, KAPOSI'S SARCOMA, CUTANEOUS, MYCOBACTERIUM, PENILE LESION, SYPHILIS, THERAPEUTIC PHLEBOTOMY, BACK PAIN, SKIN CHECK, OSTEOARTHRITIS, H/O RADIATION",
+        "family_history": "Not specified",
+        "social_history": "Tobacco use: Never smoker"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: Temperature 97.1, heart rate 73, BP 140/99, respiratory rate 18, O2 saturation 97% on room air. General: Mental Status: Alert and oriented x4.",
+        "specialty_examination": "Neurological: Motor intact - R 5/5, L 5/5. Reflexes: R 2, L 2. Perianal sensation: Normal. Rectal tone: Intact."
+    }
+}

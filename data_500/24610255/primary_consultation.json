@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "15",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "intellectual disability, spastic quadriparesis, and dystonia",
+        "history_of_present_illness": "At age 2 years, she had presented with global developmental delay and spastic quadriparesis. An initial evaluation, including karyotype and metabolic tests, was normal; but brain magnetic resonance imaging (MRI) showed delayed myelination with a hint of cerebral atrophy. She later developed seizures. At age 13 years, she developed generalized dystonia, and repeat brain MRI images showed T2 hypointensities in the globus pallidus, substantia nigra, and red nucleus in addition to cerebral and cerebellar atrophy and hypomyelination.",
+        "past_medical_history": "global developmental delay, spastic quadriparesis, seizures, generalized dystonia",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "mild bilateral optic atrophy, bilateral sensory neural hearing loss"
+    }
+}

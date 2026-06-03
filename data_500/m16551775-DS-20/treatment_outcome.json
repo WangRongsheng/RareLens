@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "citalopram",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Worsening weakness, reduced oral intake, lack of appetite, nausea"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Seroquel",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Discontinued",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Gabapentin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "150 mg PO QHS, 50 mg oral QAM",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oxycodone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.5-5 mg PO Q4H PRN Pain - Mild, 5 mg PO QHS",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lorazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.25 mg PO DAILY PRN agitation",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Citalopram started"
+        },
+        {
+            "date": "Not specified",
+            "event": "Seroquel discontinued"
+        },
+        {
+            "date": "Not specified",
+            "event": "Gabapentin administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Oxycodone administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Lorazepam administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged on hospice"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Bedbound, confused, lethargic but arousable",
+        "follow_up_details": "Follow up with appointments listed in discharge instructions",
+        "complications": "Aspiration pneumonia, encephalopathy with agitation",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Comfort-focused care",
+        "patient_perspective": "Not specified"
+    }
+}

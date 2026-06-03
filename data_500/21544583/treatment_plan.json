@@ -1,0 +1,74 @@
+{
+    "basic_information": {
+        "age": "13",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Persistent fever, maculopapular rash, splenomegaly, lymphadenopathy, and inflammatory syndrome",
+        "history_of_present_illness": "Initial echocardiography (after 8 days of fever) was normal. SoJIA was suspected, and the patient was treated with nonsteroidal anti-inflammatory drugs, but the fever persisted, and her clinical condition deteriorated. All microbiological studies were negative. Three intravenous (IV) boluses of 30 mg/kg methylprednisolone were administered for the first 3 days, followed by 1 mg/kg/day IV methylprednisolone, but clinical and inflammatory parameters remained unchanged. Fifteen days after the onset of fever, the patient’s clinical condition suddenly worsened, and she was admitted to the intensive care unit due to tachycardia (130 beats/min), tachypnea (35 cycles/min), shortness of breath, oxygen saturation at 93% with orthopnea, increased chest pain when lying down, decreased heart sounds, right shoulder pain, and pulsus paradoxus 15 mm Hg.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Tachycardia (130 beats/min), tachypnea (35 cycles/min), oxygen saturation at 93%, pulsus paradoxus 15 mm Hg. No pericardial friction rub.",
+        "specialty_examination": "Chest X-rays showed cardiomegaly and pulmonary congestion with mild bilateral pleural effusions. Electrocardiogram showed sinus tachycardia without ST-T wave changes. Echocardiograms demonstrated a 21 mm thick circumferential pericardial effusion, and left ventricular ejection fraction was 84%."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C-reactive protein (CRP)",
+            "date": "Not specified",
+            "findings": "164 mg/l",
+            "changes_over_time": "Increased to 301 mg/l after 15 days of fever"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate (ESR)",
+            "date": "Not specified",
+            "findings": "35 mm/h",
+            "changes_over_time": "Increased to 33 mm/h after 15 days of fever"
+        },
+        {
+            "procedure_name": "Microbiological studies",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biological tests for macrophage activation syndrome",
+            "date": "Not specified",
+            "findings": "No cytopenia or hyperlipemia",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "After 8 days of fever",
+            "findings": "Normal",
+            "changes_over_time": "After 15 days of fever, showed a 21 mm thick circumferential pericardial effusion, left ventricular ejection fraction was 84%"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "15 days after onset of fever",
+            "findings": "Cardiomegaly and pulmonary congestion with mild bilateral pleural effusions",
+            "changes_over_time": "After 3 days on anakinra, showed improvement (enlarged 'water-bottle' cardiac silhouette resolved)"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "15 days after onset of fever",
+            "findings": "Sinus tachycardia without ST-T wave changes",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Systemic-onset juvenile idiopathic arthritis (SoJIA) with cardiac tamponade",
+        "diagnostic_reasoning": "The diagnosis was confirmed based on the presence of persistent fever, maculopapular rash, splenomegaly, lymphadenopathy, inflammatory syndrome, and pericardial effusion leading to cardiac tamponade. The patient's condition worsened despite initial treatment with nonsteroidal anti-inflammatory drugs and high-dose methylprednisolone, but improved dramatically after administration of anakinra, supporting the diagnosis of SoJIA."
+    }
+}

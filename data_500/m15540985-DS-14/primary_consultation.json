@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Dyspnea, Fatigue, Anemia",
+        "history_of_present_illness": "Ms. ___ is a ___ female with a PMHx significant for ovarian cancer dx in ___ now s/p TAH/BSO and chemotherapy and right-sided DCIS s/p right lumpectomy ___ for earlier this year who was sent into the ED from their PCP ___ ___ with new anemia. She presented to her PCP ___ ___ with complains of a few months of weakness, SOB with climbing stairs, and occasional palpitations. At her PCP she has routine labs done which were significant for a Hb of 7.2 and Hct of 23.0 (down from 11.8/36.1 in ___ and 13.6/41.6 in ___, with a MCV of 73.9, and platelets of 506. Other labs were significant for a UA positive for 3+ leuk esterase, >100 WBC, 3+ bacteria, and neg nitrites. TSH was wnl, Lytes & Cr were wnl. Upon arrival to the floor, the patient confirms the admission history. In brief, she reports that she was feeling well post-lumpectomy with the exception of decreased appetite. Over the last ___ months she has lost ___ but otherwise felt well until ___ weeks ago when she developed progressive DOE, fatigue, generalized weakness. She denies BRBPR or melena but does note some 'pink' color in the toilet before. Also endorses a week of alternating hot/chills, but not fevers or night sweats. No cough, abd pain, change in stooling regularity or character. Never had colonoscopy, says she was scared of the procedure.",
+        "past_medical_history": "Hypertension, Ovarian cancer s/p TAH/BSO & adjucant DCIS s/p R lumpectomy ___, refused radiation",
+        "family_history": "Sister with GYN malignancy at age ___ (cervical cancer?), does not know any further details",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 98.4, 132/74, 18, 96% RA. GEN: well appearing, slightly pale, NAD. HEENT: EOMI, no cervical LAD, MMM. CV: RRR, II/VI systolic murmur, no r/g. PULM: CTA b/l, no w/r/c. GI: well healed scar, S/ND/NT, BS normoactive, no inguinal LAD. EXT: WWP, 2+ pulses, non-edematous.",
+        "specialty_examination": "Not specified"
+    }
+}

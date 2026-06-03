@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "left hemibody sensory loss, gait unsteadiness",
+        "history_of_present_illness": "The patient is a ___ yo woman who presents transferred from an OSH for evaluation of one day of LT sided body numbness with an abnormal MRI and subacute gait disturbance since ___. Reports woke up at 5am and felt her LT index finger tingling. She went on with her life and then around 7am she felt like her arm was tingling, she washed her face and brushed her teeth. Her lip felt swollen but when she looked in the mirror her face was normal. About 9am she felt her entire LT side was numb 'like when you have novocaine at the dentist'. This episode has lasted about 5 hours. Reports since ___ she has difficulty walking over certain distance, as she develops pain sore to touch in her calves. Pain radiates up the back of her thighs, buttocks, lower back. This lasts as long as she keeps walking. She rests and waits about 10 minutes for the pain to go away. She has also noted bilateral arm and neck pain when she makes her bed or washes her hair. She was initially given prednisone 10mg, now on 40mg since early ___ and gabapentin, which was not effective. CT scans of her chest, and doppler of her legs were normal. She has also received hydromorphone but nothing has worked. Last summer she was found to have pernicious anemia and has since received blood transfusions and iron infusions. On neurologic review of systems, she notes numbing pressure in her LT ear and urinary hesitancy recently (3 weeks). Denies headache, lightheadedness, confusion, loss of vision, or bowel issues.",
+        "past_medical_history": "Sleep apnea, Pernicious anemia, DMII, HTN, Depression, GERD",
+        "family_history": "Lives in ___. Former ___, Former alcoholic sober for ___ years. Smokes 1PPD ___ years. Denies illicit drug use.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: 98.5 HR: 69 BP: 135/62 RR: 16 SaO2: 98% RA. General: NAD.",
+        "specialty_examination": "Neurologic Examination: Awake, alert, oriented x 3. Speech is fluent, intact repetition, and verbal comprehension. Left hemibody numbness in all modalities without sensory level."
+    }
+}

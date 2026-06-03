@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Perforated viscus",
+        "differential_diagnosis": "Deep venous thrombosis right arm basilic/cephalic, abdominal abscess, ESRD, encapsulating peritoneal sclerosis, malnutrition, depression abdominal incision wound, hypothyroid",
+        "diagnostic_reasoning": "The patient presented with septic shock, free intrabdominal air, and diffuse abdominal tenderness, all of which were significant findings that pointed towards a perforated viscus. A CT scan confirmed the presence of intrabdominal free air and increased ascites."
+    }
+}

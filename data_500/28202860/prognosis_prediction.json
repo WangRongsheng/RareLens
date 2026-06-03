@@ -1,0 +1,219 @@
+{
+    "basic_information": {
+        "age": "58",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Japanese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "fever of 38°C, night sweats, and fatigue for several days",
+        "history_of_present_illness": "Systemic lymphadenopathy, diagnosed with stage IVB DLBCL, treated with R-CHOP, re-diagnosed with double-hit lymphoma (DHL), started on R-CODOX-M/IVAC, experienced hepatobiliary enzyme elevation after chemotherapy cycles",
+        "past_medical_history": "Autoimmune hemolytic anemia, previously underwent splenectomy with red blood cell transfusion",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Body weight gain (+2 kg/week), jaundice, lower leg edema, abdominal distention",
+        "specialty_examination": "Hepatomegaly, mild ascites on the surface of the liver, geographic low density area at the posterior segment of the liver on CT"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White blood cell count",
+            "date": "Not specified",
+            "findings": "9,100/μL with normal fractions",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "10.7 g/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate dehydrogenase (LDH)",
+            "date": "Not specified",
+            "findings": "470 U/L",
+            "changes_over_time": "Decreased after R-CHOP treatment"
+        },
+        {
+            "procedure_name": "Soluble interleukin-2 receptor",
+            "date": "Not specified",
+            "findings": "6,188 U/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver enzyme levels",
+            "date": "Not specified",
+            "findings": "Within normal limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatitis B surface antigen",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-hepatitis C virus (HCV) antibody",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-human immunodeficiency virus antibody",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum antibodies to Epstein-Barr virus (EBV)",
+            "date": "Not specified",
+            "findings": "Past infection pattern",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aspartate aminotransferase (AST)",
+            "date": "Not specified",
+            "findings": "516 IU/L",
+            "changes_over_time": "Slightly decreased without treatment"
+        },
+        {
+            "procedure_name": "Alanine aminotransferase (ALT)",
+            "date": "Not specified",
+            "findings": "288 IU/L",
+            "changes_over_time": "Slightly decreased without treatment"
+        },
+        {
+            "procedure_name": "Total bilirubin",
+            "date": "Not specified",
+            "findings": "5.5 mg/dL",
+            "changes_over_time": "Gradually increased, peaked at 34.4 mg/dL"
+        },
+        {
+            "procedure_name": "Direct bilirubin",
+            "date": "Not specified",
+            "findings": "3.9 mg/dL",
+            "changes_over_time": "Gradually increased"
+        },
+        {
+            "procedure_name": "White blood cell count",
+            "date": "Not specified",
+            "findings": "800/μL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "6.3 g/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "3,000/μL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hepatitis B virus (HBV)-DNA",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antibodies to HCV",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum antibodies to herpes simplex virus, cytomegalovirus (CMV) and EBV",
+            "date": "Not specified",
+            "findings": "Past infection pattern",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Esophagogastroduodenoscopy",
+            "date": "Not specified",
+            "findings": "Irregular ulcer in the body of the stomach and multiple flat-elevated lesions in the duodenum",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography (CT)",
+            "date": "Not specified",
+            "findings": "Multiple adenopathy of the lymph nodes of the neck, axilla, mesentery, and paraaorta",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasonography",
+            "date": "Not specified",
+            "findings": "Normal hepatobiliary tract with hepatomegaly and mild ascites on the surface of the liver",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Contrast-enhanced CT",
+            "date": "Not specified",
+            "findings": "Hepatomegaly with a geographic low density area at the posterior segment of the liver",
+            "changes_over_time": "Progressive atrophy of the liver and increase in ascites"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Not specified",
+            "findings": "Bile congestion of the bile capillaries and hepatocytes, as well as sinusoidal dilatation, but the structure of the bile duct was preserved and there was no evidence of central vein stenosis or obstruction",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Autopsy",
+            "date": "Not specified",
+            "findings": "Liver weighted 1,175 g, surface division resembled nutmeg liver. Microscopically, torn hepatic cords were visible, along with fibrosis of the sinusoids, bile congestion, and stenosis of the central vein.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Hepatic sinusoidal obstruction syndrome (SOS)",
+        "diagnostic_reasoning": "The patient developed jaundice, ascites, and body weight gain after chemotherapy. A liver biopsy showed sinusoidal dilatation and congestion, but no central vein stenosis or obstruction initially. Autopsy findings later confirmed hepatic SOS with fibrosis of the sinusoids, bile congestion, and stenosis of the central vein. The clinical manifestations and pathological findings post-autopsy supported the final diagnosis of hepatic SOS."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, prednisolone)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "R-CODOX-M/IVAC (rituximab, cyclophosphamide, vincristine, doxorubicin, methotrexate alternated with ifosfamide, etoposide, high-dose cytarabine)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Cyclophosphamide dose: 1,600 mg/m²"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Nafamostat mesilate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Glycyrrhizic acid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ursodeoxycholic acid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

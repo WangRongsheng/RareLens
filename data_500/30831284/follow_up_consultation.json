@@ -1,0 +1,86 @@
+{
+    "basic_information": {
+        "age": "38",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "hoarseness and breathing difficulty for 1 day",
+        "history_of_present_illness": "intermittent headache for more than 3 years, left cervical pulsating mass of 2.5 cm in diameter",
+        "past_medical_history": "No history of diabetes, hypertension, cerebral stroke, head and neck injuries or tumors, alcohol abuse, and smoking",
+        "family_history": "Not specified",
+        "social_history": "No history of alcohol abuse and smoking"
+    },
+    "physical_examination": {
+        "general_examination": "left cervical pulsating mass of 2.5 cm in diameter",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed tomography (CT)",
+            "date": "Not specified",
+            "findings": "Left extracranial internal carotid artery aneurysm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography angiography (CTA)",
+            "date": "Not specified",
+            "findings": "Left extracranial internal carotid artery aneurysm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Digital subtraction angiography (DSA)",
+            "date": "Not specified",
+            "findings": "Left extracranial internal carotid artery aneurysm and moyamoya disease (MMD). Anastomoses between the front segment of the Willis circle and the latter segment of the Willis circle in the patient with MMD.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": "No masses or ischemic lesions",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography perfusion (CTP)",
+            "date": "Not specified",
+            "findings": "No ischemic lesions",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postoperative CTA",
+            "date": "4 days following the operations",
+            "findings": "Validity of the left STA-MCA bypass and disappearance of the left EICA aneurysm after the ligation",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postoperative DSA",
+            "date": "4 days following the operations",
+            "findings": "Validity of the left STA-MCA bypass",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postoperative CTP",
+            "date": "4 days following the operations",
+            "findings": "No ischemic lesions",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Emergency CT",
+            "date": "20 days following the operations",
+            "findings": "Hemorrhagic stroke in the right basal ganglia region",
+            "changes_over_time": "Hematoma disappeared 20 days after the onset of the hemorrhagic stroke"
+        },
+        {
+            "procedure_name": "Follow-up DSA and CTP",
+            "date": "6 months after discharge",
+            "findings": "Efficacy of the bilateral STA-MCA bypass and verified the disappearance of the left ECIA aneurysm after the ligation",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": []
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "56",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "severe vertigo, ataxia (Berg balance scale: 16 point), and dysphasia",
+        "history_of_present_illness": "Diagnosed with lateral medullary syndrome due to an infarction in the posterior inferior cerebellar artery area. Two weeks following the infarction, transferred to the rehabilitation department with severe vertigo, ataxia, and dysphasia. Maintained good motor power and cognitive function (Mini-mental state test: 26 points). After 6 weeks from onset, BBS scored 17 points and FAC scored 2 grade, and ataxia and gait problems persisted.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Maintained good motor power (Manual muscle test: good grade in upper and lower extremity) and cognitive function (Mini-mental state test: 26 points). Severe vertigo and ataxia."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Afib with RVR",
+        "history_of_present_illness": "___ yo female with h/o Afib, ___, stage V CKD, anemia, and dementia who presented with Afib with RVR. She also had a troponin bump with normal CK. ECG was unchanged. Per the family, she complained of SOB and decreased UOP. Also complained of nausea before admission. She has previously been on hospice for CKD but is no longer on hospice because she had been improving (was dropped 2 weeks ago). She has a h/o anemia but was guaiac negative in the ED. She has also previously been on Aranesp. In the ED, she had Afib with RVR with rates up to 130's. She was given dilt 10mg IV x 2 plus 60mg po diltiazem, and rates decreased to 100's. She is also on metoprolol 25mg po bid. She was also given her home Lasix dose and only urinated 200cc with foley in place.",
+        "past_medical_history": "-HTN -Paroxysmal A-Fib, was previously on amiodarone -diastolic CHF (echo in ___ with LVEF 60%, 3+MR and 1+AR) -Hyperlipidemia -Stage V kidney disease -H.pylori/pyloric ulcer -s/p colonoscopy in ___ -Neck and Back spasms -s/p EGD for bleeding ulcer in the setting of longstanding NSAID usage. -Hypothyroidism -chronic left pleural effusion -Mild AS -Anemia on aranesp",
+        "family_history": "CAD, DM",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: 97.4 142/89 26 HR 118 99%2L. Awake, alert, slightly in distress about her husband not being around. Oriented x2, knows she's at ___. Mood, affect appropriate. HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma. NECK: Supple with JVP of 12cm. CARDIAC: PMI located in ___ intercostal space, midclavicular line. Irregularly irregular without m/r/g. No thrills, lifts. No S3 or S4. LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. Crackles at the bases bilaterally. ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominal bruits. EXTREMITIES: No c/c. Edema in dependent areas including elbows, abdomen, etc. No femoral bruits. SKIN: No stasis dermatitis, ulcers, scars, or xanthomas. PULSES: Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+ Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+",
+        "specialty_examination": "Not specified"
+    }
+}

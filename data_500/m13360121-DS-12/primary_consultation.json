@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Worsening RUQ, pain and fever",
+        "history_of_present_illness": "Ms. ___ is a ___ with history of cholelithiasis/cholecystitis recently s/p lap CCY who presented with worsening right upper quadrant pain and fevers. Patient noted increased right upper quadrant abdominal pain and decreased bilious output from RUQ JP beginning yesterday AM. She also noted fever to ___ yesterday for which she has been taking Tylenol. Pain with deep inspiration and mild nausea, but otherwise denies chills, emesis, diarrhea, CP/SOB. Seen in clinic earlier today and sent to the ED for CT imaging to assess for possible cystic duct stump leak and resultant biloma.",
+        "past_medical_history": "1. Ductal breast hyperplasia. 2. Hemorrhoids. 3. Herniated cervical disc, C5/6. 4. Hyperlipidemia. 5. Hypertension. 6. Hypothyroidism. 7. Insomnia. 8. Irritable bowel syndrome. 9. Lichen sclerosus. 10. Obesity, following Weight Watchers. 11. Osteopenia. 12. Nephrolithiasis, status post lithotripsy x2.",
+        "family_history": "Mother died in ___. ___ died with melanoma, breast cancer. Uncle with ?pancreatic cancer. Father died of stroke.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 98.1°F, HR 71 bpm, BP 116/102 mmHg, RR 18 breaths/min, 99% RA. A&Ox3, well-appearing female, in NAD. Abdomen soft, mildly distended, notable TTP around drain site and throughout RUQ. JP drain with serous output; port incisions well healing; no rebound/guarding, no palpable masses.",
+        "specialty_examination": "Neurological: moves all limbs spontaneously, no focal deficits. Cardiovascular: NRRR, no murmurs/rubs/gallops. Pulmonary: CTAB, no wheezes/rhonchi."
+    }
+}

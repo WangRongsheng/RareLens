@@ -1,0 +1,96 @@
+{
+    "basic_information": {
+        "age": "14",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "145 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Enamel of her teeth was worm-eaten in appearance",
+        "history_of_present_illness": "Severe polyhydramnios detected antenatally, poor feeding and failure to thrive at 2 months, diagnosed with impaired renal concentration at 1 year old, hypokalaemia and hypercalciuria at 18 months, diagnosed with amelogenesis imperfecta (AI) and bilateral nephrocalcinosis at 12 years old",
+        "past_medical_history": "Impaired renal concentration, hypokalaemia, hypercalciuria, amelogenesis imperfecta (AI), bilateral nephrocalcinosis",
+        "family_history": "Parents are first cousins, no siblings, no family history of diabetes mellitus or hearing loss",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Height 145 cm (-1.0SD), normal appearance and intelligence, normal secondary sex characteristics, normal blood pressure",
+        "specialty_examination": "Extremely thin enamel, rough and extensively cracked surface of permanent teeth, bilateral nephrocalcinosis identified by ultrasonography"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood chemical and haematological studies",
+            "date": "At 2 months",
+            "findings": "Normal renal function (serum creatinine level: 0.3 mg/dl), normal electrolyte levels (Na: 137 meq/l, K: 4.0 meq/l, Cl: 103 meq/l), normal blood gas findings (HCO3: 21.6 mmol/l, base excess (BE): -0.6) and normal serum osmolality (280 mOsm/kg), low urinary osmolality (150–250 mOsm/kg)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Water deprivation test and vasopressin administration test",
+            "date": "At 1 year old",
+            "findings": "Initial serum antidiuretic hormone (ADH) level was high in spite of low urinary osmolality. Urine osmolality was less than that of serum after 4 hours of water deprivation and less than 300 mOsm/kg in spite of vasopressin administration. Total urine volume was 236 ml/kg/day.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood test",
+            "date": "At 18 months old",
+            "findings": "Hypokalaemia (2.3 meq/l), hypercalciuria [urinary calcium creatinine ratio (Ca/Cr): 1.8 mg/mg; normal: 0.1–0.3], high plasma renin activity (14.4 ng/ml/h; normal: 0.3–2.9), high serum aldosterone levels (750 pg/ml; normal: 36–240)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood-gas examination",
+            "date": "At 12 years old",
+            "findings": "Metabolic alkalosis (HCO3: 31 mmol/l, BE: 4.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood test",
+            "date": "At 14 years old",
+            "findings": "Hypokalaemia (3.1–3.4 mEq/l), high plasma renin activity (11.0 ng/ml/h; normal: 0.3–2.9), high serum aldosterone level (512 pg/ml; normal: 36–240), normal calcium (9.8 mg/dl) and magnesium (2.1 mg/dl, normal 1.7–2.3) levels, normal renal function [blood urea nitrogen (BUN): 9 mg/dl; Cr: 0.51 mg/dl], normal serum osmolality (279 mOsm/kg), low urinary osmolality (136 mOsm/kg), hypercalciuria (urinary Ca/Cr: 1.1 mg/mg; normal: 0.1–0.3), normal urinary N-acetylglutamate (NAG) and a1-microblobulin excretion levels (urinary NAG: <3 U/l; urinary a1-microblobulin: 0.9 mg/l; normal: <8.3), no glucosuria or aminoaciduria, slightly high serum intact-parathyroid hormone (PTH) level (98.0 pg/ml; normal: 14–66), slightly high 1,25-(OH)2 Vit D level (103 pg/ml; normal: 20–70), normal protein induced by vitamin K antagonist II (PIVKAII) (PIVKAII: <1)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Kidney ultrasonography",
+            "date": "At 2 months",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal ultrasonography",
+            "date": "At 14 years old",
+            "findings": "Bilateral nephrocalcinosis",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Genetic analysis",
+            "date": "Not specified",
+            "findings": "No mutation in any of the six genes (NKCC2, ROMK, CLC-Kb, Barttin, CaSR, AQP2)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Enamel-renal syndrome (ERS) complicated with Bartter-like syndrome and impaired renal concentration",
+        "diagnostic_reasoning": "The patient was diagnosed with ERS based on the presence of amelogenesis imperfecta (AI) and bilateral nephrocalcinosis. The diagnosis of Bartter-like syndrome was supported by findings of hypokalaemia, metabolic alkalosis, high plasma renin activity, and high serum aldosterone levels. Impaired renal concentration was evidenced by low urinary osmolality despite normal serum osmolality. Genetic analysis ruled out mutations in genes associated with Bartter syndrome and nephrogenic diabetes insipidus (NDI)."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "thiazide diuretics",
+            "start_date": "Not specified",
+            "end_date": "3 months later",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "indomethacin and spironolactone",
+            "start_date": "18 months old",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

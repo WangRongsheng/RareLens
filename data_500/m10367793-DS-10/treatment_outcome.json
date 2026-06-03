@@ -1,0 +1,99 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Irrigation and Debridement of R Ankle wound",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Keflex",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Wound got somewhat bigger despite treatment"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Tylenol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Every 6 hours around the clock",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oxycodone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "As needed for increased pain, aim to wean off in 1 week or sooner",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ASA",
+            "start_date": "Not specified",
+            "end_date": "4 weeks after discharge",
+            "dosage_or_details": "325 mg daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "wound care",
+            "specific_treatment": "Wet-to-dry dressing changes",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Twice daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "Range of motion and weightbearing as tolerated",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Toe-touch weightbearing status for left lower extremity",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient developed swelling and pain one week ago"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient felt sharp pain and saw bleeding from wound two days ago"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Keflex"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient referred for evaluation due to increased wound size"
+        },
+        {
+            "date": "Not specified",
+            "event": "Wound VAC taken down; circular skin defect at medial malleolus observed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Wound packed with wet gauze and new dressing schedule initiated"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge instructions provided"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Not specified",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient feels well otherwise"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Diltiazem",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20mg IV",
+            "treatment_response": "Marked improvement in breathing"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1g IV",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Cardioversion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Tolerated the procedure well, return to normal sinus rhythm"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Tapering regimen with starting dose of 80mg",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Diltiazem administered (20mg IV)"
+        },
+        {
+            "date": "Not specified",
+            "event": "Ceftriaxone administered (1g IV)"
+        },
+        {
+            "date": "Not specified",
+            "event": "Cardioversion performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started Prednisone tapering"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Follow up with Dr. ___ and the hematology team; lab work required",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient reported marked improvement in breathing"
+    }
+}

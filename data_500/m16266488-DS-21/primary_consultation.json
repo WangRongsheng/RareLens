@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "right shoulder osteoarthritis",
+        "history_of_present_illness": "w/ DM2, HIV, HCV, COPD, OSA s/p R rTSA",
+        "past_medical_history": "OSA (CPAP), DM2, Hep C, HIV, COPD, bipolar, ADHD; APPY, ORIF Arm fx",
+        "family_history": "n/c",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Well appearing in no acute distress. Afebrile with stable vital signs. Pain well-controlled.",
+        "specialty_examination": "Neurologic: Intact with no focal deficits; Musculoskeletal Upper Extremity: Aquacel dressing with scant serosanguinous drainage; Shoulder/arm full but soft; grip strength not specified; SILT, NVI distally; Fingers warm and well perfused."
+    }
+}

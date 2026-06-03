@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "L-carnitine supplement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient responded well to glucose infusion and has been controlled well on L-carnitine supplement and a fat-restricted diet."
+        },
+        {
+            "treatment_type": "dietary",
+            "specific_treatment": "fat-restricted diet",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient responded well to glucose infusion and has been controlled well on L-carnitine supplement and a fat-restricted diet."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Portagen formula",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient's glucose concentrations remained stable."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Polycose",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient's glucose concentrations remained stable."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "First episode of severe hypoglycemia"
+        },
+        {
+            "date": "Not specified",
+            "event": "Initiation of L-carnitine supplement and fat-restricted diet"
+        },
+        {
+            "date": "Not specified",
+            "event": "Initiation of Portagen formula and Polycose"
+        },
+        {
+            "date": "Not specified",
+            "event": "Follow-up echocardiogram showed no pericardial effusion and cardiac hypertrophy had disappeared"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient has continued to develop normally and has had no further episodes.",
+        "follow_up_details": "Follow-up echocardiogram at 10 months of age showed no pericardial effusion and cardiac hypertrophy had disappeared.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

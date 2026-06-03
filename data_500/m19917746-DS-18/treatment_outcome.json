@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Diltiazem",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "30 mg IV",
+            "treatment_response": "HR improved"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with worsening dyspnea and chest pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "EMS contacted, patient found to have HR in the 150s."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient given 21 mg of Diltiazem; HR improved."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient arrived at ED with HR again in the 150s, given 30 mg Diltiazem."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient converted to NSR within 10 mins after arrival."
+        },
+        {
+            "date": "Not specified",
+            "event": "CT scan indicates interval progression of disease with collapse of right lung."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient was discharged home with hospice services.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Focused on quality of life.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient's quality of life is a mutual goal.",
+        "patient_perspective": "Patient and family are focusing on comfort at home."
+    }
+}

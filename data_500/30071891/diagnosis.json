@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Intermittent Porphyria",
+        "differential_diagnosis": "acute appendicitis, sinus tachycardia, renal calculi, drug-induced acute interstitial nephritis, partial intestinal obstruction",
+        "diagnostic_reasoning": "The diagnosis was confirmed by a positive Watson and Schwartz test for urinary porphobilinogen (PBG) and mutation analysis revealing a missense mutation, c.517C>T encoding p.R173W in the HMBS gene. The patient's recurrent episodes of severe abdominal pain, nausea, vomiting, constipation, and numbness of bilateral lower limb extremities, along with previous misdiagnoses, raised suspicion of acute porphyria."
+    }
+}

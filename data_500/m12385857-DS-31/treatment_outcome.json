@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Dilaudid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1mg IV x1",
+            "treatment_response": "some improvement"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Zofran",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4mg IV x1",
+            "treatment_response": "some improvement"
+        },
+        {
+            "treatment_type": "hydration therapy",
+            "specific_treatment": "Normal Saline",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1L",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lantus",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "lower dose prescribed upon discharge",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with worsening abdominal pain and nausea."
+        },
+        {
+            "date": "Not specified",
+            "event": "Dilaudid 1mg IV administered."
+        },
+        {
+            "date": "Not specified",
+            "event": "Zofran 4mg IV administered."
+        },
+        {
+            "date": "Not specified",
+            "event": "1L Normal Saline administered."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge on a lower dose of Lantus prescribed."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Not specified",
+        "follow_up_details": "Patient is advised to have small meals low in fat following discharge.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

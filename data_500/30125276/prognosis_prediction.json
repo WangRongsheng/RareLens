@@ -1,0 +1,124 @@
+{
+    "basic_information": {
+        "age": "14",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Herder"
+    },
+    "medical_history": {
+        "chief_complaint": "Psychiatric disorders primarily characterised by logorrhea, hypersomnolence and a persistent fever",
+        "history_of_present_illness": "For at least five months before admission, the patient visited several peripheral health care facilities close to his village with the same symptoms. The symptoms then progressively became aggravated.",
+        "past_medical_history": "Not specified",
+        "family_history": "The patient’s father, his two wives and their children lived in the Bonon area in Coˆte d’Ivoire, where they worked on coffee-cocoa plantations. The family returned to Burkina Faso in 1994 and settled in Gouera. The patient was born in this village seven years later in 2001 and never left the area since his birth, except for a 10-day stay with a traditional healer in the Ivorian village of Kawara in July 2015.",
+        "social_history": "The primary activity of the case family involves seasonal agriculture based on growing maize, millet, cotton, sesame, rice and peanut, in close proximity to the Tanion River and its tributaries. The family’s secondary activity is cattle and sheep breeding, and the patient, who does not attend school, primarily works as a herder."
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Psychiatric disorders primarily characterised by logorrhea, hypersomnolence and a persistent fever. Parasitological investigations revealed the presence of trypanosomes in the blood with the mini Anion Exchange Centrifugation Technique performed on 350 μl of buffy coat (20 trypanosomes) and in the cerebrospinal fluid (CSF) using the Modified Simple Centrifugation (MSC) performed with 3.5 ml of CSF (5 trypanosomes). For CSF white blood cell count, a Uriglass counting chamber was used, revealing 174 cells/mm3."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Rapid Diagnostic Test (RDT) for HAT (SD Bioline HAT)",
+            "date": "August 11, 2015",
+            "findings": "Positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immune trypanolysis (TL) test",
+            "date": "August 17, 2015",
+            "findings": "Positive using the LiTat 1.3 variant antigenic type (VAT)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Card Agglutination Test for Trypanosomiasis (CATT)",
+            "date": "August 19, 2015",
+            "findings": "Positive on whole blood and an end titer of 1/32 in CATT performed with twofold plasma dilutions (CATT pl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mini Anion Exchange Centrifugation Technique (mAECT)",
+            "date": "August 19, 2015",
+            "findings": "Presence of trypanosomes in the blood (20 trypanosomes)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Modified Simple Centrifugation (MSC)",
+            "date": "August 19, 2015",
+            "findings": "Presence of trypanosomes in the cerebrospinal fluid (CSF) (5 trypanosomes)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF white blood cell count",
+            "date": "August 19, 2015",
+            "findings": "174 cells/mm3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DNA extraction and PCR (TBR1-2 primers)",
+            "date": "August 19, 2015",
+            "findings": "Positive for Trypanozoon-specific TBR1-2 primers, negative for T.b. gambiense-specific TgsGP gene primers",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microsatellite genotyping",
+            "date": "August 19, 2015",
+            "findings": "Negative (method not sensitive enough)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Trypanosome strain isolation in mice",
+            "date": "August 19, 2015",
+            "findings": "Unsuccessful despite inoculation of blood and CSF in six BALB/c mice",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CATT and TL tests on family members",
+            "date": "Not specified",
+            "findings": "Three subjects positive for CATT (CATT pl = 1/2, 1/4, 1/8), all negative for parasitological and TL tests",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microfilaria detection in mAECT-BC",
+            "date": "Not specified",
+            "findings": "Microfilaria detected in the mAECT-BC of the first wife’s son",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Reactive medical survey (CATT)",
+            "date": "Not specified",
+            "findings": "27 CATT-positive subjects out of 4,214 tested, 14 had CATT plasma level ≥ 1/4, all negative for mAECT and TL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Veterinary survey (BCT and TL)",
+            "date": "Not specified",
+            "findings": "All 46 pigs, 7 cattle, and 23 sheep negative by BCT and TL tests",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [
+        {
+            "procedure_name": "Entomological survey (biconical traps)",
+            "date": "Not specified",
+            "findings": "15 tsetse flies (Glossina tachinoides) collected, one infected with trypanosomes in the proboscis (suggesting Trypanosoma vivax infection)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Human African trypanosomiasis (HAT), caused by Trypanosoma brucei gambiense",
+        "diagnostic_reasoning": "The patient exhibited symptoms such as psychiatric disorders, hypersomnolence, and persistent fever. A HAT Rapid Diagnostic Test (RDT) was positive, followed by positive immune trypanolysis (TL) test and Card Agglutination Test for Trypanosomiasis (CATT). Parasitological investigations confirmed the presence of trypanosomes in the blood and cerebrospinal fluid (CSF), leading to the diagnosis of stage 2 HAT."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "eflornithine (DFMO)",
+            "start_date": "2015-08-25",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

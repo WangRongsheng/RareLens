@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "72 kg",
+        "height": "160 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Fatigue",
+        "history_of_present_illness": "Year old female with a known heart murmur for many years and was referred for a stress echo last year but never completed it. She presented to her PCP for routine follow up, and now noting some fatigue, and was again encouraged to have stress echo. Stress echo demonstrated severe aortic stenosis at rest with a normal LVEF. She was referred to Dr. ___ now presents today for a cardiac catheterization to further evaluate. She was found to have 3 V CAD and now referred to ___ for AVR/CABG eval.",
+        "past_medical_history": "Hypertension, Hyperlipidemia, Aortic Stenosis, Peripheral Artery Disease, venous insufficiency, Diabetes Mellitus",
+        "family_history": "Mother had a pacemaker, CHF, and died of MI at age ___",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Pulse: 65, Resp: 12, O2 sat: 97% RA, B/P Right: 156/75, Left: Not specified. General: Awake, alert in NAD, pleasant. Skin: Dry, intact. Lower extremity venous stasis changes.",
+        "specialty_examination": "Neurological: Grossly intact. Cardiac: RRR, Irregular, Murmur grade IV/VII."
+    }
+}

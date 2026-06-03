@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lactulose",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "30 mL PO TID",
+            "treatment_response": "Provided extra doses during hospital stay"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Endobronchial biopsy of lung",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not applicable",
+            "treatment_response": "Pending results"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for confusion; initial assessment performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Endobronchial biopsy of lung performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Lactulose administered; additional doses given."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with continuing medication regimen."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused - sometimes, but alert and interactive.",
+        "follow_up_details": "Follow up with Dr. ___ for biopsy results.",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Latent tuberculosis infection noted.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Activity status - Ambulatory - Independent.",
+        "patient_perspective": "Patient advised to keep taking medications; care team wished her well."
+    }
+}

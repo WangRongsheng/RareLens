@@ -1,0 +1,18 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "At 18 months after resection of the meningioma, the patient remains independent in daily activities, and has had no further problems with her eyes.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "No further problems with her eyes were reported at 18 months after surgery, and no ongoing symptoms related to the meningioma were described.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 18 months after resection, she has had no further problems with her eyes."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Follow-up is reported only to 18 months; beyond that outcomes are unspecified. Functional status before surgery was already independent, so long-term improvement is inferred primarily from symptom resolution rather than functional change. Underlying Werner syndrome may affect baseline function, so functional limitation categorization is conservative."
+}

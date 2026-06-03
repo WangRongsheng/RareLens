@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "L-threo-3,4-dihydroxyphenylserine (DOPS)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Improved orthostatic hypotension considerably but remained susceptible to occasional collapse"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Fludrocortisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Resistant to treatment"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Started treatment with Fludrocortisone"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started treatment with L-threo-3,4-dihydroxyphenylserine (DOPS)"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient found halfway dressed and could not be resuscitated"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Deceased",
+        "follow_up_details": "Not specified",
+        "complications": "Occasional collapse, pulmonary edema, scattered fibrosis throughout the cardiac conduction system, arteriolar smooth muscle hypertrophy, sclerotic glomeruli, interstitial chronic inflammatory cell infiltrates, autolyzed tubules, scattered pyknotic cerebral neurons, isolated microfoci of cortical gliosis",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Profound orthostatic hypotension limited his ability to stand longer than about a minute",
+        "patient_perspective": "Not specified"
+    }
+}

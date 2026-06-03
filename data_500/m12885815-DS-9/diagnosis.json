@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Abdominal pain UTI, suspected cancer of the biliary tract",
+        "differential_diagnosis": "Multiple sclerosis",
+        "diagnostic_reasoning": "The patient presented with severe abdominal pain, and initial imaging indicated concerning findings of multiple hepatic lesions which suggested a potential malignancy such as cholangiocarcinoma, as well as cystitis. The combination of the patient's symptoms, lab findings, and imaging were critical in directing towards a diagnosis of possible cancer."
+    }
+}

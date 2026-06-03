@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "Doxil (liposomal sarcoma)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 cycle administered",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "radiation therapy",
+            "specific_treatment": "external beam radiotherapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 sessions to pelvic mass",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "radiation therapy",
+            "specific_treatment": "XRT to head lesion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 sessions",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient received 1 cycle of Doxil."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started radiation therapy with 20 sessions to pelvic mass."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 10 sessions of XRT to head lesion."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "chronically ill-appearing female, requires assistance or aid (walker or cane).",
+        "follow_up_details": "Follow-up with outpatient providers as instructed.",
+        "complications": "Not specified",
+        "long_term_prognosis": "fair",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient experienced worsening neck pain; imaging showed cancer progression, eroding into bones."
+    }
+}

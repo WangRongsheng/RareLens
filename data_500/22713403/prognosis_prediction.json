@@ -1,0 +1,112 @@
+{
+    "basic_information": {
+        "age": "62",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "MA in history"
+    },
+    "medical_history": {
+        "chief_complaint": "Not specified",
+        "history_of_present_illness": "Large, left-sided, middle-cerebral artery stroke 3 years before testing. Initially globally aphasic, but had improved mainly through rehabilitation and probably physiological reinstitution at least in the first year.",
+        "past_medical_history": "Large, left middle cerebral artery stroke and an incidental finding of a completely occluded right carotid artery.",
+        "family_history": "Not specified",
+        "social_history": "Lived independently, taking care of his own bills, and all of his own needs."
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Aphasia type was unclassifiable; he was classified by the Western Aphasia Battery (WAB) as anomic, but he had 'asyntactic' auditory comprehension on sentence comprehension tasks. His spontaneous speech was generally fluent and well articulated, but he had hesitations for word finding and frequent circumlocutions."
+    },
+    "laboratory_examinations": [],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Large, left middle cerebral artery stroke and an incidental finding of a completely occluded right carotid artery",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Left greater than right temporoparietal atrophy",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Western Aphasia Battery (WAB)",
+            "date": "8/14/2009",
+            "findings": "Overall aphasia quotient: 85, Aphasia type: anomic (but asyntactic), Spontaneous speech total: 15/20, 75% Correct, Auditory verbal comprehension: 86% correct, Repetition total: 90/100, 90% correct, Naming and word finding: Object naming: 60/60, 100% correct",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Western Aphasia Battery (WAB)",
+            "date": "6/10/2009",
+            "findings": "Overall aphasia quotient: 68, Aphasia type: conduction, Spontaneous speech total: 15/20, 75% Correct, Auditory verbal comprehension: 88% correct, Repetition total: 56/100, 56% correct, Naming and word finding: Object naming: 27/60, 45% correct",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Johns Hopkins Dysgraphia Battery",
+            "date": "Not specified",
+            "findings": "Performance on words and pseudowords was very impaired (11% accurate on words and 0% on nonwords). Nouns were somewhat better preserved than verbs (21% vs. 7% accurate). No significant concreteness effect, although abstract words were slightly less accurate than concrete words (5% vs. 19% accuracy). No significant frequency or regularity effect. Significant word-length effect (43% correct on 4-letter vs. 7% on 5-letter vs. 14% on 6-letter vs. 7% on 7-letter and 0% on 8-letter words correct). Errors were mostly phonologically implausible nonwords.",
+            "changes_over_time": "After treatment, performance in open class words improved significantly from 11 to 27%. Spelling of high probability words improved significantly from 33 to 73%. Spelling of low probability words improved from 36 to 49%, but not significantly. Performance in nonwords did not improve significantly."
+        },
+        {
+            "procedure_name": "Johns Hopkins Dysgraphia Battery",
+            "date": "Not specified",
+            "findings": "Spelled words and pseudowords with approximately equal accuracy (65.5 vs. 61.8% accuracy). No effect of grammatical class (68% correct in nouns and verbs, 61% in adjectives and 65% in function words). Concreteness effect (90.5% correct for concrete and 52% for abstract words). Significant frequency effect (88% correct for high frequency words and 72% for low frequency ones). No significant difference between high/low regularity words (80.0 vs. 83.8% correct). No significant effect of word length; correctly spelled 85.7% of 4-letter vs. 92.9% of 8-letter words. 15.2% of errors were phonologically plausible errors. Most errors were phonologically similar word errors or mixed phonologically and semantically similar words including morphological errors.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Trail Making Test",
+            "date": "Not specified",
+            "findings": "Part A: 128 sec, Part B: not completed",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Trail Making Test",
+            "date": "Not specified",
+            "findings": "Part A: 42, Part B: 16",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Digit Span",
+            "date": "Not specified",
+            "findings": "Forward: 4, Backward: 3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Digit Span",
+            "date": "Not specified",
+            "findings": "Forward: 3, Backward: 2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Word Span",
+            "date": "Not specified",
+            "findings": "Forward: 3, Backward: 2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Word Span",
+            "date": "Not specified",
+            "findings": "Forward: 2, Backward: 2",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Primary Progressive Aphasia (PPA), logopenic variant",
+        "diagnostic_reasoning": "The diagnosis was based on history, neurological examination, imaging, and neurocognitive assessment. The patient presented with difficulties forming sentences and finding words, with fluent and well-articulated speech but frequent hesitations for word finding and many circumlocutions. MRI showed left greater than right temporoparietal atrophy. Performance on the Western Aphasia Battery (WAB) and other neuropsychological tests supported the diagnosis."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "behavioral therapy",
+            "specific_treatment": "spelling therapy (phoneme-to-grapheme conversion training)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "30 English sounds divided into 3 sets, 10 phonemes per set, 1-2 hours per session, approximately one session per week"
+        }
+    ]
+}

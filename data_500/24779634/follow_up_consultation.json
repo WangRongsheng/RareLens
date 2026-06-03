@@ -1,0 +1,100 @@
+{
+    "basic_information": {
+        "age": "22",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Italian",
+        "occupation": "University student, later switchboard operator"
+    },
+    "medical_history": {
+        "chief_complaint": "Visual loss",
+        "history_of_present_illness": "Began experiencing visual loss at age 22, diagnosed with retinal dystrophy. Three years later, had recurrent generalized tonic–clonic seizures and spontaneous myoclonic jerks resistant to barbiturates and valproate. At age 29, visual impairment severe but still able to work. Experienced transient but protracted visual disturbances consistent with palinopsia.",
+        "past_medical_history": "Previously uneventful clinical history.",
+        "family_history": "Parents and paternal uncle heterozygous for the mutated gene, no signs of cognitive impairment. Early death in many older family members may have masked a likely autosomal-dominant pattern.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Visual acuity greatly reduced (1/20), mild ataxia.",
+        "specialty_examination": "EEG showed 8 Hz background activity and rare paroxysms of slow waves, often preceded by small spikes prominent over the parietal regions. MRI revealed selective and severe cerebellar atrophy. Skin biopsy revealed polymorphic lysosomal storage in glandular and endothelial cells. Electron microscopy of peripheral blood leukocytes showed fingerprint profiles in 1/100 lymphocytes."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electron microscopy of peripheral blood leukocytes",
+            "date": "Not specified",
+            "findings": "Fingerprint profiles in 1/100 lymphocytes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Age 25 years",
+            "findings": "Polymorphic lysosomal storage in glandular and endothelial cells, cytoplasmic vacuoles with electron-dense 70–100 Å periodic structures (fingerprints) or flaky material (cotton-like storage), absence of progranulin protein in peripheral tissue",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Age 22 years",
+            "findings": "Selective and severe cerebellar atrophy",
+            "changes_over_time": "Only slightly increased over 7 years"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Severe cerebellar atrophy",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Electroencephalography (EEG)",
+            "date": "Age 26 years",
+            "findings": "8 Hz background activity and rare paroxysms of slow waves, often preceded by small spikes that were prominent over the parietal regions",
+            "changes_over_time": "Remained unchanged at age 29"
+        },
+        {
+            "procedure_name": "Visual evoked potentials (VEPs)",
+            "date": "Age 24 years",
+            "findings": "Depressed cortical components, distorted waveform with a prominent P1 followed by broad negativity, virtually absent electroretinographic response",
+            "changes_over_time": "Further decline in the cortical components and appearance of polyphasic waves superimposed on P1 after recurrent episodes of palinopsia"
+        },
+        {
+            "procedure_name": "Flash visual evoked potentials (fVEPs)",
+            "date": "Not specified",
+            "findings": "Polyphasic cortical components at the time of visual impairment and onset of recurrent episodes of palinopsia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Retinal examination",
+            "date": "Not specified",
+            "findings": "Pigment epithelium dystrophy and stippling, vessel attenuation, and optic nerve pallor",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluorescein angiography",
+            "date": "Not specified",
+            "findings": "Central and peripheral retinal epithelium dystrophy and stippled hyperfluorescence",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Optical coherence tomography",
+            "date": "Not specified",
+            "findings": "Retinal thinning and disruption of the retinal pigment epithelium",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neuropsychological examination",
+            "date": "Not specified",
+            "findings": "Borderline executive functions (frontal assessment battery 13.2; cutoff score 16)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Psychiatric evaluation",
+            "date": "Not specified",
+            "findings": "Mild depression",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

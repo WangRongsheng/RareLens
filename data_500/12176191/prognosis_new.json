@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "10 months after programming, aided thresholds with the cochlear implant were 35–40 dBA; he can discriminate environmental sounds and react properly in daily life, but still needs visual clues for verbal communication and his speech production improves at a slower rate.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Ongoing hearing/communication limitations persist despite improvement: he still needs visual clues for verbal communication; speech production improves at a slower rate.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "During surgery, a profuse CSF gusher was encountered; it resolved after head elevation within 15 minutes."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Adenoidectomy was performed preceding cochlear implantation due to adenoid hypertrophy and recurrent otitis media."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "10 months after programming, aided thresholds were 35–40 dBA; he can discriminate environmental sounds and react properly to sounds in daily life."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "He has 50–60 meaningful words, has begun to use two-word combinations, and can monitor his own voice."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "The record reports two pediatric cases. Extraction focuses on Case 2 (5-year-old boy) because more detailed mid-term outcomes (10 months) were documented. Long-term (>12 months) outcomes are not available; the overall outcome reflects the latest documented status rather than true long-term follow-up."
+}

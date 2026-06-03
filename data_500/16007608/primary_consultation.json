@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Not specified",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Chinese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Extreme mesomelic shortening of both lower limbs (with the fibulae more involved than the tibias), asymmetrical radio-ulnar shortening the left radius and ulna below the 5th centile in length and the right radius and ulna, both femurs and humeri of normal length for gestational age. Cutaneous syndactyly of the third and fourth fingers was noted bilaterally.",
+        "history_of_present_illness": "Antenatal ultrasonographic findings revealed extreme mesomelic shortening of both lower limbs (with the fibulae more involved than the tibias), asymmetrical radio-ulnar shortening the left radius and ulna below the 5th centile in length and the right radius and ulna, both femurs and humeri of normal length for gestational age. Cutaneous syndactyly of the third and fourth fingers was noted bilaterally. A karyotype was normal (46,XX). A medical induction of labor took place at 20 weeks gestation.",
+        "past_medical_history": "Not specified",
+        "family_history": "Parents were a non-consanguineous Chinese couple who had a healthy 2-year-old boy, were 33 and 38 years of age respectively.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Bilateral insertional polydactyly between the fourth and fifth digits of the hands in association with postaxial polydactyly resulting in seven fingers bilaterally, fibular hypoplasia, postaxial polysyndactyly (cutaneous and osseous) of both feet, an imperforate anus, a recto-vaginal fistula, vaginal atresia, and a hypothalamic hamartoma."
+    }
+}

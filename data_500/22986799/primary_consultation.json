@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "42",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "nasal speech and progressive dysphagia",
+        "history_of_present_illness": "The 2 weeks before, she was treated with a total dose of 30 U onabotulinumtoxina (Botox) in the right axillary for hyperhidrosis. She did not report any neurological or systemic disorders.",
+        "past_medical_history": "Not specified",
+        "family_history": "Family history of neuromuscular disorders also was negative.",
+        "social_history": "She did not smoke, consume alcohol, or have any history of drug or substance abuse."
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "A noticeable weakness was present in her bulbar and upper limb muscles. The pupils, and the extraocular, neck, trunk, and lower limb muscles were clinically spared. Sensory examination and deep tendon reflexes were normal."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Abdominal Pain",
+        "history_of_present_illness": "Patient presented with a history of cholelithiasis/cholecystitis, bladder cancer s/p treatment, recurrent UTIs, CKD stage III, HTN, morbid obesity s/p gastric bypass, and dementia, with jaundice and c/f ascending cholangitis. Labs notable for Cr 1.5, AST 76, ALT 36, ALP 284, TB 8.1. Transferred to another facility due to new jaundice. Hospitalized recently for acute cholecystitis treated with Augmentin.",
+        "past_medical_history": "Bladder cancer s/p treatment, OSA, GERD, Osteoarthritis, HTN, BPH, Dementia, Depression, Morbid obesity.",
+        "family_history": "Noncontributory to presentation.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs - T98.9, HR 64, BP 102/48, SpO2 97% on RA. Alert and interactive, in no acute distress. Mildly icteric sclera.",
+        "specialty_examination": "Neurologic: Oriented to self and place (baseline). Cardiac: S1, S2, RRR, no m/r/g. Lungs: LCTAB, breathing comfortably on RA. Abdomen: Soft, NDNT."
+    }
+}

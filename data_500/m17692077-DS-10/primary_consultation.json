@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "back pain after fall off ladder",
+        "history_of_present_illness": "Mr. ___ is a ___ who fell approximately 6 feet off a ladder on ___. The patient did hit his head but denies any LOC. He noted immediate back pain and was subsequently brought to an OSH where a CT of his torso revealed a 3-column spine injury at the level of T11. The patient was subsequently transferred to ___ where he denied any numbness or tingling. He did endorse pain in his neck and thus was placed in a hard C-collar. The patient does not speak ___ and thus his history was obtained through the use of an interpreter and chart review. CT abdomen from OSH: 3-column spine injury at T11, acute compression fracture of T12.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "lives w/ friends and cousins works in ___"
+    },
+    "physical_examination": {
+        "general_examination": "Lying flat in bed, NAD. - Tender to palpation in the cervical and low thoracic regions. Vital signs: Not specified.",
+        "specialty_examination": "Motor: L 5 ___ ___ 5 * 4* 4* 5 5 R 5 ___ ___ 5 * 4* 4* 5 5 *Limited by pain. Sensory: Sensory UE C5 (Ax) R nl, L nl C6 (MC) R nl, L nl C7 (Mid finger) R nl, L nl C8 (MACN) R nl, L nl T1 (MBCN) R nl, L nl T2-L2 Trunk R nl, L nl. DTRs: Bi Tri ___ Pat Ach L 2 2 2 2 2 R 2 2 2 2 2 ___: neg Babinski: downgoing Clonus: none Perianal sensation: intact Rectal tone: intact."
+    }
+}

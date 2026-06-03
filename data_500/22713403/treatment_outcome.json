@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "behavioral therapy",
+            "specific_treatment": "spelling therapy (phoneme-to-grapheme conversion training)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "30 English sounds divided into 3 sets, 10 phonemes per set, 1-2 hours per session, approximately one session per week",
+            "treatment_response": "Both participants learned all three training sets of phoneme-grapheme associations and reached criterion in all of them in fewer sessions. WCR showed generalization to untrained tasks and maintained gains at 6-month follow-up. FSE showed improvement but could not be tested long-term due to cognitive decline."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Baseline evaluation before each therapy session"
+        },
+        {
+            "date": "Not specified",
+            "event": "Training of phoneme-grapheme associations in 3 sets"
+        },
+        {
+            "date": "Not specified",
+            "event": "Follow-up assessment for WCR at 6 months post-therapy"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "WCR: Improved spelling and maintained gains at 6-month follow-up. FSE: Showed improvement but could not be tested long-term due to cognitive decline.",
+        "follow_up_details": "WCR had a 6-month follow-up session. FSE could not be tested due to cognitive decline.",
+        "complications": "No complications mentioned",
+        "long_term_prognosis": "WCR: Good maintenance of learned phoneme-grapheme conversion. FSE: Not specified due to inability to test long-term.",
+        "recovery_timeline": "WCR completed training in 25 sessions. FSE completed training in 11 sessions.",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

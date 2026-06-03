@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "Symptoms were gradually resolved, and 3 months after the injection, she was in a good health condition without any residual symptoms.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Report notes resolution of symptoms with no residual issues at follow-up.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "She was admitted 4 days later during a follow-up because of dyspnea."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "In the hospital, we started Mestinon (pyridostigmine) 60 mg twice a day, continued for 2 months."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Symptoms were gradually resolved, and 3 months after the injection, she was in good health without residual symptoms."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "At 3 months she was in good health without residual symptoms, indicating functional recovery."
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "The source describes two cases; this summary pertains to Case 1 (42-year-old woman). Long-term follow-up beyond 3 months is not provided, so quality of life classifications reflect the latest documented status."
+}

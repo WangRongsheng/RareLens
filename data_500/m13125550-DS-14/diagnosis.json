@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Bilateral pulmonary emboli",
+        "differential_diagnosis": "Cardiac syncope from sick sinus syndrome",
+        "diagnostic_reasoning": "The diagnosis of bilateral pulmonary emboli was confirmed by CTA chest imaging, which demonstrated emboli involving the bifurcation of the right main pulmonary artery and segmental branches. The patient presented with symptoms including syncope, hypoxia, and hypotension, which suggested possible cardiac involvement, initially leading to consideration of cardiac syncope. However, the imaging findings ultimately indicated pulmonary emboli as the primary diagnosis. Other causes were ruled out through negative troponin tests and imaging studies."
+    }
+}

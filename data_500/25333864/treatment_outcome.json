@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "sodium valproate, clonazepam, acetazolamide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Markedly decreased continuous spikes and waves (CSW), ESES was controlled in 4 months, but spikes remained in the left occipital region."
+        },
+        {
+            "treatment_type": "educational intervention",
+            "specific_treatment": "reinforcement of memorization of Kanjis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Describing out loud how the strokes are made while writing each Kanji, and construction of Kanjis using the radicals.",
+            "treatment_response": "Kanji dysgraphia ameliorated gradually several years after CSW was controlled, but the patient remained weak in his ability to write Kanji at high school."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Onset of generalized tonic-clonic seizures during sleep and increased errors in Kanji writing tests."
+        },
+        {
+            "date": "Not specified",
+            "event": "Admission for detailed work-up, overnight EEG showed generalized 1-2-Hz CSW dominant in the occipito-temporal region."
+        },
+        {
+            "date": "Not specified",
+            "event": "Treatment with sodium valproate, clonazepam, and acetazolamide started."
+        },
+        {
+            "date": "Not specified",
+            "event": "ESES controlled in 4 months, but spikes remained in the left occipital region."
+        },
+        {
+            "date": "16 years of age",
+            "event": "EEG was normalized, and clinical seizure and epileptic discharge did not recur even without antiepileptic drugs."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "EEG was normalized, and clinical seizure and epileptic discharge did not recur even without antiepileptic drugs. Kanji dysgraphia ameliorated gradually several years after CSW was controlled, but the patient remained weak in his ability to write Kanji at high school.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Several years after CSW was controlled for Kanji dysgraphia to ameliorate.",
+        "quality_of_life": "Remained weak in his ability to write Kanji at high school.",
+        "patient_perspective": "Not specified"
+    }
+}

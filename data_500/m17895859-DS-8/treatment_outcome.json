@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "methylprednisolone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Administered IV 20 mg every 8 hours",
+            "treatment_response": "Symptoms improved"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg daily for 7 days, then taper",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lialda (mesalamine)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.4 grams oral twice daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Docusate Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Polyethylene Glycol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "17 g PO BID as needed for constipation",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Initial treatment for UC flare started"
+        },
+        {
+            "date": "Not specified",
+            "event": "IV methylprednisolone administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Prednisone taper started"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications provided"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved, discharged home",
+        "follow_up_details": "Follow up with Gastroenterologist to determine remainder of steroid course",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient’s symptoms improved since receiving treatment"
+    }
+}

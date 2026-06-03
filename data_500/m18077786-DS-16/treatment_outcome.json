@@ -1,0 +1,95 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Exploratory laparotomy, lysis of adhesions, small bowel resection",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Exploratory laparotomy, small bowel resection x2 with primary anastomosis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Azithromycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lorazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Rituximab",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "675 mg Intravenous once a week for 3 doses",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "80 mg once a day",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with upper/lower extremity weakness and parasthesias"
+        },
+        {
+            "date": "Not specified",
+            "event": "Exploratory laparotomy and small bowel resection performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient treated with Ceftriaxone, Azithromycin, and Lorazepam in ED"
+        },
+        {
+            "date": "Not specified",
+            "event": "Sural nerve biopsy performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Diagnosed with ANCA vasculitis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Rituximab and Prednisone"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Out of bed with assistance to chair or wheelchair",
+        "follow_up_details": "Not specified",
+        "complications": "Development of a small bowel obstruction, which was surgically repaired",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

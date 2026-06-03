@@ -1,0 +1,53 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "Restaging and subsequent CT showed recurrence and interval progression with worsening ascites and diffuse peritoneal/omental disease; developed malignant gastric outlet obstruction requiring duodenal stent and had a pulmonary embolism.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Large volume ascites (required paracentesis; abdomen mildly distended at discharge) and need for soft diet after duodenal stent indicate ongoing but manageable symptoms.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "CT scan showed interval progression with worsening ascites and diffuse peritoneal enhancement/progression of omental and peritoneal disease."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "CTA chest revealed subsegmental pulmonary emboli; anticoagulation initiated (heparin, then enoxaparin)."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "EGD found malignant intrinsic short stenosis in the first part of the duodenum; duodenal stent was placed."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Paracentesis performed with removal of 2.5 L ascitic fluid."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "After stent placement, advised soft diet to allow passage of food; paracentesis improved discomfort."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At discharge, Activity Status: Ambulatory - Independent."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "unknown",
+            "evidence_excerpt": "Adjuvant gemcitabine held due to concern for pulmonary toxicity (restrictive ventilatory defect/interstitial process on PFTs)."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "unknown",
+            "evidence_excerpt": "Restaging showed recurrence of cholangiocarcinoma with peritoneal spread (omental nodularity, elevated marker)."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Many dates are redacted, so time periods are approximated relative to initial diagnosis. Long-term classification is based on documented progression and complications; no post-discharge follow-up details available. Functional status and symptom burden are inferred from discharge status and persistent disease findings."
+}

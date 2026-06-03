@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ciprofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "7 days of ciprofloxacin",
+            "treatment_response": "Completed 6 days of ciprofloxacin with no recurrence of symptoms"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Furosemide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg Tablet, one Tablet PO daily",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient underwent Segment III liver wedge resection for hepatocellular carcinoma"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged home after surgery"
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted to outside hospital with urinary symptoms and diagnosed with UTI"
+        },
+        {
+            "date": "Not specified",
+            "event": "Began treatment with ciprofloxacin for UTI"
+        },
+        {
+            "date": "Not specified",
+            "event": "Completed 6 days of ciprofloxacin"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged home with medication instructions including furosemide"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient is currently stable, appetite improved, bowel movements normal",
+        "follow_up_details": "Patient advised to weigh daily and report significant weight changes",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient's wife states increased abdomen girth and fatigue, but patient minimizes these complaints",
+        "patient_perspective": "Patient appears well but reports some complaints of fatigue and swelling"
+    }
+}

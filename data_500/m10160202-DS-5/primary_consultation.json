@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "___",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hypoxia",
+        "history_of_present_illness": "___ year old male with history of hypertension, hyperlipidemia, diabetes mellitus type 2, and peripheral vascular disease who presents from his PCP's office with hypoxia. At Dr. ___ ___, the patient was noted to be hypoxic to 90% on room air and then 77% with ambulation. This was a routine appointment and patient denied any symptoms although may be a poor historian given advanced Alzheimer's disease. The patient was seen recently (___) working with physical therapy and noted to be hypertensive (184/92) and desaturating to 88% at rest. His amlodipine was restarted (stopped in ___ for low blood pressures), and simvastatin was switched to lipitor. Initial vitals in the ED were T97.6, P65, BP81/56, R20, O2 sat 100% 2L NC. Chest X-ray initially demonstrated left basilar pneumonia but the final read was negative for pneumonia. Blood cultures were drawn.",
+        "past_medical_history": "1. Hypertension. 2. Hyperlipidemia. 3. Diabetes. 4. Obesity. 5. Ongoing tobacco abuse. 6. History of hyponatremia. 7. Cardiovascular disease, stable. 8. Peripheral vascular disease, right renal artery stenosis with preserved renal function and controlled hypertension. 9. Peripheral vascular disease of lower extremities, moderate to severe. 10. Aortic stenosis, normal EF (reportedly). 11. Gout.",
+        "family_history": "Denies early coronary artery disease or stroke.",
+        "social_history": "Ongoing tobacco abuse."
+    },
+    "physical_examination": {
+        "general_examination": "Admission exam: Vitals: T: 98.2 BP: 149/80 P: 80 R: 18 O2: 94-96% on RA at rest, 79% on RA with ambulation. General: pleasant elderly man, alert, oriented to self, lying comfortably in bed, no acute distress.",
+        "specialty_examination": "Lungs: diminished BS throughout, but CTAB w/o wheezes, rales, ronchi. CV: II/VI crescendo-decrescendo murmur loudest at RUSB, RRR, normal S1 + S2."
+    }
+}

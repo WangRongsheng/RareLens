@@ -1,0 +1,111 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Fluticasone-Salmeterol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Disk with Device Inhalation BID (2 times a day)",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Cholestyramine-Sucrose",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.25 Packet PO BID (2 times a day)",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lorazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO HS (at bedtime) as needed for insomnia/anxiety",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Methocarbamol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO Q6H (every 6 hours) as needed for spasm/pain",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Omeprazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily)",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Zolpidem",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Two (2) Tablet PO HS (at bedtime)",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "___ Tablets PO Q6H (every 6 hours) as needed for pain",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Trifluoperazine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO TID (3 times a day) as needed for anxiety",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Docusate Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Capsule PO BID (2 times a day)",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Senna",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO BID (2 times a day) as needed for constipation",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with abdominal pain and vomiting"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT scan showed mechanical small bowel obstruction"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications prescribed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge after condition improved"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged in stable condition",
+        "follow_up_details": "Follow up with surgeon and Primary Care Provider (PCP) as advised",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

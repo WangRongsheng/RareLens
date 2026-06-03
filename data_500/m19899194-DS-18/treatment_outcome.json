@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Alfuzosin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg Tablet Sustained Release daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Amiodarone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "400 mg Tablet 1 Tablet(s) by mouth three times a day Take TID x 1 week then BID for 2 weeks then decrease to QD",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Morphine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 mg IV",
+            "treatment_response": "Provided relief of chest pain"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Nitroglycerin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.4 mg Tablet, Sublingual PRN",
+            "treatment_response": "Provided relief of chest pain"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with chest pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient administered NTG with relief of pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "In ED, given morphine 2 mg IV for chest pain relief"
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted to cardiology service for further management"
+        },
+        {
+            "date": "Not specified",
+            "event": "Pain free without shortness of breath noted on the floor"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Good. Chest pain free for 24 hours.",
+        "follow_up_details": "Cardiac catheterization scheduled next week.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

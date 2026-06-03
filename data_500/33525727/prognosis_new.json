@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "The fistula was successfully treated and the patient was hemodynamically stabilized; however, the patient died of pneumonia and sepsis two months after the procedure.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Initial massive bleeding required TEVAR; despite immediate stabilization, he developed pneumonia and sepsis and died two months later, indicating severe illness during follow-up.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "After TEVAR and left subclavian artery coiling, the fistula was successfully treated and the patient was hemodynamically stabilized."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Two months after the procedure, the patient developed pneumonia and sepsis."
+        },
+        {
+            "event_type": "death",
+            "time_period": "mid_term",
+            "evidence_excerpt": "The patient died of pneumonia and sepsis two months after the procedure."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The exact date of diagnosis was not provided; the index time was taken as the second hospital visit when CT/angiography confirmed ALSA–esophageal fistula and treatment (TEVAR/coiling) was planned. Functional status after treatment was not explicitly described; severe impairment was inferred from the persistent bed-ridden baseline and absence of documented improvement before death."
+}

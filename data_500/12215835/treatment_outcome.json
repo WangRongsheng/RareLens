@@ -1,0 +1,27 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "Not specified",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "No treatment timeline specified"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "The symptoms become less severe with age and the long-term prognosis for vision is good.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Good long-term prognosis for vision",
+        "recovery_timeline": "Symptoms become less severe with age",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

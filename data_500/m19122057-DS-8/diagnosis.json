@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Atrial Fibrillation",
+        "differential_diagnosis": "Sinus Node Dysfunction",
+        "diagnostic_reasoning": "The patient presented with dizziness, presyncope, and EKG findings showing significant bradycardia and sinus pauses, which led to concern for possible hyperkalemia; however, potassium levels were normal. On arrival for electrophysiology evaluation, the patient was noted to have atrial flutter. The final diagnosis of atrial fibrillation was supported by the abnormal heart rhythm observed during monitoring."
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "bisoprolol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.5 mg",
+            "treatment_response": "Discontinued due to side effects (asthenia and constipation)"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "flecainide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 mg/kg initially, then 100 mg twice a day",
+            "treatment_response": "Suppressed arrhythmia and restored sinus rhythm. Marked reduction in ventricular arrhythmias. Prolonged QT interval, prolonged terminal portion of the T-wave descending, and large U-wave observed."
+        },
+        {
+            "treatment_type": "supplement",
+            "specific_treatment": "potassium supplementation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "subcutaneous cardiac defibrillator implantation (s-ICD)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No new arrhythmic events recorded during 18-month follow-up"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Beta-blockers (bisoprolol 2.5 mg) discontinued due to side effects"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administration of flecainide (2 mg/kg) suppressed arrhythmia and restored sinus rhythm"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged on oral flecainide 100 mg twice a day and potassium supplementation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Over 2-year follow-up on flecainide (100 mg b.i.d.), patient led an active life with no significant weakness or palpitations"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient suffered a non-fatal cardiac arrest with documented ventricular fibrillation, resuscitated by external cardiac massage and defibrillation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent subcutaneous cardiac defibrillator implantation (s-ICD)"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "No new arrhythmic events recorded during 18-month follow-up",
+        "follow_up_details": "18-month follow-up after s-ICD implantation",
+        "complications": "Neurological sequelae after cardiac arrest",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient led an active life with no significant weakness or palpitations during 2-year follow-up on flecainide",
+        "patient_perspective": "Not specified"
+    }
+}

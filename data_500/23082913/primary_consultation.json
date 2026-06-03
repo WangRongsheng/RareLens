@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "8 months",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "weakness in both ankles and toes that had been progressing since birth",
+        "history_of_present_illness": "Neurological examination revealed decreased motor power of MRC Grade 1/5 and sensory impairment in both ankles and toes. A nerve conduction study revealed no evidence of peripheral neuropathy. Magnetic resonance imaging of the whole spine showed a large cystic and solid mass that extended from the midthoracic to sacral levels, compressing the spinal cord.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Neurological examination revealed decreased motor power of MRC Grade 1/5 and sensory impairment in both ankles and toes."
+    }
+}

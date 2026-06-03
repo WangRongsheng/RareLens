@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "Postnatally at 4 months, left Achilles tenotomy and right toe release were performed; at 18 months the infant was able to walk with normal lower extremity function.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Serial follow-up documented resolution of edema and normal movements of both feet; long-term report notes normal lower extremity function.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Five days after fetoscopic lysis, limb edema appeared reduced, distal blood flow was documented, and active movements were observed."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Postnatally at 4 months: left Achilles tenotomy and plastic surgery; right toe release."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 18 months, the infant was able to walk with normal lower extremity function."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Summary corresponds to Case 1 in the provided series. Index time approximated as the initial diagnosis at 18 weeks’ gestation. Long-term outcome inferred from the 18-month follow-up reporting normal lower extremity function."
+}

@@ -1,0 +1,111 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "TraMADOL (Ultram)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg PO Q4H: PRN pain",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Docusate Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "81 mg PO DAILY",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "MetFORMIN (Glucophage)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1000 mg PO DAILY",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metoprolol Succinate XL",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "25 mg PO DAILY",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Simvastatin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "80 mg PO DAILY",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lisinopril",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO DAILY",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Tradjenta (linagliptin)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg oral DAILY",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Latanoprost",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.005% Ophth. Soln. 1 DROP BOTH EYES HS",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Dorzolamide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2% Ophth. Soln. 1 DROP BOTH EYES TID",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient suffered a mechanical fall resulting in rib fractures."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient admitted to the hospital."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on pain management with TraMADOL."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with medications and follow-up instructions."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable and ambulatory.",
+        "follow_up_details": "Follow up in the Acute Care Surgery clinic.",
+        "complications": "Pneumonia is a potential complication due to rib fractures.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

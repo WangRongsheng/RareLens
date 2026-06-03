@@ -1,0 +1,94 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Seizures",
+        "history_of_present_illness": "Mr. ___ is a ___ y.o. man with h/o refractory CLL on Ibrutinib, HTN, HLD, and 3-vessel CAD s/p CABG, recently admitted for new onset of right sided seizures, presents from clinic for recurrent episodes of seizures and bilateral hands tremor. Patient was found to have multiple brain lesions on MRI concerning for CSF involvement of CLL. CSF analysis did not show any malignant cells. Patient discharged on Keppra 1000 mg BID awaiting date for brain biopsy. Reports recurrent seizure activities ~3 times since discharge and shakiness. Tremor occurs upon extending arms or fine movements. Subjective weakness in shoulders, neck, and arms.",
+        "past_medical_history": "NSTEMI, Syncope, Hypertension, Hyperlipidemia, CLL, CAD s/p CABG, Skin cancer s/p resection, Intermittent hematuria, Hyperuricemia, BPH, Prior rectal bleeding d/t hemorrhoids. Past Surgical History: Bilateral knee arthroscopy, Resection of pilonidal cyst.",
+        "family_history": "Premature coronary artery disease in father who died from an MI at age ___. Brother with coronary stenting in his mid ___.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "ON ADMISSION: Vitals: Tc 98.7 Tm 98.7 BP 98-122/58-60 RR 18 SaO2 98% RA. Gen: Pleasant, calm, in no acute distress. NEURO: A&Ox3 CN intact; sensory function intact; motor strength ___ in left upper extremity, ___ in right extremity, ___ in lower extremities. Cerebellar exam notable for abnormal rapid alternating movement on right side and tremor upon extending arms in both hands (left>right).",
+        "specialty_examination": "No gait instability. Exam notable for high frequency low amplitude intention tremor."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Basic metabolic panel",
+            "date": "Not specified",
+            "findings": "Urea N-18, Creat-0.9, Sodium-142, Potassium-3.7, Chloride-107, Total CO2-24, Anion gap-15",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "ALT(SGPT)-48 (outside normal range), AST(SGOT)-26, LD(LDH)-250, Alk Phos-108, Total Bilirubin-0.3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Comprehensive metabolic panel",
+            "date": "Not specified",
+            "findings": "Total Protein-5.4 (outside normal range), Albumin-3.5, Globulin-1.9 (outside normal range), Calcium-8.8, Phosphate-2.9, Magnesium-2.0",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete blood count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC-1.0 (outside normal range), RBC-2.50 (outside normal range), HGB-8.3 (outside normal range), HCT-25.4 (outside normal range), MCV-102 (outside normal range), MCH-33.2, MCHC-32.7, RDW-18.7 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow immunophenotyping",
+            "date": "Not specified",
+            "findings": "10-color analysis shows 82% CD45-bright low side-scatter gated lymphocytes; B cells with monoclonal kappa light chain restricted population, consistent with CLL.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI brain",
+            "date": "Not specified",
+            "findings": "Multiple nonenhancing supratentorial subcortical FLAIR hyperintense areas; further progression of existing lesions.",
+            "changes_over_time": "Increase in size of right frontal centrum semiovale lesion from 3.8 x 3.0 cm to 3.7 x 5.0 cm."
+        },
+        {
+            "procedure_name": "CT scan of head",
+            "date": "Not specified",
+            "findings": "Expected postsurgical changes from right frontal approach stereotactic brain biopsy with small focus of hemorrhage at the biopsy bed.",
+            "changes_over_time": "Compared with previous CT head, no change in postsurgical changes."
+        },
+        {
+            "procedure_name": "X-ray of right ribs",
+            "date": "Not specified",
+            "findings": "Fractures of right fourth, sixth, and seventh ribs with no significant displacement.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Abnormal continuous video EEG monitoring with intermittent focal irregular delta/theta slowing in the right central region; no electrographic seizures.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "CSF profiles negative for multiple viral infections; cytogenetics show abnormal findings consistent with previous bone marrow analysis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain biopsy",
+            "date": "Not specified",
+            "findings": "Lymphocytic encephalitis; no diagnostic features of lymphoma.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

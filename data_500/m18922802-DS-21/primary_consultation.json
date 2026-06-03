@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "chest pain",
+        "history_of_present_illness": "Patient presents to the ED complaining of new bilateral chest pain located underneath her breasts for 1 day. Pain is constant and severe, described as sharp, non-radiating and worse with deep breaths. Patient also endorses mild shortness of breath and nausea with a history of weight loss since stopping chemotherapy.",
+        "past_medical_history": "Significant history of coronary artery disease with inferior STEMI s/p bare metal stent to RCA. History of locally advanced pancreatic adenocarcinoma, with multiple treatments including gemcitabine and CyberKnife radiotherapy. Previous episodes of pancreatitis and hypoxemia secondary to pulmonary embolism versus gemcitabine lung toxicity.",
+        "family_history": "No known family history of pancreatic cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: Temp 97.0, BP 140/66, HR 60, RR 18, O2 Sat 100% on 3L NC. Patient appears alert, no acute distress, thin.",
+        "specialty_examination": "Neurological: Cranial nerves grossly intact, no focal deficits. Cardiovascular: Heart sounds S1, S2; no peripheral edema. Pulmonary: Clear bilaterally. Abdominal examination soft with mild tenderness in upper quadrants."
+    }
+}

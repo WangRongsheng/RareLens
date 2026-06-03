@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "reports feeling he will jump off a bridge",
+        "history_of_present_illness": "Mr. ___ is a ___ M with a medical history notable for heroin abuse and multiple previous suicide attempts. He presented to the ED today with report of wanting to jump off a bridge. He also reports recently breaking up with his girlfriend. He currently denies homicidal ideation. He reports his last alcoholic drink was last night. He also reports having alcohol withdrawal seizures in the past. He reports recent nausea without vomiting.",
+        "past_medical_history": "- Hepatitis C\n- History of endocarditis",
+        "family_history": "Mother was 'crazy' and had 'temper' problems. Multiple uncles with substance abuse issues.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: 97.6 114/72 86 20 98%RA; Drowsy (which he attributes to valium), but oriented to person, place, and situation; guarded",
+        "specialty_examination": "CV: regular rate and rhythm, no murmurs/gallops/rubs; PULM: clear to auscultation bilaterally, no rales/crackles/rhonchi; GI: soft, non-tender, non-distended; no guarding/rebound; EXT: no clubbing/cyanosis/edema; 2+ distal pulses; peripheral IV present; NEURO: CN II-XII intact"
+    }
+}

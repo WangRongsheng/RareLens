@@ -1,0 +1,111 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Exploratory laparotomy, washout, ABThera sponge, vac placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Reexploration of abdomen with abdominal closure, vac placement; intraoperative liver biopsy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "CT-guided placement of pigtail catheter into left upper abdominal collection",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "CT-guided placement of pigtail catheter into collection",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vancomycin and Zosyn",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "antibiotic",
+            "specific_treatment": "Daptomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "450 mg IV 2X/WEEK, 650 mg IV 1X/WEEK",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "antibiotic",
+            "specific_treatment": "Ertapenem Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 g IV Daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "antifungal",
+            "specific_treatment": "Micafungin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg IV Q24H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg PO Daily for 7 Days",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Exploratory laparotomy, washout, ABThera sponge placement performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Reexploration of abdomen with abdominal closure and vac placement performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT-guided placement of pigtail catheter into left upper abdominal collection"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT-guided placement of pigtail catheter into collection"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered Vancomycin and Zosyn"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications include Daptomycin, Ertapenem, Micafungin, Prednisone"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Follow up arranged with Dr. ___",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Mental status clear and coherent, alert and interactive",
+        "patient_perspective": "Not specified"
+    }
+}

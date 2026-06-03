@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hypotension",
+        "history_of_present_illness": "Patient with past medical history of hypertension, mild aortic stenosis, depression, B12 deficiency, obstructive sleep apnea, and morbid obesity who is being sent from her outpatient clinic visit for hypotension. Last week, her OT took her blood pressure and found her SBP to be in the ___. Patient was asymptomatic. In the ED: Initial vital signs were notable for: Temperature 96.5, HR 65, BP 72/49, RR 16, O2 sat 95% on room air. Overall, she appears to be asymptomatic. Her blood pressures were rechecked in her lower extremity, and were found to be in the 90's systolic.",
+        "past_medical_history": "1. depression 2. morbid obesity: referred to gastric bypass program 3. chronic urinary incontinence (overactive) 4. hyperlipidemia 5. tension/migraine headaches 6. chronic insomnia 7. knee degenerative disease s/p TKA 8. HTN",
+        "family_history": "Diabetes mellitus in both parents.",
+        "social_history": "Patient states that she drinks a 64 oz bottle of Ocean Spray daily. She has lost 10 pounds intentionally in hopes of becoming eligible for bariatric surgery. She lives in her own apartment in an elderly housing complex."
+    },
+    "physical_examination": {
+        "general_examination": "Initial vital signs: Temperature 96.5, HR 65, BP 72/49, RR 16, O2 sat 95% on room air. Exam notable for: morbid obesity, mentating appropriately.",
+        "specialty_examination": "Cardiac: Distant heart sounds. Regular rhythm and rate. Harsh holosystolic murmur best heard at the LUSB. Neurologic: CN2-12 intact. Normal sensation. AOx3."
+    }
+}

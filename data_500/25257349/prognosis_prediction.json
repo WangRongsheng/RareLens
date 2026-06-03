@@ -1,0 +1,113 @@
+{
+    "basic_information": {
+        "age": "32",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Japanese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Thrombocytopenia detected during treatment for neonatal jaundice",
+        "history_of_present_illness": "Thrombocytopenia persisted, with a platelet count ranging from 1.7 x 10^9/L to 16.2 x 10^9/L. Waddling gait began in middle adolescence and muscle weakness gradually progressed, particularly in the proximal lower limbs. At the age of 20 years, proximal muscle weakness was noted, particularly in the neck flexor and iliopsoas. Serum creatine kinase levels ranged from 300 to 600 IU/L. Muscle biopsy showed increased rimmed vacuoles in approximately 1% of myofibers. He has been wheelchair-bound since the age of 24 years.",
+        "past_medical_history": "Proteinuria and hematuria detected at the age of 7 years, progressed to chronic renal failure requiring periodic dialysis therapy. Mildly decreased cardiac function accompanied by mitral insufficiency from the age of 22 years.",
+        "family_history": "Parents and other family members have no medical history of hematological or neuromuscular disorders.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Neurological examination at the age of 20 years showed proximal muscle weakness, particularly in the neck flexor and iliopsoas."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "Ranging from 1.7 x 10^9/L to 16.2 x 10^9/L (Patient 1), 1.1 x 10^9/L to 9.0 x 10^9/L (Patient 2)",
+            "changes_over_time": "Persistent thrombocytopenia since infancy"
+        },
+        {
+            "procedure_name": "Bone marrow examination",
+            "date": "Age of 8 years (Patient 1), Age of 5 years (Patient 2)",
+            "findings": "Megakaryocytes morphologically normal and increased in number (281/mm3 in Patient 1), normal in number and morphology (Patient 2)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mean platelet volume",
+            "date": "Not specified",
+            "findings": "10–11 fL (Patient 1), 10–13 fL (Patient 2)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet-associated IgG (PAIgG)",
+            "date": "Not specified",
+            "findings": "Elevated (207.3 ng/10^7 cells in Patient 1, 119 ng/10^7 cells in Patient 2)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "von Willebrand factor activity",
+            "date": "Not specified",
+            "findings": "Within normal range (Patient 1)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum creatine kinase",
+            "date": "Not specified",
+            "findings": "300 to 600 IU/L (Patient 1), 360 IU/L (Patient 2)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Exome sequencing",
+            "date": "Not specified",
+            "findings": "Identified compound heterozygous variants in FLNB and GNE",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Array CGH",
+            "date": "Not specified",
+            "findings": "Revealed three regions with recessively inherited deletions of genomic copy number",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Muscle imaging",
+            "date": "Age of 23 years (Patient 2)",
+            "findings": "Remarkable atrophy in the paraspinal muscles and moderate patchy atrophy in the adductor magnus, soleus and tibialis posterior muscles",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Kidney biopsy",
+            "date": "Age of 7 years (Patient 1)",
+            "findings": "Atypical membranoproliferative glomerulonephritis",
+            "changes_over_time": "Progressed to chronic renal failure requiring periodic dialysis therapy"
+        },
+        {
+            "procedure_name": "Muscle biopsy",
+            "date": "Not specified",
+            "findings": "Increased rimmed vacuoles in approximately 1% of myofibers, located predominantly in atrophic fibers. Necrotic and regenerating fibers were rare, and no inflammatory cellular infiltration was observed",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic testing for GNE",
+            "date": "Not specified",
+            "findings": "Identified two missense mutations: c.1807G > C; p.V603L and c.2215G > A; p.G739S",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "GNE myopathy associated with congenital thrombocytopenia",
+        "diagnostic_reasoning": "The diagnosis was based on the presence of myopathy with rimmed vacuoles and congenital thrombocytopenia in two siblings, confirmed by genetic testing which identified compound heterozygous GNE mutations (p.V603L and p.G739S). The thrombocytopenia was characterized by shortened platelet lifetime and elevated platelet-associated IgG (PAIgG). Exome sequencing and array CGH did not identify pathogenic variants in known genes for thrombocytopenia, suggesting the thrombocytopenia may be associated with the GNE mutations and resultant hyposialylation of platelets."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "Not specified",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

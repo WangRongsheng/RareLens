@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Zosyn",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Preventative, administered at 2204",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "procedure",
+            "specific_treatment": "Intubation",
+            "start_date": "Not specified",
+            "end_date": "Extubated later that day",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Extubated without complications"
+        },
+        {
+            "treatment_type": "procedure",
+            "specific_treatment": "NGT decompression",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Symptoms resolved"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with severe abdominal pain and was found to have an obstructive bile duct."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient intubated for airway protection."
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered Zosyn."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient extubated without complications."
+        },
+        {
+            "date": "Not specified",
+            "event": "Symptoms resolved with NGT decompression."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient transferred to the Medicine floor."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable with resolved symptoms.",
+        "follow_up_details": "Further evaluation at the Liver Tumor Conference next week.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Further evaluation needed; potential for recurrence of cholangitis.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Not specified."
+    }
+}

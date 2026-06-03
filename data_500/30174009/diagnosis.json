@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Bartter syndrome type IV",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis was based on the identification of two novel homozygous missense mutations (p.Arg8Gly and p.Thr36Asn) in the BSND gene, which encodes barttin, a subunit of ClC-Kb and ClC-Ka channels. These mutations were found in patients presenting with hypokalemia, hyperuricaemia, metabolic alkalosis, high levels of plasmatic renin and aldosterone, and sensorineural deafness, which are characteristic clinical symptoms of Bartter syndrome type IV. The pathogenic effect of these mutations was supported by bioinformatics tools (PolyPhen-2 and SIFT) and the conservation of the affected residues across species."
+    }
+}

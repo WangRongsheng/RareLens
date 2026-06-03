@@ -1,0 +1,35 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "lethargy, fevers",
+        "history_of_present_illness": "Patient presented with lethargy, subjective fever, and nonproductive cough that started today. She experienced chills while in USOH, with associated subjective fever, urinary frequency, and occasional shortness of breath. Denies headache, sore throat, nasal congestion, abdominal pain, nausea, vomiting, or diarrhea. In ED, initial vital signs: Temp 102°F, BP 139/50, HR 78, RR 18, O2 saturation 100% on room air. WBC 27. UA showed 22 WBC. CXR was within normal limits. Given 1 gm of ceftriaxone and admitted. Current status is improved but still fatigued.",
+        "past_medical_history": [
+            "Hypertension (HTN)",
+            "Hyperlipidemia (HL)",
+            "Asthma (triggers include smoke)",
+            "Diabetes Mellitus (DM)",
+            "Seizures since meningioma diagnosis and resection",
+            "Gastroesophageal reflux disease (GERD)",
+            "Cataract surgery in both eyes",
+            "Cerebrovascular accident (CVA) with residual right-sided weakness"
+        ],
+        "family_history": "No history of seizures, brain tumors, strokes, or aneurysms. Multiple family members with diabetes mellitus.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "On admission, vital signs: Temp 98.1°F, BP 124/53, HR 67, RR 16, O2 saturation 94% on room air. Patient well-appearing, in no acute distress.",
+        "specialty_examination": {
+            "neurological": "Awake, A&Ox3, cranial nerves II-XII grossly intact, muscle strength and sensation intact throughout.",
+            "cardiovascular": "PMI non-displaced, regular rate and rhythm, soft systolic ejection murmur, no notable gallops, normal S1 and S2.",
+            "respiratory": "Clear to auscultation bilaterally, no rales, rhonchi, or wheezes, good air movement, respiratory efforts unlabored, no accessory muscle use."
+        }
+    }
+}

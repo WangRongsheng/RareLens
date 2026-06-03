@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "70.1 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "chest pain; fever; fatigue/weakness",
+        "history_of_present_illness": "Mr. ___ presented to the emergency room complaining of knee pain, chest pain, fatigue, weakness, and fever at home (his wife said he had a fever of either 100.3 or 103, unclear). He experienced a mechanical fall two days prior to presenting to the ED. He reported that his knee has been swollen and painful. He had seen his primary care physician the day prior to presentation to the ED with dyspnea and fever.",
+        "past_medical_history": "Chronic systolic/diastolic HF with EF 25%, s/p ICD implantation CAD s/p CABG ___ (4V LIMA-LAD, SVG-D1, SVG-D2, SVG-AM.), Atrial tachycardia, SSS s/p ___ dual chamber ICD ___, Diabetes Type I on insulin, PVD s/p right toe amputation, HLD, Labile hypertension on amlodipine and lisinopril, ESRD on HD MWF secondary to diabetes, OSA on CPAP intermittently, Prior ETOH abuse, Exudative pleural effusions, Chagas disease.",
+        "family_history": "Both parents and three brothers with DM.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: 98.4 PO 139/71 L Lying HR 62 RR 18 94% 2L FSBG 297. Patient appears fatigued, and is warm to touch. Able to answer questions in ___, oriented.",
+        "specialty_examination": "Neurological: A&Ox3, moving all 4 extremities with purpose. Cardiovascular: S1, S2. IV systolic murmur heard throughout. Lungs: Diminished, crackles at the bases. Extremities: There is a right sided AV fistula with some dressing, no significant erythema. + thrill, + bruit."
+    }
+}

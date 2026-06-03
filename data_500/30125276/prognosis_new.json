@@ -1,0 +1,24 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "At 6-month post-therapeutic follow-up, treatment was successful: no trypanosomes in blood or CSF, CSF WBC <5 cells/mm3, and his general clinical condition was normal.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "functional_status_evidence_excerpt": "Six months after treatment his general clinical condition was normal, indicating return to usual function.",
+        "symptom_burden": "none",
+        "symptom_burden_evidence_excerpt": "Six-month follow-up reported treatment success with no trypanosomes detected and normal clinical condition."
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Six months after therapy, no trypanosomes detected in blood or CSF."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Six-month follow-up noted his general clinical condition was normal."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Follow-up data are reported only up to 6 months after diagnosis; no information is available beyond 12 months. Species identification had some uncertainty (TgsGP PCR negative), but clinical course and tests supported HAT. Long-term outcomes beyond one year cannot be directly confirmed."
+}

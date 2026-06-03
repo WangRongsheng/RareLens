@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Shortness of breath",
+        "differential_diagnosis": "Atrial flutter, Microcytic anemia, Hypertension, Asthma, Type 2 diabetes mellitus",
+        "diagnostic_reasoning": "The patient was admitted due to shortness of breath, and stress cardiac imaging was suspicious of coronary artery disease. However, cardiac catheterization revealed no evidence of blockage, and the pressure in the heart was within normal limits. The definitive cause of the shortness of breath was unclear but thought to be related to being overweight and not taking deep breaths."
+    }
+}

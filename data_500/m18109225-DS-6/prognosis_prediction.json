@@ -1,0 +1,148 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Seizure",
+        "history_of_present_illness": "___ year-old mixed-handed man with glioma, at least grade 2 diagnosed ___ when he presented with seizures s/p 12 cycles of temozolomide. Patient developed cramps in the 'L hand' noticed by his mother. Continuous seizures reported today. Non-communicative during seizures, flexing R elbow, twitching R ankle, turning head to the left. No seizures reported since his diagnosis until now. Doses of Keppra were missed on day of presentation. Reported dyspnea on exertion for 4 months, no associated nausea or leg swelling, stable symptoms without deterioration.",
+        "past_medical_history": "Right great toenail removal s/p infection, wisdom teeth removed, Grade 2 glioma diagnosed in ___ when he developed seizures s/p bx and 12 cycles of temozolomide, seizures secondary to left frontal glioma.",
+        "family_history": "Mother, age ___, with hypothyroidism. Father, age ___, with asthma. Four healthy brothers. No family history of brain tumors or neurological conditions.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals - T97.8, BP 114/68, HR 70, RR 16, O2 Sat 98% RA. Patient was sleeping but arousable, oriented x3.",
+        "specialty_examination": "Neuro: II-XII largely intact, mild weakness noted on the right > left on evaluation of strength in upper/lower extremities; + dysmetria on the right, unsteady gait."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Urine color: Yellow, Appearance: Clear, Blood: Negative, Nitrite: Negative, Protein: Negative, Glucose: Negative, Ketone: Negative, Bilirubin: Negative, Urobilinogen: Negative, pH: 6.5, Leukocytes: Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "07:49 PM",
+            "findings": "Lactate: 1.0",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Comprehensive Metabolic Panel",
+            "date": "07:40 PM",
+            "findings": "Glucose: 114 (high), Urea Nitrogen: 13, Creatinine: 0.9, Sodium: 139, Potassium: 3.6, Chloride: 107, Total CO2: 25, Anion Gap: 11, AST: 16, ALT: 16, Alkaline Phosphatase: 55, Total Bilirubin: 0.5, Lipase: 43, Albumin: 4.4, Calcium: 8.4, Phosphate: 2.1 (low), Magnesium: 1.9",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "07:40 PM",
+            "findings": "WBC: 10.7, RBC: 5.01, Hemoglobin: 14.8, Hematocrit: 43.0, MCV: 86, MCH: 29.5, MCHC: 34.4, RDW: 11.8, Neutrophils: 79.7 (high), Lymphocytes: 11.2 (low), Monocytes: 3.3, Eosinophils: 4.7 (high), Basophils: 1.1, Platelet Count: 167, PTT: 28.5",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "06:00 AM",
+            "findings": "Glucose: 76, Urea Nitrogen: 15, Creatinine: 1.2, Sodium: 140, Potassium: 3.8, Chloride: 104, HCO3: 25, Anion Gap: 15",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "06:00 AM",
+            "findings": "Calcium: 9.3, Phosphorus: 4.5, Magnesium: 2.2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Valproate Level",
+            "date": "Not specified",
+            "findings": "Valproate: 109 (high)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "06:40 AM",
+            "findings": "WBC: 6.2, RBC: 5.31, Hemoglobin: 15.7, Hematocrit: 45.8, MCV: 86, MCH: 29.6, MCHC: 34.3, RDW: 12.3",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Head CT",
+            "date": "Admission",
+            "findings": "Subtle area of increased hypodensity in the left posterior frontal lobe, consistent with the patient's known glioma. No evidence of acute intracranial process.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Admission",
+            "findings": "Normal chest x-ray without evidence of pneumonia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI Head",
+            "date": "Not specified",
+            "findings": "Stable appearance of the lesion in the left frontoparietal region without enhancement. No evidence of acute hemorrhage or areas of abnormal enhancement. No midline shift or hydrocephalus.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [],
+    "diagnosis": {
+        "final_diagnosis": "Frontal Glioma Seizures",
+        "diagnostic_reasoning": "The patient has a known history of grade 2 glioma diagnosed when he developed seizures. The current presentation of seizures is consistent with his ongoing condition, particularly as he mistakenly missed doses of his anti-seizure medication (keppra), which likely contributed to the seizure activity."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Keppra",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO BID"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ativan",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "8mg administered in ER"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Versed",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4mg administered in ER"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Dilantin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 g administered prior to arrival"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lacosamide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO BID"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Divalproex",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1500 mg PO BID"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lorazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.5-1 mg PO Q4H PRN seizure"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Latissimus free flap to the left superficial temporal artery and vein, left autologous fat grafting, acellular dermal matrix AlloDerm reinforcement, split-thickness skin graft",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Surgical preparation of calvarial defect and excision of margin of wound for pathology; split-thickness skin graft, 15 cm x 3 inches",
+            "treatment_response": "Healing well"
+        },
+        {
+            "treatment_type": "radiation therapy",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Skin graft necrosed"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Removal of spindle cell tumor"
+        },
+        {
+            "date": "Not specified",
+            "event": "Initial skin graft performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Radiation treatment started"
+        },
+        {
+            "date": "Not specified",
+            "event": "Wide local advancement operation performed at outside hospital"
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgical procedures for defect reconstruction carried out"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Scalp flap/graft site healing well",
+        "follow_up_details": "Not specified",
+        "complications": "Necrosed skin graft and skin flaps",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Activity status: Ambulatory - Independent",
+        "patient_perspective": "Reports no fevers or chills, no drainage noted"
+    }
+}

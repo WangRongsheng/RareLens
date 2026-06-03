@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "indomethacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "surgical resection of the carotid body tumor",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Transient nerve palsy marked by numbness and drooping in the left lip, which had resolved by her 2-month follow-up"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to emergency department with severe left-sided headache"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT angiogram revealed left carotid body tumor"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on indomethacin"
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgical resection of the carotid body tumor performed"
+        },
+        {
+            "date": "2 months after surgery",
+            "event": "Transient nerve palsy resolved"
+        },
+        {
+            "date": "7 months after discharge",
+            "event": "Headache, photophobia, and other associated symptoms completely resolved"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Fully recovered",
+        "follow_up_details": "2-month follow-up after surgery",
+        "complications": "Transient nerve palsy marked by numbness and drooping in the left lip",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Symptoms resolved by 7 months after discharge",
+        "quality_of_life": "No relapse or need for medications",
+        "patient_perspective": "Not specified"
+    }
+}

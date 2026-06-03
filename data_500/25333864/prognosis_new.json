@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "ESES resolved with treatment (control within months to ~1 year), EEG normalized by age 16 with no seizure recurrence, but Kanji dysgraphia only ameliorated gradually and both patients \"remained weak in [the] ability to write Kanji at high school.\"",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Ongoing but improved cognitive symptom: Kanji writing remained weak at high school despite control of ESES and normalized EEG.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Patient 1: \"Four months were required to control ESES, although spikes remained in the left occipital region.\""
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Patient 2: \"Approximately one year was required to control ESES.\""
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Patient 2: After multiple ineffective agents, \"Adrenocorticotropic hormone treatment markedly decreased generalized CSW, and control of ESES was maintained by sodium valproate and clorazepate.\""
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Patient 1: \"At 16 years of age, EEG was normalized, and clinical seizure and epileptic discharge did not recur even without antiepileptic drugs.\""
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Patient 2: \"At 16 years of age, EEG was normalized, and clinical seizure and epileptic discharge did not recur with sodium valproate alone.\""
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Both patients: \"Kanji dysgraphia ameliorated gradually several years after CSW was controlled, but he remained weak in his ability to write Kanji at high school.\""
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Report describes two patients. Outcomes are summarized across both; precise dates are not provided. Index time is approximated as the time ESES was diagnosed by overnight EEG and treatment initiated. Long-term refers to follow-up into high school age (~years after diagnosis). No deaths or major complications were reported."
+}

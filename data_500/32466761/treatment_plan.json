@@ -1,0 +1,92 @@
+{
+    "basic_information": {
+        "age": "41",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Ataxic-spastic signs",
+        "history_of_present_illness": "Ataxic-spastic signs evident from the age of 15 years. Clinical evaluation before starting DHA supplementation (T0, 39 years) showed moderate spastic-ataxic gait, mild dysarthria, mild diffuse leg weakness and dysmetria, bilateral Babinski sign, pes cavus and hammertoes.",
+        "past_medical_history": "Not specified",
+        "family_history": "Neurologically-healthy father had died at the age of 40 of myocardial infarction linked to severe hypercholesterolemia.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Moderate spastic-ataxic gait, mild dysarthria, mild diffuse leg weakness and dysmetria, bilateral Babinski sign, pes cavus and hammertoes. Electroneurography showed severe sensorimotor axonal and demyelinating polyneuropathy. Brain MRI documented mild cerebellar atrophy, prominent in the cerebellar vermis, and hypointense stripes in the pons. Spine MRI was normal."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum low-density lipoprotein (LDL) and total cholesterol levels",
+            "date": "Before treatment (T0) and after 20 months of treatment",
+            "findings": "P1: LDL at T0 was 177 mg/dL (normal < 100), after 20 months was 241 mg/dL; total cholesterol at T0 was 241 mg/dL (normal < 200), after 20 months was 282 mg/dL. HDL cholesterol at T0 was 50 mg/dL (normal > 40), after 20 months was 30 mg/dL. Triglycerides at T0 were 62 mg/dL (normal < 150), after 20 months were 54 mg/dL.",
+            "changes_over_time": "LDL and total cholesterol levels increased over time; HDL cholesterol decreased; triglycerides remained within normal range."
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "P1: Mild cerebellar atrophy, prominent in the cerebellar vermis, and hypointense stripes in the pons. P2: Slight atrophy of the superior cerebellar vermis, corpus callosum thinning, and cervical spinal cord atrophy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spine MRI",
+            "date": "Not specified",
+            "findings": "P1: Normal. P2: Cervical spinal cord atrophy.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Electroneurography",
+            "date": "Not specified",
+            "findings": "P1: Severe sensorimotor axonal and demyelinating polyneuropathy. P2: Sensorimotor axonal polyneuropathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Spastic Paraplegia Rating Scale (SPRS)",
+            "date": "Before treatment (T0) and after 6, 12, and 20 months of treatment",
+            "findings": "P1: T0: 16/52; 6 mo: 17/52; 12 mo: 15.5/52; 20 mo: 13/52. P2: T0: 12/52; 6 mo: 9.5/52; 12 mo: 10/52; 20 mo: 10/52.",
+            "changes_over_time": "P1: Initial increase, then decrease. P2: Initial decrease, then stabilization."
+        },
+        {
+            "procedure_name": "Scale for the Assessment and Rating of Ataxia (SARA)",
+            "date": "Before treatment (T0) and after 6, 12, and 20 months of treatment",
+            "findings": "P1: T0: 7/40; 6 mo: 8.75/40; 12 mo: 11.5/40; 20 mo: 8/40. P2: T0: 9/40; 6 mo: 7.5/40; 12 mo: 11/40; 20 mo: 8/40.",
+            "changes_over_time": "P1: Initial increase, then decrease. P2: Initial decrease, then increase, then decrease."
+        },
+        {
+            "procedure_name": "Disease-specific severity index for adults with autosomal recessive spastic ataxia of Charlevoix-Saguenay (DSI-ARSACS)",
+            "date": "Before treatment (T0) and after 6, 12, and 20 months of treatment",
+            "findings": "P1: T0: 11/32; 6 mo: 9.5/32; 12 mo: 7.5/32; 20 mo: 9.5/32. P2: T0: 9/32; 6 mo: 9.5/32; 12 mo: 8.5/32; 20 mo: 9.5/32.",
+            "changes_over_time": "P1: Initial decrease, then increase. P2: Initial increase, then decrease, then increase."
+        },
+        {
+            "procedure_name": "10-m walking test (10MWT)",
+            "date": "Before treatment (T0) and after 6, 12, and 20 months of treatment",
+            "findings": "P1: T0: 15.8 s; 6 mo: 14.2 s; 12 mo: 13.8 s; 20 mo: 15.4 s. P2: T0: 9.9 s; 6 mo: 9.2 s; 12 mo: 9.6 s; 20 mo: 9.8 s.",
+            "changes_over_time": "P1: Initial improvement, then slight deterioration. P2: Initial improvement, then slight deterioration."
+        },
+        {
+            "procedure_name": "6-min walking test (6MWT)",
+            "date": "Before treatment (T0) and after 6, 12, and 20 months of treatment",
+            "findings": "P1: T0: 252 m; 6 mo: 253 m; 12 mo: 264 m; 20 mo: 250 m. P2: T0: 400 m; 6 mo: 475 m; 12 mo: 434 m; 20 mo: 434.5 m.",
+            "changes_over_time": "P1: Initial slight improvement, then slight deterioration. P2: Initial improvement, then slight deterioration."
+        },
+        {
+            "procedure_name": "EQ-5D-3 L questionnaire",
+            "date": "Before treatment (T0) and after 20 months of treatment",
+            "findings": "Unchanged in both patients.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Autosomal recessive spastic ataxia of Charlevoix-Saguenay (ARSACS)",
+        "diagnostic_reasoning": "The diagnosis was based on clinical evaluation including spastic-ataxic gait, dysarthria, leg weakness, dysmetria, bilateral Babinski sign, pes cavus, and hammertoes. Brain MRI showed mild cerebellar atrophy and hypointense stripes in the pons. Electroneurography indicated severe sensorimotor axonal and demyelinating polyneuropathy. The presence of biallelic variants in the SACS gene confirmed the diagnosis."
+    }
+}

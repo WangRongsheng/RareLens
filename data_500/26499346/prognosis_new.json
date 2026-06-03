@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Multiple embolizations allowed cure of the vein of Galen malformation; at 4.5 years she remained somewhat delayed in motor, speech, and cognition but could follow normal day-care activities and her large head circumference (+3 SD) had stabilized.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Residual issues included a large head circumference (+3 SD) that stabilized over time and ongoing developmental delay; no ongoing acute symptoms were reported.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "A few days after diagnosis, first endovascular embolization of two branches was performed with acrylic glue."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Successful acute ventriculocisternostomy for hydrocephalus produced a good clinical result."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "After initial embolization, clinical development was favourable with improvements in all aspects."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Further embolization at 12 months of age as part of staged treatment."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Additional embolizations at 20 months and 2.5 years; total of four interventional sessions."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Final imaging showed cure of the vein of Galen malformation; head circumference stabilized."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "This case report includes three different patients. The extraction above pertains to Case 1 (girl with vein of Galen malformation). Index time was taken as the admission when MRI confirmed the malformation and treatment planning began at 6 months of age. Exact dates are not provided; ages were used to approximate short-, mid-, and long-term periods."
+}

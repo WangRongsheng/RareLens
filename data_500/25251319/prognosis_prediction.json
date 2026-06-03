@@ -1,0 +1,89 @@
+{
+    "basic_information": {
+        "age": "20",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Sweden and Portugal",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "moderate-severe intellectual disability (ID)",
+        "history_of_present_illness": "Developmental milestones were not met in time; he walked independently at 2 years of age and did not develop any spoken language. A diagnosis of moderate-severe ID with speech and language impairment was later established, and at present age he speaks only a few words and uses sign language for communication. Neurologic examination revealed impairment of fine and gross motor skills, left-sided mild hemiparesis, and spasticity with increased reflexes in the upper and lower extremities bilaterally. MRI of the brain at the age of three years was normal. There is no history of seizures or epilepsy. During childhood and adolescence he has had multiple fractures including clavicle and forearm. Radiological investigation of the spine at the age of 20 years has shown an aberrant pattern consistent with mild-moderate osteoporosis.",
+        "past_medical_history": "Cleft palate was noted early, with surgical correction at the age of 11 months. He has a high arched palate and narrow maxilla with malocclusion. Eruption of the primary as well as of the permanent teeth was late and he also has oligodontia. The teeth are morphologically abnormal with conical front teeth, generally large teeth crowns and with extremely short, malformed roots.",
+        "family_history": "nonconsanguineous healthy parents originating from Sweden and Portugal with no family history of ID",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Neurologic examination revealed impairment of fine and gross motor skills, left-sided mild hemiparesis, and spasticity with increased reflexes in the upper and lower extremities bilaterally. Facial features include a tall forehead, bushy eyebrows and a prominent nose. The facial expression during examination was somewhat striking with peering eyes and a joyful demeanor. His body habitus is slender with bowing of the tibiae and he exhibits a forward leaning posture with slightly flexed knees and flat feet. Also noted were broad thumbs and halluces."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Array CGH analysis",
+            "date": "Not specified",
+            "findings": "Identified a small intragenic duplication in the SATB2 gene, including three coding exons (exon 5, 6, and 7). Minimum region chr2:200,233,354–200,255,458 (GRCh37/hg19).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Multiplex ligation-dependent probe amplification (MLPA)",
+            "date": "Not specified",
+            "findings": "Confirmed the presence of a duplication in two independent samples from the patient.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Low coverage whole genome mate pair sequencing",
+            "date": "Not specified",
+            "findings": "Confirmed a heterozygous duplication in tandem, encompassing the region chr2:200,228,800–200,263,582. The duplication is intragenic, with intronic breakpoints. Breakpoint junction analysis showed three base pairs (CAC) of microhomology shared between the proximal and distal reference sequences.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the brain",
+            "date": "Age of three years",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiological investigation of the spine",
+            "date": "Age of 20 years",
+            "findings": "Showed an aberrant pattern consistent with mild-moderate osteoporosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Panoramic dental radiography",
+            "date": "Age of 20 years",
+            "findings": "Showed conical front teeth, generally large teeth crowns with extremely short, malformed roots, oligodontia with agenesis of ten teeth and retention of three molars. One front tooth is replaced with an implant and ceramic crown.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Genetic analyses (gross chromosome abnormalities, 22q11 deletion, fragile X syndrome, Rubinstein–Taybi)",
+            "date": "Prior to array CGH analysis",
+            "findings": "Negative results.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Breakpoint junction analysis",
+            "date": "Not specified",
+            "findings": "Showed microhomology at the breakpoint, supporting a replicative mechanism such as fork stalling and template switching/microhomology-mediated breakage-induced replication.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "SATB2-associated syndrome",
+        "diagnostic_reasoning": "The diagnosis was based on the identification of a small intragenic duplication in the SATB2 gene through array CGH analysis, confirmed by multiplex ligation-dependent probe amplification and low coverage whole genome mate pair sequencing. The patient's phenotype, including intellectual disability, speech and language impairment, cleft palate, malformed teeth, and oligodontia, overlaps with previously described patients with SATB2 mutations."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "cleft palate surgical correction",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

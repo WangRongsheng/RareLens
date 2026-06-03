@@ -1,0 +1,53 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "After diagnosis in the neonatal period, macular pigmentary changes at 5 months progressed to bilateral, atrophic macular lesions by 10 months; long-term visual acuity remained poor (20/250 and 20/400).",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Persistent severe central vision loss maintained since age 5 and unchanged pendular nystagmus.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At age 5 months macular pigmentary changes were noted in both eyes."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "By 10 months macular pigmentary changes had progressed to bilateral, atrophic macular lesions."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Nystagmus was noted by 10 months."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At the same time there was developmental regression and hypotonia."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 2 years, large angle esotropia was treated with bilateral medial rectus resections."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "He later developed a consecutive exotropia."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "By age 13, best corrected visual acuity was 20/250 (RE) and 20/400 (LE), a level maintained since it was first measurable at age 5 years."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "He was well rehabilitated by a low vision service; in school he functions well with the assistance of an iPad and ambulates without assistance."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time was proxied to the neonatal diagnosis date. Long-term functional status and symptom burden are inferred from clinical descriptions at age 13; precise dates for some events are approximate within reported ages."
+}

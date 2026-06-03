@@ -1,0 +1,91 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "Medication",
+            "specific_treatment": "Warfarin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg PO DAILY",
+            "treatment_response": "Adjusted medications for cardiology workup"
+        },
+        {
+            "treatment_type": "Medication",
+            "specific_treatment": "Metoprolol Succinate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg PO DAILY, decreased to 25 mg PO DAILY",
+            "treatment_response": "Adjusted dose during hospitalization"
+        },
+        {
+            "treatment_type": "Medication",
+            "specific_treatment": "Gabapentin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "600 mg PO TID",
+            "treatment_response": "No specific response mentioned"
+        },
+        {
+            "treatment_type": "Medication",
+            "specific_treatment": "Torsemide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO DAILY",
+            "treatment_response": "Continued at previous dose"
+        },
+        {
+            "treatment_type": "Medication",
+            "specific_treatment": "Acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO BID",
+            "treatment_response": "No specific response mentioned"
+        },
+        {
+            "treatment_type": "Medication",
+            "specific_treatment": "Amiodarone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "200 mg PO ASDIR",
+            "treatment_response": "Continue taking 200 mg twice per day until specified date then 200 mg daily thereafter"
+        },
+        {
+            "treatment_type": "Medication",
+            "specific_treatment": "Tramadol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg PO Q6H: PRN pain",
+            "treatment_response": "Prescribed for pain management"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient fell at home and was found to have a C2 non-operative fracture"
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted to orthopedics for a cervical spine fracture"
+        },
+        {
+            "date": "Not specified",
+            "event": "Transferred to cardiology for medication adjustment"
+        },
+        {
+            "date": "Not specified",
+            "event": "Cardiology adjusted medications including decreasing metoprolol and stopping lisinopril"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged with new medication regimen and instructions"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Scheduled cardiology and PCP appointments; orthopedics follow-up to be scheduled",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "The reason for the fall was related to heart medications and dehydration"
+    }
+}

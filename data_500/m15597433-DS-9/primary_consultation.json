@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chest pain; word finding difficulties and vision changes",
+        "history_of_present_illness": "This is a ___ RHW with a history of recurrent high grade breast carcinoma s/p chemotherapy, paroxysmal atrial fibrillation, surgery and radiation, hypertension, fatty liver disease and remote history of tobacco abuse who is admitted to the ___ for a presumed pulmonary embolism. She woke up at 5AM this morning with severe left sided chest pain as well as a terrible headache. There were no other neurologic symptoms at the time. Labs showed the presence of an elevated D-dimer and a slightly elevated troponin. She was presumed to have a likely PE and after a normal NCHCT was done, she was started on a weight based heparin gtt. While she was in the ED, her headache and chest pain improved significantly. At approximately 4pm, her headache significantly worsened. She developed new symptoms including word finding difficulties and visual problems. A noncontrast CT scan identified no hemorrhage.",
+        "past_medical_history": "- High grade DCIS (left breast) diagnosed ___, s/p partial mastectomy, XRT, Arimidex x ___ years; recurrent left breast carcinoma ___, now s/p 3 cycles neoadjuvant chemo with carboplatin, taxotere, Herceptin q3weeks (last chemo ___, Neulasta ___ and plan for mastectomy; BRCA1 and BRCA2 normal - Hypersensitivity rash to chemotherapy (likely taxotere) - HSV-2 vaginal rash - Hypertension - H/o postpartum cardiomyopathy (echo from ___ LVEF >55%) - Fatty liver (followed by Dr. ___ at ___ ___ Liver biopsy showed grade I inflammation and stage II fibrosis) - GERD - Heterozygous for hemochromatosis -- Contrast dye allergy -- MSSA epsis (___) -- Afib (___)",
+        "family_history": "H/o BRCA in family (patient is BRCA negative) with many cancers including pancreatic and breast.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 141/88, 99, 20, 97% RA. General: Awake, cooperative, pleasant, NAD. Significant hair loss. Pitting edema in all four extremities, some atrophy noted. Flat, pink rash noted on chest.",
+        "specialty_examination": "- Neurologic: Alert, oriented x 3. Speech is nondysarthric, but language demonstrates diminished fluency with significant hesitation and word finding difficulties. Diminished pinprick in stocking distribution with impaired vibration sense. No intention tremor, no dysdiadochokinesia noted."
+    }
+}

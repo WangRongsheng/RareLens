@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Warfarin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg PO 2X/WEEK and 3 mg PO 5X/WEEK (held after hospitalization)",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "supportive care",
+            "specific_treatment": "IV fluids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "IVF NS (1000 mL ordered)",
+            "treatment_response": "Patient reports generally feeling well with no particular complaints after administration"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for evaluation of abdominal discomfort and other symptoms"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received IVF NS (1000 mL ordered) upon arrival to the floor"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discussion of treatment options with healthcare proxy, case manager, and medical team"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive, ambulatory with assistance",
+        "follow_up_details": "Recommended to follow up with primary care doctor and oncologist; get palliative care and hospice involvement",
+        "complications": "No complications",
+        "long_term_prognosis": "Cancer is serious, benefits of fixing it may do more harm than good",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "To focus on maximizing life enjoyment at home",
+        "patient_perspective": "Patient informed about the seriousness of the condition and the shared decision not to aggressively treat"
+    }
+}

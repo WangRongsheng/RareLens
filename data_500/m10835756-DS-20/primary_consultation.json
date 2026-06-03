@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Right Sphenoid Wing Meningioma",
+        "history_of_present_illness": "Mr. ___ is a ___ year old man found to have a right sphenoid wing meningioma after he experienced a first-time seizure. The seizure occurred in early ___ of this year and presented as confusion with repetitive questions. The patient was referred by neuro-oncology to neurosurgery for evaluation and treatment of his presumed meningioma.",
+        "past_medical_history": "1. Right sphenoid wing meningioma 2. Seizure 3. Hypertension 4. Dyslipidemia 5. Kidney stones 6. Inguinal hernia repair ___",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Upon discharge: Awake, alert, oriented x 3. Follows commands briskly. Speech fluent. PERRL, EOM-I. Mild right periorbital edema. Face symmetric, TM. MAE ___ strength. Sensation grossly intact to LT. Wound c/d/i, closed with sutures.",
+        "specialty_examination": "Not specified"
+    }
+}

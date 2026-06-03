@@ -1,0 +1,27 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "high-dose methotrexate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Cycle 15, 8 gm/m2",
+            "treatment_response": "Tolerated well and cleared methotrexate appropriately"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Cycle 15 high-dose methotrexate chemotherapy administered"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive, ambulatory - independent",
+        "follow_up_details": "Return for treatment in 2 months for the next cycle of chemotherapy",
+        "complications": "Transaminitis (elevated liver function tests)",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

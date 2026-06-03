@@ -1,0 +1,111 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "heparin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "325 mg Daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "atorvastatin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "80 mg Daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "lopressor (metoprolol)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg, 1.5 Tablets PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "captopril",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "aztreonam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV Lasix",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg",
+            "treatment_response": "Improved cardiac wheeze"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "PRBC transfusion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 unit",
+            "treatment_response": "Stopped due to SOB"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with dizziness and R sided weakness"
+        },
+        {
+            "date": "Not specified",
+            "event": "Heparin initiated"
+        },
+        {
+            "date": "Not specified",
+            "event": "Aspirin given"
+        },
+        {
+            "date": "Not specified",
+            "event": "2L O2 via NC started"
+        },
+        {
+            "date": "Not specified",
+            "event": "Cardiology consulted and treatment plan established"
+        },
+        {
+            "date": "Not specified",
+            "event": "1 unit PRBCs transfusion started"
+        },
+        {
+            "date": "Not specified",
+            "event": "IV Lasix given for cardiac wheeze"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on aztreonam for UTI"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - requires assistance or aid (walker or cane)",
+        "follow_up_details": "Follow up with a primary care physician in the rehab facility and a neurologist regarding the stroke",
+        "complications": "Developed UTI and spiked fevers intermittently",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient was informed about her condition and treatment plan"
+    }
+}

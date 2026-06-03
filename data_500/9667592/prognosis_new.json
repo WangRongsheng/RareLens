@@ -1,0 +1,18 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Symptoms partially resolved over the subsequent 18 months, but follow-up skin biopsies continued to show marked persistent epidermal denervation.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Partial resolution was noted over 18 months, yet biopsies showed persistent epidermal denervation, indicating ongoing residual symptoms rather than complete resolution.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Symptoms partially resolved over the subsequent 18 months."
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "Data derived from Case 4 of a cohort report rather than a dedicated longitudinal single-patient record. The index time is approximated as the initial specialist evaluation. Long-term functional status and symptom severity are inferred from reported partial symptom resolution and persistent denervation; explicit activity-based outcomes were not detailed."
+}

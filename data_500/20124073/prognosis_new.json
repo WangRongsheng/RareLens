@@ -1,0 +1,24 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Two years after diagnosis (age 6), the patient was clinically asymptomatic with full pain-free range of motion and no gait abnormalities, but radiographs still showed capital flattening and epiphyseal extrusion.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "functional_status_evidence_excerpt": "At six years of age, she maintained a full pain-free range of motion without observed gait abnormalities.",
+        "symptom_burden": "none",
+        "symptom_burden_evidence_excerpt": "She was clinically asymptomatic at this point (two years after diagnosis)."
+    },
+    "timeline_events": [
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At age six (two years after diagnosis), she had a full pain-free range of motion and no gait abnormalities, whereas at diagnosis abduction was limited to 45°."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At age six, she was clinically asymptomatic."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time taken as the Legg-Calvé-Perthes diagnosis (~3 years 11 months) when nonoperative treatment was initiated. Follow-up extends to about two years post-diagnosis; long-term beyond that is not documented. Radiographic residual deformity persists despite clinical recovery."
+}

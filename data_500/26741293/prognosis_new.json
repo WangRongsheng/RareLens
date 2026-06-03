@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "At age 56 years she had progressive, bilateral visual field loss and markedly reduced dynamic visual acuity with low horizontal VOR gain; neuroimaging earlier showed cerebellar atrophy and basal ganglia calcifications, suggesting progressive neurodegeneration.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Paracentral visual loss affected reading efficiency and dynamic visual acuity fell to worse than J15 with head oscillations; bilateral vestibular hypofunction caused oscillopsia with head movement.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "She had a cochlear implant and was able to hear and function well."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Post-implant she was able to hear and function well."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "An episode of rhabdomyolysis was triggered by the use of statins to lower cholesterol."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "At age 50, automated perimetry showed bilateral visual field loss with elevated foveal thresholds."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "At age 56, there was progression of field loss bilaterally and dynamic visual acuity dropped to worse than J15 with 2 Hz head oscillations."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "At age 56, mean horizontal VOR gain was significantly low bilaterally with overt corrective saccades, consistent with bilateral vestibular loss."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The record describes two patients with MIDD. This summary focuses on Patient 2 because longitudinal follow-up (ages 36, 50, and 56) provides clearer post-diagnosis events. Exact dates are not provided; timing is approximated relative to the diagnosis around age 36 when the mutation was identified and treatment (cochlear implant) was planned."
+}

@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "Preventive care",
+            "specific_treatment": "Counseling about diet/exercise and consideration of statin therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient counseled; no changes made to medications"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient experienced a syncopal episode lasting 5 seconds"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient admitted to hospital for evaluation of loss of consciousness"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent EKG, echocardiogram, and blood tests"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was counseled about diet/exercise and statin therapy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged from the hospital"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Not specified",
+        "follow_up_details": "Follow-up with PCP in a couple of weeks",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

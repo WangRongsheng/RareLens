@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "orthodontic treatment",
+            "specific_treatment": "alignment of the anterior teeth",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "phase one completed",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgical",
+            "specific_treatment": "mandibular bone biopsy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "lesional mandibular gingival hyperplastic tissue obtained for variant analysis",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "genomic evaluation",
+            "specific_treatment": "variant analysis of somatic overgrowth genes",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "PIK3CA, AKT1, AKT3, GNAQ, GNA11, MTOR, PIK3R2 genes analyzed",
+            "treatment_response": "PIK3CAc.1571G>A; pArg524Lys identified at low mosaic level"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Initial presentation with congenital maxillary and mandibular alveolar soft tissue enlargement"
+        },
+        {
+            "date": "Not specified",
+            "event": "Panoramic radiograph revealed abnormal trabeculation and missing teeth"
+        },
+        {
+            "date": "Not specified",
+            "event": "Cone beam computerized tomography (CBCT) disclosed osseous abnormalities"
+        },
+        {
+            "date": "Not specified",
+            "event": "Mandibular bone biopsy performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Genomic DNA analysis performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Phase one of orthodontic treatment completed"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improving",
+        "follow_up_details": "Retained primary teeth will be maintained for as long as possible. After puberty, quality of bone will be assessed for dental implants or fixed partial prosthesis. Surgical contouring of the jaws will be performed if cosmetically necessary.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

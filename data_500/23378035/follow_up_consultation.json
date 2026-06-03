@@ -1,0 +1,50 @@
+{
+    "basic_information": {
+        "age": "7",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Limping, tenderness and pain in her right foot following a fall and strain of her right foot",
+        "history_of_present_illness": "Presented at the age of 7 with limping, tenderness and pain in her right foot following a fall and strain of her right foot. She was treated with ibuprofen, shoe inserts, a CAM walker boot, and stretching exercises without much improvement in symptoms. A computed tomography (CT) scan revealed bilateral talocalcaneal coalitions involving the middle facet. She underwent resection of the talocalcaneal coalitions, remaining pain-free post-operatively with an improvement in her range of motion, gait, and mobility.",
+        "past_medical_history": "Bicoronal craniosynostosis, developmental delay, hearing loss, high palate, and strabismus. Additionally she has hypertelorism, temporal bossing, and midfacial hypoplasia. She has had three operations including a frontal orbital advancement at 6 months of age and additional operations at 20 months of age and 3 years of age for recurrent deformities. She has a moderate motor delay and has been in occupational therapy for 4 years. She currently attends occupational therapy one time per week. All of her speech and language milestones were within normal limits. She does not have intellectual disability, with an IQ of 117. Her hearing loss is bilateral and mixed. She also experiences recurrent otitis media with effusion and has had four sets of tympanostomy tubes. Additional medical issues include torticollis for which she attends physical therapy and tonsillar hypertrophy for which she underwent a tonsillo-adenoidectomy.",
+        "family_history": "Parents have been tested for the defining mutation that causes Muenke syndrome and were negative, thus making this patient’s inheritance of the syndrome sporadic. Further family history is non-contributory, with no family members having features of Muenke syndrome, such as hearing loss, developmental delay, craniosynostosis, or facial features of Muenke syndrome.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "No significant deformity. She had very widened feet, particularly in the area around her toes, as well as high arches. She was tender to palpation at the dorsal aspect of her right foot in the area of the fourth metatarsal head.",
+        "specialty_examination": "Due to bilateral Achilles contractures noted on physical exam, her range of motion in both feet was limited on dorsiflexion, unable to dorsiflex beyond the neutral position bilaterally. She had normal range of motion to plantarflexion, inversion, and eversion bilaterally. Strength in her right foot was 4/5 (left was 5/5)."
+    },
+    "laboratory_examinations": [],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed Tomography (CT) scan of right foot",
+            "date": "Not specified",
+            "findings": "Large bilateral coalitions of talus and calcaneus bones (talocalcaneal coalition), involving the middle facet",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography (CT) scan of left foot",
+            "date": "Not specified",
+            "findings": "Large bilateral coalitions of talus and calcaneus bones (talocalcaneal coalition), involving the middle facet",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiographs of right foot",
+            "date": "Not specified",
+            "findings": "Negative for any kind of fracture or deformity",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiographs of right foot",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": []
+}

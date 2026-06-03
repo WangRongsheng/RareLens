@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Right hand weakness and aphasia",
+        "history_of_present_illness": "Patient is a right handed woman with PMH significant for HTN and recent left subdural hematoma s/p left craniectomy. Presents with repeated episodes of transient aphasia and right hand weakness. Episodes start with right hand weakness followed by halting effortful speech, lasting for a few minutes. Occurred 3 times in the past 24 hours. Recent neurologic history includes syncopal incident, unsteady gait, right sided weakness, and word finding difficulty. MRI showed large L SDH collection. Craniectomy for evacuation performed, followed by increased Keppra dosage.",
+        "past_medical_history": "Hypertension, Depression, s/p L SDH evacuation",
+        "family_history": "Father with open heart surgery and subsequent post op stroke",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: 98 P: 70 R: 18 BP: 142/100 SaO2: 100% on RA. General appearance: alert, in no apparent distress. HEENT: Mucous membranes are moist. Left side scalp staples in place - wound is clean and dry.",
+        "specialty_examination": "Neurological: Mental Status: Alert and oriented. Language is fluent with occasional word finding pause or stumbling. Cranial Nerves: II intact, V symmetrical perception, VII decreased activation of left forehead but symmetric facial movement. Motor: Significant right parietal drift. Strength R 5 in most muscle groups except significant drift in right upper extremity. Reflexes brisk. Sensory normal except for agraphesthesia and astereognosis prominent in the right hand."
+    }
+}

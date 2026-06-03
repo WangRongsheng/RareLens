@@ -1,0 +1,53 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "Continues to do well; ambulatory–independent; ongoing serial high‑dose methotrexate (cycle #15) with no documented progression.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Ongoing fatigue, transient left facial/head numbness episodes, and a persistent productive cough despite antibiotics; denies fevers, sweats, weight loss.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "readmission",
+            "time_period": "long_term",
+            "evidence_excerpt": "Admitted for cycle #15 high-dose methotrexate; will return for treatment in 2 months."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Discharge condition: Ambulatory - Independent; mental status clear and coherent."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Denies other headache or focal neuro symptoms; balance is intact (relative to initial headaches/seizures at diagnosis)."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Complains of swelling and transient numbness of the left face/head triggered by emotional situations; refers to these as 'seizures'."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Cough productive of yellow sputum has continued despite a course of amoxicillin and another antibiotic."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Has had laser treatment of his left eye since his last admission."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Hyponatremia noted; instructed to hold desmopressin for one day then resume."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "unknown",
+            "evidence_excerpt": "Oncologic history includes intra-ocular methotrexate treatments."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Exact dates are not provided; cycle #15 implies a long-term time frame post-diagnosis. MRI result is pending, so radiographic disease status is not documented here. Functional improvement is inferred from current independent ambulation compared to initial presentation with headaches/seizures. The nature of transient facial episodes is unclear (patient-labeled ‘seizures’ without tonic-clonic activity). Hyponatremia/transaminitis appear mild; categorized as deterioration due to objective abnormalities but not necessarily major complications."
+}

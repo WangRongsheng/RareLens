@@ -1,0 +1,95 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Hydromorphone (Dilaudid)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "6 mg PO Q3H: PRN pain",
+            "treatment_response": "Patient was antagonistic towards staff and refused further treatment; requested administration of one dose to calm her down."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Clonazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.5 mg PO TID",
+            "treatment_response": "Received home dose as per psychiatry recommendations."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Omeprazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "blood transfusion",
+            "specific_treatment": "Blood transfusion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Two units of blood",
+            "treatment_response": "Patient signed consent but later tore it up and refused the transfusion."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV Pantoprazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient refused this intervention."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Iron supplementation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient refused this intervention."
+        },
+        {
+            "treatment_type": "procedure",
+            "specific_treatment": "Endoscopy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient refused this intervention."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with gastrointestinal bleed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Initial vitals recorded."
+        },
+        {
+            "date": "Not specified",
+            "event": "Clonazepam 0.5 mg dose administered."
+        },
+        {
+            "date": "Not specified",
+            "event": "Administration of 6 mg PO Dilaudid recommended by psychiatry."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient signed a consent form for blood transfusion but later tore it up."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged against medical advice."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged against medical advice; condition unclear.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications noted during hospitalization",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient exhibited aggressive behavior and poor compliance with treatment."
+    }
+}

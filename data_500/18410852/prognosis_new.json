@@ -1,0 +1,24 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "Residual pulmonary damage was serious, and both tracheotomy and chronic artificial ventilatory assistance have since been required. Although, as of writing, he had been seizure free for more than 3 years, he lacked head control and visual following, and could neither speak nor sit up.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "functional_status_evidence_excerpt": "He lacked head control and visual following, and could neither speak nor sit up.",
+        "symptom_burden": "persistent_severe",
+        "symptom_burden_evidence_excerpt": "Marked spasticity in all four limbs with exaggerated deep tendon reflexes; chronic tracheotomy and artificial ventilatory assistance required."
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "The residual pulmonary damage was serious, and both tracheotomy and chronic artificial ventilatory assistance have since been required."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "As of writing, he had been seizure free for more than 3 years on valproate and clonazepam."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Information pertains to Case 3. The tracheotomy and ventilator dependence were initiated before the diagnosis date but remained ongoing afterward; timing categories are approximate relative to diagnosis. Reported ages at diagnosis vary in the document (5y7m vs 7y5m), so diagnosis date is treated as an approximate reference point."
+}

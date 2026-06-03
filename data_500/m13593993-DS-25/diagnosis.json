@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Bacterial Pneumonia",
+        "differential_diagnosis": "Aspiration pneumonia, mycoplasma infection, viral infection, bacterial infection, fungal infection, mycobacterial infection",
+        "diagnostic_reasoning": "The presence of consolidation in the retrocardiac area on chest radiograph suggested pneumonic processes, coupled with respiratory symptoms and a recent history of similar illness in the patient's husband. Laboratory findings, including BAL, indicated an acute infection while the dependency of the consolidations suggests aspiration pneumonia as a possible factor. Other infectious processes were also considered in the differential."
+    }
+}

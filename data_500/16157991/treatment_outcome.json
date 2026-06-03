@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "Not specified",
+            "specific_treatment": "Not specified",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "2002-08",
+            "event": "Patient was referred to the hospital for hyperkalemia (7.0 mEq/l) that had been incidentally identified when she was treated for a cold."
+        },
+        {
+            "date": "2003-03",
+            "event": "Patient was again diagnosed as having hyperkalemia (6.0 mEq/l) at another hospital."
+        },
+        {
+            "date": "2003-05-08",
+            "event": "Patient was admitted to the hospital for evaluation of the cause of hyperkalemia."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged after diagnosis of familial pseudohyperkalemia syndrome.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

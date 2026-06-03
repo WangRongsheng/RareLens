@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "left superficial temporal artery-to-middle cerebral artery (STA-MCA) bypass and ligation of the left extracranial internal carotid artery (EICA)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No neurologic abnormalities following the ligation; validity of the left STA-MCA bypass was indicated by postoperative CTA and DSA."
+        },
+        {
+            "treatment_type": "medical treatment",
+            "specific_treatment": "treatment for hemorrhagic stroke",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 days of treatment",
+            "treatment_response": "Hematoma disappeared; muscle strength in the left limbs returned to 4 grades."
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "right STA-MCA bypass",
+            "start_date": "6 months after left STA-MCA bypass",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient was discharged with no neurologic abnormalities 10 days after the right STA-MCA bypass."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted to emergency department and underwent emergent tracheal intubation for hoarseness and breathing difficulty."
+        },
+        {
+            "date": "Not specified",
+            "event": "Imaging examinations revealed left EICA aneurysm and moyamoya disease (MMD)."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent left STA-MCA bypass and ligation of the left EICA simultaneously."
+        },
+        {
+            "date": "20 days after left STA-MCA bypass",
+            "event": "Patient suffered deteriorated muscle strength from 5 to 2 grades in the left limbs."
+        },
+        {
+            "date": "10 days after left STA-MCA bypass",
+            "event": "Emergency CT showed hemorrhagic stroke in the right basal ganglia region."
+        },
+        {
+            "date": "20 days after onset of hemorrhagic stroke",
+            "event": "Hematoma disappeared; muscle strength in the left limbs returned to 4 grades."
+        },
+        {
+            "date": "6 months after left STA-MCA bypass",
+            "event": "Right STA-MCA bypass was carried out."
+        },
+        {
+            "date": "10 days after right STA-MCA bypass",
+            "event": "Patient was discharged with no neurologic abnormalities."
+        },
+        {
+            "date": "6-month follow-up after discharge",
+            "event": "Patient lived a normal life with no neurologic abnormalities; imaging examinations indicated efficacy of bilateral STA-MCA bypass and disappearance of left EICA aneurysm."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "No neurologic abnormalities; lived a normal life.",
+        "follow_up_details": "6-month follow-up after discharge.",
+        "complications": "Hemorrhagic stroke in the right basal ganglia region 20 days after left STA-MCA bypass.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Hematoma disappeared 20 days after onset of hemorrhagic stroke; muscle strength returned to 4 grades.",
+        "quality_of_life": "Lived a normal life with no neurologic abnormalities.",
+        "patient_perspective": "Not specified"
+    }
+}

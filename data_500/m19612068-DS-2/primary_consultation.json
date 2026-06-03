@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "108.86 kg",
+        "height": "188 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Dyspnea on exertion",
+        "history_of_present_illness": "Male reports a longstanding history of dyspnea, mild chest discomfort and fatigue with exertion. He requested stress testing which was notable for ischemia involving the Cx territory. Aspirin was started shortly after. Cath was discussed with a decision to wait till after his cardioversion due to anticoagulation issues. Presented for left heart catheterization. Found to have coronary artery disease and referred to cardiac surgery for revascularization.",
+        "past_medical_history": "Paroxysmal Atrial fibrillation s/p cardioversion, Hypertension, Dyslipidemia, Aortic stenosis, Diabetes Type 2, Obstructive sleep apnea (does not consistently use CPAP), Gout, Osteoarthritis, Adrenal adenoma noted by MRI, kidney stones.",
+        "family_history": "Premature coronary artery disease - non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Pulse: 58, Resp: 18, O2 sat: 93%RA, B/P: 138/65 mmHg. General: NAD, Skin: Dry, intact. Chest: Lungs clear bilaterally. Heart: RRR. Abdomen: Soft, non-distended, non-tender. Extremities: Warm, well-perfused. Edema: 1+.",
+        "specialty_examination": "Neuro: Grossly intact. Pulses: Femoral Right: 2+, Left: 2+. DP Right: 2+, Left: 2+. Radial Right: 2+, Left: 2+. Carotid: Right: 2+, Left: 2+."
+    }
+}

@@ -1,0 +1,307 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "phenobarbital",
+            "start_date": "Not specified",
+            "end_date": "4 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "successful treatment, seizure free up to now"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "primidone",
+            "start_date": "2 years",
+            "end_date": "6 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "one more afebrile GTCS under treatment at 3 years of age"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "valproate",
+            "start_date": "2 years",
+            "end_date": "6 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "phenobarbital",
+            "start_date": "2 years",
+            "end_date": "4 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "one more seizure at age 7 years associated with fever"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "valproate",
+            "start_date": "4 years",
+            "end_date": "15 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "phenytoin",
+            "start_date": "69 years",
+            "end_date": "present",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "seizure free"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "clobazam",
+            "start_date": "2 years",
+            "end_date": "2.1 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "phenobarbital",
+            "start_date": "2 years",
+            "end_date": "2.1 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ethosuximide",
+            "start_date": "2.1 years",
+            "end_date": "3 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "lamotrigine",
+            "start_date": "3 years",
+            "end_date": "present",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "two more febrile seizures with only tonic components after sleep deprivation"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "primidone",
+            "start_date": "1.8 years",
+            "end_date": "4 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "clonazepam",
+            "start_date": "1.8 years",
+            "end_date": "4 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "lamotrigine",
+            "start_date": "5 years",
+            "end_date": "present",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "one more AbS at age 6 years"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ethosuximide",
+            "start_date": "6 years",
+            "end_date": "10 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "three to four AbS per week, and later sometimes several per day, until she was 10"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "valproate",
+            "start_date": "10 years",
+            "end_date": "15 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "no further seizures"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "valproate",
+            "start_date": "24 years",
+            "end_date": "32 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "about one GTCS every year for about 8 years"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "phenytoin",
+            "start_date": "38 years",
+            "end_date": "41 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "seizure free"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "carbamazepine",
+            "start_date": "38 years",
+            "end_date": "41 years",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "seizure free"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "carbamazepine",
+            "start_date": "15 years",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "phenobarbital",
+            "start_date": "2.5 years",
+            "end_date": "present",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "20 months",
+            "event": "first atonic seizures (AtS) and generalized tonic-clonic seizures (GTCS)"
+        },
+        {
+            "date": "2 years",
+            "event": "treated with phenobarbital"
+        },
+        {
+            "date": "4 years",
+            "event": "medication stopped"
+        },
+        {
+            "date": "2 years",
+            "event": "first febrile GTCS"
+        },
+        {
+            "date": "2 years",
+            "event": "treated with primidone and later with valproate"
+        },
+        {
+            "date": "6 years",
+            "event": "treatment stopped"
+        },
+        {
+            "date": "2 years",
+            "event": "first febrile GTCS"
+        },
+        {
+            "date": "2 years",
+            "event": "treated with phenobarbital"
+        },
+        {
+            "date": "4 years",
+            "event": "switched to valproate"
+        },
+        {
+            "date": "15 years",
+            "event": "treatment stopped"
+        },
+        {
+            "date": "69 years",
+            "event": "first tonic seizures (TS) after stroke"
+        },
+        {
+            "date": "69 years",
+            "event": "treated with phenytoin"
+        },
+        {
+            "date": "2 years",
+            "event": "first febrile TS"
+        },
+        {
+            "date": "2 years",
+            "event": "treated with clobazam and phenobarbital"
+        },
+        {
+            "date": "3 years",
+            "event": "switched to lamotrigine"
+        },
+        {
+            "date": "1.8 years",
+            "event": "first febrile TS"
+        },
+        {
+            "date": "1.8 years",
+            "event": "treated with primidone and clonazepam"
+        },
+        {
+            "date": "4 years",
+            "event": "medication discontinued"
+        },
+        {
+            "date": "5 years",
+            "event": "first afebrile absence seizures (AbS)"
+        },
+        {
+            "date": "5 years",
+            "event": "treated with lamotrigine"
+        },
+        {
+            "date": "6 years",
+            "event": "first AbS"
+        },
+        {
+            "date": "6 years",
+            "event": "treated with ethosuximide"
+        },
+        {
+            "date": "10 years",
+            "event": "switched to valproate"
+        },
+        {
+            "date": "15 years",
+            "event": "treatment stopped"
+        },
+        {
+            "date": "24 years",
+            "event": "first GTCS"
+        },
+        {
+            "date": "24 years",
+            "event": "treated with valproate"
+        },
+        {
+            "date": "32 years",
+            "event": "treatment stopped"
+        },
+        {
+            "date": "38 years",
+            "event": "first GTCS with high fever"
+        },
+        {
+            "date": "38 years",
+            "event": "treated with phenytoin and later carbamazepine"
+        },
+        {
+            "date": "41 years",
+            "event": "treatment stopped"
+        },
+        {
+            "date": "15 years",
+            "event": "first GTCS"
+        },
+        {
+            "date": "15 years",
+            "event": "treated with carbamazepine"
+        },
+        {
+            "date": "2.5 years",
+            "event": "treated with phenobarbital"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "varied, some seizure free, others with ongoing seizures",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "varied, some patients remained seizure free after treatment, others had ongoing seizures",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

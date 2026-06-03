@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "46",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Widespread lymphadenopathy and hepatosplenomegaly with associated fevers and night sweats.",
+        "history_of_present_illness": "The patient presented for investigation; symptoms began with lymphadenopathy and hepatosplenomegaly, and worsened over time with the addition of fevers and night sweats. Painful, pigmented subcutaneous nodules developed on her legs after 2 cycles of chemotherapy.",
+        "past_medical_history": "Stable Sjögren syndrome and psoriasis.",
+        "family_history": "Not specified.",
+        "social_history": "Non-smoker; occasional alcohol consumption; works in a sedentary office job."
+    },
+    "physical_examination": {
+        "general_examination": "The patient exhibited widespread lymphadenopathy and hepatosplenomegaly. Notable tender, pigmented subcutaneous nodules consistent with erythema nodosum were present on both legs. Neurological examination revealed no focal deficits; the patient was alert and oriented.",
+        "specialty_examination": "Biopsy of a typical shin nodule showed inflammation within subcutaneous fat (consistent with erythema nodosum) with no evidence of lymphomatous infiltrate. The significant lymphadenopathy and hepatosplenomegaly suggested systemic involvement."
+    }
+}

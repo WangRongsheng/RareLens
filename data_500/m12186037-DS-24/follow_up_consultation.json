@@ -1,0 +1,134 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Vomiting and epigastric pain",
+        "history_of_present_illness": "The patient states she has been having epigastric pain and nausea for a couple of weeks but it has worsened in the last three days and she has been vomiting. The vomiting has been black and brown in color. She therefore has not been able to eat or drink much of anything recently. Denies fevers or shortness of breath, diarrhea, and has been having small formed bowel movements. ED investigations revealed a pulmonary embolism and gastric outlet obstruction.",
+        "past_medical_history": "Primary diagnosis of metastatic cholangiocarcinoma, prior surgical resection, history of weakness, fatigue, anorexia, and jaundice. Other treatments included gemcitabine and chemoradiation.",
+        "family_history": "Father died of prostate cancer, mother died of dementia, sister has pulmonary hypertension, brother is estranged, uncle has prostate cancer, and aunt has stomach cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital Signs: BP 96/60, HR 86, RR 18, Temp 98.0. General: NAD. Abdomen: Soft, NT, distended, multiple palpable nodules, NG tube in place.",
+        "specialty_examination": "Neurological: Alert and oriented, no focal deficits. Cardiovascular: RRR, NL S1S2. Pulmonary: Decreased breath sounds diffusely."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Tests",
+            "date": "Not specified",
+            "findings": {
+                "WBC": 8.3,
+                "RBC": 3.63,
+                "Hgb": 13.1,
+                "Hct": 38.4,
+                "MCV": 106,
+                "MCH": 36.1,
+                "MCHC": 34.1,
+                "RDW": 19.0,
+                "AbsNeut": 6.01,
+                "AbsLymp": 1.21,
+                "AbsMono": 0.96,
+                "Glucose": 126,
+                "UreaN": 26,
+                "Creat": 0.6,
+                "Na": 141,
+                "K": 3.5,
+                "Cl": 100,
+                "HCO3": 32,
+                "AnGap": 13,
+                "ALT": 15,
+                "AST": 38,
+                "AlkPhos": 143,
+                "TotBili": 1.2,
+                "Lipase": 41,
+                "cTropnT": "<0.01",
+                "Albumin": 2.8,
+                "Calcium": 9.2,
+                "Phos": 3.1,
+                "Mg": 2.2
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "Klebsiella pneumoniae >100,000 organisms/mL. Treated with Cipro.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ascites Analysis",
+            "date": "Not specified",
+            "findings": {
+                "TNC": 121,
+                "RBC": 181,
+                "Polys": 5,
+                "Lymphs": 52,
+                "Macroph": 7,
+                "Other": 36,
+                "Total Protein": 1.5,
+                "Albumin": 0.8
+            },
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Left Lower Extremity Ultrasound",
+            "date": "Not specified",
+            "findings": "No evidence of deep venous thrombosis in the left lower extremity veins. Small popliteal fossa cyst.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-Ray (CXR)",
+            "date": "Not specified",
+            "findings": "Small to moderate bilateral pleural effusions, similar on the right but new on the left compared to a prior CT.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTA Chest; CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": {
+                "Pulmonary": "Subsegmental right upper and right middle lobe pulmonary emboli.",
+                "Gastric": "Stomach and entire thoracic esophagus are newly and abnormally distended and fluid-filled.",
+                "Liver": "Essentially unchanged lesions related to cholangiocarcinoma.",
+                "Omental": "Subtle nodularity and peritoneal enhancement suggest metastatic disease.",
+                "Ascites": "Large volume ascites minimally changed compared to the prior examination.",
+                "Diverticulosis": "Incidental finding."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "Liver": "1.7 cm hypoechoic lesion corresponding to hypoattenuating liver lesion seen on recent CT.",
+                "Ascites": "Large volume ascites.",
+                "Bile Ducts": "No intrahepatic biliary dilation.",
+                "Gallbladder": "Status post-cholecystectomy.",
+                "Pancreas": "Top-normal pancreatic duct measuring up to 3 mm."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "EGD (Esophagogastroduodenoscopy)",
+            "date": "Not specified",
+            "findings": "A malignant intrinsic short stenosis was found in the first part of the duodenum; duodenal stent was placed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Paracentesis",
+            "date": "Not specified",
+            "findings": "Removed 2.5L fluid from the abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

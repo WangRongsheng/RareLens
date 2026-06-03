@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Cefpodoxime Proxetil",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "200 mg PO Q24H for 2 doses",
+            "treatment_response": "Symptoms resolved with treatment on IV antibiotics and transitioning to oral antibiotics"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with lethargy and was diagnosed with UTI"
+        },
+        {
+            "date": "Not specified",
+            "event": "IV antibiotics started for UTI treatment"
+        },
+        {
+            "date": "Not specified",
+            "event": "Transition to oral antibiotics for complete 5-day course upon discharge"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused but alert and interactive",
+        "follow_up_details": "Continue follow-up with outpatient providers including palliative care, nephrology, and PCP",
+        "complications": "No complications",
+        "long_term_prognosis": "Continue palliative care",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient's activity status was out of bed with assistance",
+        "patient_perspective": "Patient's symptoms resolved with treatment"
+    }
+}

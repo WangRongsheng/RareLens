@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ERCP (Endoscopic Retrograde Cholangiopancreatography)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Cannulation of the biliary duct with a sphincterotome, pancreatic stent placed",
+            "treatment_response": "Improved drainage of pus and debris noted endoscopically"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ceftriaxone and Flagyl",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Ceftriaxone and Flagyl administered during hospitalization",
+            "treatment_response": "Patient's pain was much improved"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "81 mg by mouth daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metoprolol Succinate XL",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg by mouth once a day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ciprofloxacin HCl",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg by mouth twice a day for 9 days",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with abdominal pain and nausea"
+        },
+        {
+            "date": "Not specified",
+            "event": "ERCP performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Antibiotics (ceftriaxone and flagyl) administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient's pain improved after treatment"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications prescribed including aspirin and metoprolol"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved and ready for discharge",
+        "follow_up_details": "Follow up with primary care doctor and surgeon for gallbladder removal in 6 weeks",
+        "complications": "Briefly in atrial fibrillation",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient is ambulatory and independent",
+        "patient_perspective": "Patient was pleased with care during hospitalization"
+    }
+}

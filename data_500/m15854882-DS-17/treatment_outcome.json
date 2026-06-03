@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Depakote",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500mg BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Olanzapine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10mg PO",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Rexulti (brexpiprazole)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4mg oral daily",
+            "treatment_response": "good efficacy"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Divalproex",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "750mg PO BID",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the ED with paranoia, disorganization, and agitation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was admitted to inpatient psychiatric service."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received Depakote 500mg and Olanzapine 10mg in the ED."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient's previous treatment with Rexulti was noted with good effects."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications included Divalproex 750mg BID."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improving, euthymic mood.",
+        "follow_up_details": "Follow up with all outpatient appointments as listed.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Not specified."
+    }
+}

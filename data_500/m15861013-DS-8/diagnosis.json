@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Esophagitis",
+        "differential_diagnosis": "Gastritis, Acute kidney injury secondary to dehydration",
+        "diagnostic_reasoning": "The patient presented with atypical chest pain and was evaluated for potential cardiac issues, which were ruled out through normal exercise stress test and echocardiogram results. The upper GI endoscopy revealed esophagitis and gastritis, which explained the patient's symptoms of heartburn and upset stomach. Additionally, the acute kidney injury was attributed to dehydration."
+    }
+}

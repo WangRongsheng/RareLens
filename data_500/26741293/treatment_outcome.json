@@ -1,0 +1,91 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "hearing aid",
+            "specific_treatment": "hearing aids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "marginally helpful"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "cochlear implant",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "successful, able to hear and function well"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "insulin",
+            "start_date": "age 34",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "systemic corticosteroids",
+            "start_date": "Not specified",
+            "end_date": "2 weeks",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "no improvement in hearing loss"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "exploratory tympanotomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "no perilymphatic fistula or other explanation found"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "statins",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "triggered episode of rhabdomyolysis"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "age 13",
+            "event": "bilateral hearing loss diagnosed"
+        },
+        {
+            "date": "age 28",
+            "event": "progressive hearing loss began"
+        },
+        {
+            "date": "age 34",
+            "event": "insulin-dependent diabetes mellitus diagnosed"
+        },
+        {
+            "date": "age 36",
+            "event": "sudden, enduring deafness in left ear; systemic corticosteroids administered for 2 weeks"
+        },
+        {
+            "date": "age 36",
+            "event": "exploratory tympanotomy performed"
+        },
+        {
+            "date": "age 50",
+            "event": "visual acuity and color vision normal; bilateral visual field loss noted"
+        },
+        {
+            "date": "age 56",
+            "event": "increasing difficulties with vision, particularly with head movement; dynamic visual acuity worse than J15"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "progressive central and peripheral nervous system dysfunction",
+        "follow_up_details": "Not specified",
+        "complications": "rhabdomyolysis triggered by statins",
+        "long_term_prognosis": "encephalopathy and stroke-like episodes have not occurred",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "difficulties with vision interfered with ability to read, particularly with head movement",
+        "patient_perspective": "Not specified"
+    }
+}

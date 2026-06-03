@@ -1,0 +1,148 @@
+{
+    "basic_information": {
+        "age": "38-week",
+        "gender": "Male",
+        "weight": "3300 g",
+        "height": "49 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Micrognathia and severely restricted mouth opening",
+        "history_of_present_illness": "At 3 days of age the infant was transferred for ongoing management. Nasogastric feeding was commenced and elective tracheostomy performed on the fifth day of life for marked desaturations while in the prone position.",
+        "past_medical_history": "Karyotyping, echocardiogram, head ultrasound, renal ultrasound and EEG were normal. Facial CT demonstrated a symmetrical but hypoplastic mandible, with obtuse mandibular angles and normal mandibular condyles.",
+        "family_history": "The parents were unrelated but the mother and maternal relatives had phenotypes consistent with VWS.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Apgar scores at 1 and 5 minutes were 5 and 9, respectively. Birth weight was 3300 g (53rd centile), length 49 cm (50th centile), and head circumference 32 cm (<10th centile). Micrognathia and severely restricted mouth opening was noted on physical examination; the maximum intergum distance was 2 mm.",
+        "specialty_examination": "Examination under anesthesia (EUA) was performed at 1 month of age. There was no improvement in mandibular mobility with muscle relaxant, and no cause was found for the rigid obstruction to mouth opening. Over subsequent weeks intraoral adhesions between the maxilla and mandible became evident on examination."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Karyotyping",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound scans",
+            "date": "20 and 36 weeks’ gestation",
+            "findings": "No abnormalities",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Facial CT",
+            "date": "Not specified",
+            "findings": "Symmetrical but hypoplastic mandible, with obtuse mandibular angles and normal mandibular condyles. Bony defect of the hard palate and a defect of the soft palate",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Unremarkable, demonstrating no evidence of masseteric or temporalis scarring or banding",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Head ultrasound",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal ultrasound",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EEG",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Examination under anesthesia (EUA)",
+            "date": "1 month of age",
+            "findings": "No improvement in mandibular mobility with muscle relaxant, and no cause was found for the rigid obstruction to mouth opening",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EUA and lysis of intraoral adhesions",
+            "date": "14 weeks of age",
+            "findings": "Mouth opening was 3 mm preoperatively and 6 mm following diathermy division of the soft tissue adhesions. The masseter muscles were tight bilaterally. The floor of mouth was abnormal, and the tongue was posteriorly displaced and protruding into the nasopharynx above the palate",
+            "changes_over_time": "At review 8 weeks later, the infant had a 30-mm interalveolar opening"
+        },
+        {
+            "procedure_name": "Tongue base advancement with a circummandibular Prolene suture",
+            "date": "8 months of age",
+            "findings": "Oral intake increased to the extent that nasogastric feeding was able to be ceased",
+            "changes_over_time": "The patient underwent successful elective decannulation of his tracheostomy at 12 months of age. The circummandibular suture was removed and the tongue remained in an anatomically normal position. Mouth opening is now normal"
+        },
+        {
+            "procedure_name": "Cleft palate repair",
+            "date": "18 months of age",
+            "findings": "Uncomplicated",
+            "changes_over_time": "No further difficulties with either feeding or airway"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Van der Woude syndrome (VWS) with congenital interalveolar synechiae and cleft palate",
+        "diagnostic_reasoning": "The diagnosis was based on the presence of congenital interalveolar synechiae, cleft palate, and a family history consistent with VWS. Physical examination revealed micrognathia and severely restricted mouth opening. Imaging studies confirmed the absence of masseteric or temporalis scarring or banding, and karyotyping, echocardiogram, head ultrasound, renal ultrasound, and EEG were normal, ruling out other potential causes."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "elective tracheostomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed on the fifth day of life for marked desaturations while in the prone position"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "lysis of intraoral adhesions",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Diathermy division of the soft tissue adhesions"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "passive movements",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Commenced postoperatively"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "tongue base advancement with a circummandibular Prolene suture",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed at 8 months of age"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "elective decannulation of tracheostomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed at 12 months of age"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "cleft palate repair",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed at 18 months of age"
+        }
+    ]
+}

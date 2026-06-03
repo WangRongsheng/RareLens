@@ -1,0 +1,91 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "staples placed to right posterior head laceration",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient has a right posterior scalp laceration stapled, no significant complications noted."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Apixaban",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.5 mg PO BID",
+            "treatment_response": "No adverse reactions reported."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Amiodarone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "200 mg PO DAILY",
+            "treatment_response": "No adverse reactions reported."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Duloxetine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg PO DAILY",
+            "treatment_response": "No adverse reactions reported."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Furosemide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO DAILY",
+            "treatment_response": "No adverse reactions reported."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1000 mg PO Q6H: PRN pain",
+            "treatment_response": "Effective in pain management."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "TraMADOL",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg PO Q6H: PRN pain",
+            "treatment_response": "Effective in pain management."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with fall and multiple injuries."
+        },
+        {
+            "date": "Not specified",
+            "event": "Staples placed to right posterior head laceration."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started medications including Apixaban, Amiodarone, Duloxetine, and others."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient evaluated with regards to rib fractures, C6 nondisplaced fracture, and urinary tract infection."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged to Extended Care Facility."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused but alert and interactive, requires assistance for mobility.",
+        "follow_up_details": "Follow up appointment with Dr. ___ on ___ at 3PM.",
+        "complications": "No complications specified.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Requires assistance or aid (walker or cane) for mobility.",
+        "patient_perspective": "Not specified."
+    }
+}

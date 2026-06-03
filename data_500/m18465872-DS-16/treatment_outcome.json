@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ondansetron",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg Tablet, Rapid Dissolve PO Q4H as needed for nausea",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Tramadol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg Tablet PO Q6H as needed for abdominal & back pain",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Omeprazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg Capsule, Delayed Release PO DAILY",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Docusate Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg Capsule PO BID as needed for constipation",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Senna",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "8.6 mg Tablet PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Meclizine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "25 mg Tablet PO once a day as needed for dizziness",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Received IV fluids and medications for nausea and abdominal pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted for evaluation of acute renal failure"
+        },
+        {
+            "date": "Not specified",
+            "event": "Kidney biopsy performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged home with new medications and follow-up instructions"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Condition improved with decreasing creatinine levels and resolution of nausea",
+        "follow_up_details": "Follow-up appointments scheduled with nephrologists and rheumatologist",
+        "complications": "No complications",
+        "long_term_prognosis": "Unknown etiology for acute kidney injury; requires careful follow-up",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

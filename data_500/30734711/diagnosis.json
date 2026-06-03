@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Familial Medullary Thyroid Carcinoma (FMTC)",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis was confirmed through genetic testing which identified a pathogenic variant (RET c.1888T>A; p.Cys630Ser) in the RET proto-oncogene. The patient had a family history of medullary thyroid carcinoma (MTC), elevated calcitonin levels (1,605 pg/mL), and thyroid nodules with high suspicion of malignancy on ultrasound. Immunohistochemistry was positive for calcitonin, synaptophysin, CEA, and TTF-1, consistent with medullary thyroid carcinoma."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "68.1 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Dizziness and heart palpitations",
+        "history_of_present_illness": "Patient with HTN, HLP, prediabetes, CKD stage III, presents with palpitations, dizziness, and weakness, found to have atrial fibrillation. Last night around 5pm, patient noticed palpitations and lightheaded sensations, worsening after drinking coffee this morning. Previous episodes lasted several days with spontaneous resolution. Called EMS due to weakness and irregular pulse.",
+        "past_medical_history": "- HTN\n- HLP\n- Prediabetes, HbA1c 6.2%\n- CKD stage IIIA\n- Breast cancer s/p resection",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission vitals: T97.3, BP 125/54, HR 76, RR 18, O2 sat 99% RA. Pleasant, elderly, no acute distress.",
+        "specialty_examination": "Neurological: oriented, moves all extremities. Cardiac: Irregularly irregular, normal S1 S2, no murmurs."
+    }
+}

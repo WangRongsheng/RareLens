@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "total hip arthroplasty (THA)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Elective procedure for right hip osteoarthritis (OA)",
+            "treatment_response": "Patient tolerated the procedure and was in good spirits post-operatively."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Elective total hip arthroplasty (THA) performed due to right hip osteoarthritis not amenable to conservative treatment."
+        },
+        {
+            "date": "Not specified",
+            "event": "Medications prescribed including pain management and anticoagulation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged to extended care facility with specific follow-up instructions."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory but requires assistance (walker or cane)",
+        "follow_up_details": "Physical therapy recommended; partial weight bearing on right lower extremity.",
+        "complications": "Post-operative anemia",
+        "long_term_prognosis": "Patient is expected to improve with follow-up therapy.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Requires assistance for ambulation; overall mental status is clear and coherent.",
+        "patient_perspective": "Not specified"
+    }
+}

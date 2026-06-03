@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Anterior cervical discectomy and fusion at C7-T1",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Included anterior spacer, anterior instrumentation, autograft, and allograft",
+            "treatment_response": "Patient was intubated prior to MRI due to agitation; appeared neuro intact in ED"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient suffered a fall in group home"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was transferred to OSH for further management"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient intubated prior to MRI"
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery performed: Anterior cervical discectomy and fusion at C7-T1"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - requires assistance or aid (walker or cane)",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive.",
+        "patient_perspective": "Not specified"
+    }
+}

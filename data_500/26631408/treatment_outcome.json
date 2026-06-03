@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "hemodialysis",
+            "specific_treatment": "intensive hemodialysis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "three times a week",
+            "treatment_response": "parkinsonism gradually improved"
+        },
+        {
+            "treatment_type": "blood glucose control",
+            "specific_treatment": "strict blood sugar control",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "neurologic symptoms and newly developed lesion in the left parietal cortex and basal ganglia disappeared completely"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for both hand tremor and gait disturbance"
+        },
+        {
+            "date": "Not specified",
+            "event": "Intensive hemodialysis started"
+        },
+        {
+            "date": "3 weeks after admission",
+            "event": "Parkinsonism completely disappeared"
+        },
+        {
+            "date": "3 months after discharge",
+            "event": "Patient revisited for paroxysmal dystonic head tremor, dysphagia, hypophonia and gait disturbance"
+        },
+        {
+            "date": "Not specified",
+            "event": "Intensive hemodialysis and strict blood sugar control resumed"
+        },
+        {
+            "date": "3 weeks after second admission",
+            "event": "Neurologic symptoms and newly developed lesion in the left parietal cortex and basal ganglia disappeared completely"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "improved condition",
+        "follow_up_details": "Not specified",
+        "complications": "hemorrhagic transformation in both basal ganglia persisted",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "3 weeks after each admission",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

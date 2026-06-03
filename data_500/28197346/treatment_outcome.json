@@ -1,0 +1,135 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "G-CSF (filgrastim)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Initial improvement in neutropenic cycles, later refractory with shortened cycles and continued infections"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "PEGylated G-CSF",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Continued vulnerability to infections during nadirs"
+        },
+        {
+            "treatment_type": "transplant",
+            "specific_treatment": "Allogeneic bone marrow hematopoietic stem cell transplant",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 of 10 antigen matched unrelated donor",
+            "treatment_response": "Engraftment confirmed by day +14, 100% donor chimerism at 2 months"
+        },
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "Conditioning chemotherapy (cyclophosphamide, fludarabine, anti-thymocyte globulin, low dose total body irradiation)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "200 cGy total body irradiation",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Methotrexate",
+            "start_date": "Day +1",
+            "end_date": "Day +11",
+            "dosage_or_details": "10 mg/m2 on days +1, +3, +6, and +11",
+            "treatment_response": "Part of GvHD prophylaxis"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Cyclosporine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "120 to 150 mg BID, goal trough level 200-250",
+            "treatment_response": "Part of GvHD prophylaxis"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Short-term course",
+            "treatment_response": "Responded to engraftment syndrome with mild tachypnea and generalized rash"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Steroids, calcineurin inhibitors, cellcept, budesonide, infliximab",
+            "start_date": "Day +53",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Grade IV GI GvHD progressed despite treatment"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Subtotal colectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Due to perforation of the cecum",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Diagnosed with CyN at age one"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started G-CSF (filgrastim) treatment"
+        },
+        {
+            "date": "Not specified",
+            "event": "Switched to PEGylated G-CSF"
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent testing for ELANE mutation and Periodic Fever Syndromes Panel"
+        },
+        {
+            "date": "Not specified",
+            "event": "Bone marrow biopsy performed"
+        },
+        {
+            "date": "Day -5 to Day -2",
+            "event": "Conditioning chemotherapy administered"
+        },
+        {
+            "date": "Day 0",
+            "event": "Allogeneic BMT performed"
+        },
+        {
+            "date": "Day +1 to Day +11",
+            "event": "Methotrexate administered for GvHD prophylaxis"
+        },
+        {
+            "date": "Day +14",
+            "event": "Engrafted for neutrophils and platelets"
+        },
+        {
+            "date": "Day +20",
+            "event": "Discharged from hospital with no evidence of GvHD"
+        },
+        {
+            "date": "Day +53",
+            "event": "Admitted with severe diarrhea, diagnosed with grade IV GI GvHD"
+        },
+        {
+            "date": "Day +128",
+            "event": "Patient died of respiratory failure and septic shock"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Deceased",
+        "follow_up_details": "Initially seen weekly, then every two weeks for normal follow-up appointments until day +53",
+        "complications": "Neutropenic fever, engraftment syndrome, grade IV GI GvHD, pneumatosis cystoids intestinalis, acute serositis, focal microperforation, perforation of the cecum, respiratory failure, septic shock",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Engrafted by day +14, discharged by day +20",
+        "quality_of_life": "Deteriorating prior to transplant, initially improved post-transplant but later severe complications",
+        "patient_perspective": "Voiced unhappiness due to deteriorating quality of life prior to transplant"
+    }
+}

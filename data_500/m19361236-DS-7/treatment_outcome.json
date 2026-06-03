@@ -1,0 +1,91 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "morphine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg IV x1",
+            "treatment_response": "Pain control provided"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ativan",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 mg IV x1",
+            "treatment_response": "Sedation provided"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "percocet",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 tabs",
+            "treatment_response": "Pain control provided"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "diazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg PO x 1",
+            "treatment_response": "Sedation provided"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO PRN pain",
+            "treatment_response": "Pain control provided"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "oxycodone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg PO Q6H PRN pain",
+            "treatment_response": "Pain control provided upon discharge"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted to the ED after assault"
+        },
+        {
+            "date": "Not specified",
+            "event": "Morphine 5mg IV administered for pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Ativan 1mg IV administered for sedation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Percocet 2 tabs administered for pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Diazepam 5mg PO administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Observation for increasing pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home with new medications including oxycodone"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive; independent ambulation",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Pain should improve over time as body heals",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient was treated for pain control and was alert despite the injuries"
+    }
+}

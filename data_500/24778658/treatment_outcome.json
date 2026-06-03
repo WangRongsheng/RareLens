@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "carboplatinum and etoposide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "dramatic neurologic deterioration occurred, resulting in a comatose state necessitating endotracheal intubation, sedation, and transfer to the intensive care unit"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "high dose corticosteroids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "patient developed severe and progressive encephalopathy despite treatment"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "chemotherapy commenced using the combination of carboplatinum and etoposide with intravenous corticosteroids"
+        },
+        {
+            "date": "Not specified",
+            "event": "dramatic neurologic deterioration occurred, resulting in a comatose state necessitating endotracheal intubation, sedation, and transfer to the intensive care unit"
+        },
+        {
+            "date": "Not specified",
+            "event": "patient died 10 days later due to severe and progressive encephalopathy"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "deceased",
+        "follow_up_details": "Not specified",
+        "complications": "severe and progressive encephalopathy",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

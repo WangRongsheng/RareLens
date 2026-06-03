@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Levofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "750mg",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Morphine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2mg",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Tylenol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1g",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "fluid management",
+            "specific_treatment": "Normal Saline",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2L",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to ED with fever and right flank pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Received 2L Normal Saline in ED."
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered 2mg Morphine in ED."
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered 1g Tylenol in ED."
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered 750mg Levofloxacin in ED."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "afebrile",
+        "follow_up_details": "Follow up with primary care physician next week for complete blood count and diabetes management.",
+        "complications": "No complications",
+        "long_term_prognosis": "Monitor regularly with nephrologist and manage diabetes.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

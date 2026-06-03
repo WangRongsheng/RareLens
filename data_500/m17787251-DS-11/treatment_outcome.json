@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Levofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO Q24H for 5 days",
+            "treatment_response": "Patient recovered and showed no signs of alcohol withdrawal."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Amlodipine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg PO daily",
+            "treatment_response": "Patient recovered and showed no signs of alcohol withdrawal."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted to ED for Etoh intoxication and pneumonia."
+        },
+        {
+            "date": "Not specified",
+            "event": "Levofloxacin treatment started."
+        },
+        {
+            "date": "Not specified",
+            "event": "Amlodipine prescription given."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with instructions."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Fully recovered",
+        "follow_up_details": "Follow up with primary doctor recommended for blood pressure management.",
+        "complications": "No complications",
+        "long_term_prognosis": "Patient advised to stop/reduce smoking and alcohol use to improve long-term health.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient was clear and coherent upon discharge."
+    }
+}

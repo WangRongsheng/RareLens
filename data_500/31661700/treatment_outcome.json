@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgical correction",
+            "specific_treatment": "hypospadias correction",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "hormone therapy",
+            "specific_treatment": "testosterone supplementation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "regular protocol for hypergonadotropic hypogonadism in males",
+            "treatment_response": "gynecomastia and elevated gonadotropic hormone and estradiol levels regressed owing to the negative feedback regulation"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "surgical correction of hypospadias for both patients"
+        },
+        {
+            "date": "Not specified",
+            "event": "testosterone supplementation started for patient 1"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "patient 1 responded well to testosterone supplementation; patient 2 is still in prepubertal age and does not yet receive hormone therapy",
+        "follow_up_details": "both children undergo regular endocrinological control",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

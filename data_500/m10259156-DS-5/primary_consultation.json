@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Scalp defect s/p spindle cell CA of scalp",
+        "history_of_present_illness": "___ male with history of spindle cell cancer on his head who now has an open scalp wound. The patient initially underwent removal of spindle cell tumor in late ___ in ___, ___. The site was skin grafted at that time; however, the patient subsequently underwent radiation therapy, at which time the skin graft essentially died. Therefore, attempt was made at skin flap. The wide local advancement operation to close the wound was also done at an outside hospital. Unfortunately, these skin flaps necrosed. The patient has lived with resultant defect for approximately one year in total since the time of his initial spindle cell operation and radiation treatment. The patient reports no fevers or chills. He reports no drainage. He denies any drainage noted from the sites.",
+        "past_medical_history": "Triple bypass in ___, removal of spindle cell tumor as mentioned in ___, status post skin graft, radiation treatment starting on ___. He had a squamous cell cancer removed from his lip in ___. He had the wide local advancement flaps for his scalp wound in ___. He had debridement of his scalp in ___ at an outside hospital.",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Pulse: 62/min Resp: 16/min BP: 140/60 O2sat: 98% RA Temp: 97.9 F. Fit appearing elderly man in NAD. Mental/psych: calm, alert. Cranial nerves grossly intact. No thyromegaly or cx LAD.",
+        "specialty_examination": "Bil ankles without edema. Mod bil dp and pt. Heart: RRR, no murmur. Lungs: clear to auscultation. Abdomen: soft, nontender, no bruits."
+    }
+}

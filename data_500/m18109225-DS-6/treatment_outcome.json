@@ -1,0 +1,91 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Keppra",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg PO BID",
+            "treatment_response": "Patient forgot to take both doses on the day of presentation; reports good compliance with medications otherwise."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ativan",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "8mg administered in ER",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Versed",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4mg administered in ER",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Dilantin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 g administered prior to arrival",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lacosamide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO BID",
+            "treatment_response": "Found to be stable and prescribed at discharge"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Divalproex",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1500 mg PO BID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lorazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.5-1 mg PO Q4H PRN seizure",
+            "treatment_response": "Instructed to avoid alcohol or driving due to sedation risk."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient diagnosed with grade 2 glioma and commenced on temozolomide."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient presented with seizures; medications adjusted."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient administered Ativan and Versed in ER."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient administered 1 g Dilantin prior to arrival."
+        },
+        {
+            "date": "Not specified",
+            "event": "Follow-up medications prescribed at discharge: Lacosamide and Divalproex."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged in clear and coherent mental status; ambulatory and independent.",
+        "follow_up_details": "Follow up with physician recommended.",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient remains ambulatory and independent.",
+        "patient_perspective": "Patient emphasizes the importance of medication compliance to prevent seizures."
+    }
+}

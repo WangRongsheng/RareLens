@@ -1,0 +1,18 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "The patient died at the age of 3 years and 2 months.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Marked muscle weakness since birth with only mild improvement over time and ongoing respiratory insufficiency requiring mechanical ventilation.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "death",
+            "time_period": "mid_term",
+            "evidence_excerpt": "The patient died at the age of 3 years and 2 months (approximately 12 months after the diagnostic evaluation at 26 months)."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time approximated as the diagnostic workup at 26 months (muscle biopsy and exome sequencing). Longitudinal details between index and death are limited; cause of death not specified."
+}

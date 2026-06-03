@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Planned blinatumomab initiation",
+        "history_of_present_illness": "___ y/o female with h/o sarcoid, HTN, and T2DM who presented with facial numbness and found to have Ph+ ALL (normal cytogenetics) with CNS involvement. She was initially treated with steroids and desatinib. Once she achieved hematologic remission d/c home with ongoing treatment. On bone marrow biopsy on D+ 23 consistent with remission. Induction complicated by depression/anxiety, and uncontrolled DM requiring insulin. HLA typing done without matched unrelated donor found. TKI maintenance changed from dasatinib to nolotinib 400mg BID when PCR became detectable and developed recurrent pleural effusions and planned to start blinatumomab. Most recent PCR undetectable. Initially was coming for planned admission for blinatumomab, but given increase in indirect bilirubin (known side effect of nolotinib) will hold TKI for now and decide on blinatumomab moving forward. Overall has been fatigued and has had mild rib pain that she attributes to her pleural effusions, for which she has had multiple thoracenteses. She did mention that she had abdominal pain in the past that radiated to her chest area, which was thought to be gallstones. Otherwise, she has mild SOB with stairs, but can walk ~1 mile on flat ground. She also has a dry cough, but denies fevers or chills. She also denies N/V/D/C.",
+        "past_medical_history": "HTN, DM, HL, Sarcoid",
+        "family_history": "Mother and father had strokes and cardiac disease, brother died of head/neck cancer and his grandson had AML",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 125/70 BP, 65 HR, 17 RR, 98.2 Temp. Gen: Pleasant, calm. HEENT: No conjunctival pallor. No icterus. MMM. OP clear. NECK: JVP not appreciated at 90 degrees. LYMPH: No cervical or supraclav LAD. CV: Normocardic, regular. Normal S1,S2. ___ systolic murmur best heard at ___. LUNGS: No increased WOB. CTAB. No wheezes, crackles, or rhonchi.",
+        "specialty_examination": "Neuro: A&Ox3. Strength ___ in all muscle groups. CN2-XII intact. Moving all extremities with normal cerebellar exam and tests of attention."
+    }
+}

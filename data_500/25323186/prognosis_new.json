@@ -1,0 +1,59 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "At last follow-up, she can walk independently using a 7 cm shoelift; the right hip is well-reduced, but there is recurrence of equinovarus deformity needing additional surgical correction and persistent leg length discrepancy/hypotrophy.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "functional_status_evidence": "Independent ambulation with a 7 cm shoelift; leg length discrepancy (partly due to pelvic obliquity), hypotrophy of the right lower limb, and a stiff foot indicate ongoing functional limitation.",
+        "symptom_burden": "persistent_mild",
+        "symptom_burden_evidence": "Recurrence of equinovarus deformity requiring further correction and foot stiffness, though active toe movements are possible."
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "De-tethering was performed in the 1st year of life."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Complete peritalar release for neurogenic right clubfoot performed at age 1."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Open reduction of the right hip at age 2, with femoral osteotomy and Pemberton acetabuloplasty."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "21-08-2012: Resection of L3-4-5 hemivertebrae and posterior fusion L2–S1; spica cast applied."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Hardware (plates and K-wires) removed 8 months later (July 2013)."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At last follow-up, the girl can walk independently using a shoelift of 7 cm."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "The right hip joint is still well-reduced."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Recurrence of equinovarus deformity of the right foot, needing additional surgical correction."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Leg length discrepancy and hypotrophy of the right lower limb observed after surgery."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The exact timing of definitive diagnosis is not documented; diagnosis of hemimyelomeningocele and spondylocostal dysplasia was established early, prior to multiple surgeries. Time-period categorizations are approximate relative to inferred early diagnosis. No explicit quality-of-life scales were reported; functional status and symptom burden were inferred from clinical descriptions."
+}

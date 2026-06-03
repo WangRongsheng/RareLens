@@ -1,0 +1,139 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "tumor and cystic wall removal",
+            "start_date": "1993-08",
+            "end_date": "1993-08",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "patient’s symptoms subsequently improved"
+        },
+        {
+            "treatment_type": "radiation",
+            "specific_treatment": "cranial radiation",
+            "start_date": "1993-08",
+            "end_date": "Not specified",
+            "dosage_or_details": "66 Gy",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "nimustine and methotrexate",
+            "start_date": "1993-08",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ventriculoperitoneal shunt placement",
+            "start_date": "1994",
+            "end_date": "1994",
+            "dosage_or_details": "Pudenz catheter without a filter",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "tumor lesion resection",
+            "start_date": "1994-12",
+            "end_date": "1994-12",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "rebutted by the pathological finding that the resected specimen was totally composed of necrotic tissue"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ventriculoperitoneal shunt exchange",
+            "start_date": "1994-12",
+            "end_date": "1994-12",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "spinal tumor partial resection",
+            "start_date": "1995-05",
+            "end_date": "1995-05",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "radiation",
+            "specific_treatment": "spinal tumor irradiation",
+            "start_date": "1995-05",
+            "end_date": "Not specified",
+            "dosage_or_details": "61.2 Gy",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "procarbazine, nimustine, vincristine and interferon",
+            "start_date": "1995-05",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ventricular drainage and ventriculoatrial shunt",
+            "start_date": "1995-09",
+            "end_date": "1995-09",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "ascitic fluid continued to accumulate and eventually became progressively worse"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "1993-08",
+            "event": "Admitted to hospital due to disorientation and a general seizure; tumor detected in the right frontal lobe"
+        },
+        {
+            "date": "1993-08",
+            "event": "Tumor and cystic wall removed surgically; symptoms improved"
+        },
+        {
+            "date": "1993-08",
+            "event": "Cranial radiation (66 Gy) and local chemotherapy (nimustine and methotrexate) started"
+        },
+        {
+            "date": "1994",
+            "event": "Readmitted due to gait disturbance and dementia; ventriculoperitoneal shunt placed"
+        },
+        {
+            "date": "1994-12",
+            "event": "New mass lesion found in the left frontal lobe; resected surgically"
+        },
+        {
+            "date": "1994-12",
+            "event": "Ventriculoperitoneal shunt exchanged"
+        },
+        {
+            "date": "1995-05",
+            "event": "Gait disturbance exacerbated; spinal tumor found and partially resected"
+        },
+        {
+            "date": "1995-05",
+            "event": "Spinal tumor irradiation (61.2 Gy) and chemotherapy (procarbazine, nimustine, vincristine and interferon) started"
+        },
+        {
+            "date": "1995-09",
+            "event": "Conscious disturbance deteriorated; severe ascites noted"
+        },
+        {
+            "date": "1995-09",
+            "event": "Ventricular drainage and ventriculoatrial shunt performed"
+        },
+        {
+            "date": "1995-10-15",
+            "event": "Patient died"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "deceased",
+        "follow_up_details": "Not specified",
+        "complications": "severe ascites, conscious disturbance",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

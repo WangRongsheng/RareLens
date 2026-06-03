@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oseltamivir",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "75 mg by mouth every twelve hours",
+            "treatment_response": "Patient stated that he is not feeling well but better than when he first came to the ED. He says that his left upper extremity weakness has improved."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Tylenol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "___ mg",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV Normal Saline",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2L initially, then 1.5L",
+            "treatment_response": "Patient on nasal cannula with O2Sats 95-100."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Albuterol nebulization",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 treatment",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ipratropium nebulization",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 treatment",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with fever, weakness, and cough."
+        },
+        {
+            "date": "Not specified",
+            "event": "Flu A PCR positive."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received IV Normal Saline 2L."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received Oseltamivir 75 mg."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient transferred to the floor with improved symptoms."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improving but not fully recovered.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient is ambulatory with assistance (walker or cane).",
+        "patient_perspective": "Patient stated he is not feeling well but better than when he first came to the ED."
+    }
+}

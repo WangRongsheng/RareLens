@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pneumonia",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with fever (101.2°F) and subtle left lower opacity noted on chest X-ray, which led to the thought of pneumonia. The patient was started on Levofloxacin before admission, indicating clinical suspicion of pneumonia."
+    }
+}

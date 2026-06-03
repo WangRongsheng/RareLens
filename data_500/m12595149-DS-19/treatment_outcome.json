@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lopressor (Metoprolol)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15 mg IV administered in ED",
+            "treatment_response": "Hypertension treated with resolution of headache"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Levofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Admitted for workup of new pleural effusion"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lorazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.5 mg given once",
+            "treatment_response": "BP rechecked, still elevated"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Endotracheal intubation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient was intubated due to difficulty breathing"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with headache and hypertension"
+        },
+        {
+            "date": "Not specified",
+            "event": "Lopressor IV (15 mg) administered in ED"
+        },
+        {
+            "date": "Not specified",
+            "event": "Levofloxacin given and patient admitted"
+        },
+        {
+            "date": "Not specified",
+            "event": "Intubated in ICU for difficulty breathing"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable",
+        "follow_up_details": "Not specified",
+        "complications": "Acute kidney injury on chronic kidney disease",
+        "long_term_prognosis": "BP management required; labile due to renal artery narrowing",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient able to perform household chores, but noted some limitations due to dyspnea",
+        "patient_perspective": "Asymptomatic despite elevated blood pressure; expressed anxiety"
+    }
+}

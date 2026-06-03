@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "At the age of 27 she died of acute bronchopneumonia after a 6-year history of progressive neurodegeneration.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Persistent visual and auditory hallucinations and paranoia with facial, cervical and limb dystonia, spasticity, ataxic gait; symptoms progressed.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Drug therapy with neuroleptics led to a deterioration of the paranoid symptoms and mobility and was therefore discontinued."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "In the following year the symptoms progressed and she became bedridden."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "Developed acute bronchopneumonia (reported as cause of death)."
+        },
+        {
+            "event_type": "death",
+            "time_period": "long_term",
+            "evidence_excerpt": "At the age of 27 she died of acute bronchopneumonia."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Exact diagnosis date is not explicitly documented; index time approximated to when MRI showed decreased T2 signal in globus pallidus/substantia nigra supporting NBIA-1 (around age 25). Event timings are categorized approximately relative to this reference."
+}

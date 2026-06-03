@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "rifaximin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "550 mg PO/NG TID",
+            "treatment_response": "stools were somewhat more formed"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Started on rifaximin for empiric treatment of small intestinal bacterial overgrowth"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient completed therapy with rifaximin"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged home with ongoing medications"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Continue follow-up appointments with primary doctor, gastroenterologist, and diabetes management doctor.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient was informed about his condition and treatment during discharge."
+    }
+}

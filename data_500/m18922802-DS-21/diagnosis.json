@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pancreatic adenocarcinoma",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with increased epigastric and upper abdominal pain, and a CT scan indicated that the pain is likely due to pancreatic cancer. A cardiac work-up was conducted which did not reveal a cardiac source for the pain."
+    }
+}

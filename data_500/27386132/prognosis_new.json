@@ -1,0 +1,18 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "She was prescribed growth hormone with good response, and by 11 years 3 months her growth parameters were within mid-percentiles; however, mild cognitive delays persisted with overall intelligence in the low-average range.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Ongoing mild cognitive delays and hypertrophic scarring are noted; atrial septal defect never required intervention and growth improved with therapy.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "She was prescribed growth hormone with good response. At 11 years 3 months, weight 38.8 kg (55th centile), height 145.1 cm (45th centile), head circumference 52 cm (25th centile)."
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "The exact date of EP300 diagnosis via WES is not provided; first genetics specialist visit at age 9 is used as the reference. Some improvements (growth hormone initiation at age 8) predate the reference, but documented improved growth at 11 years occurred after the reference. Follow-up beyond age 11 is not available, and the causative nature of the EP300 variant is noted as somewhat speculative by authors."
+}

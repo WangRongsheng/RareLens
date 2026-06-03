@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ERCP",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Single balloon ERCP to evaluate for a dominant stricture to dilate.",
+            "treatment_response": "The procedure was tolerated well."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1000 mg IV Q 12H",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ertapenem",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 gram injection daily",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient underwent ERCP to evaluate for a dominant stricture."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was admitted for observation post-procedure."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was treated with antibiotics including Vancomycin and Ertapenem."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive, ambulatory - independent.",
+        "follow_up_details": "Please follow-up with your doctors as listed below.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Patient tolerated the procedure well and advanced diet."
+    }
+}

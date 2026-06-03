@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "shortness of breath",
+        "history_of_present_illness": "Mr. ___ is a ___ yo M with PMH notable for hyperlipidemia, HTN, CKD, poorly-controlled DM, and blindness since childhood who presents with hypertensive urgency and new shortness of breath. The patient was in his usual state of health until 2 weeks ago, when he developed a cold that featured coryza and non-productive cough. The patient developed shortness of breath at the same time, particularly with lying flat, but this improved until last night, when the patient noted increased dyspnea while lying flat in bed, causing him to present to the emergency room. He denies chest pain or dizziness/lightheadedness. He denies orthopnea, PND, or orthopnea at baseline but has had all of these symptoms during the past 2 weeks. No fevers, chest pains, palpitations, or prior CVAs or MIs. Despite elevated BPs he denies headache. The patient reports that his systolic blood pressure generally runs in the 200s at home, although sometimes it is as low as 160. He is noncompliant with his medications and appointments. He has not seen a doctor for over a year, and he has not been on any medications for several months.",
+        "past_medical_history": "1. Diabetes, 2. Dyslipidemia, 3. Hypertension, 4. Nephrotic range proteinuria, 5. Diabetic foot ulcers, 6. Blindness (glaucoma at age ___), 7. Diabetic neuropathy, 8. CKD (prior Cr baseline ~1.5 in ___).",
+        "family_history": "No family history of early MI, otherwise non-contributory.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: BP 196/107, HR 87, RR 20, O2 sat 96% on 2L. General: WD/WN in NAD. Oriented x3. Mood, affect appropriate. Neck: Supple with JVP of 9-10 cm. Edema noted.",
+        "specialty_examination": "Lungs: Bibasilar rales. Cardiac: RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4. Abdomen: Soft, NTND. No HSM or tenderness. Extremities: Bilateral edema all the way up to back. Skin: 1.5-cm clean-based ulcer on sole of right foot."
+    }
+}

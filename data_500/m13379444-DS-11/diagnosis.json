@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Bacteremia",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient had infection in the blood, as indicated during hospital admission and treatment with antibiotics. This was inferred from the elevated white blood cell count, which indicated an infection."
+    }
+}

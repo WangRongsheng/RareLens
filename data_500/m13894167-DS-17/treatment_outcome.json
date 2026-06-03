@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "other",
+            "specific_treatment": "Continuous Bladder Irrigation (CBI)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Admitted to hospital"
+        },
+        {
+            "date": "Not specified",
+            "event": "Foley catheter placed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Continuous Bladder Irrigation (CBI) started"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home",
+        "follow_up_details": "Follow up with the surgeon is required",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

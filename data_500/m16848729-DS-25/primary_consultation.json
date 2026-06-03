@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "right heel ulcer",
+        "history_of_present_illness": "Patient is recently discharged after L external iliac stent and L iliofemoral endarterectomy with bovine pericardial patch angioplasty. She presents preoperatively for STSG to R heel ulcer, which developed from a pressure sore and became progressively worse with a necrotic base but no evidence of infection. VAC was placed over the wound upon last discharge, removed in clinic today. The patient reports that the wound appears more superficial and has healed significantly. Denies fevers/chills. Pain has been mild and associated with dressing changes.",
+        "past_medical_history": "Hypertension, Hyperlipidemia, Diabetes mellitus on insulin, Coronary artery disease s/p CABG, Paroxysmal atrial fibrillation on Coumadin, Cerebrovascular disease s/p bilateral carotid endarterectomies, s/p CVA, Peripheral vascular disease s/p stenting of the right external iliac artery and common femoral endarterectomy, s/p right toe amputation, s/p left iliofemoral endarterectomy, Atypical early-onset dementia, Possible obstructive sleep apnea, Chronic renal insufficiency.",
+        "family_history": "non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VSS. Neuro/Psych: Oriented x3, Affect slightly flat, NAD. Neck: supple, no masses, well-healed bilateral incisions. Skin: Donor thigh site clean and dry, nicely granulating pink tissue. Recipient site, right heel with VAC overlying graft, Groin with small open wound, pink and healing nicely. Heart: Regular rate and rhythm. Lungs: CTA bilat. Gastrointestinal: obese, +bs, no m/t/o. Extremities: mild bilateral edema.",
+        "specialty_examination": "Neurological: Not specified. Cardiovascular: Not specified. Skin: Wounds as described above."
+    }
+}

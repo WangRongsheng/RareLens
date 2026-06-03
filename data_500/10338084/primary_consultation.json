@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "53",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Japanese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Disorientation and a general seizure",
+        "history_of_present_illness": "A tumor lesion, which measured about 6 cm in diameter, was detected in the right frontal lobe by computerized tomography (CT) scans and magnetic resonance imaging (MRI). The tumor and its cystic wall was totally removed surgically and the patient’s symptoms subsequently improved. Histologically, the tumor was diagnosed as an anaplastic ganglioglioma. Following surgery, the patient was subjected to cranial radiation with 66 Gy and local chemotherapy with nimustine and methotrexate. One year after the first operation, the patient was readmitted to hospital because of gait disturbance and dementia. A ventriculoperitoneal shunt using a Pudenz catheter without a filter was placed in the lateral ventricle for the treatment of normal pressure hydrocephalus (10 cmH2O of cerebrospinal fluid pressure) with mild urinary incontinence.",
+        "past_medical_history": "Anaplastic ganglioglioma",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    }
+}

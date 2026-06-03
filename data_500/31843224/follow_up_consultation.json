@@ -1,0 +1,57 @@
+{
+    "basic_information": {
+        "age": "39",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "des lésions ombilicales et inguinales prurigineuses évoluant depuis 8 mois",
+        "history_of_present_illness": "Initialement pustuleuses ; les lésions confluent en plaques et prennent un aspect verruqueux violacé. Elles s’étendaient aux grandes lèvres génitales et à l’anus. Le signe de Nikolsky était négatif. La langue était papillomateuse. Des ganglions inguinaux centimétriques d’allure inflammatoire étaient présents. La biopsie vulvaire montrait une acantholyse avec des bulles intra épidermiques supra-basales. La recherche de papillomavirus humain (HPV) était négative. Des dépôts en résille d’IgG et de C3 étaient observés en immunofluorescence directe (IFD). Le taux d’anticorps anti-substance intercellulaire était élevé à 320 UI/mL.",
+        "past_medical_history": "sans antécédents",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Le signe de Nikolsky était négatif. La langue était papillomateuse. Des ganglions inguinaux centimétriques d’allure inflammatoire étaient présents."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Biopsy vulvaire",
+            "date": "Not specified",
+            "findings": "Acantholyse avec des bulles intra épidermiques supra-basales",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Recherche de papillomavirus humain (HPV)",
+            "date": "Not specified",
+            "findings": "Négative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunofluorescence directe (IFD)",
+            "date": "Not specified",
+            "findings": "Dépôts en résille d’IgG et de C3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Taux d’anticorps anti-substance intercellulaire",
+            "date": "Not specified",
+            "findings": "Élevé à 320 UI/mL",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [
+        {
+            "procedure_name": "Examen clinique",
+            "date": "Not specified",
+            "findings": "Lésions ombilicales et inguinales prurigineuses évoluant depuis 8 mois, initialement pustuleuses, confluant en plaques et prenant un aspect verruqueux violacé. Extension aux grandes lèvres génitales et à l’anus. Signe de Nikolsky négatif. Langue papillomateuse. Ganglions inguinaux centimétriques d’allure inflammatoire.",
+            "changes_over_time": "Affaissement des lésions noté après 10 semaines de traitement et blanchiment obtenu après 17 mois. Aucune rechute rapportée au cours des 24 mois de suivi."
+        }
+    ]
+}

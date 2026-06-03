@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Omeprazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg PO daily",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metoprolol Succinate XL",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "25 mg PO QHS",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Amoxicillin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "7 days",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Doxycycline",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "7 days",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "procedure",
+            "specific_treatment": "ICD placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for evaluation"
+        },
+        {
+            "date": "Not specified",
+            "event": "ICD placement performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started medication with Omeprazole 20 mg"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started medication with Metoprolol Succinate XL 25 mg"
+        },
+        {
+            "date": "Not specified",
+            "event": "Diagnosed with pneumonia and treated with Amoxicillin and Doxycycline"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved",
+        "follow_up_details": "Follow-up with interventional pulmonology for fluid around lung",
+        "complications": "Unstable polymorphic ventricular tachycardia",
+        "long_term_prognosis": "Uncertain due to underlying cancer and cardiac disease",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "procedure",
+            "specific_treatment": "colonoscopy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Three sessile non-bleeding polyps of benign appearance, a 1 cm adenoma polyp found, biopsies taken of rectal ulcer.",
+            "treatment_response": "Findings included polyps and a rectal ulcer; biopsies were sent for histology."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Administered for UTI."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "blood transfusion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Monitored closely, no further episodes of bleeding post-transfusion."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted due to blood in bowel movements."
+        },
+        {
+            "date": "Not specified",
+            "event": "Colonoscopy performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Ceftriaxone started for UTI."
+        },
+        {
+            "date": "Not specified",
+            "event": "Blood transfusion administered."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged to extended care facility."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory with assistance, mental status sometimes confused.",
+        "follow_up_details": "Follow up with Dr. ___ in GI clinic to schedule polyp removal and biopsy result follow-up.",
+        "complications": "No complications noted.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Requires assistance or aid for ambulation.",
+        "patient_perspective": "Patient was monitored closely and reported no further episodes of bleeding post-transfusion."
+    }
+}

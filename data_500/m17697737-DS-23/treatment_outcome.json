@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV Lasix",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg IV",
+            "treatment_response": "Improved calcium level and confusion"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Pamidronate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Improved calcium level and confusion"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Calcitonin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Improved calcium level and confusion"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with confusion and hypercalcemia"
+        },
+        {
+            "date": "Not specified",
+            "event": "IV fluids and medications administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Calcium level improved"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Confused - sometimes, but alert and interactive",
+        "follow_up_details": "Hospice services have been offered",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Ambulatory - Independent",
+        "patient_perspective": "Confusion likely from high calcium level, which improved with treatment"
+    }
+}

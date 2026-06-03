@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "R breast ILC with positive axillary nodes",
+        "history_of_present_illness": "Ms. ___ is a ___ female with a strong family history of breast cancer and bloody nipple discharge. She reports no previous abnormalities until last ___, when she noted an enlarged right axillary lymph node after a systemic symptoms and hives. Diagnostic bilateral mammogram from ___ shows no suspicious masses or abnormalities. Ultrasound at this time noted oval horizontal lymph nodes measuring 1 cm in size in both axilla. Core biopsy of the enlarged right axillary lymph node on ___ was positive for metastatic carcinoma, likely mammary origin, ER positive PR positive HER-2 negative.",
+        "past_medical_history": "___ hypothyroidism, fibromyalgia, severe fatigue/chronic fatigue syndrome, sjorgens disease, hypertension. GYN History: Menarche at age ___, menstruation stopped with ablation in ___.",
+        "family_history": "Mom (age ___, 4 maternal aunts (all before age ___), maternal grandmother and maternal cousin with breast cancer. 1 maternal cousin with ovarian cancer and a maternal male cousin with an unknown cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals - Temp: 99.5, BP: 124/71, HR: 85, RR: 18, O2 sat: 96% O2 on RA. General: Well appearing, no acute distress.",
+        "specialty_examination": "NEURO: A&Ox3, no focal neurologic deficits."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "Persistent congenital maxillary/mandibular dysplasia with ongoing dental management plans (retain primary teeth, consider implants after puberty); no reported deterioration or major complications; facial palsy noted to be improving over time.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Homolateral hypopigmentation and facial palsy have persisted, with the palsy noted as improving over time; no severe symptom reports.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "functional_improvement",
+            "time_period": "unknown",
+            "evidence_excerpt": "Completed phase one of orthodontic treatment consisting of alignment of the anterior teeth."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "The palsy affecting the left cheek has been improving over time."
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "Exact diagnosis date and follow-up intervals are not provided. Functional impact and symptom severity are not explicitly detailed; classifications are inferred conservatively from the case narrative. Timing of orthodontic phase completion relative to index time is unclear, so classified as unknown."
+}

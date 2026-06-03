@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "10",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Student"
+    },
+    "medical_history": {
+        "chief_complaint": "Generalized tonic-clonic seizures during sleep and errors in Kanji writing tests",
+        "history_of_present_illness": "Onset of generalized tonic-clonic seizures during sleep at 10 years and 3 months of age, accompanied by increased errors in Kanji writing tests. Overnight EEG showed generalized 1-2-Hz continuous spikes and waves (CSW) dominant in the occipito-temporal region with a spike-wave index higher than 85%. MEG revealed dipoles clustering in and around the posterior inferior temporal cortex (PITC). Brain MRI was normal. Reduced uptake in the left posterior temporal lobe, including the PITC, was noted on CBF SPECT and 123I iomazenil SPECT. Treatment with sodium valproate, clonazepam, and acetazolamide markedly decreased CSW. ESES was controlled in 4 months, although spikes remained in the left occipital region. EEG normalized by 16 years of age with no recurrence of clinical seizures or epileptic discharges without antiepileptic drugs.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Neuropsychological testing at 10 years and 3 months of age showed full, verbal, and performance IQs of 95, 101, and 91, respectively. Scores for tests not requiring Kanji writing were consistent with his age. He had no problems in reading Kana, converting written Kanjis to Kana, and dictating in Kana after listening to a word. He had no problems in copying, reading aloud, and identifying Kanjis. However, his correct answer rates in Kanji writing tasks for third- and fourth-grade school children were 30% and 0%, respectively. His Kanji dysgraphia consisted of morphological, phonemic, and semantic errors."
+    }
+}

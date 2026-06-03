@@ -1,0 +1,87 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "methylprednisolone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "60 mg IV",
+            "treatment_response": "Patient reported feeling much improved, stated that the steroids helped her the most."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ipratropium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient reported feeling much improved."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "albuterol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient reported feeling much improved."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "lasix",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg IV",
+            "treatment_response": "Patient reported feeling much improved."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "azithromycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg",
+            "treatment_response": "Patient reported feeling much improved."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "hydralazine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg PO",
+            "treatment_response": "Patient reported feeling much improved."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "isorsorbide dinitrate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient reported feeling much improved."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with progressive dyspnea and underwent treatment."
+        },
+        {
+            "date": "Not specified",
+            "event": "Received multiple medications including methylpred 60mg, ipratropium, albuterol, 40mg IV lasix, azithro 500mg, and hydral 50mg PO."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient reported feeling much improved after receiving treatment."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged on a steroid taper regimen."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved",
+        "follow_up_details": "Patient should see pulmonologist before finishing the steroid course.",
+        "complications": "No complications",
+        "long_term_prognosis": "Good prognosis based on treatment response.",
+        "recovery_timeline": "Gradual improvement over the course of three days.",
+        "quality_of_life": "Improved quality of life as patient reported feeling much better.",
+        "patient_perspective": "Patient felt steroids helped the most and expressed relief from worsening respiratory status."
+    }
+}

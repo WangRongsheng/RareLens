@@ -1,0 +1,53 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "Chronic relapsing severe aplastic anaemia with platelet declines after cyclosporine taper (to 25 ×10^9/l in 1996 and to 49 ×10^9/l in 2001) requiring re‑initiation of cyclosporine; developed Graves’ disease treated with radioiodine.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Long-term course included hyperthyroid symptoms (palpitations, excessive sweating, poor weight gain) with exam showing tachycardia and exophthalmos; intermittent cytopenia relapses.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Transfusion independent by 6 weeks (Hb 8.2 g/dl, platelets 86 ×10^9/l, ANC 1.94 ×10^9/l)."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "After CSA taper in June 1996, platelet count fell to 25 ×10^9/l."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "CSA resumed in September 1996 at 12 mg/kg/day orally."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Responded with gradually increasing platelet counts (152 ×10^9/l in March 1998)."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "CSA discontinued in May 1999; CBC remained normal thereafter for a period."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "In April 2001 platelet count fell to 93 ×10^9/l; exam showed goitre, exophthalmos, tachycardia; Graves’ disease confirmed."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Treated with atenolol and 9.11 mCi of radioactive iodine (I-131)."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "CSA re‑instituted in September 2001 due to worsening platelet counts (49 ×10^9/l)."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Follow-up after radioiodine ablation and CSA re‑initiation (post‑September 2001) is not provided; sustained post-treatment symptom burden and functional status are not explicitly documented."
+}

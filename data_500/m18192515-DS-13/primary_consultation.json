@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "fever",
+        "history_of_present_illness": "___ yo M with hx of DM2, CKD, HTN, BPH presents with fever and one episode of R flank/abdominal pain. The patient notes the onset of dull, crampy right sided abdominal pain after eating breakfast on ___. The pain lasted for an hour and then spontaneously resolved. He states it was similar in character to his prior gallbladder pain before his cholecystectomy but much less severe. He then notes general malaise the rest of ___ and into ___. At around 3pm on ___ he developed shaking chills and some subjective SOB which resolved with the chills. He then presented to the ED. He denies HA, visual changes, nasal congestion, sore throat, cough, current SOB, DOE, CP, current abd. pain, N/V/D, focal weakness, or numbness. He does note increased urinary frequency and urgency for the last ___ days. He also notes a rash on his right flank that had been there for over a week that was intensely pruritic but not painful. Per his report, it had improved by now.",
+        "past_medical_history": "Diabetes, HTN, BPH, Benign L brain tumor s/p excision ___, VP shunt in place, CKD (Cr. 2.6) 2, HyperPTH and hypercalcemia s/p open ccy.",
+        "family_history": "Mother died at ___ years old of stomach cancer. Father died at ___ of bone cancer. He has no sisters. One brother died at ___ years with an MVA and his ___ brother is in good health. He has one daughter who is ___ in good health and one son who is ___ in good health.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: 98.1, 65, 128/68, 100% RA.",
+        "specialty_examination": "Neuro: CN II-XII intact bilaterally. Strength is ___ in upper and lower extremities and sensation to LT is intact bilaterally. No tremor/asterixis. A&Ox3. Gait deferred."
+    }
+}

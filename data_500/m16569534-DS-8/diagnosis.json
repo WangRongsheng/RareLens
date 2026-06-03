@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute cholecystitis",
+        "differential_diagnosis": "gangrenous cholecystitis",
+        "diagnostic_reasoning": "The diagnosis of acute cholecystitis was supported by a positive HIDA scan and abdominal ultrasound indicating cholelithiasis. Elevated WBC count and bilirubin levels, along with abdominal pain, further supported the diagnosis. Gangrenous cholecystitis was considered but not confirmed."
+    }
+}

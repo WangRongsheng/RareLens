@@ -1,0 +1,91 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "I&D with liner exchange",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Increased pain and swelling decreased after the procedure; well-appearing post-op."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "750 mg every 12 hours intravenously",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 grams intravenous every 24 hours",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "pain management",
+            "specific_treatment": "Oxycodone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg every 4 hours as needed for pain",
+            "treatment_response": "Pain well-controlled"
+        },
+        {
+            "treatment_type": "anticoagulation",
+            "specific_treatment": "Coumadin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.5 mg daily for 4 weeks; goal INR 2.0 - 2.5",
+            "treatment_response": "INR monitored; dose held due to INR of 2.7"
+        },
+        {
+            "treatment_type": "topical treatment",
+            "specific_treatment": "Clobetasol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Apply topically twice a day",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presents with increased pain and swelling 8 months post right TKA"
+        },
+        {
+            "date": "Not specified",
+            "event": "Aspiration performed demonstrating elevated WBC"
+        },
+        {
+            "date": "Not specified",
+            "event": "Decision made to proceed with I&D and liner exchange"
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery (I&D with liner exchange) performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on intravenous Vancomycin and Ceftriaxone"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on pain management with Oxycodone"
+        },
+        {
+            "date": "Not specified",
+            "event": "Anticoagulation therapy with Coumadin initiated"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - requires assistance or aid",
+        "follow_up_details": "Follow-up appointment to be scheduled in four weeks",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Mental status clear and coherent",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Normal Saline, Vancomycin, Zosyn, Ondansetron",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 cc NS; dosages for vancomycin, zosyn, and ondansetron not specified",
+            "treatment_response": "Patient was sleeping but arousable, reported being overwhelmed with recent events but did not remember what brought her to the hospital"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with syncope and hypoxia, emergency medical services called"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received treatment in the emergency department including blood pressure stabilization"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on Normal Saline, Vancomycin, Zosyn, and Ondansetron prior to transfer to the floor"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient transferred to the floor for monitoring"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discussion with family led to a decision against pacemaker placement"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient is to be discharged as family decided to take her home",
+        "follow_up_details": "Patient should keep follow-up appointments",
+        "complications": "Bilateral pulmonary emboli diagnosed",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient was comfortable and in no acute distress upon discharge",
+        "patient_perspective": "Patient expressed feeling overwhelmed with recent events and does not remember the hospitalization"
+    }
+}

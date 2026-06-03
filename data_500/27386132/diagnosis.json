@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Rubinstein–Taybi syndrome (RSTS) due to EP300 mutation",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis was confirmed through whole exome sequencing (WES) which revealed a heterozygous c.1948delA mutation in the EP300 gene. This mutation results in a frameshift and premature stop codon, predicted to cause loss of normal protein function. The patient's mild features, including short stature, mild cognitive delays, history of pilomatrixoma, and minor facial dysmorphia, were retrospectively found to fit some aspects of RSTS. The absence of notable skeletal findings, hirsutism, and microcephaly, along with normal IQ on repeated testing, suggested a milder phenotype associated with EP300 mutations, particularly as the mutation preserved the HAT domain of the protein."
+    }
+}

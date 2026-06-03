@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "seizure",
+        "history_of_present_illness": "These events started since s/p abuse. According to her mother and grandmother plus the patient, she blacks out turns her head to the right and has generalized shaking of all her extremities starting with her arms (unknown which one). She usually falls down, and drools w/o losing her sphincter control. Then she has a headache bifrontal of pressure quality lasting till she goes to bed. Initially her events were preceded by nausea, but her more recently seem to occur without any warning. She has been admitted to ___ where she reportedly underwent MRI of the brain as well and EEGs. These were normal according to her grandmother. According to her family and to Dr. ___, she received 48-hour EEG monitoring: she had clinical events that did not correlate with electrical activity. She has had no lesions as a consequence of her falls.",
+        "past_medical_history": "ADHD, bipolar disorder, asthma",
+        "family_history": "bipolar disorder in mother and alcohol and drug abuse. No hx of seizures.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "General: alert, awake, normal affect. Orientation: oriented to person, place, date, situation. Attention: Months of the year backwards +. Follows simple/complex commands. Speech/Language: fluent w/o paraphasic errors; comprehension, repetition, naming: normal. Reading intact. Memory: Registers ___ and Recalls ___ when given choices at 5 min. Praxis/ agnosia: Able to brush teeth. No field cuts. As per ER: Rectal tone preserved.",
+        "specialty_examination": "CN: I: not tested II,III: VFF to confrontation, PERRL 4mm to 2mm, fundi normal III,IV,VI: EOMI, no ptosis. No nystagmus V: sensation intact V1-V3 to LT VII: Facial strength intact/symmetrical VIII: hears finger rub bilaterally IX,X: palate elevates symmetrically, uvula midline XI: SCM/trapezeii ___ bilaterally XII: tongue protrudes midline, no dysarthria. Motor: Normal bulk. No tremor, no asterixis or myoclonus. No pronator drift. Delt;C5 bic: C6 Tri: C7 Wr ext: C6 Fing ext: C7 Left 5 5 5 5 5 Right 5 5 5 5 5 IP: L2 Quad: L3 Hamst: L4-S1 Dorsiflex: L4 ___ Pl. Left 5 5 5 5 5 5 Right 5 5 5 5 5 5 Deep tendon Reflexes: No clonus. Bicip: C5 Tric: C7 Brachial: C6 Patellar: L4 Toes: Right +2 2 2 3 DOWNGOING Left +2 2 2 3 DOWNGOING. Sensation: Intact to proprioception, and temperature. She reports a questionable decreased sensation to light touch at around T10 level, but vibration was preserved. Coordination: *Finger-nose-finger normal.*Rapid Arm Movements normal. *Fine finger tapping. *Gait/Romberg: normal."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Melena",
+        "history_of_present_illness": "This is a ___ year old man with alcoholic cirrhosis complicated with jaundice, ascites, ___ edema and encephalopathy, MELD score 27 in ___, no esophageal varices on EGD on ___, who presents to ___ ER with 7 episodes of melena over last two days as well as a tremor in his hands. Symptoms began the day prior to admission. He presented due to multiple black stools (7 in 24h) that are described as black, formed stools. He also reports new severe fatigue, lightheadedness, and 'hand twitching,' both with onset a day ago. He denies prior history of melena, he does report that he was recently started on iron supplementation a ___ ago. He denies fevers, chills, abdominal pain, confusion, CP, SOB, hematemesis or coffee-ground emesis.",
+        "past_medical_history": "Alcohol abuse, Depressive disorder, Lown Ganong ___ Syndrome (type of AVRT), HTN, Diverticulitis, Cirrhosis-alcoholic, Ostomy for diverticulitis (now removed)",
+        "family_history": "sister: cirrhosis",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Initial vitals: 98.0 F, BP 141/65, HR 92, RR 18, O2 Sat 100% RA. Notable for: A+Ox3, +asterixis.",
+        "specialty_examination": "Neuro: A+Ox3, able to perform days of the week backwards. +Asterixis."
+    }
+}

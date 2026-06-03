@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "NSTEMI",
+        "differential_diagnosis": "Afib with RVR",
+        "diagnostic_reasoning": "The patient presented with significant symptoms and a marked increase in hs-cTn levels indicative of cardiac injury, along with EKG findings of sinus bradycardia, RBBB, and T wave inversion, leading to the diagnosis of NSTEMI."
+    }
+}

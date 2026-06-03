@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "anterior glossectomy, bilateral neck dissection I-IV, free flap reconstruction, skin graft",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "s/p trach, anterior glossectomy with base of tongue preserved",
+            "treatment_response": "Stable post-operative status with good capillary refill and intact flap blood supply."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with facial pain and a lesion on the tongue."
+        },
+        {
+            "date": "Not specified",
+            "event": "Diagnosis of invasive squamous cell carcinoma confirmed by biopsy."
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgical procedures performed including glossectomy and reconstruction."
+        },
+        {
+            "date": "Not specified",
+            "event": "Post-operative care initiated with pain management and dietary instructions."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory and independent at discharge.",
+        "follow_up_details": "Surveillance recommended with follow-up in 6 months.",
+        "complications": "No complications",
+        "long_term_prognosis": "Pending further follow-up examination.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Mental status clear and coherent; able to interact.",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "magnesium oxide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "54 mg/kg/day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "nitrofurantoin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "methenamine hippurate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "up to 58 mg/kg/day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "cystoscopy and incomplete laser lithotripsy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "open lithotomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "creation of a vesicostomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "enalapril",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.5 mg daily",
+            "treatment_response": "Partial response to proteinuria"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "bethanechol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg thrice daily",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Age 3 years and 11 months",
+            "event": "Presented with status epilepticus due to profound hypomagnesemia"
+        },
+        {
+            "date": "Age 3 years and 11 months",
+            "event": "Started on magnesium oxide"
+        },
+        {
+            "date": "Age 5 years",
+            "event": "Seen by pediatric urology for recurrent urinary tract infections"
+        },
+        {
+            "date": "Age 5 years",
+            "event": "Placed on antibiotic prophylaxis (nitrofurantoin)"
+        },
+        {
+            "date": "Age 6 years",
+            "event": "MRI spine ruled out tethered cord or cord compression"
+        },
+        {
+            "date": "Age 7 years",
+            "event": "Diagnosed with large bladder calculus and left non-obstructing renal calculi"
+        },
+        {
+            "date": "Age 7 years",
+            "event": "Underwent cystoscopy and incomplete laser lithotripsy"
+        },
+        {
+            "date": "Age 7 years",
+            "event": "Underwent open lithotomy and creation of a vesicostomy"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Not specified",
+        "follow_up_details": "Repeat renal bladder ultrasound shows normal kidneys without hydronephrosis bilaterally and stable renal calculi on the left. The bladder is completely decompressed.",
+        "complications": "Recurrent urinary tract infections, seizures, bladder calculus, renal calculi, neurogenic bladder dysfunction, partial Fanconi syndrome",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

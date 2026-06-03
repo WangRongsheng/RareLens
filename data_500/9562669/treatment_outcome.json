@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "immunotherapy",
+            "specific_treatment": "intravenous human immunoglobulin (IVIg)",
+            "start_date": "1990",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.4 mg/kg for 5 days initially, then 2 g/kg over 2 days",
+            "treatment_response": "Subjective and objective improvement in strength that peaked by 2 weeks and was sustained for 4 months, when symptoms recurred. Subsequent treatments showed marked improvement in strength by 2 weeks. Deep tendon reflexes returned to normal, and the degree of partial motor conduction block declined."
+        },
+        {
+            "treatment_type": "immunosuppressive",
+            "specific_treatment": "azathioprine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Over a year",
+            "treatment_response": "Did not give additional benefit."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "1990",
+            "event": "First evaluated for 7 years of slowly progressive left foot drop, and 2 years of left hand weakness and frequent cramps."
+        },
+        {
+            "date": "1990",
+            "event": "Treated with 0.4 mg/kg of IVIg for 5 days."
+        },
+        {
+            "date": "1990",
+            "event": "Two days after treatment began, subjective and objective improvement in strength."
+        },
+        {
+            "date": "1990",
+            "event": "Symptoms recurred after 4 months."
+        },
+        {
+            "date": "1990",
+            "event": "Re-treated with 2 g/kg of IVIg over 2 days."
+        },
+        {
+            "date": "1990",
+            "event": "Marked subjective and objective improvement in strength by 2 weeks."
+        },
+        {
+            "date": "Not specified",
+            "event": "Continued to receive 2 g/kg of IVIg every few months, shortened to every 8 weeks, and finally to every 4 weeks."
+        },
+        {
+            "date": "Not specified",
+            "event": "Trial of azathioprine for over a year."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Functioning normally with sustained benefit from IVIg treatments.",
+        "follow_up_details": "Received over 60 IVIg treatments to date.",
+        "complications": "Transient headaches.",
+        "long_term_prognosis": "Remains focal-slow progression over many years.",
+        "recovery_timeline": "Improvement in strength peaked by 2 weeks and was sustained for 4 months initially.",
+        "quality_of_life": "Enabled her to function normally.",
+        "patient_perspective": "Not specified"
+    }
+}

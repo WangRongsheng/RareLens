@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV tPA",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient received IV tPA and was admitted to the ICU for further management."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with acute onset of headache and disorientation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received IV tPA."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was transferred to another facility for further evaluation and treatment."
+        },
+        {
+            "date": "Not specified",
+            "event": "Further imaging showed dissection in the right internal carotid artery."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on blood thinning medication (Coumadin)."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental status clear and coherent; level of consciousness alert and interactive.",
+        "follow_up_details": "Patient's PCP should monitor INR levels after discharge from rehab.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

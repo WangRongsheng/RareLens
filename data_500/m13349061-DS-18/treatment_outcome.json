@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Completed a course for a possible infection in the abdomen"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Sevelamer",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO TID with meals",
+            "treatment_response": "Continued at the time of discharge"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Nephrocaps",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Cap PO Daily",
+            "treatment_response": "Continued at the time of discharge"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Dialysis catheter replacement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Successful replacement during admission"
+        },
+        {
+            "treatment_type": "procedure",
+            "specific_treatment": "Paracentesis",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Fluid removal from abdomen",
+            "treatment_response": "Fluid in abdomen was successfully removed"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for workup of worsening ascites"
+        },
+        {
+            "date": "Not specified",
+            "event": "Fluid was removed via paracentesis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received a course of ceftriaxone for possible abdominal infection"
+        },
+        {
+            "date": "Not specified",
+            "event": "Dialysis catheter was replaced"
+        },
+        {
+            "date": "Not specified",
+            "event": "Continued on sevelamer and nephrocaps at the time of discharge"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive at discharge, but under continued care",
+        "follow_up_details": "Not specified",
+        "complications": "No complications reported",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Focused on comfort; patient preferred not to undergo further invasive procedures",
+        "patient_perspective": "The patient expressed a desire to focus on comfort rather than aggressive treatment"
+    }
+}

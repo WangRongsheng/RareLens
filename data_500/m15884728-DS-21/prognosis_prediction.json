@@ -1,0 +1,178 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "112.5 kg",
+        "height": "191 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Cycle 15 High Dose Methorexate for CNS lymphoma",
+        "history_of_present_illness": "Patient returns for cycle 15 high dose methotrexate (MTX). Patient continues to do well but still notes that he fatigues more easily than he used to. He complains of swelling and transient numbness of the left side of his face and head that lasts minutes and is triggered by emotional conversations or situations. He copes with these by lying down and refers to the episodes as 'seizures' but denies tonic-clonic movements, LOC, or loss of time. No focal weakness or numbness and his balance is intact. He has had laser treatment of his left eye since his last admission. Cough productive of yellow sputum that has continued despite a course of amoxicillin. Denies fevers, sweats, weight loss or other constitutional symptoms. Current plan by ID is for him to start a rifampin course for weeks once his MTX interval is increased to 4 to 6 weeks.",
+        "past_medical_history": "1. Histocytosis X, diagnosed by CT imaging, no biopsy. 2. Diabetes insipidus, diagnosed. 3. Hypertension. 4. Seizure. 5. Osteoarthritis. 6. Sleep disorder. 7. Right hip replacement. 8. History of hepatitis - Hep B serologies are negative. 9. Positive PPD due to TB exposure from mother. 10. Left cataract surgery.",
+        "family_history": "Mother with history of disseminated tuberculosis.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "T: 98.1, BP: 118/78, P: 62, RR: 20, O2Sat: 96% on RA, wt: 246.8 lbs, ht: 75.5 in. Well appearing in no apparent distress.",
+        "specialty_examination": "Neurologic: Alert, oriented x 3. Normal attention. Able to relate history without difficulty. Cranial nerves II-XII intact. Normal bulk, strength and tone throughout. No abnormal movements noted. No deficits to light touch throughout."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine pH",
+            "date": "Not specified",
+            "findings": "pH of 6",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine level of 138",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-Hour Urine Creatinine",
+            "date": "Not specified",
+            "findings": "24-Hour Creatinine of 2622",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Glucose",
+            "date": "11:00 AM",
+            "findings": "Glucose level of 91",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Urea",
+            "date": "11:00 AM",
+            "findings": "Urea level of 13",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "11:00 AM",
+            "findings": "Creatinine level of 1.0",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Sodium",
+            "date": "11:00 AM",
+            "findings": "Sodium level of 137",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Potassium",
+            "date": "11:00 AM",
+            "findings": "Potassium level of 4.3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Chloride",
+            "date": "11:00 AM",
+            "findings": "Chloride level of 104",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total CO2",
+            "date": "11:00 AM",
+            "findings": "Total CO2 level of 25",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anion Gap",
+            "date": "11:00 AM",
+            "findings": "Anion Gap of 12",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test - ALT (SGPT)",
+            "date": "11:00 AM",
+            "findings": "ALT level of 26",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test - AST (SGOT)",
+            "date": "11:00 AM",
+            "findings": "AST level of 30",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "11:00 AM",
+            "findings": "Alkaline Phosphatase level of 86",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "11:00 AM",
+            "findings": "Total Bilirubin level of 0.3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Albumin",
+            "date": "11:00 AM",
+            "findings": "Albumin level of 4.7",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "11:00 AM",
+            "findings": "Calcium level of 9.4",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Phosphate",
+            "date": "11:00 AM",
+            "findings": "Phosphate level of 3.9",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Magnesium",
+            "date": "11:00 AM",
+            "findings": "Magnesium level of 2.1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "11:00 AM",
+            "findings": "WBC: 6.0, RBC: 4.93, Hemoglobin: 14.8, Hematocrit: 44.5, MCV: 90, MCH: 29.9, MCHC: 33.2, RDW: 13.4, Neutrophils: 64.8, Monocytes: 6.0, Eosinophils: 2.5, Basophils: 0.4, Platelet Count: 295",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Calculated Creatinine Clearance",
+            "date": "Not specified",
+            "findings": "Calculated creatinine clearance of 180 cc/min",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray (CXR)",
+            "date": "Not specified",
+            "findings": "Stable bilateral apical scar formations, compatible with old specific infection, clearly stable during latest examination intervals.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI Head",
+            "date": "Pending",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [],
+    "diagnosis": {
+        "final_diagnosis": "CNS lymphoma",
+        "diagnostic_reasoning": "The patient has a history of CNS lymphoma confirmed by pathology following craniotomy and has been receiving high-dose methotrexate chemotherapy. The report indicates stable bilateral apical scar formations on CXR, compatible with old specific infection, and the patient is on a treatment plan for potential TB reactivation due to chemotherapy."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "high-dose methotrexate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Cycle 15, 8 gm/m2"
+        }
+    ]
+}

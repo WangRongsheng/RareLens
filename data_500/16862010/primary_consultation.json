@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "38-week",
+        "gender": "Male",
+        "weight": "3300 g",
+        "height": "49 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Micrognathia and severely restricted mouth opening",
+        "history_of_present_illness": "At 3 days of age the infant was transferred for ongoing management. Nasogastric feeding was commenced and elective tracheostomy performed on the fifth day of life for marked desaturations while in the prone position.",
+        "past_medical_history": "Karyotyping, echocardiogram, head ultrasound, renal ultrasound and EEG were normal. Facial CT demonstrated a symmetrical but hypoplastic mandible, with obtuse mandibular angles and normal mandibular condyles.",
+        "family_history": "The parents were unrelated but the mother and maternal relatives had phenotypes consistent with VWS.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Apgar scores at 1 and 5 minutes were 5 and 9, respectively. Birth weight was 3300 g (53rd centile), length 49 cm (50th centile), and head circumference 32 cm (<10th centile). Micrognathia and severely restricted mouth opening was noted on physical examination; the maximum intergum distance was 2 mm.",
+        "specialty_examination": "Examination under anesthesia (EUA) was performed at 1 month of age. There was no improvement in mandibular mobility with muscle relaxant, and no cause was found for the rigid obstruction to mouth opening. Over subsequent weeks intraoral adhesions between the maxilla and mandible became evident on examination."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "5",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Severe scrotal congenital hypospadias",
+        "history_of_present_illness": "46,XX SRY-negative karyotypes, concurrent referral with severe scrotal congenital hypospadias, later developed gynecomastia and signs of inchoate puberty with axillary and genital body hair growth",
+        "past_medical_history": "Hypergonadotropic hypogonadism with low free and total serum testosterone and elevated levels of sex hormone-binding globulin (SHBG), follicle-stimulating hormone (FSH), luteinizing hormone (LH) and normal, but marginally increased, estradiol",
+        "family_history": "Father had duplications upstream of SOX9, father's sister had severe psychological and alcohol abuse problems, committed completed suicide at the age of 26 years",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Abdomino-pelvico-scrotal ultrasonography and magnetic resonance imaging revealed a cystic ovotestis on the right side and an atrophic testis on the left side of the scrotum and a normal prostate of appropriate size and localization"
+    }
+}

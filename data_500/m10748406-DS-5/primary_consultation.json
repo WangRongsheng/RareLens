@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "right hip/groin pain, progressive",
+        "history_of_present_illness": "___ y.o M with long hx of right hip OA not amenable to conservative treatment presents for elective THA.",
+        "past_medical_history": "non-contributory",
+        "family_history": "non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "The patient sits upright in discomfort. He is in no acute distress, in good spirits, and is alert and oriented X3. Heart rate is 78 and regular in rhythm, the respiratory rate is 12.",
+        "specialty_examination": "Gait is right antalgic. Hip impingement signs are positive on the right; knee is stable to manipulation though with crepitus. Left L is edematous. Sensation is intact to light touch bilaterally in the upper and lower extremities. ___ pulses are 0/++ on the right and ++/+ on the left."
+    }
+}

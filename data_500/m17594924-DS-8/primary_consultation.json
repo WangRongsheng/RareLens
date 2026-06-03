@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Lead was cut during procedure at OSH",
+        "history_of_present_illness": "Patient is a male with PMHx significant for sick sinus syndrome and atrial fibrillation admitted for pacer lead/device extraction after lead was cut during procedure at OSH. Patient reports that his PPM has not been acting correctly. The battery life is decreasing faster than anticipated. Atrial rate has been increasing at times (up to 209) lately. He has also been experiencing worsening dyspnea on exertion (DOE) in recent months, especially when hunting, now unable to go as far from camp due to concerns of fatigue and shortness of breath. Denies any chest pain or shortness of breath at rest. Noted to feel the pacemaker increase his heart rate during exertion. Presenting at ___ last week for generator replacement due to ERI. Lead was \"cut through\" during the procedure; currently pacing via his epicardial lead. Transferred to ___ for device/lead extraction scheduled for ___.",
+        "past_medical_history": "1. AF/flutter s/p AVN ablation in ___. 2. s/p DDD pacemaker implantation ___. 3. s/p implant of epicardial LV lead in ___. 4. Status post sternotomy and left thoracotomy for clot evacuation and mediastinal exploration. 5. Status post reexploration of mediastinum. 6. Atrial fibrillation. 7. Migraine headaches. 8. Lyme disease. 9. Tachy-brady syndrome. 10. Prior TIA. Cardiac risk factors: (-)Diabetes, (+)Dyslipidemia, (+)Hypertension. Cardiac history: -CABG: None -PERCUTANEOUS CORONARY INTERVENTIONS: None -PACING/ICD: AV ablation in ___, PPM in ___.",
+        "family_history": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: T- 97.9, HR- 63, BP- 116/84, RR- 18, SaO2- 97% on RA. Patient was comfortable and asymptomatic. WDWN male in NAD. Oriented x3. Mood, affect appropriate.",
+        "specialty_examination": "Cardiac: Regular rate and rhythm. No m/r/g. Normal S1, S2. No S3 or S4. Lungs: CTA b/l. Good respiratory effort- respirations unlabored, no accessory muscle use. No crackles, wheezes or rhonchi. Extremities: No cyanosis or clubbing. Pulses: Right: Carotid 2+ DP 2+, Left: Carotid 2+ DP 2+."
+    }
+}

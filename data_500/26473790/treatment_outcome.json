@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "subtotal resection of the left jugular foramen lesion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "retrosigmoid approach",
+            "treatment_response": "significant improvement of the patient’s dysphagia and auditory acuity"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "gross-total resection of the suprasellar lesion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "subfrontal approach",
+            "treatment_response": "postoperative recovery was uneventful other than transient polyuria"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "subtotal resection of the left jugular foramen lesion"
+        },
+        {
+            "date": "10 months after the first operation",
+            "event": "gross-total resection of the suprasellar lesion"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "significantly improved voice hoarseness and visual acuity",
+        "follow_up_details": "2-year follow-up",
+        "complications": "transient polyuria",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

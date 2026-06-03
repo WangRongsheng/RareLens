@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abdominal pain",
+        "history_of_present_illness": "Ms. ___ is a ___ female with a remote history of alcohol use disorder, pancreatitis, who presents with abdominal pain. Patient reports that this episode of abdominal pain started around 5 days prior to admission. It felt like a 'nervous stomach', which she describes 'like a fist in the stomach' with tightness and pulling located in the middle of her stomach. She thought this was related to stress, but it continued to get worse and has been severe at times. Associated with nausea, but no vomiting, and generally a poor appetite. She notes that she has had hard stool, but that her pain did not improve after a bowel movement. She states that she will often have one bowel movement a week. On review of records, patient has been seen in GI clinic at ___. She underwent an upper endoscopy in ___ which showed gastric polyps. She was started on esomeprazole twice daily, which she continues to take.",
+        "past_medical_history": "- CKD stage III\n- Esophageal reflux\n- Hypertension, essential\n- History of pancreatitis\n- Hematuria\n- Sciatica\n- Vitamin D Deficiency\n- Obesity\n- Menopause\n- Hepatic fibrosis\n- Fracture of ankle, trimalleolar\n- Advanced directives, counseling/discussion\n- Microalbuminuria\n- S/P lumbar fusion\n- Chronic back pain\n- Narcotic Contract\n- Anxiety disorder\n- Alcoholism /alcohol abuse\n- Greater tuberosity of humerus fracture\n- OSA (obstructive sleep apnea)\n- Low tension glaucoma of right eye, moderate stage\n- Alcohol abuse, in remission\n- Major depressive disorder, recurrent episode\n- S/P insertion of spinal cord stimulator\n- Uncontrolled type 2 diabetes mellitus with stage 3 chronic kidney disease, with long-term current use of insulin\n- Lumbar facet arthropathy\n- Bilateral thigh pain\n- Low-tension glaucoma of left eye, mild stage",
+        "family_history": "- Father - hemorrhaging stroke\n- Mother - ___, glaucoma, hypertension",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VITALS: T 98.1, HR 76, BP 104/72, RR 16, 99% Ra. GENERAL: Alert and in no apparent distress, tired-appearing.",
+        "specialty_examination": "GI: Abdomen soft, non-distended, moderately tender to palpation in band across upper abdomen without rebound or guarding. Bowel sounds present."
+    }
+}

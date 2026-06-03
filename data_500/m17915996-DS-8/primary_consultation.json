@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chronic pancreatitis",
+        "history_of_present_illness": "Over the past couple of years he has been experiencing flares of left epigastric pain. The pain is sharp, can radiate to the left flank, and is not associated with N/V/D. His most recent and severe episode was about 2 months ago when obstructing pancreatic calculi and a pseudocyst were discovered. He underwent 2 ERCP procedures but they were unsuccessful. Currently, his epigastric pain is managed by percocet q6hours.",
+        "past_medical_history": "PMH: CAD (MI x 2, stents x6), HTN, HLD. PSH: perforated diverticulitis s/p hemicolectomy and colostomy for one year ___ yrs ago; umbilical/incisional hernia repair x3; foot surgery.",
+        "family_history": "Positive for history of CVA, CAD, bone cancer, breast cancer, diverticulitis.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Upon discharge: VS: 98.6, 90, 109/62, 14, 98% RA. ABD: Left subcostal incision open to air with steri strips and c/d/i. LLQ JP site with occlusive dressing and c/d/i. Old midline incision well healed.",
+        "specialty_examination": "Not specified"
+    }
+}

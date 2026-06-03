@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "hormonal therapy",
+            "specific_treatment": "megestrol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Reasonably controlled chronic pelvic pain but dissatisfied due to weight gain and loss of libido"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "total abdominal hysterectomy with bilateral salpingo-oophorectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Excellent pain relief and complete resolution of disease confirmed by second-look laparoscopy"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with chronic pelvic pain, managed with megestrol"
+        },
+        {
+            "date": "Not specified",
+            "event": "Diagnostic laparoscopy revealed peritoneal studding concerning for malignancy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Frozen section of implants returned nondiagnostic; permanent sections read as benign spindle cell proliferation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Definitive surgical management with total abdominal hysterectomy and bilateral salpingo-oophorectomy performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Second-look laparoscopy performed nearly 1 year after surgery showed complete resolution of disease"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Complete resolution of disease with no evidence of bowel implants",
+        "follow_up_details": "Second-look laparoscopy performed nearly 1 year after definitive therapy",
+        "complications": "No complications",
+        "long_term_prognosis": "Definitive treatment with disease regression, though recurrence in small bowel involvement has been documented in a small number of patients",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Excellent pain relief after surgery",
+        "patient_perspective": "Dissatisfied with hormonal therapy due to weight gain and loss of libido"
+    }
+}

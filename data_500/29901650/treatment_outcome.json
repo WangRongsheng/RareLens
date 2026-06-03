@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "esophagectomy, esophagogastrostomy through the esophageal bed and 2-field lymphadenectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No significant complications occurred after surgery"
+        },
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "paclitaxel and cisplatin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "paclitaxel (200mg/m2 on day 1 for 3hours) plus cisplatin (30mg/m2 per day for 3 days) repeated for 3 weeks",
+            "treatment_response": "No significant complications occurred after administration of adjuvant radio-chemotherapy"
+        },
+        {
+            "treatment_type": "radiotherapy",
+            "specific_treatment": "radiotherapy against large chest irregular area, including the entire esophageal bed and the mediastina",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "The total dose for 95% of the planning target volume (PTV) was 50.4Gy/28 fractions, and for 95% of the PTV for involved lymph nodes (PTVnd) was 56Gy/28 fractions",
+            "treatment_response": "No significant complications occurred after administration of adjuvant radio-chemotherapy"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with difficulty in swallowing"
+        },
+        {
+            "date": "Not specified",
+            "event": "Biopsy of the lesion under endoscopy demonstrated a mucoepidermoid carcinoma of the esophagus"
+        },
+        {
+            "date": "Not specified",
+            "event": "Esophagectomy, esophagogastrostomy through the esophageal bed and 2-field lymphadenectomy performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Histopathological analysis of the tumor revealed histological characteristics typical of an esophageal MEC"
+        },
+        {
+            "date": "Not specified",
+            "event": "Radio-chemotherapy was administered to the patient"
+        },
+        {
+            "date": "17 months after surgery",
+            "event": "Esophageal CT scan revealed that the wall of esophagus was evenly thickened. Endoscopic assessment revealed no evidence of recurrence"
+        },
+        {
+            "date": "19 months after surgery",
+            "event": "Esophageal CT scan showed a thickened esophageal wall"
+        },
+        {
+            "date": "31 months after surgery",
+            "event": "Esophageal CT scan showed a thickened esophageal wall. Endoscopic assessment revealed no esophageal stricture and no evidence of recurrence"
+        },
+        {
+            "date": "39 months after surgery",
+            "event": "Patient is alive with no dysphagia and no evidence of recurrence"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alive with no dysphagia and no evidence of recurrence for over 39 months",
+        "follow_up_details": "Follow-up at 17, 19, and 31 months after surgery with CT scans and endoscopic assessments",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "No dysphagia reported",
+        "patient_perspective": "Not specified"
+    }
+}

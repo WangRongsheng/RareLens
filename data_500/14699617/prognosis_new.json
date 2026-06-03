@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "At 7½ years she ambulates with a heel–toe gait and can walk up stairs; she is making progress with a picture exchange communication system, but has no speech, falls frequently, hypotonia, calf wasting, kyphosis, and signs of peripheral neuropathy (CMT1A).",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Ongoing motor and neuropathic findings (calf wasting, ankle jerks difficult to elicit), crouched gait with frequent falls, dysmorphic and musculoskeletal issues (kyphosis, hip dislocations), and developmental delay without speech.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "functional_improvement",
+            "time_period": "unknown",
+            "evidence_excerpt": "She is making progress with a picture exchange communication system."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "unknown",
+            "evidence_excerpt": "Bilateral congenital hip dislocations were diagnosed at the age of 7 years."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "unknown",
+            "evidence_excerpt": "Developed premature adrenarche."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The case report does not specify the exact date of definitive genetic diagnosis relative to clinical follow-up. Events prior to early childhood (e.g., surgery at 16 months, walking at 4½ years) likely pre-date diagnosis and were not included. Timing of listed post-index events is approximated as unknown due to insufficient detail on when diagnosis occurred."
+}

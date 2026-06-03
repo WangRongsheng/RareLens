@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Renal Failure",
+        "history_of_present_illness": "Ms. ___ is a ___ female with a complex and lengthy history of surgery and complications. She presented with worsening abdominal pain after returning home. The abdominal pain is centrally located, and it feels as though someone is 'kicking' her in the stomach. She has vomited coffee grounds about 10 times and had at least 3 episodes of diarrhea. An abdominal CT demonstrated no acute intra-abdominal process identified, distal esophageal wall thickening concerning for esophagitis, and incidental 7.9 x 4.3 x 11.4 cm right gluteal subcutaneous collection concerning for remote hematoma but not abscess.",
+        "past_medical_history": "- Urothelial Carcinoma\n- CAD s/p CABG in ___\n- CKD stage 3 (baseline Cr 1.5-1.6)\n- Type 2 diabetes on insulin\n- HTN, HLD\n- Iron deficiency anemia\n- Obesity\n- Neuropathy\n- Reflux\n- Macular degeneration (R eye)",
+        "family_history": "Father with hypertension, stroke. Mother with diabetes, stroke and heart attack simultaneously.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VITALS: Afebrile and vital signs stable. GENERAL: Alert and in no apparent distress, hirsutism. GI: Abdomen soft, non-distended, mildly tender to palpation generally.",
+        "specialty_examination": "NEURO: Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs, sensation to light touch grossly intact throughout."
+    }
+}

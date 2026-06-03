@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "cholangitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's symptoms of severe abdominal pain, nausea, and vomiting were resolved with NGT decompression, indicating a likely small bowel obstruction. Additionally, MRCP findings showed upstream biliary duct dilatation and the presence of an intraductal stone, leading to the conclusion of cholangitis. The patient's septic and acute presentation warranted antibiotics for possible cholangitis."
+    }
+}

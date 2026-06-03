@@ -1,0 +1,29 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "Despite symptomatic improvement on L-threo-DOPS, he \"remained susceptible to occasional collapse\" and ultimately \"was found halfway dressed and could not be resuscitated.\"",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "functional_status_evidence_excerpt": "Orthostatic hypotension improved considerably on L-threo-DOPS, yet he remained prone to collapse, indicating persistent limitations affecting normal activities.",
+        "symptom_burden": "occasional",
+        "symptom_burden_evidence_excerpt": "Even with treatment, he \"remained susceptible to occasional collapse.\""
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "unknown",
+            "evidence_excerpt": "He was resistant to fludrocortisone; orthostatic hypotension improved considerably on L-threo-3,4-dihydroxyphenylserine (DOPS)."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "unknown",
+            "evidence_excerpt": "Orthostatic hypotension improved considerably on L-threo-DOPS."
+        },
+        {
+            "event_type": "death",
+            "time_period": "long_term",
+            "evidence_excerpt": "One morning he was found halfway dressed and could not be resuscitated."
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "The exact date of definitive diagnosis and initiation of therapy is not provided; the proxy reference is the start of the 4-year specialist follow-up. Specific timing of treatment changes and symptom improvement is not documented, so those events are assigned an unknown time period. Long-term outcome is clear due to documented death."
+}

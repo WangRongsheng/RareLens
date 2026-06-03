@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "post-ERCP monitoring",
+        "history_of_present_illness": "Ms. ___ is a ___ y/o female with h/o recently diagnosed hepatic abscess in ___ in the setting of sclerosing cholangitis, suspected cholangiocarcinoma s/p Whipple procedure ___ (w/ subsequent pathology negative for carcinoma), Familial Mediterranean fever, PMR, hypogammaglobulinemia, hypothyroidism, and depression who presents after scheduled ERCP. The patient underwent a single balloon ERCP today to evaluate for a dominant stricture to dilate. The CBD and CHD were widely patent and peripheral changes of PSC were seen. The left intrahepatic branch was dilated to 4mm. Given the long nature of the procedure the patient is being admitted for observation post-procedure. Of note, the patient was recently hospitalized from ___ - ___ with sepsis secondary to 3.8 cm hepatic abscess. Drainage was not performed as the location of the abscess was deep and felt to be too high risk for complication. She was treated with vanc/cefepime/flagyl and then transitioned to vanc + ertapenem at discharge. The patient was recently seen in outpatient ___ clinic by Dr. ___ with plan to continue antibiotics through 24 hours following ERCP. MRI on ___ showed evidence of sclerosing cholangitis with ___ complete resolution of previous abscess. Currently, patient complains of abdominal pain, nausea, and diffuse body aches. She says her abdominal pain is epigastric, constant, dull and she rates it a ___. She also complains of nausea, but no vomiting. She reports receiving \"a lot\" of Zofran after the ERCP. She now also has a headache. She also currently has back pain, which is chronic in nature, but exacerbated by the abdominal pain.",
+        "past_medical_history": "-sclerosing cholangitis -hepatic abscess in ___ in the setting of sclerosing cholangitis -Familial Mediterranean fever -Neuropathy attributed to colchicine toxicity -polymyalgia rheumatica -temporal arteritis -gastric ulcers -hypothyroidism -anxiety -hypogammaglobulinemia -depression -insomnia. Past Surgical History: -robot-assisted pancreatoduodenectomy (___) -breast biopsy -dilation and curettage on three separate occasions -cataract surgery -exploratory laparotomy -appendectomy -cholecystectomy",
+        "family_history": "Mother and Grandmother had 'abdominal pain'; Mother - mandibular cancer, ulcerative colitis. Brother - ulcerative colitis. Father - rheumatic heart disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "On Admission: VS- 98 97/55 90 18 96% RA General- anxious appearing, lying in bed, alert, no acute distress. Abdomen- well-healed post-surgical abdominal scars, mildly tender to palpation in epigastric area, no rebound.",
+        "specialty_examination": "Neuro- CN II-XII intact, strength ___ upper and lower extremities."
+    }
+}

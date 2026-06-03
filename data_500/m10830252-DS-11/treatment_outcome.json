@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "chlorpromazine, haloperidol, lorazepam, olanzapine, ketamine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg haloperidol, 2 mg Ativan; additional 5 mg haloperidol, 2 mg Ativan; or IM and IV administration of chlorpromazine, lorazepam, diphenhydramine, ketamine",
+            "treatment_response": "Patient was generally compliant with home medications; exhibited agitation and aggression during ED course."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to group home with agitation and was brought to ED by EMS."
+        },
+        {
+            "date": "Not specified",
+            "event": "Initial ED consult indicated significant agitation and the need for psychiatric evaluation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Received 5 mg haloperidol and 2 mg Ativan upon arrival due to agitation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Received additional doses of 5 mg haloperidol and 2 mg Ativan for continued agitation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Hospitalization was deemed appropriate due to acute decline from baseline status."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications prescribed including diazepam, omeprazole, propranolol, chlorpromazine, and lurasidone."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "discharged in stable condition with improved mental status",
+        "follow_up_details": "Follow up with all outpatient appointments as listed.",
+        "complications": "No complications",
+        "long_term_prognosis": "Expected to continue outpatient care and medication as directed.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "The patient showed improvement in mood and was able to engage appropriately at discharge.",
+        "patient_perspective": "Patient expressed concerns about their treatment and institutionalization, indicating a struggle with mental health instability."
+    }
+}

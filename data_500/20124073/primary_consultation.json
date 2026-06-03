@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "4.5 years",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Lower abdominal discomfort that radiated to the left knee",
+        "history_of_present_illness": "Developmental delay noted at 12 months, began walking at 24 months, diagnosed with Legg-Calvé-Perthes disease at 3 years and 11 months",
+        "past_medical_history": "Albright hereditary osteodystrophy, hypothyroidism, hypoprolactinemia, anemia",
+        "family_history": "Unremarkable for any genetic conditions, no parental consanguinity",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Dysmorphic features (large tongue, low-set ears, deeply tethered skin creases in upper limbs, blue-to-pink collagenous subcutaneous lesions on abdomen), plagiocephaly, round face with midface hypoplasia, underdeveloped ears, abnormally spaced small teeth, short stature, protuberant abdomen",
+        "specialty_examination": "Unusually shaped hands and feet with thickened small toenails, short fingers with prominent pads, bilateral potter's thumb, clinodactyly of small finger bilaterally, limited hip abduction to 45°"
+    }
+}

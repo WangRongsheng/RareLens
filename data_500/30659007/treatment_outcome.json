@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "propofol infusion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Used for the treatment of seizures, patient was weaned off using electroencephalogram recordings"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "levetiracetam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg, two times a day",
+            "treatment_response": "Patient improved clinically"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "extensive physical therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient improved back to her motor baseline with only mild residual speech deficits"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with episodes of right-sided facial twitching and increasing lethargy, progressing to right hemiparesis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was intubated due to concerns for continued seizure and monitored in the paediatric intensive care unit"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT and MRI were obtained, revealing a left frontotemporal hypoattenuation and abnormal tortuous vessels"
+        },
+        {
+            "date": "Not specified",
+            "event": "Catheter cerebral angiogram was performed, revealing a collection of vessels draining into the superior sagittal sinus via the vein of Trolard, concerning for a DVA"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was treated acutely with propofol infusion for seizures"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was started on levetiracetam, 500 mg two times a day"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was weaned off propofol using electroencephalogram recordings and extubated"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent extensive physical therapy"
+        },
+        {
+            "date": "3-month follow-up",
+            "event": "MRI demonstrated recanalisation of the occluded DVA"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved back to her motor baseline with only mild residual speech deficits",
+        "follow_up_details": "3-month follow-up MRI demonstrated recanalisation of the occluded DVA",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

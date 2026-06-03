@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Treatment for Wernicke's encephalopathy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Received treatment for Wernicke's encephalopathy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Sacked from job as a circus clown due to persistent drunkenness"
+        },
+        {
+            "date": "Not specified",
+            "event": "Died during the night after complaining of a headache"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Deceased",
+        "follow_up_details": "Not specified",
+        "complications": "Acute bronchitis (cause of death), early micronodular cirrhosis, mild fatty change in liver, severe chronic pancreatitis, severe glycogenic acanthosis of the esophagus",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

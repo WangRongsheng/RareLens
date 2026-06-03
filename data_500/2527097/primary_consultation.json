@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Not specified",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Lebanese-Christian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Progressive deterioration of gait and mental functioning with gradual development of ataxia and spasticity",
+        "history_of_present_illness": "Normal developmental milestones until the age of 18 months to 2 years, followed by progressive deterioration of gait and mental functioning with gradual development of ataxia and spasticity. Unlike infantile TSD patients, these patients had no seizures. However, the EEGs showed active generalized epileptic discharges with severe generalized disturbance of cerebral activity, suggesting diffuse cortical and subcortical grey matter encephalopathy.",
+        "past_medical_history": "Preliminary diagnosis of juvenile Tay-Sachs disease was made by brain biopsy on the older sibling and subsequently confirmed by serum hexosaminidase assays performed on both patients and the parents.",
+        "family_history": "The parents are first cousins. The condition has been described in three unrelated Lebanese immigrant families in Canada, and the grandparents of the unrelated probands come from villages in both the northern and southern regions of Lebanon.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "By the age of 5 years, the older boy had no comprehensible speech and no manifestation of interest in his surroundings. He had a markedly ataxic gait, with spasticity in all four limbs, particularly the lower extremities. Grasping and sucking reflexes and a very active snout reflex were present. The younger sibling, who talked well by the age of 2 years, had lost the ability to speak by 3-4 years. He was also markedly ataxic and had an unusual gait with abduction of the arms. Both boys had generalized hyperreflexia.",
+        "specialty_examination": "Not specified"
+    }
+}

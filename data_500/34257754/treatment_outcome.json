@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "radiofrequency catheter ablation",
+            "specific_treatment": "Ablation at the site of the slow pathway potential",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "The AVNRT attack did not recur even when performing the back somersault."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient experienced palpitations after landing a round-off back somersault."
+        },
+        {
+            "date": "Not specified",
+            "event": "Electrophysiologic study (EPS) revealed an intra-nodal dual pathway causing AVNRT."
+        },
+        {
+            "date": "Not specified",
+            "event": "Radiofrequency catheter ablation was applied at the site of the slow pathway potential."
+        },
+        {
+            "date": "Not specified",
+            "event": "After the procedure, the tachycardia attack did not recur even when performing the back somersault."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Healthy and active gymnast with no symptoms",
+        "follow_up_details": "Follow-up for the tiny ASD, no significant changes in hemodynamics and echocardiographic findings observed for several years.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Healthy and active gymnast with no symptoms",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "He died because of sudden cardiac arrest approximately 3 months after the onset of his symptoms.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Persistent neurological symptoms included dementia, psychiatric symptoms, myoclonus, rigidity, and spasticity until death.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "His disturbed consciousness gradually improved, and MRI cortical hyper-intensity diminished within 4 weeks."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "We observed progressive atrophy of the brain cortices, and he continued to have dementia, myoclonus, rigidity, and spasticity despite treatment."
+        },
+        {
+            "event_type": "death",
+            "time_period": "short_term",
+            "evidence_excerpt": "He died because of sudden cardiac arrest approximately 3 months after onset."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "The exact index time (definitive diagnosis before treatment) was not clearly documented; admission related to the condition was used as proxy. Death occurred at ~3 months, limiting long-term (>12 months) assessment."
+}

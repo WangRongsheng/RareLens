@@ -1,0 +1,12 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "Persistent KFSD skin/hair abnormalities and severe developmental impairment were documented, with no reported resolution or death. At age 6 years, laboratory abnormalities (low cholesterol and apolipoproteins) were noted; ophthalmologic exam showed no eye anomalies. No sustained improvement or deterioration is described.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "He suffered from KFSD with follicular and interfollicular hyperkeratosis on arms, cheeks, and legs, thickened skin of palms/soles, and sparse/thin hair with loss; congenital genitourinary anomalies were present. No indication of symptom resolution.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "The case report provides limited longitudinal follow-up beyond early childhood; the only long-term data are lipid/apolipoprotein abnormalities at age 6 years. No explicit treatment plan or subsequent clinical changes (improvement/deterioration, complications, re-interventions) are documented, so outcome classification is based on persistence of deficits without evidence of resolution or decline."
+}

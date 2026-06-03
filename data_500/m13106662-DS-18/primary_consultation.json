@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "not specified",
+        "gender": "Male",
+        "weight": "not specified",
+        "height": "not specified",
+        "BMI": "not specified",
+        "ethnicity": "not specified",
+        "occupation": "not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "left hand weakness/numbness, ?seizures",
+        "history_of_present_illness": "Mr. ___ presented to the ED for evaluation of left hand numbness and weakness. He awoke to find that he had bitten his tongue and had wet himself, possibly due to a seizure. He experienced sudden onset of vertigo, hit his head against the wall, and later noted left hand weakness and numbness. He had intermittent confusion. His last known seizure was in ___ and he has not had any signs of infection or missed medication doses.",
+        "past_medical_history": "Hypertension, Dyslipidemia, COPD, ?Seizures, Bipolar disorder, Legally blind s/p multiple surgeries.",
+        "family_history": "Father deceased at age ___ from MI. Mother in late ___. 3 brothers and 2 sisters who are healthy. No known family history of seizures or strokes.",
+        "social_history": "Not specified."
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: 97.5 P: 89 R: 18 BP: 135/75 SaO2: 94%. General: Awake, cooperative, NAD. No remarkable findings noted.",
+        "specialty_examination": "Neurologic: Alert, oriented x 3, able to follow commands. Motor: Normal bulk, tone. Diminished light touch over dorsum of left hand, intact sensation elsewhere. DTRs: Plantar response was flexor bilaterally. Gait: stable ambulation observed."
+    }
+}

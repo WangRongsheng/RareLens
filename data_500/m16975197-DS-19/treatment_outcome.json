@@ -1,0 +1,127 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Zofran",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg IV x1",
+            "treatment_response": "Nausea resolved"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Hydralazine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg IV x2",
+            "treatment_response": "Blood pressure under control"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metoprolol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "150 mg po x1",
+            "treatment_response": "Blood pressure under control"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Prograf",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 mg po x1",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Cartia",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "240 mg po x1",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Celexa",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg po x1",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Dilaudid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.25 mg IV x1, 0.5 mg IV x1",
+            "treatment_response": "Pain management"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Kayexalate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "30 mg po x1",
+            "treatment_response": "Potassium level managed"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Clonidine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.2 mg po x1",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Phenergan",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.5 mg IV x1",
+            "treatment_response": "Nausea management"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with hypertensive urgency and headache"
+        },
+        {
+            "date": "Not specified",
+            "event": "Zofran administered for nausea"
+        },
+        {
+            "date": "Not specified",
+            "event": "Hydralazine given twice for blood pressure management"
+        },
+        {
+            "date": "Not specified",
+            "event": "Metoprolol administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Dilaudid given for pain control"
+        },
+        {
+            "date": "Not specified",
+            "event": "Kayexalate administered to manage potassium level"
+        },
+        {
+            "date": "Not specified",
+            "event": "Phenergan administered for nausea"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge with medication regimen"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Blood pressure under control with headache resolved",
+        "follow_up_details": "Laboratory values to be checked and faxed to physician",
+        "complications": "No complications",
+        "long_term_prognosis": "Kidney function slightly worse than before but manageable",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient feels better after managing blood pressure and headache"
+    }
+}

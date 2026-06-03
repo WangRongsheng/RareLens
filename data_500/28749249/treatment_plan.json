@@ -1,0 +1,98 @@
+{
+    "basic_information": {
+        "age": "61",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Japanese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Acute-onset consciousness disturbance, fever, and elevated serum creatinine kinase levels",
+        "history_of_present_illness": "Acute-onset consciousness disturbance (a Japanese coma scale score of 200), fever, and elevated serum creatinine kinase levels in mid-September 2010. Convulsion was noted in late-September. Treatment with intravenous acyclovir and methylprednisolone pulse therapy was partially effective. The patient continued to have dementia with myoclonus and psychiatric symptoms despite resolution of the consciousness disturbance.",
+        "past_medical_history": "No medical or familial history of central nervous system disease",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Disturbed consciousness gradually improved, and myoclonus was observed in his right upper limb. Dementia, psychiatric symptoms, a startle reaction, myoclonus, truncal and limb rigidity, and spasticity in all four limbs were noted. Muscle weakness, atrophy, and fasciculation were not observed.",
+        "specialty_examination": "Neurological examination showed dementia, psychiatric symptoms, a startle reaction, myoclonus, truncal and limb rigidity, and spasticity in all four limbs. Periodic sharp-wave complexes were not observed on the serial electroencephalograms."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "Normal cell count, mildly elevated protein concentration (59 mg/dl)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HSV genomic PCR",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "14-3-3 protein test",
+            "date": "Not specified",
+            "findings": "Positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total tau protein test",
+            "date": "Not specified",
+            "findings": "Elevated (7120 pg/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neuron-specific enolase test",
+            "date": "Not specified",
+            "findings": "40 ng/ml during acute phase, 11 ng/ml after convulsions were controlled",
+            "changes_over_time": "Decreased from 40 ng/ml to 11 ng/ml"
+        },
+        {
+            "procedure_name": "RT-QUIC assay",
+            "date": "Not specified",
+            "findings": "Prion protein in the CSF was slightly and slowly amplified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PRNP gene analysis",
+            "date": "Not specified",
+            "findings": "Methionine homozygosity at codon 129, no mutations",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI (DW and FLAIR)",
+            "date": "Not specified",
+            "findings": "No obvious finding initially; later revealed cortical edematous hyper-intense areas in the bilateral frontal, insula, central posterior, and cingulate gyri",
+            "changes_over_time": "Hyper-intense signals diminished within 1 month; progressive atrophy of the brain cortices, mainly the temporal lobes"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Electroencephalogram",
+            "date": "Not specified",
+            "findings": "No periodic sharp-wave complexes observed",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neuropathological examination",
+            "date": "Postmortem",
+            "findings": "Focal brain softening, severe atrophy with loss of neuronal cells, gliosis, and macrophages in hippocampal CA1 to subiculum; laminar necrosis in the second and third cortical layers in cingulate gyrus and frontal cortex; mild neuronal loss and gliosis in deep cortical layers; mild loss of Purkinje cells; no PrP deposits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Western blot analysis of protease-resistant PrP",
+            "date": "Postmortem",
+            "findings": "No PrP-positive bands",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Steroid-responsive encephalopathy with convulsion",
+        "diagnostic_reasoning": "The diagnosis was based on steroid responsiveness, absence of well-characterized onconeuronal antibodies or autoimmune encephalitis associated autoantibodies, and the clinical course. The positive RT-QUIC result initially suggested prion disease, but postmortem evaluation excluded prion disease based on PrP immunostaining and Western blot results. The pathological changes were attributed to convulsions."
+    }
+}

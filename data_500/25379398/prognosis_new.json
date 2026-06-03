@@ -1,0 +1,38 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Ocular infection and inflammation resolved after vitrectomy and antifungal therapy, but vision remained poor (left eye 20/500) due to foveal thinning and photoreceptor disruption; hypercortisolism resolved after GKS and medical therapy.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Persistent visual impairment in the left eye (20/500) despite resolution of retinal infiltrates and vitritis, indicating ongoing residual symptoms.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Her eye symptoms improved following the vitrectomy and systemic antifungal therapy; discharged after 6 days of IV fluconazole."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Two months after discharge, vision had improved slightly to 20/500 with complete resolution of retinal infiltrate."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Visual outcome was poor due to foveal thinning and photoreceptor disruption at 2.5 months."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Gamma knife surgery was performed two days after vitrectomy (day 9) for recurrent pituitary tumor causing Cushing’s disease."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Hypercortisolism resolved 3 months after GKS with cortisol-lowering therapy; by day 147 ACTH and cortisol levels were in normal range."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Follow-up is limited to approximately 5 months after diagnosis; no data beyond 12 months. Functional status and symptom burden are inferred from unilateral poor visual acuity and clinician assessments, with no explicit activity-of-daily-living descriptions."
+}

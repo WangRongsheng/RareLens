@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Deep vein thrombosis (DVT)",
+        "differential_diagnosis": "Protein C and protein S deficiency",
+        "diagnostic_reasoning": "The diagnosis of DVT was confirmed by Doppler ultrasonography following the patient's complaint of pain in his right calf after surgical placement of a titanium rod for a femur fracture. The differential diagnosis of protein C and protein S deficiency was considered based on initial laboratory test results showing low levels of these proteins, but further evaluation indicated these results were due to the therapeutic effects of Coumadin rather than an inherent deficiency. The final diagnosis was supported by imaging and the clinical context of post-surgical DVT."
+    }
+}

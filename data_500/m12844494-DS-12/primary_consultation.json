@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Right foot non-healing ulcer",
+        "history_of_present_illness": "The patient is a diabetic male with a chronic neuropathic ulceration of his right foot under the third metatarsal head. He has had this for several months. He has resisted conservative management. Because of his failure with conservative treatment, surgical intervention was pursued in the form osteotomies of metatarsals 3 and 4 of the right foot.",
+        "past_medical_history": "Diabetes type II, diabetic neuropathy, obesity, abnormal liver function tests, asthma, cervical radiculitis, depression, hyperlipidemia, insomnia, kidney stones, stress, hearing loss, diabetic retinopathy, diabetic nephropathy, history of shingles, pancreatitis, left long finger trigger release, tonsillectomy, ventral hernia.",
+        "family_history": "Family history was reviewed and is thought impertinent to current presentation. Positive history of diabetes mellitus.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Patient is resting comfortably in PACU. Vital signs: RRR, no MRG, no respiratory distress, soft, nontender abdomen, right lower extremity dressing clean, dry, intact with no strikethrough noted; capillary refill time intact.",
+        "specialty_examination": "Neurological: Patient able to actively dorsiflex/plantarflex left foot. Cardiovascular: RRR, no MRG. Lungs: No respiratory distress."
+    }
+}

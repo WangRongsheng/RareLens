@@ -1,0 +1,137 @@
+{
+    "basic_information": {
+        "age": "2 months",
+        "gender": "Female",
+        "weight": "2,720 g",
+        "height": "51 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Eyelid twitches and blushing of the face",
+        "history_of_present_illness": "Noticed eyelid twitches and blushing of the face in the first days of life. On admission, she was two months old, irritable and without eye contact. She had many daily seizures, manifesting as lateral eye deviation, blinking, chewing, drooling, and flushing, as well as 4-20 seizures with elevation of one arm, clonic jerks of the arm and leg, and cyanosis.",
+        "past_medical_history": "Second child after an uneventful pregnancy. Routine haematological, biochemical and blood gas analyses, as well as metabolic screening of urine, amino acids in serum, very long chain fatty acids in serum and organic acids in urine were normal. Ocular funduscopic findings and brain magnetic resonance imaging (MRI) were normal.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Head circumference was 37.5 cm (45th percentile). Head lag was present and tone of the extremities was increased.",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Routine haematological, biochemical and blood gas analyses",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Metabolic screening of urine",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Amino acids in serum",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Very long chain fatty acids in serum",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Organic acids in urine",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Inter-ictal EEG",
+            "date": "Not specified",
+            "findings": "Basic theta activity and multifocal spikes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ictal EEG",
+            "date": "Not specified",
+            "findings": "Focal discharges from various areas of both hemispheres, showing sharp alpha and theta discharge over the right centro-parietal region, rhythmic beta discharge from the fronto-centro-parietal left region, and simultaneous involvement of two different areas with discharges of different frequencies",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ocular funduscopic findings",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "malignant migrating partial seizures in infancy (MMPSI)",
+        "diagnostic_reasoning": "The diagnosis was based on electroclinical symptoms, including the pattern of ictal discharges which originated successively from one area of the brain to another, and the manifestation of seizures as lateral eye deviation, blinking, chewing, drooling, and flushing, as well as seizures with elevation of one arm, clonic jerks of the arm and leg, and cyanosis."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "sodium bromide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "up to 80 mg/kg, in 10 mg/kg week increments"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "stiripentol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "raised to 100 mg/kg"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "levetiracetam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "up to 60 mg/kg"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "midazolam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "lorazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "phenobarbitone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Chloraldurat",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

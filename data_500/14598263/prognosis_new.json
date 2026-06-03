@@ -1,0 +1,12 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "After diagnostic re-evaluation and MRI in January 2003 showing numerous nodules (≥10) consistent with liver adenomatosis, the patient remained asymptomatic with normal liver function tests and normal AFP and fasting glucose.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Described as \"remained asymptomatic\" following diagnostic confirmation of liver adenomatosis.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The report covers multiple family members. This extraction pertains to Family A, Case A1. The index time was approximated to the diagnostic confirmation period (CT with arterial phase in 2001 and MRI in January 2003 confirming liver adenomatosis). Events preceding this reference (e.g., the 1991 intraperitoneal hemorrhage and surgeries) were excluded per instructions. Post-index documentation is limited; no subsequent complications or interventions were reported."
+}

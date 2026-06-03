@@ -1,0 +1,24 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "Second-look laparoscopy performed nearly 1 year after definitive therapy revealed complete resolution of her disease with no evidence of bowel implants.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "functional_status_evidence_excerpt": "After the operation, the patient experienced excellent pain relief, and follow-up laparoscopy at ~1 year showed complete resolution.",
+        "symptom_burden": "none",
+        "symptom_burden_evidence_excerpt": "Postoperatively the patient had excellent pain relief, and at ~1 year there was no evidence of residual disease."
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "After the operation, the patient experienced excellent pain relief."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Nearly 1 year after definitive therapy, second-look laparoscopy showed complete resolution with no bowel implants."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Functional capacity beyond pain relief was not explicitly described, and outcomes beyond ~1 year are not provided. Surgery was the initial definitive treatment rather than a re-intervention. The diagnosis date was used as the reference as it directly preceded definitive therapy."
+}

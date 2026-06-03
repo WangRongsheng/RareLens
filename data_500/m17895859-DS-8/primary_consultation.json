@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abdominal pain",
+        "history_of_present_illness": "She was diagnosed with UC about ___ years ago and has not had a flare since diagnosis. About a month ago, she started having abdominal pain and bloody diarrhea while on treatment for a flare with rectal mesalamine and hydrocortisone and oral 5-ASA. Worsened symptoms included severe abdominal pain, shaking chills, and peritoneal signs on the day of ED presentation. The frequency of bloody BMs increased to ___ on the day of presentation.",
+        "past_medical_history": "HTN (hypertension), Ulcerative colitis, Insomnia, Flying phobia, History of Chest pain (positional, cardiac work-up at ___ in ___ was negative), Surgical history includes s/p appendectomy.",
+        "family_history": "Brother ___; Father had CAD/PVD, Hyperlipidemia, Hypertension; Mother ___",
+        "social_history": "Lives with husband and 2 children; No smoking history"
+    },
+    "physical_examination": {
+        "general_examination": "VS: Temp: 98.5 PO, BP: 132/82, HR: 63, RR: 20, O2 sat: 97% RA. Appears well, NAD.",
+        "specialty_examination": "Abdomen: Soft, TTP over LLQ; Cardiovascular: Midsystolic murmur heard best at LUSB without radiation; Neurological: AOx4, clear speech, no facial droop, normal coordination, attention, concentration."
+    }
+}

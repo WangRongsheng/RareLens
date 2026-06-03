@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "excision of the mass",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Excision following the cleavage planes identified by MRI",
+            "treatment_response": "Good outcome without related symptoms, no recurrence observed"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ligamentoplasty",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed to stabilize the wrist after excision of the mass",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Excision of the mass involving the posterior distal epiphysis of the radius"
+        },
+        {
+            "date": "Not specified",
+            "event": "Ligamentoplasty performed to stabilize the wrist"
+        },
+        {
+            "date": "Not specified",
+            "event": "Excision of the mass involving the distal medial part of the femoral epiphysis"
+        },
+        {
+            "date": "4 months after surgery",
+            "event": "Development of calcification outside the area of total excision in femoral lesion case"
+        },
+        {
+            "date": "3 months after surgery",
+            "event": "Spontaneous nervous recovery in patient with lateral involvement of the proximal tibial epiphysis"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Good outcome without related symptoms, all returned to normal activities",
+        "follow_up_details": "Average follow-up was 5.6 years (range, 2–10.5 years)",
+        "complications": "One patient developed calcification outside the area of total excision; another had a postoperative nervous complication",
+        "long_term_prognosis": "No epiphysiodesis, angular deformity or recurrence observed at longest follow-up",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "All patients returned to their normal activities",
+        "patient_perspective": "Not specified"
+    }
+}

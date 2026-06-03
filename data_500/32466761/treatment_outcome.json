@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Docosahexaenoic acid (DHA)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "600 mg per day",
+            "treatment_response": "Safe and well-tolerated; both patients showed stabilization of clinical symptoms"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "T0",
+            "event": "Initial clinical evaluation before starting DHA supplementation"
+        },
+        {
+            "date": "6 mo",
+            "event": "Follow-up evaluation after 6 months of DHA treatment"
+        },
+        {
+            "date": "12 mo",
+            "event": "Follow-up evaluation after 12 months of DHA treatment"
+        },
+        {
+            "date": "20 mo",
+            "event": "Final evaluation after 20 months of DHA treatment; treatment interrupted due to elevated LDL and total cholesterol levels"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stabilization of clinical symptoms",
+        "follow_up_details": "Evaluations at 6, 12, and 20 months of treatment",
+        "complications": "Elevated LDL and total cholesterol levels in P1",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Unchanged as assessed by EQ-5D-3L questionnaire",
+        "patient_perspective": "Not specified"
+    }
+}

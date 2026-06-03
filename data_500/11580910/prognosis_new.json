@@ -1,0 +1,24 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "Cardiomyopathy had resolved after one month of treatment. He has continued to develop normally and has had no further episodes.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "functional_status_evidence_excerpt": "He has continued to develop normally.",
+        "symptom_burden": "none",
+        "symptom_burden_evidence_excerpt": "No further episodes reported after resolution of cardiomyopathy."
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Cardiomyopathy had resolved after one month of this treatment."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "He has continued to develop normally and has had no further episodes."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The source describes multiple VLCAD patients; this summary is specifically based on Patient 11 (VLCAD-C). The index time is taken as the date of diagnosis by blood acylcarnitine analysis and initiation of Portagen and L-carnitine. Long-term categorization is inferred from the statement of normal development and no further episodes at 3.5 years; exact dates are not provided."
+}

@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Patient G.T.: maintained on daily tetrahydrobiopterin (2.4–4.9 mg/kg) with serum phenylalanine kept 42–133 µmol/L; at 2 years she was developing normally, indicating good long-term function but continued treatment requirement.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "No reported neurological symptoms; neurotransmitter precursors were never required, and development was normal at 2 years while on tetrahydrobiopterin.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "At age 4 weeks, oral tetrahydrobiopterin (10 mg/kg) reduced serum phenylalanine from 545 to 73 µmol/L within 8 h, leading to initiation of daily BH4 therapy."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "At age 7 months, BH4 was withdrawn for 2 weeks; CSF biopterin and homovanillic acid were lower and 5-HIAA subnormal, and serum phenylalanine peaked at 1390 µmol/L before decreasing."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "By age 2 years, the patient was \"developing normally,\" indicating preserved function on continued BH4 therapy."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The source describes multiple patients with varying courses. This summary focuses on patient G.T., who had the clearest long-term follow-up (to 2 years). Clinical symptom details beyond developmental status are limited; symptom burden is inferred from the absence of reported neurologic symptoms and normal development while on therapy. Continued BH4 treatment indicates residual disease despite good functional outcomes."
+}

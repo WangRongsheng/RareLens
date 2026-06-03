@@ -1,0 +1,12 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "Diagnosis of a type-2 submucosal posterior laryngeal cleft was made on CT; treatment of dysphonia and exertional stridor is expectant, and symptoms were described as relatively benign. No post-diagnosis improvement or deterioration is documented.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Life-long hoarse, breathy voice with exertional stridor; symptoms characterized as relatively benign and managed expectantly, indicating ongoing but limited-impact symptoms.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "No follow-up after the CT-based diagnosis is provided. Long-term outcome and quality-of-life categories are conservatively inferred from the expectant management plan and benign symptom characterization at diagnosis, but actual post-diagnosis changes are not documented."
+}

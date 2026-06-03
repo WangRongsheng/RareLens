@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Total thyroidectomy and removal of left lower parathyroid adenoma with auto transplant",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Coumadin maintained during surgery with INR of 2",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with large goiter and primary hyperparathyroidism"
+        },
+        {
+            "date": "Not specified",
+            "event": "Preoperative localization suggested enlarged parathyroid"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient kept on Coumadin due to lupus coagulant factor"
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery performed: total thyroidectomy and parathyroid adenoma removal"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with postoperative instructions"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive.",
+        "patient_perspective": "Not specified"
+    }
+}

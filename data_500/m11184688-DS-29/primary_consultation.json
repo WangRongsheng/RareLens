@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "vomiting, somnolence, and R gaze preference",
+        "history_of_present_illness": "Ms. ___ is a ___ with hx of afib s/p pacer for tachy/brady syndrome, hemorrhagic stroke (R medullary, ___ and ischemic stroke (L MCA, ___ with residual global aphasia, hx of focal seizures on Tegretol, b/l femoral artery occlusion s/p thombectomy ___, and PEG tube placement on ___, who presents with increased somnolence after recent discharge, as well as vomiting x1 day and agitation. On ___, she began to exhibit altered mental status with agitation, minimal interaction with family/caretakers, and periods of right gaze preference. Daughter also reports foaming at the mouth and episodes of both non-bloody and blood-tinged emesis.",
+        "past_medical_history": "-PAF, now in chronic atrial fibrillation -Hypertension -Flash pulmonary edema -Focal seizures -Pericardial effusion, without constriction -Mild-to-moderate AR, mild AS -Dual-chamber pacemaker in the setting of tachybrady syndrome -Diastolic heart failure -h/o Hemorrhagic CVA -Bilateral iliofemoral thromboembolectomies -Bilateral femoral re-exploration and evacuation of hematoma.",
+        "family_history": "Liver cancer in son. ___ died early.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital Signs: T 98.4, BP 151/83, HR 99, RR 20, SpO2 93/RA. Lying in bed, somnolent, arouses to verbal and tactile stimulation.",
+        "specialty_examination": "Neurological: Non-verbal, responsive to voice and touch, PERRL, patient able to cross midline, moving all extremities. Cardiac: Irregularly irregular, s1/s2 heard, no m/r/g. Lungs: Notable for crackles in R and L lung bases. No labored breathing."
+    }
+}

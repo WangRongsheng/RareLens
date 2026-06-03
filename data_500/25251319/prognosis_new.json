@@ -1,0 +1,18 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "At present age (20 years) severe intellectual disability and minimal speech persist without reported seizures or acute deterioration: \"at present age he speaks only a few words and uses sign language\"; longstanding motor impairment and spasticity are noted.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Ongoing severe ID and near-absent speech; musculoskeletal issues including bowing of the tibiae, forward-leaning posture, multiple fractures in childhood/adolescence, and spine imaging at 20 consistent with mild–moderate osteoporosis.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "unknown",
+            "evidence_excerpt": "Radiological investigation of the spine at the age of 20 years has shown an aberrant pattern consistent with mild–moderate osteoporosis."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "This is a single case report with limited longitudinal follow-up after the genetic diagnosis of SATB2-associated syndrome. Many described events (e.g., cleft palate repair, childhood fractures) likely occurred before the genetic diagnosis and are excluded from the post-index timeline. The timing of the osteoporosis finding relative to diagnosis is unclear, so its time period is marked as unknown. Overall outcome is classified as stabilization based on persistent deficits without documented post-diagnosis deterioration."
+}

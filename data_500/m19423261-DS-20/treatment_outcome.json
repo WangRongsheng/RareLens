@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "CTX, azithromycin, aspirin, lasix, heparin gtt, vancomycin, piperacillin-tazobactam, solumedrol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Aspirin 325mg; Fever managed with symptomatic care; Lasix 20mg; Solumedrol 125mg IV x 1; Heparin gtt continuous infusion; Vancomycin/Zosyn x 1",
+            "treatment_response": "Developed fever, cough, and chest discomfort; BP noted to drop; Triggered for respiratory rate 35"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Bronchoscopy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Bronchoalveolar lavage and bronchial lavage",
+            "treatment_response": "Gram stain showed no microorganisms; Positive for Influenza A viral antigen"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient received Velcade infusion for multiple myeloma."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient developed chest pain during blood transfusion."
+        },
+        {
+            "date": "Not specified",
+            "event": "Empirically treated with CTX and azithromycin."
+        },
+        {
+            "date": "Not specified",
+            "event": "Received aspirin for chest pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Developed SSCP; treated with NTG."
+        },
+        {
+            "date": "Not specified",
+            "event": "Received 1L IVF due to hypotension."
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted to MICU for management of tachypnea."
+        },
+        {
+            "date": "Not specified",
+            "event": "Subjected to bronchoscopy and bronchoalveolar lavage."
+        },
+        {
+            "date": "Not specified",
+            "event": "CT scan indicated diffuse aspiration pneumonia."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Deceased",
+        "follow_up_details": "Not specified",
+        "complications": "Septic shock, hypoxic respiratory failure, anuric acute renal failure",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

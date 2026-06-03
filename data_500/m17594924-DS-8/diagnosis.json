@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Lead replacement",
+        "differential_diagnosis": "Atrial Fibrillation, Migraine Headaches",
+        "diagnostic_reasoning": "The patient presented for pacemaker lead/device extraction after a lead was cut during a procedure. He reported issues with his pacemaker, including decreased battery life and increased atrial rate. The decision for lead replacement was made based on these concerns and the patient's history of sick sinus syndrome and atrial fibrillation."
+    }
+}

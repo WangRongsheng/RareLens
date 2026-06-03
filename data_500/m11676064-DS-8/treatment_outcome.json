@@ -1,0 +1,31 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Removal of substernal goiter, cervical approach",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Adequate pain control and tolerated a regular diet"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Surgery performed for removal of substernal goiter"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge from hospital with instructions for recovery"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Home, clear and coherent mental status, ambulatory - independent",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Good, hope for quick return to life and usual activities",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

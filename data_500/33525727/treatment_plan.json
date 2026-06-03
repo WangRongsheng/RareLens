@@ -1,0 +1,80 @@
+{
+    "basic_information": {
+        "age": "63",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Low blood pressure (76/51 mmHg) and bloody gastric tube drainage",
+        "history_of_present_illness": "Patient was in a bed-ridden state for a year due to sequelae of traumatic intracranial hemorrhage. He was on hemodialysis for chronic renal failure. He also had old myocardial infarction and diabetes.",
+        "past_medical_history": "Chronic renal failure, old myocardial infarction, diabetes, sequelae of traumatic intracranial hemorrhage",
+        "family_history": "Not specified",
+        "social_history": "Bed-ridden state for a year, prolonged use of nasogastric tube"
+    },
+    "physical_examination": {
+        "general_examination": "Low blood pressure (76/51 mmHg), hemoglobin level was 7.4 g/dL",
+        "specialty_examination": "Upper GI endoscopy revealed about a 2-cm-wide mass-like lesion with an ulcer and red pigmentation in the upper esophagus, at a distance of 23 cm from the incisors. Actively bleeding and pulsating vessel was seen in the previous esophageal ulcer base."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Red blood cell count",
+            "date": "Not specified",
+            "findings": "2.44 × 10^6/µL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin level",
+            "date": "Not specified",
+            "findings": "7.4 g/dL",
+            "changes_over_time": "Dropped to 5.1 g/dL after two days"
+        },
+        {
+            "procedure_name": "White blood cell count",
+            "date": "Not specified",
+            "findings": "12 × 10^3/µL",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Right-sided aortic arch",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography (CT)",
+            "date": "Not specified",
+            "findings": "Right-side aortic arch with aberrant left subclavian artery (ALSA) taking a retroesophageal course. Proximal portion formed a diverticulum of Kommerell. Esophagus was compressed by the diverticulum of Kommerell. Focal contrast extravasation from the diverticular portion of the ALSA into the esophagus, possibly indicating an arterial-esophageal fistula.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thoracic arteriography",
+            "date": "Not specified",
+            "findings": "Extravasation from an aneurysmal segment of ALSA",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Upper GI endoscopy",
+            "date": "Not specified",
+            "findings": "First visit: 2-cm-wide mass-like lesion with an ulcer and red pigmentation in the upper esophagus. Active bleeding focus was not found. Second visit: Actively bleeding and pulsating vessel seen in the previous esophageal ulcer base.",
+            "changes_over_time": "From no active bleeding to active bleeding and pulsating vessel"
+        },
+        {
+            "procedure_name": "Biopsy of esophageal lesion",
+            "date": "Not specified",
+            "findings": "No evidence of malignancy",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Aberrant left subclavian artery-esophageal fistula",
+        "diagnostic_reasoning": "The diagnosis was confirmed through computed tomography (CT) which revealed a right-side aortic arch with an aberrant left subclavian artery (ALSA) taking a retroesophageal course and forming a diverticulum of Kommerell. Thoracic arteriography confirmed the extravasation from an aneurysmal segment of ALSA. The presence of a nasogastric tube and the patient's symptoms of massive upper gastrointestinal bleeding supported the diagnosis."
+    }
+}

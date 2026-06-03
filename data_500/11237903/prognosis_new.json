@@ -1,0 +1,38 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "The child is now 3 years old, has light perception vision, severe developmental delay, and microcephaly.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Persistent profound visual impairment (light perception only) with severe global developmental delay and microcephaly.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Corneal edema developed with IOPs of 35 mmHg (right) and 45 mmHg (left)... settled on cessation of steroid drops."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Elevated IOP and corneal edema settled on cessation of steroid drops."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Contact lens wear was instituted within days of surgery, but no evidence of vision appeared."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "By 9 months, severe global developmental delay and microcephaly (head circumference 43 cm, 0.4th centile)."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "At age 3, persistent light perception vision only, severe developmental delay, and microcephaly."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Data extracted from the detailed case report of Patient 2 in a case series. The diagnosis was a working diagnosis made at the initial eye clinic visit prior to cataract surgery. Long-term follow-up is limited to age 3; outcomes beyond this are not documented."
+}

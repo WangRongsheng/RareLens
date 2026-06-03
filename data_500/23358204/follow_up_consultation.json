@@ -1,0 +1,88 @@
+{
+    "basic_information": {
+        "age": "12",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "generalized bone pain",
+        "history_of_present_illness": "Diagnosed with B cell acute lymphoblastic leukemia (ALL) in March 2003, completed treatment in March 2005. Relapsed in March 2006 with generalized bone pain, achieved remission after re-induction chemotherapy. Followed in remission between 2006 and 2010. Relapsed again in January 2010, achieved complete remission after induction therapy. Underwent allogeneic stem cell transplantation in September 2010 from her brother who has gray platelet syndrome (GPS). Achieved neutrophil and platelet engraftment at 12th and 42nd days post-transplant, respectively.",
+        "past_medical_history": "B cell acute lymphoblastic leukemia (ALL), relapsed twice (2006 and 2010).",
+        "family_history": "Brother diagnosed with gray platelet syndrome (GPS).",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Peripheral blood smear showed gray platelets. Electron microscope image showed absence of a-granules in platelets."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bone marrow examination",
+            "date": "March 2003",
+            "findings": "Diagnosed as B cell acute lymphoblastic leukemia (ALL). Breakpoint Cluster Region-Abelson (BCR-ABL) fusion transcript and Ph chromosome were negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Flow cytometric analysis",
+            "date": "March 2003",
+            "findings": "Diagnosed as B cell acute lymphoblastic leukemia (ALL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood examination",
+            "date": "March 2006",
+            "findings": "Diagnosed as relapsed ALL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone marrow examination",
+            "date": "March 2006",
+            "findings": "Diagnosed as relapsed ALL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chimerism analysis",
+            "date": "First month of reinfusion (September 2010)",
+            "findings": "Complete donor chimerism was achieved.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Peripheral blood smear",
+            "date": "After platelet engraftment (42nd day of reinfusion)",
+            "findings": "Gray platelets were seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "After platelet engraftment",
+            "findings": "Platelet counts were between 30,000 to 50,000/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Electron microscopy",
+            "date": "After platelet engraftment",
+            "findings": "Platelets showed absence of a-granules.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Light microscopy",
+            "date": "After platelet engraftment",
+            "findings": "Platelets had a large and gray appearance.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Human leukocyte antigen (HLA) compatibility analysis",
+            "date": "April 2006",
+            "findings": "One mismatch HLA compatibility with her brother.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

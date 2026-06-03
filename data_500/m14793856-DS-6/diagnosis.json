@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Systolic Congestive Heart Failure",
+        "differential_diagnosis": "Atrial Fibrillation, Hypothyroidism, Iron deficiency, Hematuria",
+        "diagnostic_reasoning": "The patient presented with volume overload and was found to have a significantly reduced ejection fraction of 21%. He has a history of dilated cardiomyopathy and atrial fibrillation, which contributed to the heart failure. His symptoms of fatigue, edema, and palpitations, along with persistent atrial fibrillation, supported the diagnosis of acute systolic heart failure."
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ciprofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg Tablet, One (1) Tablet PO Q12H for 13 days",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV Cipro",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 doses",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "fluid therapy",
+            "specific_treatment": "IV fluids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient was dehydrated during fevers"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the ED with chills and fever"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received IV fluids and 2 doses of IV Cipro"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was discharged with oral ciprofloxacin"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Patient should follow up with PCP for further blood tests",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

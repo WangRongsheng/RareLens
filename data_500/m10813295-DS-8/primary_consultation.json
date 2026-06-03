@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, nausea, vomiting",
+        "history_of_present_illness": "Patient presented with severe epigastric pain radiating toward her back for several hours. The pain was tearing in character and accompanied by intense nausea. She has had prior SBOs, but this episode felt much more severe. EMS reported a differential in blood pressure between her arms. Patient experienced increasing somnolence and continued nausea, leading to intubation for airway protection. Resolution of symptoms occurred with NGT decompression.",
+        "past_medical_history": "1. Uterine cancer s/p surgery and radiation 2. Radiation enteritis 3. Chronic diarrhea of unknown etiology 4. Recurrent SBO 5. Anemia 6. Asthma 7. Generalized anxiety disorder. Surgical history: 1. TAH 2. Lap cholecystectomy complicated by CBD injury 3. Hepatectomy/RNY biliary reconstruction 4. SBO/LOA in distant past.",
+        "family_history": "Diabetes mellitus, Crohn's disease, squamous cell cancer in mouth (father), cancer (unknown location) (mother), cancer (unknown location) (siblings)",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: 73, BP 137/86, HR 14, 100% intubated. Patient intubated, awake, responding appropriately to commands, answers yes/no questions. General examination noted as intubated and awake.",
+        "specialty_examination": "Neurological: Following commands, moving all extremities spontaneously. Cardiovascular: Distant heart sounds, regular rate and rhythm, normal S1 S2, no murmurs, rubs, or gallops. Respiratory: Intubated with ventilator breath sounds. Abdominal: Soft, non-tender, non-distended with bowel sounds present."
+    }
+}

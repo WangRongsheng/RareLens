@@ -1,0 +1,91 @@
+{
+    "basic_information": {
+        "age": "Newborn",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Not specified",
+        "history_of_present_illness": "Diagnosed with glutaric aciduria type I through newborn screening",
+        "past_medical_history": "Product of consanguineous marriage, head circumference at birth was 37.3 cm (>90th centile)",
+        "family_history": "Not specified",
+        "social_history": "Compliance with the treatment protocol and clinic follow-up has been poor"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Tandem Mass Spectrometry (TMS) screening",
+            "date": "Between October 2001 and September 2007",
+            "findings": "6 newborns were diagnosed as having GA I, giving an incidence of 1:65,275 (CI: 1:29,988 = 1:177,861)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Acylcarnitine profiles and urinary GA and 3HGA levels",
+            "date": "Not specified",
+            "findings": "Diagnosis of GA I",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI brain",
+            "date": "Age 3 months",
+            "findings": "Increased extra-axial spaces around the cerebral convexities and widening of the sulci, most prominently the sylvian fissures, but otherwise normal brain structure",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain CT scan",
+            "date": "2 years and 2 months",
+            "findings": "Bilateral small anterior temporal arachnoid cysts with symmetrically enlarged sylvian fissures. The third and lateral ventricles were moderately dilated. There was generalised abnormal low density of the white matter throughout the supratentorial cerebral hemispheres and low density within the putamina bilaterally",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain MRI",
+            "date": "6 years",
+            "findings": "Extensive periventricular and frontal lobe white matter signal abnormality, putamenal signal abnormality and atrophy and associated bitemporal arachnoid cyst. Overall there had been no significant progression of pathology on neuroimaging compared with the earlier brain CT. There was no significant cortical atrophy or increase in the extra-axial spaces",
+            "changes_over_time": "No significant progression of pathology compared to earlier brain CT"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Neuropsychological assessment",
+            "date": "Not specified",
+            "findings": "Patients 2, 3 and 5 had full-scale IQ levels in the average to very high average range (FSIQ patient 2: 109, patient 3: 124, patient 5: 106). None of these patients showed any deficits on tests measuring attention, memory or executive function. On the MABC-2, all three patients had average results on the Aiming & Catching and Balance subtests; however, all had significant impairments on the Manual Dexterity portion (SS—patient 2:5, patient 3:4, patient 5:6). Patient 4 was significantly impaired on all measures (FSIQ = 62, SS narrative memory = 1, SS Manual Dexterity = 1). All patients were found to have speech difficulties",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Glutaric aciduria type I",
+        "diagnostic_reasoning": "Diagnosis was based on newborn screening using Tandem Mass Spectrometry, which identified abnormal acylcarnitine profiles and urinary glutaric acid (GA) and 3-hydroxyglutaric acid (3-OHGA) levels. The clinical presentation and biochemical findings were consistent with glutaric aciduria type I."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "dietary modification",
+            "specific_treatment": "mild protein restriction",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2–2.5 g/kg/day"
+        },
+        {
+            "treatment_type": "supplementation",
+            "specific_treatment": "carnitine supplementation",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg/kg per day in 3–4 divided doses"
+        },
+        {
+            "treatment_type": "medical management",
+            "specific_treatment": "aggressive management of intercurrent illnesses",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "temporary cessation of protein intake, increase in calorie intake, IV carnitine, aggressive anti febrile and anti infectious treatment"
+        }
+    ]
+}

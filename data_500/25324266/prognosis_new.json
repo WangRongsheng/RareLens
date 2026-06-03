@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "Despite inotropic support... his clinical condition continued to worsen and he died on fourth postoperative day.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "He continued to have low-cardiac output state with gradual worsening of urine output and renal function; treated for presumed sepsis.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "The child continued to have heart failure and failure to thrive, and therefore early surgical repair was contemplated."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Postoperatively, the child required high inotropic support and could not be weaned off the ventilator."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Despite inotropic support, the child continued to have low-cardiac output state with gradual worsening of urine output and renal function... treated for presumed sepsis."
+        },
+        {
+            "event_type": "death",
+            "time_period": "short_term",
+            "evidence_excerpt": "He died on fourth postoperative day."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Long-term quality of life cannot be assessed beyond the immediate postoperative period because the patient died shortly after surgery; functional and symptom assessments reflect the perioperative course after diagnosis."
+}

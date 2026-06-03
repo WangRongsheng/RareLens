@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "laparoscopically assisted sigmoid colectomy with diverting loop ileostomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient has improved significantly over the last month, tolerating a regular diet and has a good appetite."
+        },
+        {
+            "treatment_type": "antibiotics",
+            "specific_treatment": "IV antibiotics",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "oxycodone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg Tablet, One (1) Tablet PO Q4H as needed for pain.",
+            "treatment_response": "Patient is no longer taking any Vicodin at this point."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient hospitalized and treated with IV antibiotics."
+        },
+        {
+            "date": "Not specified",
+            "event": "Percutaneous drainage for diverticular pelvic abscess performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Laparoscopically assisted sigmoid colectomy with diverting loop ileostomy performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient reports significant improvement and tolerating regular diet."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient is asymptomatic and has improved significantly.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient feels much stronger and is keeping up with ileostomy output.",
+        "patient_perspective": "Patient is excited about getting his ileostomy taken down and feels he is getting his strength again."
+    }
+}

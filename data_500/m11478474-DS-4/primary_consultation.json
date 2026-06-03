@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "dizziness, confusion",
+        "history_of_present_illness": "Ms. ___ is a ___ woman with a history of hypertension who presents with dizziness, nausea, and confusion. She developed sudden-onset dizziness and nausea at 1 pm. She noted blurred vision and experienced confusion, unable to remember certain personal details. After lying down, she felt some improvement but still had a headache and confusion. She was taken to a facility where initial BP was 208/134 and started on labetalol, showing improvement. A non-contrast head CT showed hypodensity in the left occipital lobe.",
+        "past_medical_history": "Hypertension, Hypercholesterolemia, CAD s/p MI with 2 stents and angioplasty, s/p hysterectomy for fibroids, borderline diabetes mellitus.",
+        "family_history": "Mother died at ___ of an MI. Diabetes in ___. Father with COPD, died at ___ with septicemia.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: 98.1 P: 72 R: 18 BP: 154/50 (on labetalol gtt) SaO2: 99% 3L. Awake, cooperative, NAD.",
+        "specialty_examination": "Neurological examination revealed: Alert, oriented x 2, neglect of the right side. No focal weakness noted. Cranial nerve examination showed right homonymous hemianopia and right facial droop. Motor examination revealed increased tone in the left. Sensory and DTRs were intact."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Joint Pain",
+        "history_of_present_illness": "Ms. ___ is a ___ year old female with severe RA who was referred by her ___ Rheumatologist to the ED for uncontrolled pain. She has trialed multiple medications without much improvement; noted emotional liability to Prednisone. Pt was re-started on Prednisone about 4 days prior at a dose of 10mg daily, reduced to 5mg due to emotional liability. Notable pain flare-ups reported, significant morning stiffness. Fatigue and waves of exhaustion noted.",
+        "past_medical_history": "RA, +CCP, -RF; attempted on multiple agents without much improvement and has notable emotional instability to Prednisone. Heavy menses s/p endometrial ablation. Previous diagnoses include thoracic outlet syndrome.",
+        "family_history": "Father with severe psoriasis, but no joint disease. Family history of diabetes and cancers.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Initial vitals: 98.2, 139/87, 80, 18, 98% RA. Comfortable in bed, emotional. No acute distress. Alert, oriented.",
+        "specialty_examination": "Mild active synovitis mostly in b/l DIP and PIP and b/l knees with mild swelling. Motor and sensation intact. No significant neurological deficits."
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "Disease advanced to CLIS with complete loss of voluntary movement (ALSFRS-R = 0), later physical status worsened after acute pneumonia, and 4 months after the online experiment there was no evidence of consciousness or alertness.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Mechanical ventilator and PEG were needed (late 2013); remained hospitalized for 2 years; no communication with family for more than one year due to complete paralysis.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "In late 2013, mechanical ventilator and transcutaneous endoscopic gastrostomy were needed."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "By early 2015, all voluntary motor functions including ocular movement and eye blinking were completely lost (CLIS)."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Online EEG-based endogenous BCI achieved 87.5% accuracy enabling yes/no communication during the third visit (2016)."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "Physical status worsened after recovering from acute pneumonia, preventing follow-up experiments."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Four months after the online experiment, ERP testing showed no evidence of consciousness or alertness."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The definitive index time is approximated as the ALS diagnosis date (Nov 2012). Exact dates for pneumonia and the loss of alertness are relative to visit schedule; no death is documented. The BCI-enabled communication represents transient functional improvement rather than sustained recovery."
+}

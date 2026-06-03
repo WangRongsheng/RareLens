@@ -1,0 +1,83 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Coronary artery bypass grafting x4",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Left internal mammary artery to left anterior descending artery and reverse saphenous vein graft to posterior descending artery, obtuse marginal artery and second diagonal artery",
+            "treatment_response": "Patient is alert and oriented, nonfocal, ambulating with steady gait"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Nitroglycerin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.4 mg Tablet, PRN",
+            "treatment_response": "Used for chest pain relief"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Albuterol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 puffs TID PRN for cough wheeze",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "325 mg EC PO Q day",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Metoprolol Tartrate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg Tablet BID (recently decreased from 100 mg BID)",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Simvastatin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "80 mg PO QHS",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with chest burning on exertion"
+        },
+        {
+            "date": "Not specified",
+            "event": "Exercise stress test showed ischemic EKG changes"
+        },
+        {
+            "date": "Not specified",
+            "event": "Cardiac catheterization performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Coronary artery bypass grafting x4 performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on postoperative medications"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and oriented x3, nonfocal, ambulating with steady gait",
+        "follow_up_details": "Follow up with surgeon in approximately one month",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Sternal pain managed with Percocet prn",
+        "patient_perspective": "Not specified"
+    }
+}

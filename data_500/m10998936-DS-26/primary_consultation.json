@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "48 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "low grade fevers",
+        "history_of_present_illness": "Woman with a history of MDS with RUNX1 mutation towards acute leukemia with an immature blast phenotype that was CD7 positive, D +298 following URD RIC allogeneic transplant with recent right hip fracture and new thoracic compression fractures as well as recurrent leukemia cutis most recently on protocol with Ipilimumab/Decitabine admit from clinic with low grade fevers with multiple complications transitioned to CMO.",
+        "past_medical_history": "History of MDS with RUNX1 mutation towards acute leukemia associated with significant adenopathy. Treated with cycles of decitabine and venetoclax. Past surgical history includes right maxillary sinus fungal ball removal, hysterectomy in the 1990s, cesarean section with hemorrhage, right femoral neck fracture with hemiarthroplasty, and thoracic compression fractures.",
+        "family_history": "Son with thrombocytopenia. Paternal uncle with leukemia. Father with cholecystectomy and malignant polyp removed from the colon.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission Vital Signs: Temp 98.4, BP 164/84, HR 94, RR 18, O2 sat 100%, Weight 48 kg. General: Well appearing female, in no acute distress. Cushingoid face with decreasing swelling on lower cheeks. + edema of feet and ankles bilaterally.",
+        "specialty_examination": "Neurological exam nonfocal. Cardiovascular: RR, NL S1S2, no murmurs. Skin: Improved lesions on scalp; no other rashes noted."
+    }
+}

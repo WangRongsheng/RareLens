@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "35",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "165 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "palpitation and chest pain of 6 months duration",
+        "history_of_present_illness": "Patient had paroxysmal episodes of palpitations that lasted few minutes, resolved spontaneously, and were not associated with exertion or other aggravating factors. Patient had chest pain that was retro-sternal, intermittent not related to exertion and resolved spontaneously. Frequency of patient’s complaints had increased from 3 weeks prior to presentation.",
+        "past_medical_history": "No history of significant medical illness in the past.",
+        "family_history": "No history of significant medical illness in the family.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals were normal. Dolicocephaly, arachnodactyly, high arched palate, tall statured [Height 165 cm], arm span (176 cm) was more than her height, arachnodactyly, reduced upper to lower body segment ratio (0.83), positive wrist and thumb sign. Underdeveloped rudimentary breasts (Tanner stage 2), sparse pubic hair (Tanner stage 1), and absent axillary hair. Normal external genitalia.",
+        "specialty_examination": "Cardiovascular examination revealed mid-systolic click with a late systolic murmur, other systems were essentially normal."
+    }
+}

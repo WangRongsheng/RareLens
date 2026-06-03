@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "AMS, hypoglycemia",
+        "history_of_present_illness": "Found unresponsive at home. Last seen normal on the evening prior; minimally responsive when found by daughter. Blood sugar low upon EMS arrival. Previous diagnoses include T1DM, HTN, HLD, Multiple Myeloma, DVT on warfarin, prior right-sided CVA. Labs showed low blood sugar repeatedly and CT revealed old infarcts.",
+        "past_medical_history": "Multiple Myeloma, Type I Diabetes, DVT on warfarin, Hypertension, Hyperlipidemia, Anemia, history of right-sided CVA, bilateral cataracts, right-sided rotator cuff tear, osteoarthritis, peripheral neuropathy, CKD stage IV.",
+        "family_history": "Mother had diabetes.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "T 99.3 BP 185/78 HR 80 SaO2 on CMV 500x14 40%. Intubated and sedated on fentanyl 100, Versed 5.",
+        "specialty_examination": "Moves all 4 extremities to noxious stimuli, does not follow commands. Pupils equally round but minimally responsive bilaterally."
+    }
+}

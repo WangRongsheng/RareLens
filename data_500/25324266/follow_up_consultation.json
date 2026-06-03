@@ -1,0 +1,58 @@
+{
+    "basic_information": {
+        "age": "10 days",
+        "gender": "Male",
+        "weight": "2.2 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Respiratory distress since birth",
+        "history_of_present_illness": "A ten-day-old male neonate, born full term weighing 2.2 kg, was referred for evaluation of complex congenital heart disease. Mother noticed respiratory distress since birth. At presentation, the neonate was tachypneic with respiratory rate of 50/min and was mildly cyanosed (SPO2 88%).",
+        "past_medical_history": "Not specified",
+        "family_history": "There was no history of congenital heart disease in the family.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "The neonate was tachypneic with respiratory rate of 50/min and was mildly cyanosed (SPO2 88%). The cardiac examination revealed tachycardia and cardiomegaly. A grade 3/6 systolic murmur was audible over the left sternal border. The liver was palpable 2 cm below right costal margin. The child had facial dysmorphism consistent with chromosome 22q11 deletion.",
+        "specialty_examination": "Cardiomegaly and pulmonary plethora were evident on chest radiograph. Electrocardiogram showed normal sinus rhythm with a rate of 150/min, right axis deviation, and right ventricular hypertrophy. Echocardiogram revealed situs solitus, levocardia with concordant atrioventricular connections. The interatrial septum was intact. Single arterial trunk guarded by trileaflet semilunar valve arose from the ventricles overriding a large subarterial ventricular septal defect."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood count",
+            "date": "Not specified",
+            "findings": "Elevated blood counts and thrombocytopenia",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Cardiomegaly and pulmonary plethora",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed tomography angiogram",
+            "date": "Not specified",
+            "findings": "Confirmed the anatomy, showing short axis of trileaflet truncal valve with confluent pulmonary artery segment arising from right truncal sinus close to but separate from the origin of right coronary artery",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm with a rate of 150/min, right axis deviation, and right ventricular hypertrophy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Situs solitus, levocardia with concordant atrioventricular connections. Single arterial trunk guarded by trileaflet semilunar valve arose from the ventricles overriding a large subarterial ventricular septal defect. A vascular channel arose anteriorly via a 3.5 mm orifice from the anterior aspect of right sinus of the arterial trunk and after a long course of approximately 14 mm divided into right and left pulmonary arteries that measured 4.5 mm and 2 mm, respectively. Mild obstruction at the origin of this vascular channel from truncal sinus with maximum gradient of 20 mm Hg. The left coronary artery after arising from left posterior sinus divided into left anterior descending artery and left circumflex artery to supply left ventricle. The right coronary artery arose from right anterior sinus very close to but separate from the vascular channel supplying pulmonary arteries. The aortic arch was left sided with no patent arterial duct or coarctation.",
+            "changes_over_time": "Postoperative echocardiographic evaluation showed absence of residual ventricular septal defect, well open right ventricular outflow tract with insignificant obstruction (peak gradient 20 mm Hg), and low moderate pulmonary regurgitation. Right ventricular systolic pressure as predicted by tricuspid regurgitation was 35 mm Hg."
+        }
+    ]
+}

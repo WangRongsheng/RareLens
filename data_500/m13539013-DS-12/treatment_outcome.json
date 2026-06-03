@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ERCP with cholangiogram",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Performed with plastic stent placement; no sphincterotomy performed.",
+            "treatment_response": "Cholangiogram showed multiple CBD stones, patient was extubated to RA without difficulty."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV zosyn",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4.5g administered twice.",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV CTX",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Norepinephrine gtt",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Started at 0.3/hr.",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with jaundice and was transferred due to concerns of ascending cholangitis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered IV CTX."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received IV zosyn."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent ERCP with cholangiogram and multiple CBD stones were identified."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was extubated and denied abdominal pain."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Deceased",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

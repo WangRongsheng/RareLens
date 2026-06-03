@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abdominal pain, nausea/vomiting, decreased ileostomy output",
+        "history_of_present_illness": "Patient presents with obstructive symptoms after waking up from sleep with intense mid-abdominal pain, nausea/vomiting, and low ileostomy output (~100cc for the day) and very little gas in the bag. Denies fever/chills/dizziness. Previously admitted for CHF exacerbation managed with diuresis.",
+        "past_medical_history": "1. Hypertension, dyslipidemia, diabetes 2. ___ disease S/P bowel resection and colostomy now ileostomy, obesity, insulin-dependent Type 2 diabetes, osteoarthritis, persistent atrial fibrillation, cervical cancer, GERD, cystic pancreatic lesion, goiter and thyroid mass, pulmonary lesions, portal vein clot, anxiety, left tibia/fibula fracture with hardware",
+        "family_history": "Father with UC and esophageal cancer, maternal aunt with ___, mother with ___ and squamous cell carcinoma, grandmother developed AF at ___ years of age, maternal grandmother with lung cancer, cousin diagnosed with IBD at age ___",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: Afebrile, hemodynamically stable. A&O, well-appearing female in no apparent distress. Multiple well-healed surgical scars.",
+        "specialty_examination": "Abdomen soft, non-tender, non-distended, no rebound or guarding, stoma pink and productive of stool/gas, no edema in extremities."
+    }
+}

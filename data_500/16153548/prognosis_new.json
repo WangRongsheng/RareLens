@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "Possible treatment with bone marrow transplantation was not undertaken, and unfortunately, the patient passed away not long after due to septicaemia.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Despite prolonged intravenous antibiotic therapy, the abscesses failed to resolve completely, with multiple abscesses (including brain) and patchy lung consolidation.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Despite prophylactic measures, she continued to develop recurrent pyogenic infections."
+        },
+        {
+            "event_type": "readmission",
+            "time_period": "long_term",
+            "evidence_excerpt": "Some infections required admission to hospital for intravenous antibacterial therapy and drainage of abscesses."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "Drainage of abscesses was performed during hospital admissions."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "CT showed three enhancing nodules in the right occipital lobe consistent with small abscesses and multiple soft-tissue abscesses; lung imaging showed patchy consolidation."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "long_term",
+            "evidence_excerpt": "Bone marrow aspiration revealed features suggestive of myelodysplastic syndrome progressing to acute myeloid leukemia."
+        },
+        {
+            "event_type": "death",
+            "time_period": "long_term",
+            "evidence_excerpt": "The patient passed away not long after due to septicaemia."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Exact dates for events after diagnosis are not provided; events span years after infancy. Time periods are categorized as long_term since they occurred well beyond 12 months after the diagnosis at 4 months of age. Functional status is inferred from recurrent admissions and persistent severe infections; specific ADL details are not described."
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "gastric cancer",
+        "history_of_present_illness": "Originally it was not expected to be resectable, but actually he has had a good response. He presents this admission for resection of his mass and surrounding structures after receiving neoadjuvant chemotherapy.",
+        "past_medical_history": "His oncologic history dates back to approximately ___, at which time he developed worsening gas pains his stomach and increased burping. He also had about a 10-pound loss in only 1.5 months, prompting further evaluation by a primary care doctor, including an endoscopic evaluation and colonoscopy, which showed poorly differentiated gastric cancer.",
+        "family_history": "Notable for a sister who passed away secondary to lung cancer, father with history of prostate cancer. His mother had a stroke and a history of atrial fibrillation.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Gen: Awake and alert, Resp: CTAB, CV: RRR, GI: Soft, nontender, well-healed incision, drain and pigtail in place, J tube in place.",
+        "specialty_examination": "Not specified"
+    }
+}

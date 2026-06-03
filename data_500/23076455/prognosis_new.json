@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "After transient benefit from balloon dilatation, he underwent robotic-assisted Heller’s myotomy with marked improvement and weight gain; follow-up barium swallow showed normal emptying and no reflux. He remains on hydrocortisone for adrenal insufficiency (Allgrove’s syndrome).",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Reported 'marked improvement' in symptoms and normal esophageal emptying without reflux after surgery; no persistent severe symptoms documented.",
+        "symptom_burden": "occasional"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Esophageal balloon dilatation with only transient improvement."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Subsequently, he underwent Robotic-assisted Heller’s myotomy using the DaVinci system."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Postoperatively there was marked improvement with an increase in his weight."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Follow-up barium swallow showed normal emptying of the esophagus with no evidence of gastroesophageal reflux."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The source is a multi-patient case report. This summary focuses on the 2.5-year-old male with Allgrove’s syndrome due to the clearest follow-up details. Exact intervals from diagnosis to interventions and follow-up are not provided; short-term and mid-term periods are inferred. The overall outcome is classified as partial recovery because of ongoing adrenal insufficiency management despite apparent resolution of achalasia-related obstruction."
+}

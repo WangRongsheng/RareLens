@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "At adolescent ages (13 and 17), affected patients show persistent hypokalemia, metabolic alkalosis, elevated renin/aldosterone and profound bilateral sensorineural deafness; no death or resolution reported. Audiogram showed absence of evoked response up to 90 dB (profound deafness).",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Ongoing prominent symptoms including polydipsia/polyuria, muscular weakness/fatigue, and profound bilateral sensorineural deafness; biochemical abnormalities (hypokalemia, metabolic alkalosis, high renin/aldosterone) persist at long-term follow-up ages.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "During his childhood he developed a muscular weakness, polydipsia, nocturnal enuresis (patient I2)."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "I2 and II1 showed characteristic clinical symptoms of Bartter syndrome type IV, such as hypokalemia, hyperuricaemia, metabolic alkalosis, high levels of plasmatic renin and aldosterone with sensorineural deafness (Table 1; ages 13 and 17)."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Audiogram test in affected members revealed an absence of evoked response to stimulation up to 90 dB, indicating persistent profound deafness."
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "The manuscript provides cross-sectional descriptions with limited longitudinal detail and no explicit Bartter syndrome diagnosis date or treatment timeline. The index time was approximated to the early specialist diagnosis of bilateral sensorineural hearing loss (e.g., at 12 months for I2). Events are categorized conservatively as long-term based on persistence of findings into adolescence, and there is no information on treatment, readmissions, or improvements."
+}

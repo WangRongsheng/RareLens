@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "tongue cancer",
+        "history_of_present_illness": "Two month history of right facial pain, right ear pain and swelling on the right side of the tongue. Dentist noted cyst on tongue. Seen by ENT: ulcerated lesion noted on lateral side anterior tongue measuring 2x1cm. Also noted 2.5x1.0cm area of leukoplakia directly posteriorly. Right Anterior/Lateral Tongue Bx: Invasive, well-differentiated SCCA, P16+. Right Posterior/Lateral Tongue Bx--leukoplakia-hyperkeratosis. CT Neck/Chest: No evidence for primary oral neoplasm; scattered bilateral cervical lymph nodes. Low suspicion pleural-based nodule in the left lower lobe, measuring 5mm. Surveillance recommended, f/u in 6 months. Final pathology shows squamous cell carcinoma.",
+        "past_medical_history": "HTN, severe OSA",
+        "family_history": "Noncontributory.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "General: No apparent distress. Blood Pressure: Not specified. Cardiac: Regular rate. Respiratory: Unlabored breathing without stridor or stertor, strong voice. Neuro: Alert and oriented, communicative.",
+        "specialty_examination": "HEENT: CN 5, 7, 11, 12 intact, neck flat and soft, incisions clean, dry, intact. Flap with good capillary refill, strong biphasic doppler signal. RFFF donor site dressing clean, dry, intact; finger sensation and movement intact."
+    }
+}

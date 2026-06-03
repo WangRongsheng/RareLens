@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Botulinum toxin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Injected along the circumference of the esophagogastric junction",
+            "treatment_response": "Did not improve dysphagia"
+        },
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "Methotrexate, fluorouracil, cisplatin, doxorubicin, etoposide, and paclitaxel",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Shrank the tumor, enabling radical surgery"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Total gastrectomy, splenectomy, lymphadenectomy, resection of the major omentum, partial pancreatectomy, and esophagectomy with esophagojejunostomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Retrosternal pull-up",
+            "treatment_response": "Patient did well, accommodated completely to new anatomy, and remained free of symptoms"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Vitamin B12",
+            "start_date": "Not specified",
+            "end_date": "Ongoing",
+            "dosage_or_details": "Once a month intramuscularly",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Parenteral iron replacement",
+            "start_date": "Not specified",
+            "end_date": "Ongoing",
+            "dosage_or_details": "Three times a year",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Botulinum toxin injected along the circumference of the esophagogastric junction"
+        },
+        {
+            "date": "Not specified",
+            "event": "Preoperative chemotherapy (methotrexate, fluorouracil, cisplatin, doxorubicin, etoposide, and paclitaxel) administered"
+        },
+        {
+            "date": "4 months after chemotherapy",
+            "event": "Radical surgery performed (total gastrectomy, splenectomy, lymphadenectomy, resection of the major omentum, partial pancreatectomy, and esophagectomy with esophagojejunostomy)"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Free of symptoms, accommodated completely to new anatomy",
+        "follow_up_details": "Follow-up of 18 years, free of tumor",
+        "complications": "No complications",
+        "long_term_prognosis": "Very favorable",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Good, patient has been free of symptoms and will soon get a degree in physical metallurgy",
+        "patient_perspective": "Not specified"
+    }
+}

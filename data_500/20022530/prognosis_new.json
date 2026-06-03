@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "After starting a modified ketogenic diet, both sisters showed significant improvement: less ataxia, much improved fine and gross motor skills, and no dystonic episodes since commencing the diet. The report notes improvement but also that established structural lesions cannot be reversed, indicating residual issues.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Since commencing the ketogenic diet there have been no dystonic episodes, with decreased fatigability and less ataxia, implying ongoing but milder symptoms.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "unknown",
+            "evidence_excerpt": "Of particular note, there have been no dystonic episodes since commencing the diet."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "unknown",
+            "evidence_excerpt": "Clinically, both girls are less ataxic and both fine and gross motor skills are much improved."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "unknown",
+            "evidence_excerpt": "Parents report improvements in concentration, fine motor control and decreased fatigability."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The exact timing of diagnosis and the duration of follow-up after starting the ketogenic diet are not specified. Index time was approximated to the point of definitive diagnosis and initiation of ketogenic dietary therapy. Long-term outcomes are described qualitatively without precise timelines; residual limitations are inferred from persistent ataxia and the note that structural lesions cannot be reversed."
+}

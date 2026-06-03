@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Open transperitoneal right-sided nephrectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Histologic sections showed a high-grade hydronephrosis, pyelonephritis, and fibrosis without evidence of malignancy. Postoperatively, the CA 19-9 serum level decreased at a rate of approximately 100 to 200 U/mL per day."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Follow-up examination 11 years after breast cancer surgery revealed an elevated CA 19-9 serum level (3049 U/mL)."
+        },
+        {
+            "date": "Not specified",
+            "event": "Subsequent staging procedures showed high-grade, right-sided hydronephrosis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Open transperitoneal right-sided nephrectomy was performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Postoperatively, the CA 19-9 serum level decreased at a rate of approximately 100 to 200 U/mL per day."
+        },
+        {
+            "date": "6 months after surgery",
+            "event": "The patient was well and the CA 19-9 value was within the normal range (17 U/mL)."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Well with CA 19-9 value within the normal range (17 U/mL)",
+        "follow_up_details": "6 months of follow-up",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "6 months",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "CT-guided placement of a pigtail catheter into the gallbladder fossa fluid collection",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Successful placement of the catheter"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with worsening right upper quadrant pain and fever"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT imaging performed to assess for cystic duct stump leak"
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery performed to place pigtail catheter"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Follow up in the Acute Care Surgery clinic as per discharge instructions",
+        "complications": "biloma complication noted",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Mental status clear and coherent, alert and interactive",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "45",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "fevers, night sweats and non-productive cough",
+        "history_of_present_illness": "2-month history of fevers, night sweats and non-productive cough. He had been on a series of consecutive trials of daclizumab for Relapsing Remitting Multiple Sclerosis (RRMS), totalling 79 months (12-months placebo-controlled, 12-months dose-blinded, 55-months open-label of 150 mg monthly subcutaneously). He had experienced three relapses in the three years prior to commencing the trials but remained relapse-free during them.",
+        "past_medical_history": "Relapsing Remitting Multiple Sclerosis (RRMS)",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "new bilateral inguinal lymphadenopathy",
+        "specialty_examination": "Neurological examination demonstrated longstanding altered left-sided facial sensation, mild instability on Romberg testing; Expanded Disability Status Scale (EDSS) score was stable at 2.0."
+    }
+}

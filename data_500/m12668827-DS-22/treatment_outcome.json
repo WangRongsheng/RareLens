@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "I&D R TKA with liner exchange",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Improvement noted after surgical intervention."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Post-operative visit revealed dehiscence of the incision."
+        },
+        {
+            "date": "Not specified",
+            "event": "The incision was repaired with sutures."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient returned for re-evaluation due to worsening dehiscence."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient admitted and taken to OR for I&D."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable post-surgery.",
+        "follow_up_details": "Staples to be removed on POD 14.",
+        "complications": "L TKA infection noted.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Not specified."
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 gm IV",
+            "treatment_response": "Patient was admitted and treated for fever, cough, and fatigue. Improvement noted upon discharge."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "levofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No improvement; patient progressively feeling worse."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient received a course of levofloxacin with no improvement."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient admitted to the ED with fever, cough, and fatigue."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was given 2L NS, ceftriaxone IV 1gm, and acetaminophen."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home with cough medications and PCP follow-up."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved and discharged home.",
+        "follow_up_details": "PCP follow-up.",
+        "complications": "Urinary tract infection.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Not specified."
+    }
+}

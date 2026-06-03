@@ -1,0 +1,67 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "albendazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "400 mg bid orally initially, later reduced to 200 mg bid",
+            "treatment_response": "Well-tolerated, not interacting with the immunosuppressive regimen, maintained albendazole sulfoxide plasma levels within target range (2.30 to 3.30 µmol/L)"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "hepatectomy and right adrenalectomy",
+            "start_date": "15 months post-transplantation",
+            "end_date": "Not specified",
+            "dosage_or_details": "Free resection margins",
+            "treatment_response": "Pathological examination confirmed the diagnosis of AE, showing an unequivocal pseudotumoral lesion with numerous small vesicles and ill-defined borders, multiple areas of necrosis and granuloma surrounding slender parasitic PAS-positive layers"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Immediately post-transplantation",
+            "event": "Started tacrolimus, mycophenolate, and prednisolone"
+        },
+        {
+            "date": "1 month post-transplantation",
+            "event": "Treated with intravenous methylprednisolone for persistent acute cellular rejection"
+        },
+        {
+            "date": "2 months post-transplantation",
+            "event": "Required basiliximab for persistent acute cellular rejection"
+        },
+        {
+            "date": "10 months post-transplantation",
+            "event": "Irregular hepatomegaly detected associated with persisting pain in the right hypochondrium"
+        },
+        {
+            "date": "12 months post-transplantation",
+            "event": "Abdominal scan revealed a 44 mm lesion in the hepatic segment IV with satellite nodules and necrotic adenomegaly suggesting cholangiocarcinoma"
+        },
+        {
+            "date": "12 months post-transplantation",
+            "event": "Diagnosis of AE confirmed via MRI, PET/CT scan, liver biopsy, and serological tests"
+        },
+        {
+            "date": "12 months post-transplantation",
+            "event": "Treatment by albendazole (400 mg bid orally) initiated"
+        },
+        {
+            "date": "15 months post-transplantation",
+            "event": "Hepatectomy and right adrenalectomy performed"
+        },
+        {
+            "date": "42 months post-transplantation",
+            "event": "Patient asymptomatic with unremarkable clinical examination and imaging, undetectable or weak and declining serology levels"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Asymptomatic with unremarkable clinical examination and imaging",
+        "follow_up_details": "Regular monitoring of albendazole sulfoxide plasma levels, close clinical, serological and radiological post-intervention follow-up required",
+        "complications": "No complications",
+        "long_term_prognosis": "Close clinical, serological and radiological post-intervention follow-up will remain essential; even after the end of treatment planned for two years post-alveolar echinococcosis surgery at the earliest, or until the serology becomes negative",
+        "recovery_timeline": "42 months after transplantation",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

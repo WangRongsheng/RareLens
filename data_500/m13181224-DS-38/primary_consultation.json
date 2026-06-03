@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "nausea, vomiting, diarrhea",
+        "history_of_present_illness": "Mr. ___ is a ___ year old man with a past medical history of alcoholic cirrhosis s/p liver transplant in ___, atrial fibrillation on rivaroxaban, DM, CKD with recent admissions in ___ and ___ for nausea, vomiting and diarrhea of unclear etiology presents with nausea and vomiting. The patient has had multiple admissions over the past few months (3 within a ___ week span, most recently in ___ for similar symptoms of nausea/vomiting, and gastroenteritis with watery diarrhea. In ___ he was started on rifaximin for empiric treatment of small intestinal bacterial overgrowth in case this was a cause for malabsorption. Per his ___ hepatology note, he recently completed therapy and stools were somewhat more formed. No definitive diagnosis has been made despite broad infectious work-up, testing for celiac disease, CT abd/pelvis (___) showing only diffuse gastric fold thickening suggesting gastritis without free air or free fluid, bowel obstruction or hydronephrosis, and EGD/Colonoscopy which was unremarkable. He reports that the current presentation began on ___. Prior to that, following his discharge on ___, he had been having soft stools and no nausea or vomiting. He woke up the morning of ___ with loose stools and vomiting. He reports being unable to take anything PO without vomiting. He stopped taking in PO and continued to have dry heaves. Both his stool and vomit are non-bloody. He denies any fevers/chills, myalgias, sick contacts, chest pain, abdominal pain.",
+        "past_medical_history": "- Alcoholic cirrhosis s/p orthotopic deceased donor liver transplant ___ - Coronary artery disease, stents to LAD and LCX on ___, DES to proximal and mid RCA on ___, DES to OM1 on ___ with diseased RCA that was not amenable to PCI - Atrial fibrillation on rivaroxaban - HFpEF (55%-60%) - Diabetes, insulin-dependent - Hyperlipidemia - CKD (baseline Cr ~1.2-1.3) - Peripheral arterial disease",
+        "family_history": "Per OMR, Father died ___ years old from MI. No family history of liver disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: 97.6PO 127 / 66L Lying 80 24 98 Ra GENERAL: NAD, appears stated age, well nourished HEENT: atraumatic, normocephalic, EOMI, MMM, PERRL NECK: supple, no LAD HEART: RRR, no murmurs, rubs, gallops LUNGS: CTAB, no wheezes, ronchi, crackles ABDOMEN: NABS, surgical scar, soft, NT, ND EXTREMITIES: no cyanosis, clubbing, or edema NEURO: A&Ox3, moving all 4 extremities with purpose, CN II-XII grossly intact SKIN: warm and well perfused, no excoriations or lesions, no rashes",
+        "specialty_examination": "NEURO: A&Ox3, moving all 4 extremities with purpose. HEART: RRR, +s1/s2, no murmurs, rubs, gallops, or thrills. LUNGS: CTAB, mild wheezing in the mid and lower lung fields, no ronchi, no rales. ABDOMEN: large midline scar, otherwise soft, non-tender, non-distended."
+    }
+}

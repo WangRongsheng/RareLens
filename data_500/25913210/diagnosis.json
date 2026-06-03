@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Severe congenital actin related myopathy with myofibrillar myopathy features",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis was based on clinical findings of hypotonia, significant delay in motor milestones, and marked muscle weakness since birth, along with muscle biopsy findings showing abnormal variation in fiber size, fiber splitting, and ectopic expression of multiple proteins. Whole exome sequencing revealed a two-amino-acid duplication in ACTA1, and cell culture studies showed mutant actin formed pleomorphic cytoplasmic aggregates, supporting the diagnosis."
+    }
+}

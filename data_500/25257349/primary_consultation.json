@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "32",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Japanese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Thrombocytopenia detected during treatment for neonatal jaundice",
+        "history_of_present_illness": "Thrombocytopenia persisted, with a platelet count ranging from 1.7 x 10^9/L to 16.2 x 10^9/L. Waddling gait began in middle adolescence and muscle weakness gradually progressed, particularly in the proximal lower limbs. At the age of 20 years, proximal muscle weakness was noted, particularly in the neck flexor and iliopsoas. Serum creatine kinase levels ranged from 300 to 600 IU/L. Muscle biopsy showed increased rimmed vacuoles in approximately 1% of myofibers. He has been wheelchair-bound since the age of 24 years.",
+        "past_medical_history": "Proteinuria and hematuria detected at the age of 7 years, progressed to chronic renal failure requiring periodic dialysis therapy. Mildly decreased cardiac function accompanied by mitral insufficiency from the age of 22 years.",
+        "family_history": "Parents and other family members have no medical history of hematological or neuromuscular disorders.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Neurological examination at the age of 20 years showed proximal muscle weakness, particularly in the neck flexor and iliopsoas."
+    }
+}

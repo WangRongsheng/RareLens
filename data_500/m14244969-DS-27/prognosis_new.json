@@ -1,0 +1,48 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "During admission for a saddle PE, CTA showed \"increase in size of right lower lobe nodule and a new left upper lobe nodule.\" Care escalated with anticoagulation and IVC filter placement, and discharge instructions referenced hospice nursing, indicating worsening disease and end-of-life care planning.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "At discharge he remained \"Confused - always\" and \"Lethargic but arousable\" with ongoing RLE edema and a palpable right groin hematoma; hospice involvement noted (\"Please contact hospice nurse\").",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Anticoagulation initiated for PE: \"Received heparin without bolus\" and \"You were started on blood thinning medication.\""
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "IVC filter placement documented under Major Surgical or Invasive Procedure."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Right groin complication after IVC filter: \"right groin with palpable hematoma, ecchymosis.\""
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "New cardiac arrhythmia: \"ECG showed new Afib with RBBB.\""
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Severe thromboembolic event: CTA showed \"Saddle embolus with segmental pulmonary emboli involving nearly all segments.\""
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Worsening pulmonary nodules: CTA noted \"increase in size of right lower lobe nodule and a new left upper lobe nodule.\""
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Transition toward end-of-life care and decreased function: Discharge referenced hospice nurse and noted dependence for mobility and persistent confusion."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "No follow-up beyond discharge is available. Death is not documented. Functional status and symptom burden were assessed at discharge; hospice involvement suggests persistent severe impairment, but exact long-term outcomes are not recorded."
+}

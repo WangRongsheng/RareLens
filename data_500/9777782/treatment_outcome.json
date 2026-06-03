@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "topical isotretinoin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.05% gel",
+            "treatment_response": "cleaned the lesions in 3 months, but they recurred when treatment ended"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "maintenance dose of topical isotretinoin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "applied twice weekly",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Treatment with topical isotretinoin started"
+        },
+        {
+            "date": "Not specified",
+            "event": "Lesions cleaned in 3 months"
+        },
+        {
+            "date": "Not specified",
+            "event": "Lesions recurred when treatment ended"
+        },
+        {
+            "date": "Not specified",
+            "event": "Maintenance dose of topical isotretinoin initiated, applied twice weekly"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Not specified",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Lesions cleaned in 3 months but recurred after treatment ended",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

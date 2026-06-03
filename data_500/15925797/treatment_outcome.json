@@ -1,0 +1,31 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "resection of meningioma",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Histological examination showed syncitial cells with round to oval nuclei, small solitary nucleoli, and a whorling pattern characteristic of meningioma. Mitotic figures were not detected."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "1999",
+            "event": "Admission to the Ophthalmology Department of Iida Municipal Hospital with keratitis of the right eye and severe bilateral corneal inflammation."
+        },
+        {
+            "date": "Not specified",
+            "event": "Resection of the meningioma."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Independent in daily activities, no further problems with her eyes.",
+        "follow_up_details": "At 18 months after resection of the meningioma, the patient remains independent in daily activities, and has had no further problems with her eyes.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Independent in daily activities.",
+        "patient_perspective": "Not specified"
+    }
+}

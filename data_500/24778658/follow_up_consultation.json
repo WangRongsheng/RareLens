@@ -1,0 +1,88 @@
+{
+    "basic_information": {
+        "age": "65",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "left hemithoracic pain, weight loss, gait ataxia, and tremor",
+        "history_of_present_illness": "A 65-year-old man presented to the emergency department with a history of left hemithoracic pain, weight loss, gait ataxia, and tremor. He had a 120-pack-year smoking history and known ischemic cardiomyopathy with previous coronary stenting.",
+        "past_medical_history": "known ischemic cardiomyopathy with previous coronary stenting",
+        "family_history": "Not specified",
+        "social_history": "120-pack-year smoking history"
+    },
+    "physical_examination": {
+        "general_examination": "reduced performance status (PS 1, ECOG classification)",
+        "specialty_examination": "neurological assessment revealed tremor, gait ataxia, and mild involuntary limb jerking which resulted in the patient remaining bedbound despite any evidence of cognitive impairment and sensory or motor deficit"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cerebrospinal fluid (CSF) analysis",
+            "date": "Not specified",
+            "findings": "Normal cell counts, protein levels, viral markers, and negative cytology",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serologic anti-neuronal antibody screening",
+            "date": "Not specified",
+            "findings": "Anti-Hu, Anti-Ri, anti-Yo, anti-CV2, anti-Ma1, anti-Ma2, anti-amphiphysin, and anti-VGKC were all negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum glutamic acid decarboxylase antibody radio immunoassay (GAD65 Ab Assay)",
+            "date": "Not specified",
+            "findings": "Positive (1.1 U/mL) (Titers generally < or = 0.03 U/L)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Enlarged left hilum",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thoracic computed tomography (CT)",
+            "date": "Not specified",
+            "findings": "Left hilar mass measuring 26 mm with associated left hilar and mediastinal lymphadenopathy (>1 cm short axis)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "18-fluorodeoxyglucose-positron emission tomography (18-FDG-PET)",
+            "date": "Not specified",
+            "findings": "Staged the SCLC as limited disease",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI) of the brain",
+            "date": "Not specified",
+            "findings": "No ischemic changes, metastatic lesions, or abnormal enhancement with gadolinium",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain 18-FDG-PET",
+            "date": "Not specified",
+            "findings": "Diffuse cerebral hypometabolism with cerebellar hypermetabolism (usually reported finding in PND)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Electroencephalography (EEG)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endobronchial ultrasound (EBUS) and transbronchial needle aspiration (TBNA)",
+            "date": "Not specified",
+            "findings": "Confirmed a diagnosis of small-cell lung cancer (SCLC)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

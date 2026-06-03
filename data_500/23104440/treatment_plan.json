@@ -1,0 +1,104 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Glutaric aciduria type I (GA-I)",
+        "history_of_present_illness": "Patient 1 received treatment beginning at 1 month of age. She had two episodes of acute illness followed by seizure before reaching 1 year of age. Although there was no acute deterioration of motor ability after these episodes, her development was slightly delayed. Seizure-like movement had been observed at the age of 10 months after vaccination, and the patient was then prescribed phenobarbital which was later discontinued at 5 years of age. Currently, she exhibits no abnormal neurological signs.",
+        "past_medical_history": "Glutaric aciduria type I (GA-I), treated with special diets, carnitine supplements, and immediate stress avoidance.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Brain MRI T2-weighted images revealing high signal intensity over the globus pallidus were observed at 1.3 years. The pallidal lesions resolved gradually, and disappeared after 6 years. High intensity over deep white matter was more prominent at older ages."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Dried blood spot glutarylcarnitine (C5DC) levels",
+            "date": "Not specified",
+            "findings": "Abnormal levels between 0.21 and 6.33 μM",
+            "changes_over_time": "Mean DBS C5DC levels were elevated (mean 0.884, range 0.08 to 2.64 μM), except for Patient 4 who is a low excretor"
+        },
+        {
+            "procedure_name": "Plasma amino acid analysis",
+            "date": "Every 3 months",
+            "findings": "Plasma lysine (mean 110.5, range 32.70 to 263.0 μM) and tryptophan (mean 50.28, range 12.30 to 100.0 μM) levels were kept near the lower limits of the normal ranges",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Acylcarnitine profiling",
+            "date": "Every 3 months",
+            "findings": "Elevated DBS C5DC levels (mean 0.884, range 0.08 to 2.64 μM)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine organic acid analysis",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genotyping",
+            "date": "Not specified",
+            "findings": "IVS10-2A>C mutation represented 50% of the mutated chromosomes; other mutations were all private",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI T2-weighted images",
+            "date": "At 1.3 years (Patient 1)",
+            "findings": "High signal intensity over the globus pallidus",
+            "changes_over_time": "Pallidal lesions resolved gradually and disappeared after 6 years; high intensity over deep white matter was more prominent at older ages"
+        },
+        {
+            "procedure_name": "Brain MRI T2-weighted images",
+            "date": "At 1.1 years (Patient 2)",
+            "findings": "High density lesions over both the putamen and globus pallidus",
+            "changes_over_time": "Lesions resolved gradually, and at 4 years of age involved only the outer regions of the putamen; frontotemporal atrophy was still more prominent than that of other patients"
+        },
+        {
+            "procedure_name": "Brain MRI T2-weighted images",
+            "date": "At 1.1 years (Patient 3)",
+            "findings": "Widening sylvian fissures and delays in myelination",
+            "changes_over_time": "At 3.9 years, improvement in brain atrophy but mildly increased intensity of deep white matter"
+        },
+        {
+            "procedure_name": "Brain MRI T2-weighted images",
+            "date": "At birth (Patient 4)",
+            "findings": "Frontotemporal atrophy and delay in myelination",
+            "changes_over_time": "At age 3.4 years, frontotemporal atrophy had resolved, although high intensity of deep white matter had become apparent"
+        },
+        {
+            "procedure_name": "Brain MRI T2-weighted images",
+            "date": "At ages more than 3 years (Patients 5 and 6)",
+            "findings": "High intensity in deep white matter",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Wechsler Preschool and Primary Scale of Intelligence, Revised Edition (WPPSI-R)",
+            "date": "At various ages (6.5, 4.3, 3.3, 3.7, 4.7 years)",
+            "findings": "FIQ, PIQ, and VIQ scores ranged between 66 and 102",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bayley Scales of Infant and Toddler Development, Third Edition (Bayley-III)",
+            "date": "At 4 years (Patient 2)",
+            "findings": "DQ estimated as 38% for cognition, 52% for receptive communication, 69% for expressive communication, 13% for fine motor, and 19% for gross motor",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Glutaric aciduria type I (GA-I)",
+        "diagnostic_reasoning": "The diagnosis was confirmed through newborn screening by abnormal dried blood spot glutarylcarnitine (C5DC) levels, followed by confirmatory testing including DBS acylcarnitine profile, urine organic acid analysis, and genotyping. The patients were treated with special diets, carnitine supplements, and immediate stress avoidance, which is consistent with the management of GA-I."
+    }
+}

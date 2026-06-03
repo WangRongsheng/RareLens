@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Macrobid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "100 mg PO Q12H for 7-day course",
+            "treatment_response": "UTI was treated, but patient had increased symptoms of cognitive decline."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV fluids (Normal Saline)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1L NS",
+            "treatment_response": "Administered to address hyponatremia; patient showed some improvement."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient diagnosed with UTI and started on Macrobid."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient had 1L Normal Saline administered in the ED."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient monitored for sodium levels during hospitalization."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable, Alert and oriented x 2",
+        "follow_up_details": "Patient advised to follow up with physician to monitor sodium levels.",
+        "complications": "Patient had a fall during hospitalization while getting up to go to the bathroom.",
+        "long_term_prognosis": "Dementia is worsening.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient enjoyed physical therapy and word-finding games during hospitalization.",
+        "patient_perspective": "Patient's confusion improved during hospitalization but is believed to be due to worsening dementia."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "30",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "skin fragility and blistering of the face, upper back, and dorsum of hands",
+        "history_of_present_illness": "Symptoms were worse during summer, but not affected by her menstrual cycle. At presentation she was pregnant and had undergone relapse of classical childhood CD, controlled between the ages of 10 months and 18 years by a gluten-free diet. From that age she had taken a normal diet. Previous history included a single episode of unexplained acute abdominal pain accompanied by aphasia, lasting several hours but resolving spontaneously, and the removal of a normal appendix without postoperative complications.",
+        "past_medical_history": "Classical childhood CD, controlled between the ages of 10 months and 18 years by a gluten-free diet. Previous history included a single episode of unexplained acute abdominal pain accompanied by aphasia, lasting several hours but resolving spontaneously, and the removal of a normal appendix without postoperative complications.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Skin biopsy revealed no IgA deposition at the dermoepidermal junction. It did, however, show features typical of porphyria with cutaneous lesions. A duodenal biopsy showed near-total villous atrophy with crypt hyperplasia and increased numbers of inflammatory cells in the lamina propria and of intraepithelial lymphocytes, ie., changes typical of CD."
+    }
+}

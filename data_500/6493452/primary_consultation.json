@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "11",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Progressive deterioration of language and abnormal behaviour at twenty months of age",
+        "history_of_present_illness": "After normal birth and early psychomotor development, at twenty months of age she showed progressive deterioration of language and abnormal behaviour. At around two years of age she lost the ability to walk unsupported. Since the age of three she has had daily seizures, which consisted of 'stiffening' and cyanosis for about thirty to forty sec. Around the same age a severe breathing disorder appeared, characterized by apneas of variable duration (ten to fifty sec.) which alternated with profound, irregular respiratory movements. The most prolonged apneic episodes were accompanied by cyanosis and sometimes followed by faints; these occurred several times a day in clusters at ten to twenty-day intervals.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Muscular tone, strength and superficial and deep reflexes were normal. Gait was broadbased with wide oscillations, her trunk and neck assuming dystonic postures. Her hands displayed stereotyped movements: she used to rub them continuously and bring them to her mouth. She could not talk, could not recognize her parents; was agitated, aggressive and incapable of relating to her environment.",
+        "specialty_examination": "Not specified"
+    }
+}

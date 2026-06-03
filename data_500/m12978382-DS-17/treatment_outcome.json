@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Irrigation and Debridement Right foot",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "About ___ of purulent material was expressed."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Antibiotics",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Completed at least a 2 week course of antibiotics after discharge.",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Irrigation and debridement performed on right foot."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient completed a 2-week course of antibiotics after discharge."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Good",
+        "follow_up_details": "Will require dressing changes at home by visiting nurses every ___ days.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

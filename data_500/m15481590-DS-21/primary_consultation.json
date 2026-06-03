@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "53.2 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "dyspnea",
+        "history_of_present_illness": "Ms. ___ is a ___ female with history of undercontrolled HTN, HLD, T2DM, CAD (s/p CABG ___ w/ LIMA to the LAD, SV to OM and PDA), HFrEF (EF 25% in ___, and CKD II/III, who presented to the ___ ED with worsening dyspnea. Patient reported having 2 days of worsening dyspnea. She stated that she has orthopnea at baseline but dyspnea is new. Given her new SOB, her ___ tried to take her to the PCP, but because the patient was too SOB, EMS were eventually called. On EMS arrival, she was found to be mildly hypoxemic at 90% on RA and was transferred to the ED. Of note, patient was hospitalized at ___ in ___ for HFrEF exacerbation with BNP 30k and CXR that demonstrated pulmonary vascular congestion. TTE at that time indicated an EF of 25%, which was a decrease from 50% from ___. ECG x2 showed no ischemic changes and trops were negative, but Echo did show akinetic inferior wall, suggesting a prior infarct. Nuclear stress test also was suggestive of a prior infarct. She was treated with IV furosemide, and discharge weight was 125lbs. She has had follow-up with her primary care physician, ___, at ___, and has been taking furosemide 20mg PO every other day. She has also been on metoprolol 12.5 mg, which was recently reduced from 25 mg, due to low BPs, dizziness, and lightheadedness.",
+        "past_medical_history": "1. CARDIAC RISK FACTORS - DM Type 2 (last A1C 6.5%, on glipizide and NPH, both BID) - HTN (on metoprolol) - HLD (on rosuvastatin) 2. CARDIAC HISTORY - CAD s/p CABG ___ w/ LIMA to the LAD, SV to OM and PDA - HFrEF (EF 35% ___ - Sinus rhythm 3. OTHER PAST MEDICAL HISTORY - Depression (on bupropion and citalopram) - Low back pain (MRI ___ w/ moderate to severe spinal canal narrowing)",
+        "family_history": "Mother ___ ALZHEIMER'S DISEASE Father ___ MYOCARDIAL INFARCTION",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: T 97.6 BP 123/67 HR 93 RR 22 O2 100% 1.5L. Thin, elderly woman in NAD. Oriented x3. Mood, affect appropriate.",
+        "specialty_examination": "CARDIAC: Regular rate and rhythm. Normal S1, loud S2. Holosystolic murmur most prominent in the LUSB. LUNGS: Crackles in the mid and base of the lungs bilaterally."
+    }
+}

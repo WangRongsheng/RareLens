@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "wet gangrene of right toes",
+        "history_of_present_illness": "Presented with wet gangrene of his right second and third toes, underwent multiple debridements and amputations. Denies having seen a PCP for several years but endorses neuropathy in lower extremities for many years with several past foot ulcers. Noted worsening ulceration and pain in right second toe before admission. At OSH presented with DKA and metabolic acidosis, treated with insulin. Had vascular studies showing patent distal vasculature. X-ray showed postsurgical changes and tracking from right lower extremity. EF was reported as 45-50%.",
+        "past_medical_history": "Palpitations, left hand numbness and motor deficits, BLE neuropathy. Surgical history includes left greater saphenous vein ligation and varicose vein excision.",
+        "family_history": "Positive for colon cancer, negative for early heart disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs stable. Alert and oriented. Good cap refill in extremities. RLE with soft viable pink flap, no calf tenderness or edema.",
+        "specialty_examination": "Neurological: Not specified. Cardiovascular: Regular rate and rhythm."
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "C1-2 posterior fusion with allograft",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Neurologically intact, full strength and sensation, minimal incisional pain requiring only Tylenol"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented after mechanical fall and underwent evaluation"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT scan revealed C2 fracture with posterior displacement"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient transferred for further management"
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent C1-2 posterior fusion with allograft"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged to rehabilitation after 2 days"
+        },
+        {
+            "date": "Not specified",
+            "event": "Follow-up imaging revealed non-healing fracture"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge with instructions including physical therapy"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent, Mental status clear and coherent",
+        "follow_up_details": "Follow-up visit to address clearance to drive and return to work",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient reports no issues and sleeps in recliner for comfort",
+        "patient_perspective": "Not specified"
+    }
+}

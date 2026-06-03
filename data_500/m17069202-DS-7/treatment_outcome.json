@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Right TFN",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with right hip pain after unwitnessed fall"
+        },
+        {
+            "date": "Not specified",
+            "event": "Surgery performed (Right TFN)"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged to Extended Care Facility"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - requires assistance",
+        "follow_up_details": "Follow up with Orthopaedic Trauma Clinic in 14 days post-operation",
+        "complications": "No complications",
+        "long_term_prognosis": "Expected to require <30 days of rehab",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient is expected to gradually resume regular activities",
+        "patient_perspective": "Not specified"
+    }
+}

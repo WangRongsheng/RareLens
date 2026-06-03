@@ -1,0 +1,103 @@
+{
+    "basic_information": {
+        "age": "5 m",
+        "gender": "Female",
+        "weight": "2000 g",
+        "height": "43 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Czech and Vietnamese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hyperphenylalaninaemia",
+        "history_of_present_illness": "Born small for gestational age, positive Guthrie test, blood phenylalanine as high as 2210 pmol/l, reduced to 30 pmol/l with low-phenylalanine diet, occasional refusal of feeding, slightly retarded psychomotor development",
+        "past_medical_history": "Hypotrophic newborn, not breast fed, high protein milk formula",
+        "family_history": "Mother and maternal grandfather showed retarded hyperphenylalaninaemia after loading with phenylalanine",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Weight and length below the 3rd percentile, Apgar score at 1 min was 10",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Guthrie test",
+            "date": "Not specified",
+            "findings": "Blood phenylalanine was as high as 2210 μmol/l",
+            "changes_over_time": "Reduced blood phenylalanine to 30 μmol/l within 1 week with low-phenylalanine diet"
+        },
+        {
+            "procedure_name": "Blood phenylalanine test",
+            "date": "Age 3 months",
+            "findings": "200-400 μmol/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood tyrosine test",
+            "date": "Age 3 months",
+            "findings": "100-180 μmol/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dihydropteridine reductase activity test",
+            "date": "Not specified",
+            "findings": "128 μmol NADH/min per l (normal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopterin concentration in blood",
+            "date": "Not specified",
+            "findings": "14 nmol/l (normal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neopterin in urine",
+            "date": "Age 2 months",
+            "findings": "5.5 mmol/mol creatinine (elevated)",
+            "changes_over_time": "Decreased to 2.3 mmol/mol creatinine at age 5 months"
+        },
+        {
+            "procedure_name": "Oral loading test with tetrahydrobiopterin",
+            "date": "Not specified",
+            "findings": "Plasma phenylalanine decreased from 402 to 182, 108, 95, and 123 μmol/l within 2, 4, 6, and 12h, respectively",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Phenylalanine loading test",
+            "date": "Not specified",
+            "findings": "Plasma phenylalanine concentrations after 6h of 1590, 772, 508, 250, and 318 μmol/l in patient, mother, maternal grandfather, father, and maternal grandmother, respectively",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid analysis",
+            "date": "Age 11 weeks",
+            "findings": "Neopterin 25 nmol/l, biopterin 34 nmol/l, homovanillic acid 358 nmol/l, 5-hydroxyindole acetic acid 262 nmol/l, phenylalanine 18 μmol/l, tyrosine 12 μmol/l",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine pterins analysis",
+            "date": "Age 2 months",
+            "findings": "Neopterin 5.53 mmol/mol creatinine, biopterin 0.64 mmol/mol creatinine",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [
+        {
+            "procedure_name": "Electroencephalogram (EEG)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PTS activity in erythrocytes",
+            "date": "Not specified",
+            "findings": "Patient F.S.: 4.0 pU/g Hb (23%), Mother F.D.: 3.9 pU/g Hb (22%), Father V.N.: 17.1 pU/g Hb (97%)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Peripheral tetrahydrobiopterin deficiency with hyperphenylalaninaemia due to incomplete 6-pyruvoyl tetrahydropterin synthase deficiency or heterozygosity",
+        "diagnostic_reasoning": "The diagnosis was based on biochemical characterization including tetrahydrobiopterin-responsive hyperphenylalaninaemia, a high neopterin/biopterin ratio in urine and plasma, and normal or elevated concentrations of biopterin, homovanillic acid, and 5-hydroxyindole acetic acid in cerebrospinal fluid. Measurements of the activity of erythrocyte 6-pyruvoyl tetrahydropterin synthase (PTS) and phenylalanine loading tests in the patients and their parents supported the diagnosis."
+    }
+}

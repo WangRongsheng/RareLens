@@ -1,0 +1,18 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "Persistent severe speech impairment and hypotonia without clear sustained improvement: low speech intelligibility documented at 6y3m, 8y7m, 9y8m, and 10y10m; Kaufman Speech Praxis age-equivalents remained <2 years for multiple levels, with complex phonemic/syllable level not improving and even lower at 10y10m.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Chronic and prominent symptoms: generalized hypotonia and apraxia; dysarthria with weak articulatory contacts, hoarse/breathy voice; difficulty controlling saliva, chewing and swallowing; low intelligibility repeatedly noted across multiple ages.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "At 10y10m, Kaufman Speech Praxis Test complex phonemic/syllable level age-equivalent decreased compared to 9y8m (from 3y6m–4y down to 3y–3y6m)."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Index time approximated as the CAS diagnosis at age 2y11m; genetic deletion was detected in 2008 but initially deemed clinically insignificant. The report provides detailed evaluations rather than explicit treatment follow-up, so outcome categories and quality-of-life assessments are inferred from repeated clinical assessments. Minor score changes may reflect test variability; overall course appears persistently impaired without clear sustained improvement."
+}

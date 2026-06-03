@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Left Thoracostomy tube placement and Right Pigtail chest tube",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Heparin drip",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "For subtherapeutic INR of 1.2",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Warfarin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Dose to change per Dr. ___ goal INR ___",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Left Thoracostomy tube placement and Right Pigtail chest tube performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Heparin drip started for subtherapeutic INR of 1.2"
+        },
+        {
+            "date": "Not specified",
+            "event": "Warfarin prescribed with dosage to change per physician's goal INR"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and oriented x3, non-focal, ambulating with steady gait",
+        "follow_up_details": "Follow up appointment with surgeon to discuss driving and further care",
+        "complications": "Recurrent bilateral effusions, subtherapeutic INR",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Incisional pain managed with oral analgesics",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "At age 7 years, the patient (Family 2, II-3) was alive with persisting hypotonia, global developmental delay, dysarthria, and clumsy/ataxic gait; no sustained improvement or documented deterioration was reported.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Ongoing multi-system symptoms: global developmental delay, hypotonia, dysarthria, ataxia, esotropia, and feeding difficulties persisted through childhood.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "major_complication",
+            "time_period": "unknown",
+            "evidence_excerpt": "Secundum atrial septal defect (ASD) diagnosed by echocardiogram."
+        }
+    ],
+    "reference_time_used": "unknown",
+    "notes_on_uncertainty": "The article reports multiple affected individuals with PPP1R21 loss-of-function. This summary focuses on Family 2, individual II-3, who has the clearest long-term follow-up (age 7 years, alive). Precise diagnosis timing is not provided, so event timing relative to index is marked unknown."
+}

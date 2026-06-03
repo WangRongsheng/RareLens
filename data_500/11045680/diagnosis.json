@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Neurodegeneration with brain iron accumulation type 1 (NBIA-1; formerly known as Hallervorden-Spatz syndrome)",
+        "differential_diagnosis": "Dementia with Lewy bodies (DLB)",
+        "diagnostic_reasoning": "The diagnosis was supported by clinical features such as progressive dementia, dystonia, ataxia, apraxia, spasticity, choreoathetosis, visual and auditory hallucinations, and optic atrophy. Magnetic resonance imaging (MRI) showed decreased intensity in the globus pallidus, substantia nigra, and dentate nuclei in T2-weighted images. Neuropathological findings included mild frontotemporal atrophy, discoloration of the globus pallidus and substantia nigra pars reticularis, widespread axonal spheroids, and large deposits of iron pigment. Additionally, excessive numbers of Lewy bodies (LBs) were found throughout all examined brain stem and cortical regions, which were strongly labeled by antibodies against α-synuclein."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Wound infection",
+        "history_of_present_illness": "The pt is a ___ year-old right-handed woman with a past medical history of HTN and a recent craniotomy on ___ for trigeminal nerve decompression who presents with one day of redness and increased pain around her surgical site as well as a low grade fever at home. She reports that she has been in increasing amounts of pain at the ___ site over the last week. She saw Dr. ___ on ___ for a wound check and at that time it did not look infected. She was sent home with instructions to try to downtitrate her opiate pain medications. In addition, over that time period she began to have an increasing area of numbness (previously was from her ear to the top of her head, but began to be her whole left side of her face and neck). Then this morning she noticed that the surgical wound was red and felt hot. She took her temperature and it was initially 96.8, but then over the course of the evening got to 100.5.",
+        "past_medical_history": "- HTN - duodenal ulcer - history of abnormal colonoscopies - status post appendectomy",
+        "family_history": "Non-contributory.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: 97.8 P: 108 R: 15 BP: 132/92 SaO2: 99% on RA. General: Awake, cooperative, NAD. Healing but erythematous surgical scar near right ear and neck. Wound is mildly hot to the touch. There is no drainage from the site. Large, swollen lymph node at right base of neck/clavicle.",
+        "specialty_examination": "- Neurologic: Mental Status: Alert, oriented x 3. Able to relate history without difficulty. Attentive, able to name ___ backward without difficulty. Language is fluent with intact repetition and comprehension. Normal prosody. There were no paraphasic errors. Speech was not dysarthric. Able to follow both midline and appendicular commands. The pt. had good knowledge of current events. There was no evidence of apraxia or neglect. - Cranial Nerves: Decreased sensation and hyperesthesia on the right face in V1-3 as well as decreased sensation with hyperesthesia on the lateral aspect of her right neck."
+    }
+}

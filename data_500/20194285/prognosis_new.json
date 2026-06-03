@@ -1,0 +1,38 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "She was discharged 1 week after hospitalization; at last follow-up, she was doing well with no sequelae 13 months after discharge.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "No sequelae reported 13 months after discharge; neurologic studies normal during recovery.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Before the plasma exchange, she began to regain consciousness."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "She became alert after plasma exchange and returned to full consciousness on the second hospital day."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Plasma exchange was performed to remove unknown toxins."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Subsequent hemodialysis was performed after plasma exchange."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At last follow-up, she was doing well with no sequelae 13 months after discharge."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "The report describes three family members. This summary focuses on the 2-year-old sister, who has documented long-term follow-up. Timing is normalized to her hospital admission, as the exact moment of definitive diagnosis was not explicitly stated."
+}

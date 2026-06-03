@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "25",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "worsening quality of life",
+        "history_of_present_illness": "Diagnosed with CyN at age one. Multiple hospitalizations for severe infections and required numerous surgeries related to underlying neutropenia. Extensive history of oral mucosa lesions, throat, ear, fingernail and buttock infections, and bouts of bloody diarrhea with colitis. Surgeries included tonsillectomy, mastoidectomy, appendectomy, and cholecystectomy. Neutropenic cycles initially every 25–28 days with 3–5 days of nadir, temporary improvement with filgrastim treatment. Cycles shortened to 15–18 days but remained vulnerable to infections during nadirs and suffered opportunistic infections despite G-CSF, later replaced with PEGylated G-CSF.",
+        "past_medical_history": "Cyclic neutropenia (CyN), familial Mediterranean fever (MEFV) mutation, multiple infections, surgeries (tonsillectomy, mastoidectomy, appendectomy, cholecystectomy).",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Bone marrow biopsy showed myeloid hyperplasia with prominent toxic granulation and a shift with immaturity consistent with G-CSF effect, but with no overt dysplasia and only 1% blasts, and otherwise normal hematopoiesis with no evidence of malignancy."
+    }
+}

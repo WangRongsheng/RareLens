@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "left breast pain",
+        "history_of_present_illness": "Patient presents to the ED with worsening left breast pain in the setting of being treated for mastitis. Had been taking dicloxacillin but upon follow-up reports it was not improving so her antibiotics were switched. She denies fever or chills but has significant left breast pain and did not take anything for the pain. She stopped breastfeeding due to pain.",
+        "past_medical_history": "G3P2102; Hx of chlamydia in past; H/o LSIL pap in past. Denies past surgeries and medications outside of tylenol and motrin. No known drug allergies.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Temp: 99, HR: 60, BP: 126/73, Resp: 18, O2 Sat: 99. General: NAD. Cardiovascular: RRR. Pulmonary: CTAB. Abdomen: soft, nontender. Extremities: nontender.",
+        "specialty_examination": "Breast: diffuse edema and erythema of left breast between 10 and 3 o'clock. Extremely tender and warm on palpation. No discrete area of abscess."
+    }
+}

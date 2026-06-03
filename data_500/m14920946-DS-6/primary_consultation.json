@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Mechanical fall",
+        "history_of_present_illness": "Mrs. ___ is a lovely ___ year old woman who suffered a mechanical fall down 5 steps at 5:30 am on the day prior to presentation. The patient reports she had to use the bathroom and her stairs are located right next to the bathroom. It was dark and she was groggy and went the wrong direction. She remembers falling onto her left side. She didn't think she struck her head but did later notice a bruise over her R forehead. She denies LOC. She didn't want to come to the hospital but her daughter and husband insisted. She currently only has pain over her L side/anterior chest.",
+        "past_medical_history": "HTN, HPL, NIDDM, L ankle fracture. Past Surgical History: L ankle surgery.",
+        "family_history": "Noncontributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS - 98.2, HR 68, BP 135/73, RR 20, SpO2 95% room air. GEN - AA&O x 3, NAD, calm & cooperative. 5cm linear ecchymosis over R forehead.",
+        "specialty_examination": "PULM - CTAB, L anterior/lateral chest wall tenderness to palpation. Ecchymoses of the L flank/posterior chest wall."
+    }
+}

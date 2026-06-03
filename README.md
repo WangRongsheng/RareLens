@@ -37,22 +37,21 @@
 
 ## Modules
 
-RareLens is organized into three independent modules along the clinical workflow. Each module has its own training pipeline and model artifacts:
+RareLens is organized into four independent modules along the clinical workflow. Each module has its own training pipeline and model artifacts:
 
-| Module | Path | Task | ML Method |
+| Module | Path | Task | Method |
 | --- | --- | --- | --- |
+| Alert | `rare_alert/` | Rare disease risk scoring from primary consultation data | Fine-tuned Qwen3-32B (LLaMA-Factory SFT) |
 | Diagnosis | `rare_diagnosis/` | Candidate disease ranking and final diagnosis inference (primary / followup) | XGBoost LTR (`rank:ndcg`) + GroupKFold CV |
 | Prognosis | `rare_prognosis/` | Overall outcome / functional status / symptom burden prediction | GBDT 5-fold stacking ensemble |
 | Treatment | `rare_treatment/` | Treatment plan candidate ranking | XGBoost LTR + GroupKFold CV |
 
-All modules follow the same paradigm: **multi-LLM generation → feature engineering → ML training → evaluation**, but differ in feature design, label schema, and evaluation metrics.
-
-<!-- TODO[alert]: Add rare_alert/ module row once implemented -->
+The Alert module is the first stage in the pipeline and uses a fine-tuned LLM directly for end-to-end risk scoring. The Diagnosis, Prognosis, and Treatment modules follow the same paradigm: **multi-LLM generation → feature engineering → ML training → evaluation**, but differ in feature design, label schema, and evaluation metrics.
 
 Shared components:
 
-- `core_tool/`: LLM client, prompt templates, JSON parser (some modules have inlined these; gradual decoupling in progress)
-- `schema/`: Pydantic I/O schemas
+- `core_tool/`: LLM client, prompt templates, JSON parser
+- `schema/`: Pydantic I/O schemas shared across all modules
 
 ## System Requirements
 
@@ -122,7 +121,7 @@ Example:
 huggingface-cli download <ORG>/RareBench --repo-type=dataset --local-dir ./dataset
 -->
 
-Demo data is available in `data_demo/` with 6 cases, useful for verifying that the pipeline runs end-to-end.
+A demo dataset is provided in `data_500/` with 500 cases (primary consultation, diagnosis, and treatment outcome records), suitable for small-scale evaluation and reproducibility checks.
 
 ## Usage
 
@@ -134,6 +133,25 @@ Each module provides two types of entry points:
 > End-to-end chaining (diagnosis → treatment → prognosis) is not yet released.
 
 ### Reproducible Training
+
+#### Alert
+
+The Alert module uses a fine-tuned Qwen3-32B model trained via [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) (LoRA SFT). Fine-tuning hyperparameters and model weights are not released.
+
+Evaluation:
+
+```bash
+python -m rare_alert.training.eval.eval_alert \
+    --output-root /data/pipeline_output \
+    --rare-dir    /data/gt/rare \
+    --nonrare-dir /data/gt/nonrare \
+    --threshold 30 \
+    --out-json    /data/results/alert_metrics.json
+```
+
+Metrics: AUC, Accuracy, Sensitivity, Specificity, Balanced Accuracy, F1, F2, MCC, PPV, NPV (at fixed + optimal thresholds via Youden / F1 / F2).
+
+See [`rare_alert/training/README.md`](rare_alert/training/README.md) for details.
 
 #### Diagnosis
 
@@ -190,6 +208,15 @@ See [`rare_treatment/training/README.md`](rare_treatment/training/README.md) for
 After training (or using pre-trained weights), run inference on new data:
 
 ```bash
+# Alert: call fine-tuned model via OpenAI-compatible endpoint
+python -c "
+from rare_alert.training.inference import RiskStage, RiskStageConfig
+cfg = RiskStageConfig(base_url='http://localhost:8000/v1', api_key='EMPTY', model='rare_alert')
+stage = RiskStage(cfg)
+result = stage.run_sync(open('/data/case/primary_consultation.json').read())
+print(result)
+"
+
 # Diagnosis: load fold models, predict on feature CSV
 python -m rare_diagnosis.training.infer_ranker \
     --input-dir /data/features \
@@ -214,13 +241,21 @@ python -m rare_treatment.training.infer_ranker \
 
 Each module provides independent evaluation scripts under `eval/`:
 
-| Module | LLM Eval | ML Eval | Metrics |
-| --- | --- | --- | --- |
-| Diagnosis | `eval_llm.py` | `eval_ml.py` | Acc@1/3/5, MRR, NDCG@1/3/5 |
-| Prognosis | `eval_llm.py` | `eval_ml.py` | Core + secondary metrics (per sub-task) |
-| Treatment | `eval_llm.py` | `eval_ml.py` | Hit@K, nDCG, MRR, MAP |
+| Module | Eval Script | Metrics |
+| --- | --- | --- |
+| Alert | `eval_alert.py` | AUC, Acc, Sensitivity, Specificity, Balanced Acc, F1, F2, MCC, PPV, NPV |
+| Diagnosis | `eval_llm.py`, `eval_ml.py` | Acc@1/3/5, MRR, NDCG@1/3/5 |
+| Prognosis | `eval_llm.py`, `eval_ml.py` | Core + secondary metrics (per sub-task) |
+| Treatment | `eval_llm.py`, `eval_ml.py` | Hit@K, nDCG, MRR, MAP |
 
 ```bash
+# Example: Alert eval
+python -m rare_alert.training.eval.eval_alert \
+    --output-root /data/pipeline_output \
+    --rare-dir /data/gt/rare \
+    --nonrare-dir /data/gt/nonrare \
+    --threshold 30
+
 # Example: Diagnosis ML eval
 python -m rare_diagnosis.training.eval.eval_ml \
     --json /data/models/primary/test_predictions_ranked.json \
@@ -267,9 +302,14 @@ RareLens/
 │       ├── train_ranker.py          #   XGBoost ranker training
 │       ├── infer_ranker.py          #   Inference
 │       └── eval/                    #   Evaluation (eval_llm, eval_ml, metrics)
+├── rare_alert/                      # Alert module
+│   └── training/
+│       ├── inference.py             #   RiskStage inference pipeline (fine-tuned Qwen3-32B)
+│       └── eval/
+│           └── eval_alert.py        #   Evaluation (AUC, Sensitivity, Specificity, F1, F2, MCC, …)
 ├── core_tool/                       # Shared: LLM client, prompt templates, JSON parser
 ├── schema/                          # Shared: Pydantic I/O schemas
-├── data_demo/                       # Demo data (6 cases)
+├── data_500/                        # Demo data (500 cases, primary consultation + diagnosis + treatment outcome)
 ├── requirements.txt
 ├── LICENSE
 └── README.md
@@ -290,9 +330,7 @@ RareLens/
 
 ## License
 
-<!-- TODO[license]: Confirm the license with the team. If Apache 2.0 is confirmed:
-This project is released under the Apache License 2.0. See `LICENSE` for details.
--->
+This project is released under the Apache License 2.0. See [`LICENSE`](LICENSE) for details.
 
 ## Acknowledgement
 

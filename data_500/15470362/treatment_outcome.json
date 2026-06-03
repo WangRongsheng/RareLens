@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "pulmonary valve angioplasty",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "PVS surgical correction with patch",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Cardiac catheterisation and pulmonary valve angioplasty performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "PVS surgical correction with patch performed"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Incomplete development of secondary sexual characteristics with small breasts and hypoplastic external genitalia. Intelligence is normal.",
+        "follow_up_details": "The patient has been followed for 14 years.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

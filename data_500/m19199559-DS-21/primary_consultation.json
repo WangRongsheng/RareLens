@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abdominal pain",
+        "history_of_present_illness": "Ms. ___ is a ___ F with a medical history notable for endometrial intraepithelial neoplasia and infertility. She is currently receiving in ___ fertilization. She reports her last implantation was on ___. Unfortunately, she did not get pregnant during that cycle. She did note occasional, diffuse crampy abdominal pain and alternating constipation and loose stools. On ___ at 4am, she awoke from sleep with sharp, ___, left lower quadrant pain. She noted no nausea, vomiting, changes in bowel habits, fevers, or chills. She was able to take her mother-in-law shopping but noted increasing pain throughout the day and presented to ___. Her evaluation at ___ was notable for an ultrasound that suggested decreased venous flow to the left ovary concerning for ovarian torsion. While there she received Dilaudid and Zofran for symptom management and was referred to ___ for further evaluation. Her vital signs on arrival to ___ ED were T 98.6, P 84, BP 148/94, 97% on RA. Her evaluation was notable for a WBC count of 15, a repeat ultrasound that revealed normal blood flow to both ovaries, and a CT scan that revealed sigmoid diverticulitis.",
+        "past_medical_history": "Endometrial hyperplasia/endometrial intraepithelial neoplasia, infertility, hypothyroidism, hypertension s/p cholecystectomy in ___, s/p wisdom tooth extraction.",
+        "family_history": "Not relevant to the current admission.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital Signs: T 99.2, P ___, BP 159/97, 97% on RA. General: Well-appearing in NAD. Abdomen: Focal tenderness in the LLQ without rebound tenderness or guarding. No ankle edema. Neuro: Alert, oriented x3.",
+        "specialty_examination": "CV: Tachycardic but regular. Normal S1, S2. No murmurs or gallops."
+    }
+}

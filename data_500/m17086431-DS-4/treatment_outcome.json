@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "transjugular intrahepatic portosystemic shunt (TIPS) placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Successful creation of TIPS using a Viatorr stent (10 mm x 2 cm uncovered x 6 cm covered) and Luminexx stent (10 mm x 6 cm)",
+            "treatment_response": "Uncomplicated procedure with hepatic portal gradient decrease from 18 to 3 mmHg; 9L of ascites removed"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "TIPS procedure performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Routine monitoring after TIPS procedure"
+        },
+        {
+            "date": "Not specified",
+            "event": "New medication Flomax started due to difficulty urinating post-TIPS"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged home"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "stable condition at discharge",
+        "follow_up_details": "Labs to be drawn on unspecified date; follow-up appointment with Dr. ___ pending",
+        "complications": "difficulty urinating, abdominal bloating and vomiting post-procedure",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient advised to call if experiencing concerning symptoms; safe to be discharged home"
+    }
+}

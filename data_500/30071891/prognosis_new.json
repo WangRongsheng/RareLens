@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "After definitive diagnosis and counseling, over ~1 year of follow-up he had only two mild attacks that did not require inpatient care; between attacks, neurological symptoms were not observed—indicating improvement but ongoing disease activity.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Follow-up over ~1 year after diagnosis showed two mild acute attacks; otherwise no neurological symptoms were noted between attacks.",
+        "symptom_burden": "occasional"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Patient was discharged after symptoms gradually improved over 6 days with carbohydrate loading."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "During ~1 year of follow-up after diagnosis, he suffered two mild attacks which did not require in-patient management."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Nerve conduction studies were not performed because neurological symptoms were not observed between acute attacks during follow-up."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Follow-up details extend to approximately one year post-diagnosis; exact timing of the two mild attacks is not specified, and there is no detailed assessment of daily activity or function beyond noting absence of neurological symptoms between attacks. Lack of hemin availability may have influenced management, but outcomes reported reflect documented events only."
+}

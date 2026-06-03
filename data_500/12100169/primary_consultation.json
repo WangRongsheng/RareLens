@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "10",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "White",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "bruising and epistaxis",
+        "history_of_present_illness": "Diagnosed with idiopathic severe aplastic anaemia (SAA) in June of 1995, when he presented with bruising and epistaxis at the age of 4 years. Complete blood count (CBC) showed a white blood count (WBC) of 2.6 · 109/l, an absolute neutrophil count (ANC) of 0.8 · 109/l, haemoglobin (Hb) of 5.8 g/dl and platelet count of 14 · 109/l. Bone marrow aspirate was hypocellular and cytogenetic studies of the marrow were normal. He was treated with immunosuppressive therapy of anti-thymocyte globulin (ATG) at 40 mg/kg/d intravenously for 4 d, prednisone 2 mg/kg/d orally for 2 weeks and CSA 15 mg/kg/d orally, and was transfusion independent by 6 weeks (Hb 8.2 g/dl, platelets 86 · 109/l, ANC 1.94 · 109/l). CSA was stopped after tapering in June 1996 (platelets 109 · 109/l). Shortly thereafter his platelet count fell to 25 · 109/l and CSA was resumed in September 1996 at a dose of 12 mg/kg/d orally. The patient responded with gradually increasing platelet counts (152 · 109/l in March 1998). After a very slow wean, CSA was discontinued in May 1999 and his CBC remained normal. About 6 months later, the child was diagnosed with attention deficit with hyperactivity disorder (ADHD) and placed on methylphenidate hydrochloride (Ritalin). In April 2001, his platelet count fell to 93 · 109/l. On a subsequent visit he was noted to have a goitre (5 · 4 cm on left, 6 · 4 cm on right), moderate exophthalmos, tachycardia at rest (131/min), mild hypertension (138/67 mm), warm moist skin and brisk reflexes. On direct questioning, the parents gave a history of a voracious appetite, but with poor weight gain, palpitations and excessive sweating. Grave’s disease was confirmed by a low TSH of 0.011 mU/l (n = 0.2–6.2), elevated total thyroxine (T4) of 335.6 nmol/l (n = 64.35–154.4), antimicrosomal thyroid auto antibody 7.7 (n = 0–2), free thyroxine index (FTI) 419.5 nmol/l (n = 81.07–159.56). Nuclear thyroid uptake scan was consistent with Grave’s disease. The patient was put on 0.8 mg/kg/d of atenolol and underwent treatment with 9.11 mCi of I131 orally. Due to worsening platelet counts (49 · 109/l), CSA was re-instituted in September 2001.",
+        "past_medical_history": "Diagnosed with idiopathic severe aplastic anaemia (SAA) in June of 1995, attention deficit with hyperactivity disorder (ADHD), Grave’s disease.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "goitre (5 · 4 cm on left, 6 · 4 cm on right), moderate exophthalmos, tachycardia at rest (131/min), mild hypertension (138/67 mm), warm moist skin and brisk reflexes.",
+        "specialty_examination": "Not specified"
+    }
+}

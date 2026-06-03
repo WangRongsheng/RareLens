@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "fetoscopic surgery",
+            "specific_treatment": "fetoscopic release of amniotic bands",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2-mm 0-fetoscope carrying a 400-μm Nd:YAG laser fiber, power of 25 W",
+            "treatment_response": "Immediate in utero recoloration of the left foot observed following the band section. No intraoperative maternal or fetal complications noted."
+        },
+        {
+            "treatment_type": "postnatal surgery",
+            "specific_treatment": "release of the left Achilles tendon and the right toes",
+            "start_date": "4 months after birth",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Infant was able to walk with normal lower extremity function at the age of 18 months."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "18 weeks’ gestation",
+            "event": "Diagnosis of amniotic band at the fetus’s ankle and toes involving a left thick edematous foot and a right edematous club foot."
+        },
+        {
+            "date": "22 weeks’ gestation",
+            "event": "Fetoscopic lysis of the constrictive bands performed."
+        },
+        {
+            "date": "5 days after the procedure",
+            "event": "Ultrasound examination showed reduced limb edema, documented distal blood flow, and active movements from both ankles and feet."
+        },
+        {
+            "date": "37 weeks’ gestation",
+            "event": "Spontaneous delivery occurred."
+        },
+        {
+            "date": "4 months after birth",
+            "event": "Postnatal surgery performed consisting of the release of the left Achilles tendon and the right toes."
+        },
+        {
+            "date": "18 months after birth",
+            "event": "Infant was able to walk with normal lower extremity function."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Functional limb at 18 months.",
+        "follow_up_details": "Not specified",
+        "complications": "No complications mentioned.",
+        "long_term_prognosis": "Functional limb at 18 months.",
+        "recovery_timeline": "18 months to achieve normal lower extremity function.",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

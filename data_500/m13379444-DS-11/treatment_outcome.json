@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1g IV x 1",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1g IV x 1",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ondansetron",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg IV x 1",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "fluid therapy",
+            "specific_treatment": "normal saline (NS)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 L of NS",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with symptoms and received treatment"
+        },
+        {
+            "date": "Not specified",
+            "event": "Lab tests conducted showing elevated WBC and Cr levels"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered vancomycin, ceftriaxone, ondansetron, and IV fluids"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home with service",
+        "follow_up_details": "Hospice services to help at home",
+        "complications": "Not specified",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient felt fatigued and had nausea likely due to cancer"
+    }
+}

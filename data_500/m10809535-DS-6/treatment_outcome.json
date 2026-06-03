@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Keppra",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg BID",
+            "treatment_response": "Patient was discharged on Keppra prophylactically following his SAH."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Dilantin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 g",
+            "treatment_response": "No longer seizing clinically or by EEG."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ativan",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 mg",
+            "treatment_response": "No longer seizing clinically or by EEG."
+        },
+        {
+            "treatment_type": "antibiotic therapy",
+            "specific_treatment": "Vancomycin and Ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified."
+        },
+        {
+            "treatment_type": "hydration therapy",
+            "specific_treatment": "Normal Saline (NS)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "3L administered",
+            "treatment_response": "Not specified."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with altered mental status and reported seizure."
+        },
+        {
+            "date": "Not specified",
+            "event": "1 g Dilantin and 4 mg Ativan administered."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient given Vancomycin and Ceftriaxone."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received 3L of Normal Saline."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged on several medications, including Keppra."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "stable",
+        "follow_up_details": "Patient needs outpatient follow-ups for diabetes management and seizure disorder.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Patient was started on insulin to manage diabetes."
+    }
+}

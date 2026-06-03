@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "eflornithine (DFMO)",
+            "start_date": "2015-08-25",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Treatment was successful, no trypanosomes were detected in the blood or CSF, fewer than 5 cells/mm3 were found in the CSF, and his general clinical condition was normal."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "2015-08-10",
+            "event": "Patient admitted to the psychiatric department of the Regional Hospital of Banfora for psychiatric disorders."
+        },
+        {
+            "date": "2015-08-11",
+            "event": "HAT RDT (SD Bioline HAT) was performed and the patient turned out to be positive."
+        },
+        {
+            "date": "2015-08-17",
+            "event": "Positive TL test using the LiTat 1.3 variant antigenic type (VAT) performed on blood that had been dried on filter paper."
+        },
+        {
+            "date": "2015-08-19",
+            "event": "Positive Card Agglutination Test for Trypanosomiasis (CATT) preformed on whole blood and an end titer of 1/32 in CATT performed with twofold plasma dilutions (CATT pl)."
+        },
+        {
+            "date": "2015-08-19",
+            "event": "Parasitological investigations revealed the presence of trypanosomes in the blood and in the cerebrospinal fluid (CSF)."
+        },
+        {
+            "date": "2015-08-25",
+            "event": "Treatment with eflornithine (DFMO) was started."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Treatment was successful, no trypanosomes were detected in the blood or CSF, fewer than 5 cells/mm3 were found in the CSF, and his general clinical condition was normal.",
+        "follow_up_details": "6-month post-therapeutic follow-up confirmed that treatment was successful.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

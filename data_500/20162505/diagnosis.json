@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Ectopic Cushing’s Syndrome caused by a well-differentiated ACTH-secreting neuroendocrine carcinoma of the ileum",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis was based on laboratory testing showing hypercortisolism and elevated ACTH levels, along with imaging studies (Ga-68 DOTATOC-PET scan) that identified the primary tumor in the ileum. The patient's symptoms included weight gain, muscle tremor, general fatigue, and cushingoid features. The ectopic ACTH syndrome was confirmed through various tests, including dexamethasone suppression tests and inferior petrosal sinus sampling (IPSS), which did not show significant central-to-peripheral ACTH gradients."
+    }
+}

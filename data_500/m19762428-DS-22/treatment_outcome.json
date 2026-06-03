@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Dilaudid",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "6mg IV",
+            "treatment_response": "Provided pain control"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Valium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5mg PO",
+            "treatment_response": "Provided pain control"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for pain control after exacerbation of chronic low back pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered Dilaudid 6mg IV and Valium 5mg PO."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medications prescribed including Gabapentin, Diazepam, Hydromorphone, Tizanidine, Naproxen, among others."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Vitals stable, pain controlled, ambulatory.",
+        "follow_up_details": "Patient to follow-up with PCP and continue rehabilitation at home.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

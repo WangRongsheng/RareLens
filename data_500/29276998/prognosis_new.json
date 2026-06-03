@@ -1,0 +1,38 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "After diagnosis and treatment adjustments, PET-CT showed reduced lymph node uptake and spirometry normalized, but a non-productive cough persisted; daclizumab was permanently discontinued.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "All systemic symptoms resolved except ongoing non-productive cough, which did not improve with inhaled or short-course oral corticosteroids.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Inhaled corticosteroids were commenced after clinical diagnosis of sarcoidosis."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "A short trial of oral corticosteroids followed, with no effect on the cough."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "PET-CT 6 months after cessation of daclizumab showed reduction in lymph node uptake."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Repeat spirometry 10 weeks after stopping corticosteroids was normal (FEV1/FVC 80.5%)."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Based on improvement, daclizumab was deemed the probable cause and permanently discontinued."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Follow-up beyond approximately 6 months is not provided; persistence or resolution of cough after the mid-term period is unclear. Timing of some events is anchored to daclizumab cessation but mapped approximately to the diagnosis date per instructions."
+}

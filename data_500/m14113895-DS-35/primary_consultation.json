@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "VNS battery replacement",
+        "history_of_present_illness": "Ms. ___ is a ___ woman with ___ encephalitis s/p L hemisphere resection with residual language deficit, R spastic hemiplegia, and ongoing drug-resistant epilepsy. She was admitted ___ for VNS battery replacement. Seizures typically occur ___ times/month, usually last ___. Focal episodes of eye fluttering, sometimes eyes would roll back and there would be twitching of the right side of her face. Seizures under much better control than they were previously. Usually has increase in events in setting of infection. At baseline, she lives in a group home and attends a day program during the week. Mother is her HCP and works as a ___ ___. Semiology: R face twitching and eyelid fluttering lasting 40 seconds, occur ___ times/wk, no RLE/RUE movements or convulsions.",
+        "past_medical_history": "1. ___ encephalitis 2. Partial left hemispherectomy at age ___ complicated by right ~spastic hemiplegia and dense aphasia. 3. Epilepsy on 4 AEDs and s/p VNS. Managed by Dr. ___ ___. 4. Mental retardation 5. Left thoracolumbar scoliosis 6. h/o Aspiration pneumonias, now s/p tracheostomy, PEG placement, and on scopolamine patch - tracheal stenosis and tracheobroncomalacia (trach dependent) 7. h/o MRSA line infection in the past 8. Hx multiple UTIs, Urosepsis (enterococcus, other), colonized with MRSA, VRE. 9. h/o difficult venous access requiring femoral sticks 10. chronic constipation 11. Mood disorder, on SSRI; also Zyprexa",
+        "family_history": "No family history of seizures or ___.",
+        "social_history": "At baseline, she lives in a group home and attends a day program during the week."
+    },
+    "physical_examination": {
+        "general_examination": "Admission exam: General: NAD, lying in bed HEENT: NCAT, trach in place ___: RRR, no M/R/G Pulmonary: CTAB, no crackles or wheezes Abdomen: Soft, NT, ND, +BS, no guarding Extremities: Warm, no edema.",
+        "specialty_examination": "- Mental status: lying in bed, follows majority of commands, smiles - Cranial Nerves: PERRL 8->7 sluggish. BTT bilaterally. Nystagmus on primary gaze, looks around room fully. No facial movement asymmetry. R facial contracture. Tongue midline. - Motor: RUE/RLE spastic, LUE moves spontaneously, no cogwheeling/rigidity. Left biceps and triceps are ___. Increased tone in bilateral lower extremities. Minimally moves LLE - Reflexes: unable to obtain due to contractures and positioning Plantar response mute bilaterally - Sensory: withdraws to noxious - Coordination: unable to assess - Gait: unable to assess."
+    }
+}

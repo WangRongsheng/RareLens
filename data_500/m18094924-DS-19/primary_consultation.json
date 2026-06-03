@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Rectal Pain",
+        "history_of_present_illness": "Patient is a female with a history of hypertension and peripheral vascular disease. She underwent a hemorrhoidectomy and presents with worsening rectal pain since surgery. The pain worsens with walking but she denies constipation and reports bowel movements twice a day without blood.",
+        "past_medical_history": "Hypertension, peripheral vascular disease, GERD, narcotic abuse, vertebral compression fractures in [year] from traumatic fall.",
+        "family_history": "Father died of CAD, mother still living.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: T = 98.4, BP = 165/77, HR = 28, RR = 67, O2 Saturation = 99% on RA. Unkempt obese female in bed.",
+        "specialty_examination": "Rectal area could not be examined due to pain; abdominal CT shows a rim-enhancing fluid collection in the left perianal region."
+    }
+}

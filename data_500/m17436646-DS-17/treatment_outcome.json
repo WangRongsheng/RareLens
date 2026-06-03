@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Pantoprazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg daily",
+            "treatment_response": "Helped her symptoms for 2 days but then they returned."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with abdominal pain, nausea, decreased appetite, and malaise."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Pantoprazole."
+        },
+        {
+            "date": "Not specified",
+            "event": "Symptoms improved for 2 days after starting Pantoprazole."
+        },
+        {
+            "date": "Not specified",
+            "event": "Symptoms returned after initial improvement."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged with home medications including Pantoprazole."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved but still experiencing abdominal pain and decreased appetite.",
+        "follow_up_details": "Outpatient appointments recommended.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Requires assistance or aid (walker or cane).",
+        "patient_perspective": "Not specified."
+    }
+}

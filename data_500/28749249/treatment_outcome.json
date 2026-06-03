@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "intravenous acyclovir",
+            "start_date": "2010-09",
+            "end_date": "Not specified",
+            "dosage_or_details": "1500 mg/day until CSF tested negative for HSV genomic PCR",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "methylprednisolone pulse therapy",
+            "start_date": "2010-09",
+            "end_date": "Not specified",
+            "dosage_or_details": "1000 mg/day for 3 days",
+            "treatment_response": "Partially effective, improved consciousness disturbance but continued dementia, myoclonus, and psychiatric symptoms"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "anticonvulsant",
+            "start_date": "2010-09",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Controlled convulsions"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "2010-09",
+            "event": "Acute-onset consciousness disturbance, fever, and elevated serum creatinine kinase levels"
+        },
+        {
+            "date": "2010-09",
+            "event": "Convulsion noted, MRI revealed cortical edematous hyper-intense areas"
+        },
+        {
+            "date": "2010-09",
+            "event": "Treatment with intravenous acyclovir and methylprednisolone pulse therapy started"
+        },
+        {
+            "date": "2010-09",
+            "event": "Anticonvulsant administered, convulsions controlled"
+        },
+        {
+            "date": "2010-10",
+            "event": "Transferred to hospital, neurological examination showed dementia, psychiatric symptoms, myoclonus, rigidity, and spasticity"
+        },
+        {
+            "date": "2010-12",
+            "event": "Patient died of sudden cardiac arrest"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Deceased",
+        "follow_up_details": "Weekly follow-ups until death",
+        "complications": "Sudden cardiac arrest",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

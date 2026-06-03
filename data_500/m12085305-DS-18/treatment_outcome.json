@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 gm IV",
+            "treatment_response": "Patient feeling better but still fatigued"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Bactrim (Sulfamethoxazole/Trimethoprim)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 tab by mouth twice daily",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with fever and chills"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient admitted to the floor and given 1 gm ceftriaxone"
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Bactrim for urinary tract infection at discharge"
+        },
+        {
+            "date": "Not specified",
+            "event": "Follow-up appointment scheduled with PCP next week"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient feeling better but still fatigued",
+        "follow_up_details": "Follow-up appointment scheduled with PCP next week",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

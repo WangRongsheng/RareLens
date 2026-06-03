@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "TURP (Transurethral Resection of the Prostate)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient's condition was stable following surgery."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient underwent prostate needle biopsy."
+        },
+        {
+            "date": "Not specified",
+            "event": "Urodynamics showed obstruction and detrusor overactivity."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient scheduled for bladder outlet procedure."
+        },
+        {
+            "date": "Not specified",
+            "event": "TURP surgery performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged home with follow-up instructions."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable",
+        "follow_up_details": "Patient advised to follow up with the urologist.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

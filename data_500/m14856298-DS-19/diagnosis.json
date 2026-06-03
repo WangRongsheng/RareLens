@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Aortic stenosis s/p AVR tissue",
+        "differential_diagnosis": "Coronary Artery Disease s/p CABG x1, Suspected postoperative Transient Ischemic Attack",
+        "diagnostic_reasoning": "The patient presented with fatigue and a known history of heart murmur. A stress echo revealed severe aortic stenosis with a normal left ventricular ejection fraction (LVEF). Cardiac catheterization confirmed three-vessel coronary artery disease, leading to the decision for aortic valve replacement and coronary artery bypass grafting."
+    }
+}

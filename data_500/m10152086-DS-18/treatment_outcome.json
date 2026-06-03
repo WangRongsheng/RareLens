@@ -1,0 +1,139 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Right EVD placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Insertion of a ventriculostomy catheter via a right frontal burr hole.",
+            "treatment_response": "Patient remained neurologically stable after the procedure."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "verapamil",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg injected during diagnostic cerebral angiography.",
+            "treatment_response": "Moderate ACA vasospasm observed; no procedure-related thromboembolic complication."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Acetaminophen-Caff-Butalbital",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg-300 mg-40 mg capsule PO Q4H as needed for pain.",
+            "treatment_response": "Not specified."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Fludrocortisone Acetate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.1 mg PO BID.",
+            "treatment_response": "Discuss continued use with primary care physician."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Haloperidol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.5 mg PO BID.",
+            "treatment_response": "Discuss continued use with primary care physician."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Pantoprazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg PO Q12H.",
+            "treatment_response": "Not specified."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Sodium Chloride",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 gm PO BID.",
+            "treatment_response": "Not specified."
+        },
+        {
+            "treatment_type": "occupational therapy",
+            "specific_treatment": "Outpatient Occupational Therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified.",
+            "treatment_response": "Not specified."
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "Outpatient Physical Therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified.",
+            "treatment_response": "Not specified."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Keppra (Levetiracetam)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "To prevent seizures as indicated.",
+            "treatment_response": "Important to take medication consistently."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Dilantin (Phenytoin)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "To be taken as prescribed.",
+            "treatment_response": "Follow up with laboratory blood drawing in one week."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Right EVD placement performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Verapamil injected during cerebral angiography."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medication prescribed - Acetaminophen-Caff-Butalbital."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medication prescribed - Fludrocortisone Acetate."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medication prescribed - Haloperidol."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medication prescribed - Pantoprazole."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge medication prescribed - Sodium Chloride."
+        },
+        {
+            "date": "Not specified",
+            "event": "Recommended outpatient Occupational Therapy."
+        },
+        {
+            "date": "Not specified",
+            "event": "Recommended outpatient Physical Therapy."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "neurologically intact, emotionally labile, strength full, pupils equal and reactive, alert and oriented x 3",
+        "follow_up_details": "Follow-up instructions not specified.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Patient experienced common symptoms post-treatment such as difficulty concentrating, irritability, and mood swings."
+    }
+}

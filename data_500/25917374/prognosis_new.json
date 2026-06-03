@@ -1,0 +1,23 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "At last evaluation (age 20), the patient had moderate intellectual disability with persistent exercise-induced muscular pain and fatigue, elevated CK, and generalized epilepsy controlled on monotherapy; cardiac and endocrine evaluations were normal.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Ongoing muscular pains during physical exercises with severe fatigue; epilepsy present but well controlled with monotherapy.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "unknown",
+            "evidence_excerpt": "Since age 10, muscular pains during physical exercises, initially in the feet then extending to the legs and hands, associated with severe muscular fatigue."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "unknown",
+            "evidence_excerpt": "Generalized epilepsy since age 16 years, with a good response to monotherapy."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The report describes two patients; this extraction focuses on Patient 2 due to adult follow-up (age 20). Exact diagnosis timing is not provided, so events are assigned as unknown relative to index time. Long-term outcome reflects stable chronic symptoms without documented progression or recovery beyond seizure control."
+}

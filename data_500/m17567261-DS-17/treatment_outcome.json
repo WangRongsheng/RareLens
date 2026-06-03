@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV fluids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1000 mL IVF",
+            "treatment_response": "Blood pressure improved by the time of discharge."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to ED for hypotension."
+        },
+        {
+            "date": "Not specified",
+            "event": "IV fluids of 1000 mL administered."
+        },
+        {
+            "date": "Not specified",
+            "event": "Blood pressure improved by discharge."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive, ambulatory independent.",
+        "follow_up_details": "Follow up with primary care provider within one week of discharge.",
+        "complications": "No complications",
+        "long_term_prognosis": "Improved kidney function and blood pressures are expected with fluid intake.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient remains independent, reports memory problems.",
+        "patient_perspective": "Patient was advised to drink more water to improve blood pressure and kidney function."
+    }
+}

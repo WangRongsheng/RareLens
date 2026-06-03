@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Meningioma",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis was confirmed through cranial CT and MRI scans revealing a tumor in the right frontal and temporal lobes, and subsequent pathological examination after surgical removal confirmed meningioma. The patient also displayed typical features of Werner syndrome, which was confirmed through mutation analysis showing amplification of mutation 4/4."
+    }
+}

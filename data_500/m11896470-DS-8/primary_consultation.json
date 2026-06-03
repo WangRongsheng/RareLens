@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "1. Abdominal pain 2. Vomiting",
+        "history_of_present_illness": "Patient is a ___ years-old female with hx sb intussusception in ___ s/p resection, and hx of chronic abdominal complaints, transferred from OSH with partial small bowel obstruction. Symptoms started on the morning of ___ with lower abdominal cramping that progressed to projectile vomiting multiple times which was non-bloody but bilious progressing to clear. The patient went to the ED at ___ on the night of ___ and was transferred to ___ for treatment of PSBO after a CT scan showed mechanical small bowel obstruction with transition point in the mid to distal ileum in RLQ with proximal small bowel dilated up to 4cm. She reports on and off cramping abd pain in the lower abdomen with no further episodes of vomiting. Does endorse a decreased appetite. Last bowel movement was normal on the morning of ___. Last emesis ___ ___. No dysuria, no fevers, no headaches.",
+        "past_medical_history": "___ intussusception of the small bowel due to a polyp with a small bowel resection also associated with acute ileitis and acute appendicitis and chronic periappendicitis. Goldenhar's syndrome, oculoauriculovertebral dysplasia and she had a cleft lip. Has had MULTIPLE facial surgeries and is a difficult intubation (requires awake fiberoptics). Unable to pass ng due to abnormal anatomy. Asthma - allergy induced. JRA. Status post scarlet fever. Seizures in ___. Colon polyp - removed.",
+        "family_history": "DM2 in mom and dad (when older), colon cancer in 2 relatives.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "On Admission: Vitals: 98.2, 159/98, 84, 18, 97ra NAD, axox3. HEENT: abnormal facial anatomy s/p multiple surgeries. Chest: CTAB. CV: RRR no MRG. Abd: obese, + BS, soft, NTND, no rebound/guarding. Rectal: no stool in vault, no masses, no blood. Extrem: no pedal edema. On Discharge: VS: T 97.9, HR 69, BP 126/57, RR 18, 96% RA. Gen: NAD. HEENT: Abnormal facial anatomy. CV: RRR. Lungs: CTAB. Abd: Soft, obese, nontender, nondistended.",
+        "specialty_examination": "Not specified"
+    }
+}

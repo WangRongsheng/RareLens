@@ -1,0 +1,24 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "The lesion resolved completely after discontinuation of 6-mercaptopurine and two cycles of cyclophosphamide, and she remains disease-free at 14 months; there was no recurrence after 18 months of follow-up.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "functional_status_evidence_excerpt": "After complete regression of the eyelid lesion and sustained disease-free status (14–18 months), no functional limitations were described.",
+        "symptom_burden": "none",
+        "symptom_burden_evidence_excerpt": "Lesion regressed completely with no recurrence reported up to 18 months, suggesting absence of ongoing symptoms."
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Following two cycles of cyclophosphamide, the lesion regressed completely."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "She remains disease-free at 14 months following diagnosis, and the lesion has not recurred after 18 months of follow-up."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Functional status and quality-of-life details were not explicitly documented; inferred from complete lesion resolution and sustained disease-free status. There is a minor discrepancy in long-term follow-up durations reported (14 vs 18 months), both indicating no recurrence."
+}

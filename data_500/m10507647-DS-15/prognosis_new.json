@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "Imaging and discharge note indicate disease growth: \"your cancer has grown\"; CT shows \"interval increase in size\" of left supraclavicular mass with bony destruction, enlarging lung lesion, and T5 lytic metastasis with epidural encroachment.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Presenting with \"worsening neck pain\"; mass eroding bone \"most likely the cause of your pain\"; oxycodone 5 mg q4h PRN prescribed.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "ED/Admission: \"worsening\" right-sided neck/shoulder/arm pain with CT showing interval increase of left supraclavicular mass and enlarging lung lesion."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "CT/MRI: \"Lytic metastatic lesion involving the T5 vertebral body, now with mild encroachment into the epidural space, mildly narrowing the spinal canal\"; partial bony destruction of left clavicular head."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Discharge instructions: \"you received chemotherapy and started radiation therapy while in the hospital. You will continue radiation therapy daily when you return home.\""
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Functional decline at discharge: requires assistive devices (walker/cane), plus durable medical equipment (wheelchair, hospital bed) ordered."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "Long-term follow-up after discharge is not documented; dates are redacted. Outcome and quality-of-life categories are inferred from objective imaging of progression and the need for assistive devices and ongoing radiation, using hospital admission as the index time."
+}

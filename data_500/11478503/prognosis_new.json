@@ -1,0 +1,28 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "Two years after diagnosis she was well during pregnancy, though she developed worsening cutaneous lesions around delivery; intestinal studies normalized on a gluten-free diet, indicating improvement in CD but ongoing VP-related skin issues without sustained overall deterioration.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Recurrent skin fragility/blistering with later worsening, scarring, and hyperpigmentation around delivery despite sun screens; CD-related intestinal function normalized on diet.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Intestinal permeability and absorption studies were normal two years following reinstitution of a gluten-free diet."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "Two years after diagnosis, she developed worsening of the skin lesions, scarring, and hyperpigmentation one month prior to and immediately after delivery, despite sun screens."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Two years after diagnosis, during pregnancy at 17/40 weeks gestation, she was well."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The case report describes two conditions (variegate porphyria and celiac disease) with limited long-term follow-up detail. Functional status is not explicitly quantified; classification as mild is inferred from the statement that she was well, with ongoing skin lesions. Deterioration of skin symptoms around delivery appears episodic rather than sustained."
+}

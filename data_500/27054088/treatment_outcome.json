@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "sedation",
+            "specific_treatment": "Propofol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "low dose infusion (0.025 mg/kg/min)",
+            "treatment_response": "Patient tolerated the procedure well"
+        },
+        {
+            "treatment_type": "analgesia",
+            "specific_treatment": "Fentanyl",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "intravenous boluses of 50 mcg, total of 175 mcg",
+            "treatment_response": "Patient tolerated the procedure well"
+        },
+        {
+            "treatment_type": "bronchoscopy",
+            "specific_treatment": "Bronchoscopy with forceps",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "large bronchial cast extracted from trachea and left main bronchus",
+            "treatment_response": "Hypoxia improved after removal of casts"
+        },
+        {
+            "treatment_type": "bronchoscopy",
+            "specific_treatment": "Bronchoscopy with endobronchial N-acetylcystine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "used as an adjunct to help remove the cast",
+            "treatment_response": "Patient tolerated the procedure well"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Initial presentation with respiratory distress"
+        },
+        {
+            "date": "Not specified",
+            "event": "Bronchoscopy performed with Propofol sedation and Fentanyl analgesia"
+        },
+        {
+            "date": "Not specified",
+            "event": "Large bronchial cast removed using forceps"
+        },
+        {
+            "date": "Day 2",
+            "event": "Patient became hypoxic, bronchoscopy repeated to remove residual cast"
+        },
+        {
+            "date": "Day 2",
+            "event": "Endobronchial N-acetylcystine used during second bronchoscopy"
+        },
+        {
+            "date": "37 weeks of gestation",
+            "event": "Patient had a successful delivery"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Successfully delivered at 37 weeks, no further exacerbations from plastic bronchitis during the rest of the pregnancy",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

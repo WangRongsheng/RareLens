@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Radiofrequency Ablation (RFA) of Hepatocellular Carcinoma (HCC)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Procedure was incomplete due to respiratory complications."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oxygen therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "FiO2 100%",
+            "treatment_response": "Managed initial oxygenation difficulties."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented for elective RFA of HCC."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient intubated; procedure completed without complications."
+        },
+        {
+            "date": "Not specified",
+            "event": "Post-procedure, patient transferred to MICU for ongoing management."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient transferred out of ICU to medical floor."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged from the hospital."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home, ambulating independently.",
+        "follow_up_details": "Weekly labs and follow-up in clinic.",
+        "complications": "Decline in kidney function noted.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "ICU stay allowed for breathing recovery; otherwise, time not specified.",
+        "quality_of_life": "Mental status clear and coherent; activity level independent.",
+        "patient_perspective": "Experienced respiratory deterioration during the RFA procedure."
+    }
+}

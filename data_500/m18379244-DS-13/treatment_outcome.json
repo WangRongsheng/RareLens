@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lasix",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "80 mg IV",
+            "treatment_response": "Minimal change in symptoms"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Torsemide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "60 mg BID, increased from previous dosage",
+            "treatment_response": "Minimal change in symptoms, adjusted dosage due to dizziness"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient treated with Lasix 80 mg IV"
+        },
+        {
+            "date": "Not specified",
+            "event": "Torsemide dosage increased to 60 mg BID"
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted to heart failure service for further management"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged home with instructions and adjusted medication"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Improved symptoms",
+        "follow_up_details": "Follow up with arranged appointments; weigh self daily",
+        "complications": "Dizziness due to excessive Lasix medication",
+        "long_term_prognosis": "Stable heart disease, no changes seen on echo",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Ambulatory with assistance (walker or cane)",
+        "patient_perspective": "Improvement noted with medication to remove fluid"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Coronary artery disease",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with chest pain and experienced ECG changes suggestive of ischemia during an outpatient stress test. Cardiac catheterization revealed multivessel coronary disease, which led to the diagnosis of coronary artery disease."
+    }
+}

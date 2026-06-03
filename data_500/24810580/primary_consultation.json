@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "11",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "childhood apraxia of speech and dysarthria in the presence of general oral and gross motor dyspraxia and hypotonia as well as expressive language and mild intellectual delays",
+        "history_of_present_illness": "Developmental history included delayed onset of speech and language, with an expressive repertoire of 10 words at age 2 years 11 months and an extremely limited consonant inventory (/b, d, w, p/) at that age. Language testing using the Oral and Written Language Scales at age 6;3 revealed borderline low ability regarding listening comprehension (standard score = 84, population mean = 100, standard deviation = 15), whereas expressive language was far below expectation for age (standard score = 60). Speech testing at age 9 years 8 months and 10 years 10 months showed that the proband’s speech and non-speech oral movements were influenced by low muscle tone.",
+        "past_medical_history": "history of generalized hypotonia and apraxia. Absent in this proband were cranial and skeletal anomalies, optic nerve impairments, microcephaly, growth retardation, internal organ defects, and signs of autism. Difficulties with attention and focus were noted, but there was a family history of ADD, raising the possibility of an independent etiology from his other abnormal traits.",
+        "family_history": "family history of ADD",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Speech and non-speech oral movements were influenced by low muscle tone in the following ways: difficulty controlling saliva, difficulty chewing and swallowing, weak articulatory contacts, and hoarse and breathy voice, all of which are consistent with dysarthria, a motor speech disorder caused by weak or stiff musculature in the articulatory system."
+    }
+}

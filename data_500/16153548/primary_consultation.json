@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "17",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Chinese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "drowsiness",
+        "history_of_present_illness": "Frequent pyogenic infections since birth, including oral ulceration, stomatitis, pharyngitis, cutaneous cellulitis, furunculosis, pneumonia, and septicaemia. Chronic periodontitis. Severity of infections ranged from mild to severe, some requiring hospital admission for intravenous antibacterial therapy and drainage of abscesses.",
+        "past_medical_history": "Diagnosed with Kostmann’s syndrome at 4 months of age. Recurrent bacterial infections. Developed myelodysplastic syndrome (MDS) progressing to acute myeloid leukemia.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "CT scan revealed three enhancing nodules in the right occipital lobe with perilesional oedema, in keeping with small abscesses. Abscesses in the chest wall, left gluteal region, right groin, both hamstring muscles, and both vastus lateralis muscles. Patchy consolidation in both lung fields. Moderate hepatosplenomegaly."
+    }
+}

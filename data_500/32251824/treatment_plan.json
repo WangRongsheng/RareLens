@@ -1,0 +1,50 @@
+{
+    "basic_information": {
+        "age": "30",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "right lower limb numbness",
+        "history_of_present_illness": "2-year history of right lower limb numbness, gradually developed upper limb weakness with mild dysphoria and dysuria in the preceding month",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "bilateral upper limb weakness (strength, 4/5), bilateral thenar eminence atrophy, and diminished superficial sensation in the lower limbs"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Histologic Analysis",
+            "date": "Not specified",
+            "findings": "World Health Organization grade II ependymoma. Microscopically, the small, elongated, round nuclear tumor cells were distributed around blood vessels. Histologic analysis was positive for yes-associated protein 1. Some tumor cells expressed the epithelial membrane antigen. Other immunohistochemical tests, including Olig-2, L1CAM, NeuN, IDH, and MIB-1, were negative.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Spinal Magnetic Resonance Imaging",
+            "date": "March 2019",
+            "findings": "A huge intramedullary tumor involving 10 segments, obviously enhanced from the foramen magnum to T3 level. The patient also presented with long syringomyelia spanning to L1. The spinal cord is almost invisible in the sagittal position, and it is compressed ventrally in the transverse view.",
+            "changes_over_time": "Three-month follow-up magnetic resonance imaging scan showed no residual tumor or recurrence, and whole spinal syringomyelia disappeared completely."
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Physical Examination",
+            "date": "March 2019",
+            "findings": "Bilateral upper limb weakness (strength, 4/5), bilateral thenar eminence atrophy, and diminished superficial sensation in the lower limbs.",
+            "changes_over_time": "At 6-month follow-up, the patient had full strength in all extremities and her numbness resolved."
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "World Health Organization grade II ependymoma",
+        "diagnostic_reasoning": "The final diagnosis was confirmed through histologic analysis, which showed small, elongated, round nuclear tumor cells distributed around blood vessels. Immunohistochemical tests were positive for yes-associated protein 1 and epithelial membrane antigen, supporting the diagnosis of grade II ependymoma."
+    }
+}

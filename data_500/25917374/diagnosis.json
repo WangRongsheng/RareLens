@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Xp21 deletion syndrome",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis was based on the detection of a 6.09 Mb deletion of the X chromosome in Patient 1 and a 2.49 Mb deletion in Patient 2, encompassing genes IL1RAPL1, DAX1, GK, and DMD. Both patients presented with intellectual disability, and Patient 2 also had elevated serum creatin kinase levels and muscular pain. The deletions were confirmed by microarray analysis and FISH, with random X chromosome inactivation observed in peripheral blood and muscle."
+    }
+}

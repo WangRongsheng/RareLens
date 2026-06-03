@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "74",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Real estate agent"
+    },
+    "medical_history": {
+        "chief_complaint": "Asymptomatic, presented for routine care",
+        "history_of_present_illness": "Pelvic examination identified a right adnexal mass. Ultrasound demonstrated a 5 cm septated cyst of the right ovary containing multiple mural nodules suggestive of ovarian carcinoma. CT scan revealed a complex cystic right adnexal mass with calcifications and thickened septations, a 7 cm densely calcified mass along the anterior surface of the uterus, and multiple subcentimeter, partially calcified peritoneal masses in the abdomen and pelvis consistent with metastatic disease.",
+        "past_medical_history": "Without significant past medical history",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Physical examination revealed a 3–4 cm palpable adnexal mass, without evidence of lymphadenopathy, ascites, or abdominal tenderness.",
+        "specialty_examination": "Not specified"
+    }
+}

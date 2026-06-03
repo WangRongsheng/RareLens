@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "6",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Excessive bleeding from the oral mucosa following mild trauma",
+        "history_of_present_illness": "Diagnosed with type 3 VWD at the age of 14 months. Treated with VWF/FVIII concentrate Haemate P for posttraumatic intracranial haemorrhage at 15 months. Received multiple treatments for mucosal bleeding, trauma, and ankle bleeding over the next 3 years. Developed possible allergic reaction (urticaria and dizziness) after 31 exposure days of Haemate P. Later treated with Wilate for a minor diagnostic procedure without side effects. Developed fever and a soft mass on her neck, leading to surgery. Post-surgery, undetectable levels of VWF activity and low FVIII:C were found, leading to suspicion of inhibitors against VWF. Treated with rFVIIa and high doses of rFVIII.",
+        "past_medical_history": "Type 3 von Willebrand disease diagnosed at 14 months. Multiple treatments with VWF/FVIII concentrates for various bleeding episodes.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    }
+}

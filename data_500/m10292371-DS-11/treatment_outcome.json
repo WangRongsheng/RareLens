@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Coronary artery bypass graft x5 with left internal mammary artery to left anterior descending artery, and saphenous vein grafts",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Endoscopic harvesting of the long saphenous vein",
+            "treatment_response": "Sternal incision healing well, no erythema or drainage. Significant ecchymosis thigh edema trace."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the emergency room with chest and jaw pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Cardiac catheterization revealed multi vessel coronary artery disease."
+        },
+        {
+            "date": "Not specified",
+            "event": "Coronary artery bypass graft surgery performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Sternal incision and left endoscopic harvesting of the saphenous vein healing well post-surgery."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and oriented x3, ambulating, gait steady.",
+        "follow_up_details": "Follow-up appointment with surgeon necessary to discuss driving and further recovery.",
+        "complications": "No complications during or immediately after treatment mentioned.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Sternal pain managed with hydromorphone.",
+        "patient_perspective": "Patient instructed on care for incisions and the importance of monitoring weight and temperature."
+    }
+}

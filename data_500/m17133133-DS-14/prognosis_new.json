@@ -1,0 +1,23 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "At discharge the patient remained chronically confused and lethargic with dependence for mobility, and was sent to an extended care facility without documented resolution of the primary condition.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Discharge Mental Status: Confused - always; Level of Consciousness: Lethargic but arousable.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Upon arrival to the floor, patient was more calm; more responsive and redirectable when daughter was present."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Psychotropic regimen modified at discharge (e.g., chlorpromazine scheduled and PRN, divalproex added, haloperidol IM PRN, risperidone ODT)."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "No follow-up beyond this hospitalization is provided, so long-term outcome is inferred from discharge status. The chief complaint mentions 'admission to inpatient hospice,' but the discharge disposition was to an extended care facility; hospice enrollment is not corroborated. Timing of initial ED agitation and soft restraints may predate the chosen index time."
+}

@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "heparin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "IV heparin",
+            "treatment_response": "Currently feels comfortable. Persistent non-productive cough, no SOB."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "rivaroxaban",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15 mg PO BID for 21 days, then 20 mg daily until PCP advises",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for treatment after being found to have diffuse, extensive pulmonary emboli on CTA chest."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on IV heparin."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged on rivaroxaban."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Suggested to see a hematologist regarding extending anticoagulation therapy",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Clear and coherent, alert and interactive.",
+        "patient_perspective": "Patient's recent surgery likely predisposed her to forming a blood clot."
+    }
+}

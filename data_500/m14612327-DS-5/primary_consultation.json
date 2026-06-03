@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Atrial flutter, Dehydration",
+        "history_of_present_illness": "Patient has been having nausea/vomiting for past few days with decreased PO intake. This morning she noted the heart rate on her home monitor to be around 160 sustained for few hours (which did not respond to dilt at home) and therefore came into the hospital. ED: she got 15 mg of IV dilt and subsequently her HR was noted to revert to sinus. However she was found to have metabolic acidosis on chemistry panel with ketones in urine likely from starvation.",
+        "past_medical_history": "Atrial Flutter, muscular dystrophy (wheelchair bound), Bilateral sensory neural hearing loss related to muscular dystrophy, Secondary pulmonary hypertension (on BiPAP at night), history of Hypercarbic respiratory failure, Nephrolithiasis",
+        "family_history": "Patient's mother has diabetes and patient's father has unspecified disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 97.7, 153 (on initial presentation), 76 (on floor), 119/60, 16, 99%/RA. General: comfortable, AOX3. HEENT: conjunctival erythema (L>R), PERLA, EOMI. Heart: S1, S2, SEM predominantly at RUSB. Lungs: CTAB. Abdomen: voluntary guarding, nontender, nondistended. Ext: trace bilateral edema.",
+        "specialty_examination": "Neuro: strength in both extremities not specified."
+    }
+}

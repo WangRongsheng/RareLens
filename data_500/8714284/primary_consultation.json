@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "33",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Achondroplastic dwarf",
+        "occupation": "Circus clown, dwarf throwing competitor"
+    },
+    "medical_history": {
+        "chief_complaint": "Headache",
+        "history_of_present_illness": "Chronic alcohol abuse (100 to 400 g alcohol per day), poor eating habits, withdrawal seizures, aggression, poor concentration, impatience, panic symptoms, blackouts, ataxia, nystagmus, mild Rombergism, brisk reflexes, treated for Wernicke's encephalopathy",
+        "past_medical_history": "Cirrhosis, chronic pancreatitis, frequent hospital attendances for withdrawal seizures",
+        "family_history": "Not specified",
+        "social_history": "Alcohol abuse (100 to 400 g per day), poor eating habits, worked as circus clown for 15 years, knocked unconscious \"a dozen times\" during circus routines, worked sporadically in dwarf throwing competitions for 8 to 10 years prior to death, secretive about personal life"
+    },
+    "physical_examination": {
+        "general_examination": "Laceration 3 cm long below the right eyebrow, marked nicotine staining of the fingers, skull thicker than normal, acute bronchitis (cause of death), severe glycogenic acanthosis of the esophagus, early micronodular cirrhosis and mild fatty change in the liver",
+        "specialty_examination": "Ataxia, nystagmus, mild Rombergism, brisk reflexes, dilated lateral and third ventricles, thin corpus callosum, fenestrated septum pellucidum, severe superior vermal folial atrophy with gliosis and shrinkage of the folia, neurofibrillary tangles in hippocampal pyramidal neurones"
+    }
+}

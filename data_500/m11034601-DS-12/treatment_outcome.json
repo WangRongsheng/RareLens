@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Labetalol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "600 mg PO QID",
+            "treatment_response": "BP improved subsequently"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Morphine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 mg IV once",
+            "treatment_response": "Good effect"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Nitroglycerin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "SL, used 3 times without improvement",
+            "treatment_response": "No further improvement in discomfort"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lopressor",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 IV doses x3",
+            "treatment_response": "BP maxed at 200/81 mmHg"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "PTCA and stent placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2.5x24mm Micro Driver bare metal stent in RCA",
+            "treatment_response": "Normal flow, no apparent dissection, no residual stenosis"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with high blood pressure and chest pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "Labetalol 600 mg PO QID administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "2 mg IV Morphine administered with good effect"
+        },
+        {
+            "date": "Not specified",
+            "event": "Nitroglycerin SL administered 3 times without improvement"
+        },
+        {
+            "date": "Not specified",
+            "event": "5 IV doses of Lopressor administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "PTCA and placement of stent performed"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Blood pressure controlled, pain free",
+        "follow_up_details": "Follow with new PCP as needed",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient instructed not to check BP at home to avoid anxiety"
+    }
+}

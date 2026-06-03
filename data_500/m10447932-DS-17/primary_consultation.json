@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "169.8 kg",
+        "height": "175 cm",
+        "BMI": "Not specified",
+        "ethnicity": "African American Male",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "\"I'm doing OK, I mean I guess I'm OK\"",
+        "history_of_present_illness": "Patient sent to ER due to concerns of developing mania after self-discontinuing medications approximately ___ weeks ago. Reports stopping medications due to bad side effects, including weight gain and diabetes. Recent positive response to clozapine noted.",
+        "past_medical_history": "Diagnosis of bipolar disorder, type I; multiple recent hospitalizations; prior psychiatric inpatient hospitalizations for mania with psychotic features; history of chronic kidney injury.",
+        "family_history": "Patient denies",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: BP: 103/67 HR: 59 Temp: 98 Resp: 16 O2 sat: 100% RA. Well-nourished, in no distress.",
+        "specialty_examination": "Neurological: Alert to person, place, time, situation. Intact to light touch. Strength full power throughout. No abnormal movements. Reflexes: B L1+ R. 0 T 2+ ___ Pa 2+ ___."
+    }
+}

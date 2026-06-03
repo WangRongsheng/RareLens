@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Split-thickness skin graft",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Graft from right thigh to right heel including debridement of approximately 12 cm²",
+            "treatment_response": "Significant healing observed; mild pain associated with dressing changes"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Preoperative assessment for skin graft"
+        },
+        {
+            "date": "Not specified",
+            "event": "Skin graft procedure scheduled"
+        },
+        {
+            "date": "Not specified",
+            "event": "VAC placed over the wound before last discharge"
+        },
+        {
+            "date": "Not specified",
+            "event": "VAC removed in clinic today; wound appeared more superficial and has healed significantly"
+        },
+        {
+            "date": "Not specified",
+            "event": "Coumadin stopped in preparation for procedure"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Mental status clear and coherent",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Out of bed with assistance to chair or wheelchair",
+        "patient_perspective": "Denies fevers/chills; pain described as mild"
+    }
+}

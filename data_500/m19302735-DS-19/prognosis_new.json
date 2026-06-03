@@ -1,0 +1,48 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "Follow-up brain MRI showed worsening of the affected areas ('mild increase in size of multiple nonenhancing FLAIR hyperintense lesions' and 'concern for progression of leptomeningeal disease'); CT also noted slightly increased axillary lymphadenopathy.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Recurrent seizure-like episodes initially and bilateral intention tremor impacting fine tasks; tremor persisted at discharge despite seizures being controlled on levetiracetam.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Underwent right frontal stereotactic brain biopsy; imaging showed expected postsurgical changes with a small focus of hemorrhage at the biopsy bed."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Initiated IVIg treatment for presumed inflammatory/infectious encephalitis after biopsy showed lymphocytic encephalitis."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Follow-up brain MRI showed worsening of lesions; 'mild increase in size of multiple nonenhancing FLAIR hyperintense lesions' and 'concern for progression of leptomeningeal disease.'"
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Received a second course of IVIg after MRI showed worsening."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Ibrutinib was held during evaluation and then restarted after IVIg treatment."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Seizure symptoms controlled on levetiracetam; continuous EEGs showed no electrographic seizures despite pushbutton activations."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "CT showed axillary lymphadenopathy slightly increased in size compared with prior imaging, consistent with ongoing CLL activity."
+        }
+    ],
+    "reference_time_used": "admission_date",
+    "notes_on_uncertainty": "Available documentation primarily covers the index admission and immediate follow-up; no data beyond the hospitalization are provided. Long-term quality of life and outcomes are inferred from discharge status and imaging trends during this short-term period."
+}

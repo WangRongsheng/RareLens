@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Pantoprazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg IV",
+            "treatment_response": "Improved fatigue after a few hours"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 g ordered",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Rifaximin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "400 mg PO BID",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented to the ER with melena and associated symptoms"
+        },
+        {
+            "date": "Not specified",
+            "event": "EGD performed showing no active bleeding or varices, with signs of gastritis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received IV Pantoprazole and Ceftriaxone"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient started on Rifaximin upon discharge"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive, discharged home",
+        "follow_up_details": "Follow up with the transplant clinic and diagnostic cat scan",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Mental status clear, independent ambulation",
+        "patient_perspective": "Dark stools likely due to iron pills, and not bleeding"
+    }
+}

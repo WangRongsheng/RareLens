@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Chronic pain disorder",
+        "differential_diagnosis": "Rheumatoid arthritis",
+        "diagnostic_reasoning": "Although the patient has rheumatoid arthritis (RA), the evaluation with blood work and MRI did not show evidence that her current pain is due to her RA."
+    }
+}

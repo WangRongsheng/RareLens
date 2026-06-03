@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Found down",
+        "history_of_present_illness": "___ year-old man with vascular dementia presents after being found down on the floor of his bathroom. He may have been lying on the floor for over 2 hours. He reports that he was in the bathroom and slipped down the side of the door. He denies hitting his head and did not lose consciousness. Denies headache, dizziness, nausea, vomiting. He has had worsening productive cough for 2 weeks. Denies fever, but complains of mild neck pain.",
+        "past_medical_history": "- Seizures - Loss of vision in left eye - Vascular dementia - Hx of Atrial Fibrillation. Now in NSR.",
+        "family_history": "None",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission Exam: VS: 97.3, 122/69, 70, 18, 97% on room air. GEN: NAD. SKIN: Small stage 2 coccyx decubitus ulcer. Onycomycosis on toes.",
+        "specialty_examination": "Neurological: Alert, oriented to name only, sensory intact throughout. Strength ___ BUE/BLE. Sometimes mumbles with speech. Patient cannot count backwards from 10 to 1."
+    }
+}

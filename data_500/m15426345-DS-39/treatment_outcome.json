@@ -1,0 +1,83 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oxycodone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "5 mg PO Q4H: PRN pain",
+            "treatment_response": "Pain well controlled on oxycodone."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV Benadryl",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Rash and itching subsided."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Famotidine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV magnesium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Morphine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified."
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "CT-guided liver fiducial seed placement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Two fiducial seeds placed adjacent to the upper and lower aspects of a liver segment lesion.",
+            "treatment_response": "Successful placement of two fiducial seeds."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for pain control."
+        },
+        {
+            "date": "Not specified",
+            "event": "IV Benadryl administered for rash and itching."
+        },
+        {
+            "date": "Not specified",
+            "event": "Oxycodone started for pain control."
+        },
+        {
+            "date": "Not specified",
+            "event": "CT-guided liver fiducial seed placement performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with follow-up instructions."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive, ambulatory with assistance.",
+        "follow_up_details": "Follow-up appointments with radiation oncologists, liver specialists, cancer specialists, and primary care doctor.",
+        "complications": "Portal vein thrombus, liver cancer invasion.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient expressed concern and worry about HCC diagnosis and prognosis.",
+        "patient_perspective": "Patient has lots of questions about his diagnosis and prognosis."
+    }
+}

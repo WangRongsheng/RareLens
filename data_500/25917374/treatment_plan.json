@@ -1,0 +1,146 @@
+{
+    "basic_information": {
+        "age": "7 years",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Intellectual disability",
+        "history_of_present_illness": "First sat at 9 months and walked without support at 18 months. Walking was initially difficult with many falls. Expressive language was delayed. Hyperopia and multiple serous otitis. Neuropsychological assessment at 7 years using the Wechsler Intelligence Scale for Children (WISC) revealed low scores in total intellectual quotient (between 50 and 63).",
+        "past_medical_history": "Hyperopia and multiple serous otitis.",
+        "family_history": "One healthy older brother. Mother suffered from endometriosis, causing two previous miscarriages.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Normal growth in height, weight and head circumference. Able to write her name and to recognize alphabet letters. Mild joint laxity. No dysmorphic features nor motor deficiency.",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "serum creatin kinase (CK) level",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "triglycerides concentration in serum",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "urine glycerol concentration",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "serum creatin kinase (CK) level",
+            "date": "Not specified",
+            "findings": "Elevated at 579 U/l (normal <160 U/l)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "X chromosome inactivation analysis",
+            "date": "Not specified",
+            "findings": "Random X chromosome inactivation (59%; 41%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "X chromosome inactivation analysis",
+            "date": "Not specified",
+            "findings": "Random X chromosome inactivation (50%; 50% in muscle and 63%; 37% in blood)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "brain MRI",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "brain MRI",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "cardiac ultrasound",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "electromyogram (EMG)",
+            "date": "Not specified",
+            "findings": "Myogenic pattern",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "muscle biopsy",
+            "date": "Not specified",
+            "findings": "Non-specific histology",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "cardiac ultrasound",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "karyotype analysis",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Single Nuclear Polymorphisms microarray analysis",
+            "date": "Not specified",
+            "findings": "Detected a 6.09 Mb deletion of the X chromosome, ranging from p21.3 to p21.1 regions with minimal extent nt: 25,878,399-31,987,991",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FISH analysis",
+            "date": "Not specified",
+            "findings": "Confirmed the deletion and showed normal fluorescent signals on both X parental chromosomes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "karyotype analysis",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "oligonucleotide array comparative genomic hybridization (a-CGH) analysis",
+            "date": "Not specified",
+            "findings": "Detected a 2.49 Mb deletion on the X chromosome ranging from p21.3 to p21.2 regions. Deletion’s minimal extent was nt: 29,008,175-31,496,701",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Xp21 deletion syndrome",
+        "diagnostic_reasoning": "The diagnosis was based on the detection of a 6.09 Mb deletion of the X chromosome in Patient 1 and a 2.49 Mb deletion in Patient 2, encompassing genes IL1RAPL1, DAX1, GK, and DMD. Both patients presented with intellectual disability, and Patient 2 also had elevated serum creatin kinase levels and muscular pain. The deletions were confirmed by microarray analysis and FISH, with random X chromosome inactivation observed in peripheral blood and muscle."
+    }
+}

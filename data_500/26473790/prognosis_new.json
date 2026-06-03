@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "After subtotal resection of the jugular foramen chondrosarcoma and later gross-total resection of the suprasellar pituitary adenoma, the patient had significant improvements; at 2-year follow-up, voice hoarseness and visual acuity were significantly improved, indicating recovery with residual symptoms.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "At 2-year follow-up, residual voice hoarseness and visual acuity issues were present but significantly improved.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "After subtotal resection of the left jugular foramen lesion, there was significant improvement of dysphagia and auditory acuity."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Postoperative improvement in dysphagia indicates improved swallowing function."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Ten months after the first operation, the patient underwent gross-total resection of the suprasellar lesion (pituitary adenoma)."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "At the 2-year follow-up, the patient’s voice hoarseness and visual acuity were significantly improved."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Exact dates are not provided; the index time was approximated to the diagnosis of Maffucci syndrome with associated intracranial lesions prior to surgical treatment. Long-term functional status is inferred from symptom descriptions, as formal functional assessments are not reported."
+}

@@ -1,0 +1,63 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "laparotomy with Pringle’s maneuver",
+            "start_date": "1991-10",
+            "end_date": "Not specified",
+            "dosage_or_details": "Emergency procedure to stop intraperitoneal hemorrhage",
+            "treatment_response": "Bleeding temporarily stopped, followed by jaundice and acute pancreatitis"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "ligation of the hepatic artery and gauze packing",
+            "start_date": "1991-10",
+            "end_date": "Not specified",
+            "dosage_or_details": "Second laparotomy to definitively stop bleeding",
+            "treatment_response": "Patient discharged one month later in good condition"
+        },
+        {
+            "treatment_type": "imaging",
+            "specific_treatment": "ultrasound examination and CT scans",
+            "start_date": "1994",
+            "end_date": "Not specified",
+            "dosage_or_details": "Systematic examination following initial surgery",
+            "treatment_response": "Nodules observed, initially misdiagnosed as steatosis"
+        },
+        {
+            "treatment_type": "imaging",
+            "specific_treatment": "MRI",
+            "start_date": "2003-01",
+            "end_date": "Not specified",
+            "dosage_or_details": "Diagnostic imaging",
+            "treatment_response": "Confirmed liver adenomatosis with numerous nodules"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "1991-10",
+            "event": "Emergency laparotomy for intraperitoneal hemorrhage"
+        },
+        {
+            "date": "1991-10",
+            "event": "Second laparotomy with ligation of the hepatic artery and gauze packing"
+        },
+        {
+            "date": "1994",
+            "event": "Systematic ultrasound and CT scans showing nodules"
+        },
+        {
+            "date": "2003-01",
+            "event": "MRI confirming liver adenomatosis"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Asymptomatic with normal liver function test results",
+        "follow_up_details": "Not specified",
+        "complications": "Jaundice and acute pancreatitis post-surgery",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Discharged one month after surgery in good condition",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

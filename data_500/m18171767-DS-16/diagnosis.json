@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "diabetic ketoacidosis",
+        "differential_diagnosis": "influenza",
+        "diagnostic_reasoning": "The patient presented with symptoms consistent with diabetic ketoacidosis (DKA) such as elevated blood glucose levels (e.g., glucose of 531), urine glucose, and ketones, along with a positive influenza test indicating a concurrent infection. The DKA diagnosis is further supported by the patient's history of type 1 diabetes and her recent symptoms of nausea and vomiting."
+    }
+}

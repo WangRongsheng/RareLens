@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Right arm sutures placed",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Laceration was repaired"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ciprofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg Tablet, Q24H for 4 doses",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient fell in bathroom and sustained a large right arm laceration"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received a tetanus shot and had laceration repaired"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was treated with ciprofloxacin for urinary tract infection"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Afebrile, displaying normal vital signs, ambulating with assistance",
+        "follow_up_details": "Follow-up with primary care physician for stitch removal and medication review",
+        "complications": "Mild impairment of kidney function",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

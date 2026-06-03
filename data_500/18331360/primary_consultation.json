@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "49",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "‘My pupil has gone black!’",
+        "history_of_present_illness": "For about six months, she had noted that this pupil had returned to being black except for a small white section at the bottom of the pupil. There had been no trauma to the eye or head at any time. She was in good health with no known medical conditions.",
+        "past_medical_history": "Longstanding opaque cataract, optic nerve coloboma of the Morning Glory syndrome type, total retinal detachment.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Intraocular pressures were R 18 mmHg, L 16 mmHg.",
+        "specialty_examination": "Left exotropia of approximately 30 degrees. A marked relative afferent pupil defect in the left eye was noted. Slitlamp examination showed iridodonesis of the left iris. The white opaque crystalline lens was visible in the lower quarter of the pupillary aperture, just behind the plane of the iris. The cornea was normal. There were no anterior chamber cells or injection to suggest anterior segment inflammation. The vitreous was clear and vitreous prolapse into the anterior chamber was not observed. There was a total retinal detachment, which was shallow in all quadrants but fixed with eye movement, with evidence of subretinal fibrosis."
+    }
+}

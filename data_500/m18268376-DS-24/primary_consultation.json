@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Transfer, Post-Arrest",
+        "history_of_present_illness": "Patient is a male with a history of partial right nephrectomy for clear cell renal carcinoma, bladder CA with radical cystectomy and ileal conduit, and lung CA with left upper lobectomy. He presented with several days of progressive weakness, nausea/vomiting, and peripheral edema. His urine was foul smelling with decreased output and mucus. He was started on ciprofloxacin and later ertapenem for ESBL E. coli UTI after significant pyuria and bacteriuria were documented. Initial labs showed Cr of ~7 and severe acidosis. On admission, he had a cardiac arrest preceded by apnea and was revived with shocks and medications. Post-resuscitation, he required intubation and had improving creatinine and urinary output.",
+        "past_medical_history": "1. Hypertension 2. Chronic kidney disease, stage III, now stage IV 3. Bladder cancer history, resected 4. Left upper lobectomy for lung cancer 5. Melanoma, left shoulder excised 6. Appendectomy 7. Cholecystectomy 8. Bilateral total hip replacement 9. DVT history 10. Decreased hearing, bilateral hearing aids 11. Osteoarthritis 12. Pilonidal cyst history 13. Smoking history, 100 pack years, quit 14. Frequent alcohol use, 2-3 glasses of wine daily",
+        "family_history": "Brother with CAD, both parents with pancreatitis, son diagnosed with idiopathic DVT/PE.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VITALS: T 99.5 | HR 104 | BP 112/73 | RR 20 | SpO2 100% on ventilator. General: Intubated and sedated; HEENT: Sclera anicteric, MMM; CV: Irregular rhythm, normal rate. ABD: Soft, non-tender, non-distended. EXT: Warm, well perfused, 2+ pulses. NEURO: Sedated, arousable to voice, able to follow simple commands.",
+        "specialty_examination": "Cardiovascular: Irregular rhythm with normal heart sounds, normal rate; Neurological: Sedated but arousable to voice, able to respond to commands."
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "hypotension and respiratory failure",
+        "history_of_present_illness": "History of schizoaffective disorder and dementia from nursing home found unresponsive by staff with copious secretions in mouth. She was satting at ___'s. Placed on NC and sats improved to ___. Vitals 97.5, 104/51, 110, 22, 69-71% 2L NC. EMS called and BP in the ___ and sats in the ___. Gave 1L IVF and NRB with sats in the ___. Patient was evaluated at ___ and initial vitals: 102.2, 100, 40, 130/80, 88% on 15L NRB. CXR showed no acute process. CT head noted no acute process, but with diffuse atrophy and microvascular leukoencephalopathy. Neuro exam showed deviated left eye and had aginal congestive breathing and hypoxia. Intubated without difficulty with etomidate and succ. ET tube became plugged with purulent, yellow secretions. Received 3L of fluids. UA with large blood, 4+ bacteria and mucus, with ___ WBC. She was given metronidazole and levofloxacin; started on neo-synephrine for hypotension, and transferred to ___ for evaluation. Right IJ was placed.",
+        "past_medical_history": [
+            "Frequent UTI's and hx of urosepsis",
+            "Schizoaffective",
+            "Dementia",
+            "CKI",
+            "COPD",
+            "CAD",
+            "HTN",
+            "GERD",
+            "Anemia"
+        ],
+        "family_history": "unable to obtain",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission physical: Vitals: 98.2, 103, 133/65, 20, 96% General: sedated, NAD HEENT: Sclera anicteric, dried mucoous membranes, oropharynx clear, EOMI, PERRL, unable to track with eyes, +corneal reflex Neck: supple, JVP not elevated CV: Regular rate and rhythm, normal S1 + S2 Lungs: diffuse rhonchi throughout, and decreased breath sounds at left base Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound or guarding Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis, 1+ peripheral edema up to thigh Neuro: + clonus, but downgoing babinski.",
+        "specialty_examination": "Discharge physical: Vitals: 98.4 134/45 HR 76 sat 94% RA Gen: NAD, A&Ox2 (to person and date) Pulm: expiratory rhonchi with occasional wheezes CV: ___ systolic murmur best heard at R upper sternal border, RRR, no rubs/gallops Abd: +BS, nondistended, soft, tender to palpation at lower mid-abdomen Ext: trace edema up to knees"
+    }
+}

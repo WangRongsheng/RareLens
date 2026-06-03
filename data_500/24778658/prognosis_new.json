@@ -1,0 +1,29 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "The patient died 10 days later due to severe and progressive encephalopathy despite the specific anticancer treatment and high dose corticosteroids.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "functional_status_evidence_excerpt": "Deterioration resulted in a comatose state necessitating endotracheal intubation, sedation, and transfer to the intensive care unit.",
+        "symptom_burden": "persistent_severe",
+        "symptom_burden_evidence_excerpt": "Developed multivectorial saccadic eye movements with associated massive myoclonic head, trunk, and limb movements, progressing to coma."
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "Despite the initiation of specific treatment, dramatic neurologic deterioration occurred with opsoclonus and massive myoclonic movements."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Progression to a comatose state requiring endotracheal intubation, sedation, and ICU transfer."
+        },
+        {
+            "event_type": "death",
+            "time_period": "short_term",
+            "evidence_excerpt": "The patient died 10 days later due to severe and progressive encephalopathy."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The patient died within 10 days of diagnosis/treatment initiation, so no long-term follow-up exists. Functional status and symptom burden reflect the latest documented condition after index time. Exact date of diagnosis relative to treatment start is not specified; diagnosis date was used as the index reference."
+}

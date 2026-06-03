@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "urinary tract infection with bacteremia",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with signs consistent with a urinary tract infection (e.g., foul-smelling urine, chills, weakness), and the urine culture indicated many gram-negative rods, which were confirmed as Escherichia coli in the blood culture, indicating a urinary infection that traveled into the blood."
+    }
+}

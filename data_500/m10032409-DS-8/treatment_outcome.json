@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "325 mg po x 1",
+            "treatment_response": "Improved breathing and chest pain free by the morning on the floor."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 gm IV x 1",
+            "treatment_response": "Improved breathing and chest pain free by the morning on the floor."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Azithromycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "500 mg IV x 1",
+            "treatment_response": "Improved breathing and chest pain free by the morning on the floor."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Methylprednisolone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "125 mg IV x 1",
+            "treatment_response": "Improved breathing and chest pain free by the morning on the floor."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Albuterol nebulizer",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Nebulized",
+            "treatment_response": "Cleared rales with coughing."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Ipratropium nebulizer",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Nebulized",
+            "treatment_response": "Cleared rales with coughing."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with shortness of breath and chest pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered IVF 500 cc NS."
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered medications including Aspirin, Ceftriaxone, Azithromycin, Methylprednisolone, Albuterol, and Ipratropium."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient felt at baseline and requested to go home."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable, at baseline, and chest pain free.",
+        "follow_up_details": "Follow-up appointments mentioned but not specified.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Improved by the morning following treatment.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Asked to go home as soon as possible, felt well."
+    }
+}

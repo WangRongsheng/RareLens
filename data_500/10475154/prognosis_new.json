@@ -1,0 +1,38 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "Further follow-up in 1997 showed gradual resumption of normal adrenal function, and from July onwards the patient received no hydrocortisone replacement. Blood pressure and glucose tolerance continued to be normal.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Hypertension resolved after surgery, and diabetes mellitus resolved after delivery; subsequent follow-up showed normal BP and glucose tolerance without ongoing symptoms.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Hypertension resolved after surgery."
+        },
+        {
+            "event_type": "major_complication",
+            "time_period": "short_term",
+            "evidence_excerpt": "Post-operatively, secondary adrenal insufficiency ensued, necessitating continuing hydrocortisone replacement over 12 months."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Hormonal evaluation in the 23rd week of gestation, 6 weeks after operation, showed remission of the pheochromocytoma."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Diabetes mellitus resolved after the uncomplicated vaginal delivery at term."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Further follow-up in 1997 showed gradual resumption of normal adrenal function, and from July onwards the patient received no hydrocortisone replacement."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The index time is approximated to early April 1996 when a preliminary diagnosis and treatment plan were established. Exact dates are not always provided; time periods are inferred relative to this diagnosis. Secondary adrenal insufficiency is labeled as a major complication due to its clinical significance and prolonged replacement need, though it is an expected consequence after suppression from autonomous cortisol secretion."
+}

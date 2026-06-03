@@ -1,0 +1,92 @@
+{
+    "basic_information": {
+        "age": "41",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Veterinarian"
+    },
+    "medical_history": {
+        "chief_complaint": "Irregular hepatomegaly detected associated with persisting pain in the right hypochondrium",
+        "history_of_present_illness": "Ten months after transplantation, irregular hepatomegaly was detected associated with persisting pain in the right hypochondrium. An abdominal scan performed twelve months after transplantation revealed a 44 mm lesion in the hepatic segment IV with satellite nodules and necrotic adenomegaly suggesting cholangiocarcinoma.",
+        "past_medical_history": "Underwent a right lung transplantation (LT) for pulmonary fibrosis. In addition to tacrolimus, mycophenolate and prednisolone started immediately post-transplantation, basiliximab—an interleukin 2 receptor antagonist—was required two months post-transplantation for persistent acute cellular rejection treated with intravenous methylprednisolone since one month post-transplantation.",
+        "family_history": "Not specified",
+        "social_history": "Lives in a rural part of the French Massif Central region (France), a historic endemic zone for alveolar echinococcosis. Ownership of two dogs and four cats that were dewormed regularly but were free to roam outdoors and hunt unattended including in her unfenced garden visited by foxes; living in a house close to fields; vocational activities in the forest and growing leaf and root vegetables. Worked as a veterinarian for pets prior to transplantation but did not resume work before seven months post transplantation."
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Abdominal gray-scale ultrasound showing a heterogeneous mass lesion in the right lobe of the liver. The lesion is generally hyperechoic with a central linear hypoechoic suggesting liquid component. There are also small hyperechoic nodules surrounding this main lesion. Axial T2 weighted image after fat suppression demonstrates a tumor like hepatic mass, heterogeneous with a thick irregular border and central liquid component. Axial and coronal T1-weighted images with fat suppression, obtained after injection of gadolinium-based contrast agent showing a large heterogeneous tumor like mass in the liver, with intense peripheral enhancement and inflammation of adjacent liver. There are also satellite small hypointense vesicles with moderate peripheral contrast enhancement."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Em2+ and Em18 ELISA",
+            "date": "Not specified",
+            "findings": "Positive results",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunoblotting",
+            "date": "Not specified",
+            "findings": "Positive, showing the presence of 7-16-18-26/28 bands, characteristic pattern of E. multilocularis infection",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Albendazole sulfoxide plasma levels",
+            "date": "Not specified",
+            "findings": "Values ranging from 2.30 to 3.30 µmol/L",
+            "changes_over_time": "Daily posology reduced to 200 mg bid to maintain concentrations within the target range"
+        },
+        {
+            "procedure_name": "Echinococcus serology",
+            "date": "At the time of transplantation",
+            "findings": "Negative for first line tests (ELISA, Indirect Hemagglutination Assay), but immunoblotting showed the presence of a weak seven-band, compatible with aborted, self-limited alveolar echinococcosis",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal scan",
+            "date": "Twelve months after transplantation",
+            "findings": "Revealed a 44 mm lesion in the hepatic segment IV with satellite nodules and necrotic adenomegaly suggesting cholangiocarcinoma",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic Resonance Imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Heterogeneous aspect of the lesion with peripheral contrast and inflammatory perilesional variation and particularly multiple peripheral infracentrimetrical vesicles seen on axial T2-weighted MRI",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Positron Emission Tomography-Computed Tomography (PET/CT) scan",
+            "date": "Not specified",
+            "findings": "Confirmed the existence of a 45 mm by 35 mm hepatic lesion with a central hypodense region and a strong peripheral hypermetabolic rim (Standardized uptake values (SUV) max 5.3), persisting at 3 h (SUV max 7.7) and the absence of other associated lesions",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal computed tomography (CT) scans",
+            "date": "Two months after transplantation",
+            "findings": "Revealed the presence of a small low density nodule within the liver, associated with a small central calcification",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Not specified",
+            "findings": "Microscopic examination showed necrosis and the presence of typical periodic acid-Schiff (PAS) positive thin lamellar layer",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathological examination",
+            "date": "15 months post-transplantation",
+            "findings": "Confirmed the diagnosis of AE, showing an unequivocal pseudotumoral lesion with numerous small vesicles and ill-defined borders, multiple areas of necrosis and granuloma surrounding slender parasitic PAS-positive layers",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Alveolar echinococcosis",
+        "diagnostic_reasoning": "The diagnosis was reoriented based on the heterogeneous aspect of the lesion on MRI, peripheral contrast and inflammatory perilesional variation, and multiple peripheral infracentrimetrical vesicles seen on axial T2-weighted MRI. PET/CT scan confirmed the hepatic lesion with a central hypodense region and strong peripheral hypermetabolic rim. Microscopic examination of a liver biopsy showed necrosis and typical PAS-positive thin lamellar layer. Blood tests with Em2+ and Em18 ELISA and immunoblotting supported the diagnosis of AE."
+    }
+}

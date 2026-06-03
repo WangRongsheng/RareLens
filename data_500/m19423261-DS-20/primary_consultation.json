@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "fever, chest pain, shortness of breath",
+        "history_of_present_illness": "Presented after developing left side SSCP while receiving Velcade infusion for multiple myeloma. Described 15 minutes of new onset chest pain, with generalized weakness and falling x 3 earlier in the day. Had a fever yesterday and this morning, but was afebrile at the time of his transfusion. Developed a fever, cough, and chest discomfort during blood transfusion, raising concern for transfusion reaction.",
+        "past_medical_history": "- Multiple myeloma - long standing, failed alkeran/prednisone, started on velcade\n- CLL\n- CAD s/p left LAD stent\n- Atrial fibrillation\n- Sick sinus syndrome s/p PPM placement\n- COPD (not on home O2)\n- Bladder ca s/p resection\n- Infrarenal AAA and renal aneurysm\n- H/o PE\n- CRI (baseline creatinine 2.0)\n- Hyperlipidemia",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 97.7 89 89/52 24 94%3L -> 89%RA. Alert, oriented, no acute distress. Poor air movement bilaterally in lungs, no ronchi, wheezing, few crackles at bases.",
+        "specialty_examination": "Regular rate, normal S1 + S2, no murmurs, rubs, gallops. CXR showed bibasilar opacity, likely atelectasis."
+    }
+}

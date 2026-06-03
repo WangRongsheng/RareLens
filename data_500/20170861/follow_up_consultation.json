@@ -1,0 +1,50 @@
+{
+    "basic_information": {
+        "age": "17",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Courbure de la jambe droite en lame de sabre",
+        "history_of_present_illness": "Diagnostiquée à l'âge de neuf mois, évoluant vers une pseudarthrose atrophique et mobile, avec un raccourcissement de 12 cm, une luxation fémorotibiale et fémoropatellaire. Traitement initial orthopédique par plâtres fémoropédieux jusqu'à l'âge de deux ans, puis appareillage de décharge à appui ischiatique jusqu'à l'adolescence.",
+        "past_medical_history": "Neurofibromatose de type 1, pseudarthrose congénitale du tibia (PCT) proximale classée Crawford stade 4.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Flexion du genou de 115°, flessum de 30°, déficit d'extension active de 60°, inégalité de longueur de 12 cm, laxité minime du genou dans le plan frontal, luxation latérale de la patella réductible et indolore.",
+        "specialty_examination": "Pseudarthrose mobile sous-jacente, subluxation postérieure du tibia sous le fémur associée à une luxation de la tête de la fibula postérosupérieure."
+    },
+    "laboratory_examinations": [],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radiography",
+            "date": "At the age of nine months",
+            "findings": "Curvature with lateral concavity involving the fibula",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiography",
+            "date": "At the age of 17 years",
+            "findings": "Extreme tibial atrophy with relative fibular hypertrophy and femorotibial dislocation",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiography",
+            "date": "At the age of 17 years",
+            "findings": "Appearance of the knee with femorotibial dislocation",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiography",
+            "date": "At the age of 33 years",
+            "findings": "Good quality fusion both at the leg and ankle level",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": []
+}

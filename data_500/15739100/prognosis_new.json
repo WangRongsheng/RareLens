@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "A diagnosis of probable CJD was made … She died 1 year after the onset of clinical signs.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "During the days after admission she presented with nocturnal confusion and agitation. The ataxia increased… choreatiform-athetotic movements… She became tetraspastic.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "During the days after admission she presented with nocturnal confusion and agitation. The ataxia increased."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "short_term",
+            "evidence_excerpt": "She became tetraspastic and more and more aspontaneous."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Percutaneous endoscopic gastrostomy (PEG) for feeding became necessary."
+        },
+        {
+            "event_type": "death",
+            "time_period": "mid_term",
+            "evidence_excerpt": "She died 1 year after the onset of clinical signs."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Exact diagnosis date is not specified; admission when probable CJD was diagnosed was used as the index time. Death occurred about 11 months after diagnosis (1 year after onset), mapped to mid_term. Timing of specific deteriorations and PEG placement was described as occurring over days after admission, mapped to short_term."
+}

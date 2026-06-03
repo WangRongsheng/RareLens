@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Part time work, training as a ___ for ___"
+    },
+    "medical_history": {
+        "chief_complaint": "\"The past week I have been very depressed and I don't feel safe at home\"",
+        "history_of_present_illness": "Patient has a history of cocaine induced mood disorder with psychotic features. He was brought in by his godmother with complaints of worsening depression, auditory hallucinations (AH), visual hallucinations (VH), paranoia for 1 week. He relapsed on cocaine 3 days ago and reports stress from supporting his girlfriend financially. Patient stopped taking psychiatric medications, leading to increased symptoms. He was previously stable after a 3-day hospitalization until about a week ago when he began feeling low energy, insomnia, decreased appetite, poor concentration, and lack of motivation. In the past 3 days, he has developed racing thoughts, increasing AH and paranoia.",
+        "past_medical_history": "Historical diagnoses include cocaine induced mood disorder with psychotic features, anxiety, bipolar disorder, and schizophrenia. Reports 10 total inpatient admissions with 3 for depression. Current medications include seroquel, remeron, and zoloft; previously on depakote, cymbalta, and abilify. Past suicide attempt involved cutting his wrist.",
+        "family_history": "Denies psychiatric illness but mentions an aunt who committed suicide.",
+        "social_history": "Denies tobacco use. Reports occasional alcohol consumption (4 beers last night; first drink at age 14) with a history of blackouts. Previous cocaine use, last snorted on ___, and stated 9 months of sobriety prior to relapse. Born into a military family, supportive family structure including multiple aunts and a godmother. Never married but has a son living with mother. Currently engaged and living in a rooming house."
+    },
+    "physical_examination": {
+        "general_examination": "Neurological findings show normal gait and tone; no rigidity observed. Mental status indicates the patient is alert but appears anxious and paranoid. Mood is reported as 'very depressed.'",
+        "specialty_examination": "Mental status shows circumstantial and tangential thought process; endorsements of auditory and visual hallucinations. Denies suicidal and homicidal ideation but has racing thoughts and negative intrusive thoughts."
+    }
+}

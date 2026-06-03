@@ -1,0 +1,115 @@
+{
+    "basic_information": {
+        "age": "2 years 9 months",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Japanese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Epileptic spasms in clusters",
+        "history_of_present_illness": "Developed epileptic spasms in clusters at 3 months of age, referred to Tokyo Women’s Medical University hospital. Diagnosed with symptomatic West syndrome, started on antiepileptic drug treatment with valproate, zonisamide, and vitamin B6, but no effect was obtained. Responded well to adrenocorticotropic hormone therapy. Seizure free on a combination of valproate (30 mg/kg/day) and clonazepam (0.04 mg/kg/day) since the adrenocorticotropic hormone therapy. Never achieved head control or visual following, and remained unable to speak or sit up.",
+        "past_medical_history": "Born at 38 weeks and 2 days gestational age, with an uneventful delivery, of nonconsanguineous parents. At birth, microcephaly was noted, with a head circumference of 28.0 cm (-3.9 standard deviations). Neither prenatal infections nor any known congenital defects of metabolism were detected.",
+        "family_history": "No convulsive disorders in his family history.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "No remarkable findings except for microcephaly.",
+        "specialty_examination": "Neurologic examination revealed marked spasticity in all four limbs with exaggerated deep tendon reflexes. Electroencephalography revealed the periodic appearance of diffuse irregular spikes or spike and wave complexes during wakefulness and sleep, findings compatible with hypsarrhythmia. Cranial magnetic resonance imaging revealed frontoparietal predominant diffuse and bilaterally symmetric polymicrogyria with ventricular dilatation."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Chromosomal study",
+            "date": "Not specified",
+            "findings": "Within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Routine blood examinations",
+            "date": "Not specified",
+            "findings": "Within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Routine urinary examinations",
+            "date": "Not specified",
+            "findings": "Within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary organic and amino acid screening",
+            "date": "Not specified",
+            "findings": "Within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cerebrospinal fluid lactate testing",
+            "date": "Not specified",
+            "findings": "Within normal range",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Cranial magnetic resonance imaging (MRI)",
+            "date": "At 6 months of age",
+            "findings": "Frontoparietal predominant diffuse and bilaterally symmetric polymicrogyria with ventricular dilatation. Irregularly bumpy appearance for almost the entire cortical surface, enlarged cerebrospinal fluid space over both frontoparietal regions, enlarged lateral ventricles, and markedly reduced white matter volume.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cranial magnetic resonance imaging (MRI)",
+            "date": "At 3 years 10 months of age",
+            "findings": "Frontoparietal predominant diffuse and bilaterally symmetric polymicrogyria. Irregularly bumpy appearance for almost the entire cortical surface, enlarged cerebrospinal fluid space over both frontoparietal regions, enlarged lateral ventricles, and markedly reduced white matter volume.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Electroencephalography (EEG)",
+            "date": "At 3 months of age",
+            "findings": "Periodic appearance of diffuse irregular spikes or spike and wave complexes during wakefulness and sleep, findings compatible with hypsarrhythmia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalography (EEG)",
+            "date": "At 4 months of age",
+            "findings": "Diffuse moderately slow background activity with intermittent bilateral frontal spikes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electroencephalography (EEG)",
+            "date": "At 6 months of age",
+            "findings": "Intermittent spike discharges recorded from the left frontal region.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Severe bilateral frontoparietal polymicrogyria",
+        "diagnostic_reasoning": "The diagnosis was based on cranial magnetic resonance imaging findings that revealed frontoparietal predominant diffuse and bilaterally symmetric polymicrogyria with ventricular dilatation. The clinical presentation included severe developmental abnormalities, generalized tonic-clonic seizures, and mental retardation. The patients also exhibited marked spasticity in all four limbs with exaggerated deep tendon reflexes."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "valproate, zonisamide, vitamin B6",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "valproate (30 mg/kg/day), zonisamide (Not specified), vitamin B6 (Not specified)"
+        },
+        {
+            "treatment_type": "hormone therapy",
+            "specific_treatment": "adrenocorticotropic hormone therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "valproate, clonazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "valproate (30 mg/kg/day), clonazepam (0.04 mg/kg/day)"
+        }
+    ]
+}

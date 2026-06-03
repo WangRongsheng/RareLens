@@ -1,0 +1,71 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Citalopram",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg once qd, then 20 mg Tablet Sig: Two (2) Tablet PO DAILY",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Trazodone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "50 mg q.h.s., then 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Famotidine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg at qhs, then 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day)",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Topiramate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "25 mg qd, then 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day)",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Risperidone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1 mg at 8 p.m., then 2 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day)",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Trimethoprim-Sulfamethoxazole",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "160-800 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 3 days",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Admission and initiation of medications"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge with a revised medication regimen"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Stable",
+        "follow_up_details": "Please continue to follow-up with your primary physicians.",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "The episodes experienced do not appear to be epileptic seizures."
+    }
+}

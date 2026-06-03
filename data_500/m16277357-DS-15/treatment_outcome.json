@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ondansetron",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "chest pain resolved"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "antacids",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "as needed",
+            "treatment_response": "chest pain resolved"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "patient presented with chest pain"
+        },
+        {
+            "date": "Not specified",
+            "event": "ondansetron administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "chest pain resolved with antacids"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "chest pain free",
+        "follow_up_details": "please see your primary care doctor in the next ___ weeks",
+        "complications": "No complications",
+        "long_term_prognosis": "most likely cause of chest pain is gastroesophageal reflux disease (GERD)",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

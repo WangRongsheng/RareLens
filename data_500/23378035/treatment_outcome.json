@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "ibuprofen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not much improvement in symptoms"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "shoe inserts",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not much improvement in symptoms"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "CAM walker boot",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Helped with toe walking"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "stretching exercises",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not much improvement in symptoms"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "resection of bilateral talocalcaneal coalitions",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Pain-free post-operatively with improvement in range of motion, gait, and mobility"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Initial presentation with right foot pain and limping"
+        },
+        {
+            "date": "Not specified",
+            "event": "Treated with ibuprofen, shoe inserts, and home exercises"
+        },
+        {
+            "date": "Not specified",
+            "event": "Placed in CAM walker boot"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT scans revealed bilateral talocalcaneal coalitions"
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent resection of bilateral talocalcaneal coalitions"
+        },
+        {
+            "date": "1 year follow-up",
+            "event": "Range of motion and gait had markedly improved, remained pain-free"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Pain-free with improved range of motion, gait, and mobility",
+        "follow_up_details": "1 year follow-up",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Improved gait and mobility",
+        "patient_perspective": "Not specified"
+    }
+}

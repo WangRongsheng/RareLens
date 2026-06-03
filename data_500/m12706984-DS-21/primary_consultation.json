@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "___",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Weakness, fever, cough",
+        "history_of_present_illness": "Mr. ___ is a ___ yo man with a PMH of low grade glioma s/p resection, radiation, chemotherapy, complicated by secondary ___ s/p bilateral pial synangiosis, HTN, CVA with expressive aphasia, and hypothyroid who presents with fever, weakness, and cough. The patient is unable to talk but nods 'yes/no' appropriately to questions. Three days ago he developed subjective fevers. He also reports a cough, congestion, runny nose, and sore throat during this time. Two days ago he noticed increased weakness of his left upper extremity. He has baseline weakness of the left upper extremity from his previous strokes but he noticed he could no longer lift the left arm up level with his head which he can usually. He did not note any other weakness or changes in his speech or sensation from baseline. He endorses increased fatigue over the last several days. He received the flu vaccine in ___ at ___. He denies headache, SOB, chest pain, or sick contacts.",
+        "past_medical_history": "# Low grade optic glioma - suprasellar area and ___ ventricle extension at age ___, s/p chemotherapy and radiation # ___ - discovered at age ___, thought to be ___ to radiation, s/p bilateral pial synangiosis c/b stroke with slurred speech # Bilateral thalamic strokes - in ___, occurred in setting of a viral illness # CVA - ___, worsened speech # ___ Disease - reportedly very mild # Hypertension # Hyperlipidemia # Aphasic # Hypogonadism # Hypothyroid ___ Free T4=0.81",
+        "family_history": "Adopted at 6 months old.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T 99.6, P 97, BP 127/74, RR 12, O2 sat 95%RA. Exam notable for: aphasic, nods appropriately to questions, ___ RUE and RLE strength, ___ LLE strength, ___ grip in LUE, ___ LUE flexion/extension",
+        "specialty_examination": "Neurologic: CN2-PERRL, ___ not track but can move eyes in all directions on request. CN5-Symmetric facial sensation. CN7-Slight left facial droop. CN12-tongue protruding slightly to the left. Mild left upper and lower extremity weakness (___)."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "neck pain",
+        "history_of_present_illness": "Patient is a ___ PMHx leiomyosarcoma s/p resection, radiation therapy, and most recently s/p 1 cycle of Doxil (liposomal sarcoma), recently discharged from ___ for pathologic R trochanteric fracture s/p internal fixation, now presenting with R-sided neck, shoulder and arm pain, worse over this past week. The patient notified her oncologist who referred her to the ED for further evaluation and CT imaging. Initial VS 99.0 111 138/72 16 100% ra. CT neck and abdomen pelvis showed interval increase in the size of a left supraclavicular enhancing mass now measuring 2.7 x 2.4 cm. No focal weakness or deficits on neurologic exam. Upon transfer to the floor, patient's VS 97.5, 142/86, 98, 18, 100% on RA. Labs were notable for Hct 29 (at baseline).",
+        "past_medical_history": "Oncologic history includes febrile illness and finding of a large cystic mass which was thought to be an abscess but later revealed to be high-grade pleomorphic sarcoma possibly a liposarcoma. Underwent 5000 cGy of external beam radiotherapy and en bloc resection of the tumor. Postoperative scans showed no evidence of metastasis or local recurrence. Thyroid ultrasound indicated a 2.5-cm left lower pole heterogeneous nodule. Core needle biopsy suggested metastasis in left clavicular head. Patient has a history of dilated right breast duct, GERD, Osteopenia, Dyslipidemia, and seizure. Surgical history includes tubal ligation and TAH for fibroid uterus and benign neck mass excision.",
+        "family_history": "Significant for 2 brothers, one of whom may have had an intra-abdominal malignancy. There are no other family members that she is aware of with cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 97.5, 142/86, 98, 18, 100% on RA. Chronically ill-appearing female in NAD. Tenderness to palpation of c-spine, L shoulder and lateral posterior torso. AOx3, grossly symmetric strength of BUE and BLE, sensation grossly intact.",
+        "specialty_examination": "Neurological: No focal weakness or deficits noted. Cardiac: RRR, normal S1 and S2, no m/r/g. Lung: CTA bilaterally, no wheezes/rales. Abdomen: soft, NTND, normoactive bowel sounds. Extremities: Warm, 2+ DP pulses bilaterally."
+    }
+}

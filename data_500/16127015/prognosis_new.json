@@ -1,0 +1,33 @@
+{
+    "overall_outcome": "complete_recovery",
+    "evidence_excerpt": "After high-dose IVIg, her neuropathic pain decreased dramatically the next day; two months later she returned to school, and for 3 years since IVIg therapy she has been in good health while on hydroxychloroquine.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Neuropathic pain and neuropsychiatric symptoms improved rapidly after IVIg, with sustained good health over 3 years and no reported residual neuropathic complaints.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "The day after IVIg, a drastic response was noticed, with a significant decrease in her excruciating pain."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Two months later, she went back to school."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "Cyclophosphamide was initiated a week after IVIg therapy while the patient was already in remission."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "For 3 years since the IVIg therapy, the patient has been in good health receiving hydroxychloroquine."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The article presents multiple cases. This extraction corresponds to the 12-year-old girl with SLE and vasculitic peripheral neuropathy. Long-term outcomes are inferred from the reported 3-year good health following IVIg; specific residual deficits are not described."
+}

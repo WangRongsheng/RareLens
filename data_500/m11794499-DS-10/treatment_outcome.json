@@ -1,0 +1,99 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "incision and drainage",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient's symptoms did not improve after initial treatment"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV ceftriaxone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Bactrim",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Symptoms did not improve"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV Vancomycin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Administered in 2 doses",
+            "treatment_response": "Pain improved on oxycodone"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "levofloxacin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oxycodone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg PO Q4H PRN pain",
+            "treatment_response": "Patient states pain is much improved"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "I&D performed at urgent care"
+        },
+        {
+            "date": "Not specified",
+            "event": "IV ceftriaxone administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged on Bactrim"
+        },
+        {
+            "date": "Not specified",
+            "event": "Presented to ED for further evaluation"
+        },
+        {
+            "date": "Not specified",
+            "event": "Exploration of the left preauricular area by ENT"
+        },
+        {
+            "date": "Not specified",
+            "event": "Administered IV Vancomycin, levofloxacin, and pain control"
+        },
+        {
+            "date": "Not specified",
+            "event": "Admitted for observation and IV antibiotics"
+        },
+        {
+            "date": "Not specified",
+            "event": "Noted significant pain improvement on oxycodone during hospitalization"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged with prescriptions for oral medications"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home, condition improved, pain much improved",
+        "follow_up_details": "Follow-up appointment for wick removal by ENT",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient alert, independent, and interactive at discharge",
+        "patient_perspective": "Expressed satisfaction with improved pain control"
+    }
+}

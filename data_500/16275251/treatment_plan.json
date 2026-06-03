@@ -1,0 +1,62 @@
+{
+    "basic_information": {
+        "age": "41",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "chronic pelvic pain",
+        "history_of_present_illness": "Symptomatically she had been reasonably controlled on megestrol, but was dissatisfied with hormonal therapy secondary to weight gain and loss of libido. The patient also reported persistent dyspareunia that was unresponsive to medical therapy.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Diagnostic laparoscopy revealed profuse peritoneal studding of the reproductive viscera as well as both small and large bowel within the pelvis that was concerning for malignancy. The upper abdomen was relatively spared of any peritoneal studding."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Immunohistochemical studies",
+            "date": "Not specified",
+            "findings": "Intense smooth muscle actin, desmin, CD10, P receptor, and estrogen (E) receptor positivity consistent with a diagnosis of disseminated leiomyomatosis peritonei",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Diagnostic laparoscopy",
+            "date": "Not specified",
+            "findings": "Profuse peritoneal studding of the reproductive viscera as well as both small and large bowel within the pelvis that was concerning for malignancy. The upper abdomen was relatively spared of any peritoneal studding.",
+            "changes_over_time": "Second-look laparoscopy performed nearly 1 year after definitive therapy revealed complete resolution of her disease with no evidence of bowel implants."
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Frozen section of the implants",
+            "date": "Not specified",
+            "findings": "Returned nondiagnostic",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Permanent sections",
+            "date": "Not specified",
+            "findings": "Read as benign spindle cell proliferation, most consistent with decidualized endometrial-type stroma associated with endometriosis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histological evaluation of the nodules",
+            "date": "Not specified",
+            "findings": "Revealed spindle cell proliferation",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Disseminated leiomyomatosis peritonei",
+        "diagnostic_reasoning": "The diagnosis was confirmed through histological evaluation and immunohistochemical studies, which revealed spindle cell proliferation and positivity for smooth muscle actin, desmin, CD10, P receptor, and estrogen receptor. The absence of endometrial glands ruled out active endometriosis, supporting the diagnosis of disseminated leiomyomatosis peritonei."
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "lifestyle modification",
+            "specific_treatment": "Decreasing bath temperature and changing washing method",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Water temperature lowered to less than 34°C, showering instead of bathing",
+            "treatment_response": "Effective in preventing seizures; one additional seizure occurred at age 14 months"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Carbamazepine",
+            "start_date": "Age 8 months",
+            "end_date": "Age 18 months",
+            "dosage_or_details": "15 mg/kg/d",
+            "treatment_response": "No further seizures during bathing after treatment initiation; treatment discontinued at 18 months with no recurrence"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Age 6 months",
+            "event": "First episodes of seizures during warm bath"
+        },
+        {
+            "date": "Age 6 months",
+            "event": "Diagnosis confirmed by video-EEG monitoring during bathing"
+        },
+        {
+            "date": "Age 6 months",
+            "event": "Treatment started with decreased bath temperature and changed washing method"
+        },
+        {
+            "date": "Age 8 months",
+            "event": "Video-EEG monitoring during bathing confirmed diagnosis for Patient 2"
+        },
+        {
+            "date": "Age 8 months",
+            "event": "Carbamazepine treatment started for Patient 2"
+        },
+        {
+            "date": "Age 14 months",
+            "event": "One additional seizure occurred in Patient 1"
+        },
+        {
+            "date": "Age 18 months",
+            "event": "Carbamazepine treatment discontinued for Patient 2"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Normal psychomotor development, no further seizures after treatment adjustments",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Favorable; benign form of epilepsy with normal development",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Normal psychomotor development",
+        "patient_perspective": "Not specified"
+    }
+}

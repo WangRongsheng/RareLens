@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "chest pain",
+        "history_of_present_illness": "male with a history of hypertrophic cardiomyopathy s/p septal ablation and myomectomy, s/p ICD, presenting with chest pain. Patient usually has episodes of chest pain 4 times per day that last 20 minutes each. Today, he had onset of pain around 5 pm that continued longer than usual (has not yet been pain free), but without shortness of breath. He does report palpitations at times during these episodes, which he reports as being new. He had lightheadedness at time of onset. He also had nausea with vomiting x 2 prior to coming to the ED. As the plan with Dr. ___ was to present for care if pain lasted more than 90 minutes, he came into the ED today. His last cardiology admission was in ___, which is the last time he remembers having chest pain that lingered. A number of medication changes were attempted (digoxin, quinidine) but stopped at patient's request.",
+        "past_medical_history": "- Hypertrophic Obstructive Cardiomyopathy: echo ___ resting LVOT Gradient 65, inducible LVOT Gradient 73 - h/o non-sustained VT - septal myomectomy on ___ - S/P EtOH septal ablation ___ - S/P ICD placement for prevention of sudden death ___, replaced ___ - Hyperlipidemia - Secundum ASD - Chronic chest pain: no CAD on cath ___ - Chronic Low Back Pain with RLE Radiculopathy: MRI ___ L5-S1 Right paracentral disc herniation, displacing S1 nerve root. - GERD - Spontaneous Pneumothorax S/P Rt lobectomy - Left testicular seminoma S/P bilateral orchiectomy - Hemorrhoids s/p hemorrhoidectomy - s/p Appendectomy - s/p Tonsillectomy",
+        "family_history": "Notable for a number of family members with MI and sudden cardiac death. Uncle sudden death. Brother and sister with HCMP.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "WDWN Caucasian man in NAD, looking older than stated age. VITALS: T 98.5 BP 123/85, P 92, RR 18, O2 sat 95% on RA.",
+        "specialty_examination": "Neuro: alert, appropriate, CN II-XII intact. Cardiac: RRR S1 S2, apical systolic murmur."
+    }
+}

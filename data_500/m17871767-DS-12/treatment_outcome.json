@@ -1,0 +1,39 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV Lasix",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "60mg IV",
+            "treatment_response": "Reportedly put out decent amount of urine"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for lower extremity edema and signs of right-sided heart failure"
+        },
+        {
+            "date": "Not specified",
+            "event": "IV diuretics administered"
+        },
+        {
+            "date": "Not specified",
+            "event": "Echocardiogram performed to evaluate heart murmur"
+        },
+        {
+            "date": "Not specified",
+            "event": "Medication changes made, including increased dose of carvedilol and warfarin adjustment"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Discharged home with service",
+        "follow_up_details": "Visit nursing coming to monitor symptoms",
+        "complications": "Aortic tube graft dehiscence",
+        "long_term_prognosis": "Patient opted not to pursue surgery after discussion with cardiac surgery team",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Ambulatory with assistance; requires walker or cane",
+        "patient_perspective": "Patient declined surgery after discussion with the cardiac surgery team"
+    }
+}

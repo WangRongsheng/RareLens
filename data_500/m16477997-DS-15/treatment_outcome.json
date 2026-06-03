@@ -1,0 +1,51 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "antibiotics",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "4 doses given on the day of tooth extraction",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "IV fluid bolus",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1L bolused in ED",
+            "treatment_response": "SBP improved, patient asymptomatic"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient reported feeling tired and laying down after preparing for guests"
+        },
+        {
+            "date": "Not specified",
+            "event": "Contractor found patient in a semi-awake state, called EMS"
+        },
+        {
+            "date": "Not specified",
+            "event": "Initial BP recorded by EMS; patient laid flat and BP improved"
+        },
+        {
+            "date": "Not specified",
+            "event": "Received 2 liters of IV fluids total in ED"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient left against medical advice"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Left against medical advice",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

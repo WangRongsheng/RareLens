@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "lactulose",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15 mL PO prior to admission and monitoring for titration to three bowel movements daily",
+            "treatment_response": "Mental status improved"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "cardiac catheterization",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Stent placement in one of the coronary arteries",
+            "treatment_response": "Successful procedure; to continue with Clopidogrel and Aspirin"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted due to neck pain and confusion"
+        },
+        {
+            "date": "Not specified",
+            "event": "Lactulose administered, leading to mental status improvement"
+        },
+        {
+            "date": "Not specified",
+            "event": "Cardiac catheterization performed with stent placement"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge instructions provided, including follow-up appointments"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Clear and coherent but occasionally slow to respond",
+        "follow_up_details": "Needs INR checked and follow up with PCP",
+        "complications": "No complications",
+        "long_term_prognosis": "Medication regimen ongoing, potential for monitoring required due to stent",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Mental status improved following lactulose treatment",
+        "patient_perspective": "Patient was pleased with care received in the hospital"
+    }
+}

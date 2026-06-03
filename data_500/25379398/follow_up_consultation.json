@@ -1,0 +1,142 @@
+{
+    "basic_information": {
+        "age": "53",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Korean",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "blurred vision in the left eye",
+        "history_of_present_illness": "A 2-month history of blurred vision and floaters in her left eye. She had a medical history of recurrent non-functioning pituitary adenomas. She had transsphenoidal surgeries in 2005 and 2008, and then craniotomy in 2009. She visited a neurosurgeon in our hospital due to recurred pituitary tumor and got the third transsphenoidal surgery in 2011. On April 2012, the pituitary tumor was recurred again, and we treated her with gamma-knife surgery (GKS).",
+        "past_medical_history": "Recurrent non-functioning pituitary adenomas, transsphenoidal surgeries in 2005, 2008, and 2011, craniotomy in 2009, gamma-knife surgery in 2012, herpes zoster oticus (HZO), diabetes mellitus",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Best corrected visual acuities were 20/20 in the right eye and 20/1000 in the left. Intraocular pressure was 12 mmHg in the right eye and 11 mmHg in the left. Slit-lamp examination showed mild (1+) inflammatory reaction in the anterior chamber and anterior vitreous in her left eye. Ophthalmoscopy of the left eye revealed vitreous haze along with large, fluffy, creamy white epiretinal mass and retinal infiltrates near the foveal center."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum ACTH and cortisol levels",
+            "date": "April 2012",
+            "findings": "ACTH: 38 pg/mL (normal, 0–60 pg/mL), cortisol: 10.5 mg/dL (normal, 5–25 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ACTH and cortisol levels",
+            "date": "November 2013",
+            "findings": "ACTH: 892 pg/mL, cortisol: 119 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin A1c",
+            "date": "November 2013",
+            "findings": "6.5%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma postprandial glucose level",
+            "date": "November 2013",
+            "findings": "Over 300 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plasma ACTH and serum cortisol level",
+            "date": "20 days after discontinuation of steroid",
+            "findings": "ACTH: 684.3 pg/mL, cortisol: 59.2 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Polymerase chain reaction analysis of aqueous humor",
+            "date": "Day 7",
+            "findings": "Negative for cytomegalovirus, Epstein-Barr virus, herpes simplex virus, and varicella-zoster virus",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vitreous biopsy and culture",
+            "date": "Day 7",
+            "findings": "Positive growth for C. albicans",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood and urinary cultures",
+            "date": "Day 7",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serology for human immunodeficiency virus",
+            "date": "Day 7",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-h urine free cortisol",
+            "date": "Day 3",
+            "findings": "646 mg/day",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum cortisol level after high-dose dexamethasone suppression test",
+            "date": "Day 3",
+            "findings": "114 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ACTH level",
+            "date": "Day 147",
+            "findings": "132.4 pg/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum cortisol",
+            "date": "Day 147",
+            "findings": "9.4 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "24-h urine free cortisol",
+            "date": "Day 147",
+            "findings": "13.8 mg/day",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Day 3",
+            "findings": "Revealed a 1-cm contrast-enhancing sellar mass indicative of tumor recurrence",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Whole body positron emission tomography/computed tomography (PET/CT)",
+            "date": "Day 3",
+            "findings": "No evidence of intracranial or systemic metastasis",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Vitrectomy",
+            "date": "Day 7",
+            "findings": "Multiple infiltrates in the deep retina with overlying vitreous fluffy balls",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fundus fluorescein angiography",
+            "date": "Day 0",
+            "findings": "Blocked fluorescence due to vitreous haze and fluffy mass, leakage of dye from the optic disc, and capillary leakage in the temporal retina",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Optical coherence tomography (OCT)",
+            "date": "Day 0",
+            "findings": "Large fluffy balls extending into the vitreous body and dense vitritis",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

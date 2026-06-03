@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "endovascular repair",
+            "specific_treatment": "thoracic endovascular aortic repair (TEVAR) and left subclavian artery coiling",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "The fistula was successfully treated, and the patient was hemodynamically stabilized."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient transferred for low blood pressure and bloody gastric tube drainage"
+        },
+        {
+            "date": "Not specified",
+            "event": "Upper GI endoscopy revealed a mass-like lesion with an ulcer and red pigmentation in the upper esophagus"
+        },
+        {
+            "date": "Not specified",
+            "event": "Biopsy performed for the esophageal lesion"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient revisited due to hypotension and decreased thrill on the arteriovenous fistula"
+        },
+        {
+            "date": "Not specified",
+            "event": "Upper GI endoscopy showed actively bleeding and pulsating vessel in the previous esophageal ulcer base"
+        },
+        {
+            "date": "Not specified",
+            "event": "CT revealed right-side aortic arch with ALSA and suspected bleeding from the diverticular part of ALSA to esophagus"
+        },
+        {
+            "date": "Not specified",
+            "event": "Thoracic arteriography confirmed extravasation from an aneurysmal segment of ALSA"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received TEVAR and left subclavian artery coiling"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Deceased",
+        "follow_up_details": "Not specified",
+        "complications": "Pneumonia and sepsis",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

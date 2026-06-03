@@ -1,0 +1,140 @@
+{
+    "basic_information": {
+        "age": "12",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "fever, arthralgias, facial rash, hair loss, abdominal pain, and pain and burning sensations in her legs",
+        "history_of_present_illness": "Two weeks earlier, she had developed fever, arthralgias, facial rash, hair loss, abdominal pain, and pain and burning sensations in her legs. On examination, pathological neurological findings were noted: anxiety, agitation, confusion with memory impairment, and a fine tremor. Her muscular strength was impaired, and increased sensitivity to touch was apparent. Fundus examination of the eye was compatible with retinal vasculitis. The serological analysis disclosed a high positive antinuclear antibody titer, anti-double-stranded DNA (anti-dsDNA), anti-Sm, and anti-Ro antibodies. Lumbar puncture, brain single-photon emission computed tomography (SPECT), brain computed tomography (CT), and magnetic resonance imaging (MRI) were compatible with central nervous system involvement. Nerve conduction velocity was compatible with peripheral neuropathy.",
+        "past_medical_history": "Diagnosis for this patient was systemic lupus erythematosus (SLE) with active central and peripheral nervous system involvement, together with hematologic and dermatologic manifestations.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "anxiety, agitation, confusion with memory impairment, and a fine tremor. Her muscular strength was impaired, and increased sensitivity to touch was apparent. Fundus examination of the eye was compatible with retinal vasculitis.",
+        "specialty_examination": "Pathological neurological findings were noted: anxiety, agitation, confusion with memory impairment, and a fine tremor. Her muscular strength was impaired, and increased sensitivity to touch was apparent."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serological analysis",
+            "date": "Not specified",
+            "findings": "High positive antinuclear antibody titer, anti-double-stranded DNA (anti-dsDNA), anti-Sm, and anti-Ro antibodies",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Compatible with central nervous system involvement",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nerve conduction velocity",
+            "date": "Not specified",
+            "findings": "Compatible with peripheral neuropathy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EMG",
+            "date": "Not specified",
+            "findings": "Severe sensory polyneuropathy without motor deficit",
+            "changes_over_time": "Significant improvement after IVIg treatment"
+        },
+        {
+            "procedure_name": "Nerve conduction studies",
+            "date": "Not specified",
+            "findings": "Consistent with severe sensorimotor polyneuropathy",
+            "changes_over_time": "No clinical benefit seen after IVIg treatment"
+        },
+        {
+            "procedure_name": "EMG/nerve conduction study (NCS)",
+            "date": "Not specified",
+            "findings": "Asymmetrical sensorimotor polyneuropathy with mixed axonal and demyelinating features",
+            "changes_over_time": "Partial improvement after IVIg treatment"
+        },
+        {
+            "procedure_name": "Neurophysiological studies",
+            "date": "Not specified",
+            "findings": "Distal, chronic, axonal, demyelinating, and mainly sensory neuropathy",
+            "changes_over_time": "Normalization after IVIg treatment"
+        },
+        {
+            "procedure_name": "EMG",
+            "date": "Not specified",
+            "findings": "Axonal and motor neuropathy of the right ulnar nerve",
+            "changes_over_time": "Normal after IVIg treatment"
+        },
+        {
+            "procedure_name": "Neurophysiological studies",
+            "date": "Not specified",
+            "findings": "Distal, chronic, axonal, demyelinating, and mainly sensory neuropathy",
+            "changes_over_time": "No change after IVIg treatment"
+        },
+        {
+            "procedure_name": "Nerve conduction studies",
+            "date": "Not specified",
+            "findings": "Consistent with a symmetrical sensorimotor polyneuropathy",
+            "changes_over_time": "Returned to normal after IVIg treatment"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain single-photon emission computed tomography (SPECT)",
+            "date": "Not specified",
+            "findings": "Compatible with central nervous system involvement",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Brain computed tomography (CT)",
+            "date": "Not specified",
+            "findings": "Compatible with central nervous system involvement",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "Not specified",
+            "findings": "Compatible with central nervous system involvement",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen",
+            "date": "Not specified",
+            "findings": "Appeared normal",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Fundus examination of the eye",
+            "date": "Not specified",
+            "findings": "Compatible with retinal vasculitis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sural nerve biopsy",
+            "date": "Not specified",
+            "findings": "Necrotizing vasculitis of the polyarteritis nodosa type with subacute axonopathy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sural nerve biopsy",
+            "date": "Not specified",
+            "findings": "Mononuclear infiltrates around the vasa nervorum, with ischemic nerve injury consistent with vasculitis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Histological investigations of a skin lesion",
+            "date": "Not specified",
+            "findings": "Cutaneous necrotizing vasculitis with eosinophilic infiltrates",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Systemic lupus erythematosus (SLE) with active central and peripheral nervous system involvement",
+        "diagnostic_reasoning": "The diagnosis was based on the patient's symptoms (fever, arthralgias, facial rash, hair loss, abdominal pain, and pain and burning sensations in the legs), pathological neurological findings (anxiety, agitation, confusion with memory impairment, fine tremor, impaired muscular strength, increased sensitivity to touch), retinal vasculitis observed in fundus examination, and serological analysis showing high positive antinuclear antibody titer, anti-double-stranded DNA (anti-dsDNA), anti-Sm, and anti-Ro antibodies. Lumbar puncture, brain SPECT, brain CT, and MRI were compatible with central nervous system involvement, and nerve conduction velocity was compatible with peripheral neuropathy."
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "basic_information": {
+        "age": "11",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "childhood apraxia of speech and dysarthria in the presence of general oral and gross motor dyspraxia and hypotonia as well as expressive language and mild intellectual delays",
+        "history_of_present_illness": "Developmental history included delayed onset of speech and language, with an expressive repertoire of 10 words at age 2 years 11 months and an extremely limited consonant inventory (/b, d, w, p/) at that age. Language testing using the Oral and Written Language Scales at age 6;3 revealed borderline low ability regarding listening comprehension (standard score = 84, population mean = 100, standard deviation = 15), whereas expressive language was far below expectation for age (standard score = 60). Speech testing at age 9 years 8 months and 10 years 10 months showed that the proband’s speech and non-speech oral movements were influenced by low muscle tone.",
+        "past_medical_history": "history of generalized hypotonia and apraxia. Absent in this proband were cranial and skeletal anomalies, optic nerve impairments, microcephaly, growth retardation, internal organ defects, and signs of autism. Difficulties with attention and focus were noted, but there was a family history of ADD, raising the possibility of an independent etiology from his other abnormal traits.",
+        "family_history": "family history of ADD",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Speech and non-speech oral movements were influenced by low muscle tone in the following ways: difficulty controlling saliva, difficulty chewing and swallowing, weak articulatory contacts, and hoarse and breathy voice, all of which are consistent with dysarthria, a motor speech disorder caused by weak or stiff musculature in the articulatory system."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Array Comparative Genomic Hybridization (ACGH)",
+            "date": "2008",
+            "findings": "A 203 kb deletion in the 2p16.1 band was detected, extending from 60.7 to 60.8 Mb and includes the B-cell CLL lymphoma 11A (BCL11A, OMIM #606557) in its entirety but no other partial or entire genes. In addition, a duplication of a 343 kb region on 2q13 extending from 110.9 to 111.1 Mb and a duplication of an 80 kb region on 6p25.3 at 0.3 Mb were noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FISH (Fluorescence In Situ Hybridization)",
+            "date": "2008",
+            "findings": "Confirmed the deletion using the BAC clone RP11-426016.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "TaqMan probe-based Copy Number Assays",
+            "date": "Not specified",
+            "findings": "The proband had only one copy of Hs0045184_cn and Hs05849027_cn, but two copies of Hs003389760_cn. The proband’s father, mother, and brother had two copies of all three probes.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [
+        {
+            "procedure_name": "Oral and Written Language Scales",
+            "date": "Age 6;3",
+            "findings": "Borderline low ability regarding listening comprehension (standard score = 84, population mean = 100, standard deviation = 15), whereas expressive language was far below expectation for age (standard score = 60).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Clinical Assessment of Articulation and Phonology",
+            "date": "Age 6 year 3 months",
+            "findings": "Extremely low scores on articulation testing (standard score = 76, population mean = 100, standard deviation 15).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Kaufman Speech Praxis Test",
+            "date": "Age 9 years 8 months",
+            "findings": "Test age equivalents were <2 years for Oral Movement Level, Simple Phonemic/Syllable Level, and Spontaneous Length, and 3 years 6 months to 4 years for Complex Phonemic/Syllable Level.",
+            "changes_over_time": "At age 10 years 10 months, he obtained the same age equivalences except for Complex Phonemic/Syllable Level, where the age equivalent dropped down to 3 years to 3 years 6 months."
+        },
+        {
+            "procedure_name": "Oral-peripheral examinations",
+            "date": "Ages 8 years 7 months; 9 years 8 months; and 10 years 10 months",
+            "findings": "No structural abnormalities but groping postures when following instructions to carry out non-speech oral movements.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "De Novo microdeletion of BCL11A associated with severe speech sound disorder, childhood apraxia of speech (CAS), and dysarthria",
+        "diagnostic_reasoning": "The diagnosis was based on the proband's heterozygous de novo 0.2 Mb deletion of the BCL11A gene, confirmed through genetic testing. The phenotypic traits included childhood apraxia of speech, dysarthria, generalized hypotonia, and mild intellectual delays, which were consistent with the deletion. The absence of craniofacial or skeletal anomalies, microcephaly, and growth retardation differentiated this case from others with larger deletions in the 2p15p16.1 region."
+    }
+}

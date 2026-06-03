@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "DA-EPOCH",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Cycle 2 of DA-EPOCH; Filgrastim 300 mcg SC Q24H planned for 10 days",
+            "treatment_response": "Patient has been feeling well; nausea improved several days after discharge and tolerating solid foods without difficulty."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted for cycle 2 of DA-EPOCH chemotherapy."
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge after ongoing monitoring with noted improvement in nausea and tolerance of foods."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient to continue Neupogen injections at home."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "patient discharged home in stable condition.",
+        "follow_up_details": "Follow-up appointments scheduled but specifics not provided.",
+        "complications": "Nausea likely from chemotherapy.",
+        "long_term_prognosis": "Patient needs to take new antibiotics to prevent infections until CD4 count recovers.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient is alert, interactive, and ambulatory independent.",
+        "patient_perspective": "Overall good condition and feeling well post-treatment, with instructions for ongoing care."
+    }
+}

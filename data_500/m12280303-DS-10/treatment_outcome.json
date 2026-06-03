@@ -1,0 +1,35 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "laparoscopic cholecystectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Tolerated the procedure well"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with abdominal pain and was diagnosed with gangrenous cholecystitis"
+        },
+        {
+            "date": "Not specified",
+            "event": "Underwent laparoscopic cholecystectomy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharged home with recovery instructions"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and interactive, ambulatory - independent",
+        "follow_up_details": "Follow up in the Acute Care Surgery clinic at the appointment listed below",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "sodium bromide",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "up to 80 mg/kg, in 10 mg/kg week increments",
+            "treatment_response": "Relative therapeutic effect was evident after two to three weeks, although the seizures did not stop."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "stiripentol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "raised to 100 mg/kg",
+            "treatment_response": "Its efficacy was evident in the first month of treatment, although the seizure clusters during intercurrent infections were not suppressed."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "levetiracetam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "up to 60 mg/kg",
+            "treatment_response": "Followed by a disappearance of 'bigger seizures'."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "midazolam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "lorazepam",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "phenobarbitone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Chloraldurat",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient was weaned off valproate and vigabatrin, and given vitamin B6 i.v., ACTH, nitrazepam, clobazam, carbamazepine, lamotrigine and zonisamide in various combinations, without evident therapeutic effect."
+        },
+        {
+            "date": "Not specified",
+            "event": "Continuous infusion of midazolam was started in the intensive care unit."
+        },
+        {
+            "date": "Not specified",
+            "event": "Sodium bromide was introduced (up to 80 mg/kg, in 10 mg/kg week increments)."
+        },
+        {
+            "date": "Not specified",
+            "event": "Stiripentol was added and raised to 100 mg/kg."
+        },
+        {
+            "date": "Not specified",
+            "event": "Levetiracetam was administered at a dose of up to 60 mg/kg."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient was discharged from the hospital and was hypotonic and without psychomotor progress at the age of seven months."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient died at the age of 20 months, affected by pneumonia and acute respiratory distress syndrome."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "deceased",
+        "follow_up_details": "Not specified",
+        "complications": "pneumonia and acute respiratory distress syndrome",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

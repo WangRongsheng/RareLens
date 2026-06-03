@@ -1,0 +1,23 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "After diagnosis by video-EEG at 6 months, bathing was replaced with cooler showers (<34°C) without anticonvulsants. Only one additional seizure occurred at 14 months; neurologic development was normal.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Only one additional seizure at the age of 14 months after adopting cooler showers and avoiding hot baths.",
+        "symptom_burden": "occasional"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Treatment consisted of showering instead of bathing and lowering water temperature to <34°C; no anticonvulsant was prescribed."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "One additional seizure occurred at 14 months."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Data pertain to Patient 1 from the case series on hot water epilepsy. Follow-up explicitly documented to 14 months post-diagnosis; long-term (>12 months) outcomes beyond this point are not detailed, so the overall outcome of partial recovery reflects improvement with a single mid-term recurrence."
+}

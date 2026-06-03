@@ -1,0 +1,119 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "sigmoidoscopy with biopsy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Cold forceps biopsies performed for histology at the sigmoid colon.",
+            "treatment_response": "Biopsy revealed adenocarcinoma."
+        },
+        {
+            "treatment_type": "blood transfusion",
+            "specific_treatment": "blood transfusion",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "2 units",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Demerol (Pethidine)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "For pain control",
+            "treatment_response": "Provided relief from abdominal pain."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oxycodone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO Q4H as needed for pain.",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Two (2) Tablet PO Q6H as needed for pain, fever.",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Docusate Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Capsule PO BID for soft stools.",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Senna",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO BID for soft stools.",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Polyethylene Glycol 3350",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) dose PO DAILY for soft stools.",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Iron supplements",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) Tablet PO three times a day.",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Lactulose",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "One (1) dose PO three times a day as needed for constipation.",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with abdominal pain and was hospitalized."
+        },
+        {
+            "date": "Not specified",
+            "event": "CT abdomen/pelvis showed sigmoid carcinoma with extensive metastatic disease."
+        },
+        {
+            "date": "Not specified",
+            "event": "Sigmoidoscopy with biopsy performed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Biopsy result indicated adenocarcinoma."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient received blood transfusion (2 units)."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient prescribed various medications upon discharge."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient is discharged home.",
+        "follow_up_details": "Followed by oncology service for treatment.",
+        "complications": "No complications specified.",
+        "long_term_prognosis": "Generally poor due to extensive metastatic disease.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Not specified.",
+        "patient_perspective": "Patient was shocked by the diagnosis of colon cancer."
+    }
+}

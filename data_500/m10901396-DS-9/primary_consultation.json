@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chest Pain",
+        "history_of_present_illness": "Patient initially presented to the hospital with chest pain and was found to have pericardial effusion on CTA. She reports developing chills for 3 days last week and noted new purple oral lesions on her lips approximately since last week. She presented to PCP with fatigue and was diagnosed with UTI and new anemia of unknown etiology. On examination, she reported new severe constant left-sided chest pain, described as pleuritic, sharp, and constant. At OSH, vitals were HR 100s, BP 150/80s, and 96% RA. CTA showed moderate pericardial effusion, leading to pericardiocentesis.",
+        "past_medical_history": "Coronary artery disease s/p PCI, hypertension, hypothyroidism, hyperlipidemia, anxiety, s/p hysterectomy, s/p appendectomy, history of postherpetic neuralgia, glaucoma, cataracts.",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission BP 151/82, HR 100, sat 99%. Notable painful, crusted ulcers with scabs on upper and lower lip. Cardiac exam normal with no murmurs/rubs/gallops. Pericardial drain in place draining serosanguinous fluid.",
+        "specialty_examination": "No neurological deficits. Cardiac exam revealed pericardial drain in place. Lungs clear to auscultation bilaterally with no abnormal findings."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "overall_outcome": "death",
+    "evidence_excerpt": "One year later, the patient died suddenly without definite cause.",
+    "quality_of_life": {
+        "functional_status": "severe",
+        "evidence_excerpt": "Ongoing severe multisystem symptoms including decreased vision/floaters, autonomic neuropathy with syncope, and marked visual impairment until death.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "deterioration",
+            "time_period": "unknown",
+            "evidence_excerpt": "At later stage the patient developed syncope, which responded to orthostatic hypotension."
+        },
+        {
+            "event_type": "death",
+            "time_period": "mid_term",
+            "evidence_excerpt": "One year later, the patient died suddenly without definite cause."
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "The report describes multiple family members; this extraction focuses on patient III:1 (index patient). A precise diagnosis date is not stated, so the first specialist evaluation was used as the index time. The timing of syncope relative to index time is unclear, so it is marked unknown. Death occurred approximately one year after the index evaluation and is categorized as mid_term. Long-term quality of life is inferred conservatively from documented severe functional impairment and persistent symptoms up to death."
+}

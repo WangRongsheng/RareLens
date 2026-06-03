@@ -1,0 +1,38 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "Cutaneous manifestations remained quiet and arthralgias improved, with sustained control on methotrexate, adalimumab, and minocycline for 3 years; however, ongoing treatment was required and symptoms did not clearly resolve completely.",
+    "quality_of_life": {
+        "functional_status": "mild",
+        "evidence_excerpt": "Skin disease remained quiet and arthralgias improved on long-term therapy (3 years), indicating ongoing but mild residual symptoms managed with medications.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "After 12 weeks of etanercept plus methotrexate, skin lesions significantly improved and there was less joint pain, stiffness, and itching."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Six weeks later, etanercept was replaced with adalimumab while continuing methotrexate and prednisone."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Following adalimumab, the patient improved and was completely weaned off steroids over a 2-month period."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Due to persistent stiffness and arthralgias with synovitis, minocycline was added to the regimen."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "On the combination of methotrexate, adalimumab, and minocycline, cutaneous manifestations remained quiet and arthralgias improved, maintained for the last 3 years."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "Long-term functional status is not explicitly described; authors state remission, but text notes improved (not fully resolved) arthralgias under continued therapy. Timing between adalimumab initiation and minocycline addition is approximate; events categorized conservatively based on relative intervals."
+}

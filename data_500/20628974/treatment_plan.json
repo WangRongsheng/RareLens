@@ -1,0 +1,80 @@
+{
+    "basic_information": {
+        "age": "54",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Hispanic",
+        "occupation": "woodworker"
+    },
+    "medical_history": {
+        "chief_complaint": "nasal obstruction for several years",
+        "history_of_present_illness": "increasing facial pressure and occasional purulent nasal discharge. Denied pain, numbness, epistaxis, or visual changes.",
+        "past_medical_history": "incidental finding of an intranasal mass on computed tomography (CT) performed after a motor vehicle accident 3 years prior to his presentation. This mass was untreated. He also reported resection of a mass of unknown pathology from the base of his tongue during childhood.",
+        "family_history": "Not specified",
+        "social_history": "30 pack-year smoking history."
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "mass visible in the left nasal vestibule on anterior rhinoscopy. A neurologic exam was normal except for a subjective decreased sense of smell. Extraocular muscle motion and vision were normal. A neck examination revealed no abnormal findings."
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Frozen sections taken from the posterior ethmoids revealed a small focus of carcinoma-in-situ (CIS) amid a large quantity of tissue consistent with verrucous carcinoma (VC).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Extensive sampling of the submitted tumor",
+            "date": "Not specified",
+            "findings": "Demonstrated a predominantly exophytic or papillary lesion composed of well-differentiated, cytologically bland, squamous epithelium with extensive parakeratosis and absent stratum granulosum. The base of the lesion showed rounded or bulbous rete pegs with broad pushing borders and an intact basement membrane. No other areas of epithelial dysplasia, CIS, or invasion were noted in the thoroughly sampled specimen.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Computed tomography (CT)",
+            "date": "3 years prior to presentation",
+            "findings": "Incidental finding of an intranasal mass.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT",
+            "date": "Not specified",
+            "findings": "Showed a destructive lesion apparently originating in the left posterior ethmoid, with extensive erosion of the anterior skull base and the right and left lamina papyracea.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnetic resonance imaging (MRI)",
+            "date": "Postoperative",
+            "findings": "Showed an intranasal soft-tissue mass isointense with brain on T1 imaging. This mass enhanced with contrast. While the tumor entered the pterygopalatine fossa, there was no clear ganglion or infraorbital nerve involvement. Right orbital involvement was limited to erosion of the lateral orbital wall. Left orbital involvement included obliteration of the nasolacrimal duct and invasion into the tissues beneath the medial canthus. While the tumor contacted the medial rectus, the interface with the muscle was smooth. Intraconal and optic nerve involvement were not present. In the anterior cranial fossa, a 3-cm cribriform defect was noted. While dural enhancement was present, the dura/tumor interface was smooth. Imaging of the brain was otherwise normal. The neck showed no lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Postresection CT and MRI",
+            "date": "11 months postsurgery",
+            "findings": "Reveal the extent of the surgical resection. No radiographic evidence of recurrent disease is noted.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Physical exam",
+            "date": "Not specified",
+            "findings": "Significant for a mass visible in the left nasal vestibule on anterior rhinoscopy. A neurologic exam was normal except for a subjective decreased sense of smell. Extraocular muscle motion and vision were normal. A neck examination revealed no abnormal findings.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic biopsy",
+            "date": "Not specified",
+            "findings": "Performed in the operating room after a non-diagnostic clinic biopsy.",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Verrucous carcinoma of the paranasal sinuses",
+        "diagnostic_reasoning": "Diagnosis was obtained through multiple biopsies, including frozen sections taken from the posterior ethmoids which revealed a small focus of carcinoma-in-situ amid a large quantity of tissue consistent with verrucous carcinoma. The tumor was characterized by well-differentiated, cytologically bland, squamous epithelium with extensive parakeratosis and absent stratum granulosum. The base of the lesion showed rounded or bulbous rete pegs with broad pushing borders and an intact basement membrane."
+    }
+}

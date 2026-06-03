@@ -1,0 +1,52 @@
+{
+    "basic_information": {
+        "age": "15",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Pakistani",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "balance difficulties in infancy",
+        "history_of_present_illness": "prominent myoclonus and cerebellar ataxia, generalized myoclonus, action induced, and stimulus-sensitive, cerebellar signs included nystagmus, dysmetria, and tremor, profound visual loss, rod cone dysfunction, exotropia, difficulty initiating saccades, mild spasticity, and axonal sensory-motor neuropathy leading to trophic changes, developed scoliosis, wheelchair-bound and dependent for all the activities of daily living",
+        "past_medical_history": "Not specified",
+        "family_history": "consanguineous parents, 20-year-old brother similarly though more mildly affected",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "gaze-evoked nystagmus, difficulties initiating saccades, generalized myoclonus, stimulus-sensitive (tactile, acoustic), cerebellar ataxia, spasticity, distal reflex loss"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electroretinogram",
+            "date": "Not specified",
+            "findings": "Rod cone dysfunction",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Brain MRI",
+            "date": "Not specified",
+            "findings": "Cerebellar atrophy, T2/FLAIR hyperintensities, and cavitations in the cerebellum",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Whole-exome sequencing (WES)",
+            "date": "Not specified",
+            "findings": "Homozygous mutation in the mitochondrial gene SLC25A46 (c.413T>G;p.L138R)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Homozygosity mapping",
+            "date": "Not specified",
+            "findings": "Five candidate homozygous mutations survived the filtering strategy, with SLC25A46 identified as the top candidate",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

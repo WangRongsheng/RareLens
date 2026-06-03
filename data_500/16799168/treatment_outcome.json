@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "thiazide diuretics",
+            "start_date": "Not specified",
+            "end_date": "3 months later",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Failure to thrive persisted, leading to discontinuation"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "indomethacin and spironolactone",
+            "start_date": "18 months old",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Improvement in hypokalaemia and failure to thrive"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "2 months old",
+            "event": "Initial diagnosis of impaired renal concentration"
+        },
+        {
+            "date": "1 year old",
+            "event": "Water deprivation test and vasopressin administration test conducted"
+        },
+        {
+            "date": "18 months old",
+            "event": "Treatment with indomethacin and spironolactone started"
+        },
+        {
+            "date": "12 years old",
+            "event": "Diagnosis of amelogenesis imperfecta (AI) and referral to department"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Diagnosed with enamel-renal syndrome (ERS) complicated with Bartter-like syndrome and impaired renal concentration",
+        "follow_up_details": "Not specified",
+        "complications": "No complications mentioned",
+        "long_term_prognosis": "Further research needed to clarify the pathogenesis of AI and nephrocalcinosis",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

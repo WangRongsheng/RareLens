@@ -1,0 +1,27 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgical",
+            "specific_treatment": "Percutaneous endoscopic gastrostomy (PEG)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "For feeding",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Percutaneous endoscopic gastrostomy (PEG) for feeding became necessary"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Deceased",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Keratosis follicularis spinulosa decalvans (KFSD) and dosage-sensitive sex reversal (DSS)",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's phenotype included features of both KFSD and DSS, supported by cytogenetic analysis revealing a duplication of Xp21.1p22.12, which includes the DAX1 gene (associated with DSS) and the SSAT gene (associated with KFSD). Biochemical analysis showed elevated SSAT activity and putrescine accumulation, consistent with the KFSD phenotype observed in murine models."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "overall_outcome": "stabilization",
+    "evidence_excerpt": "Paraprotein concentration remains stable below 10 g/litre and he has not suffered a recurrence of these symptoms since his original acute attack. The current diagnosis is idiopathic angioedema with a monoclonal gammopathy of undetermined importance; the monoclonal gammopathy will be followed up on a regular basis.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "He has not suffered a recurrence of these symptoms since his original acute attack.",
+        "symptom_burden": "none"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "He has not suffered a recurrence of these symptoms since his original acute attack."
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "Exact dates are not provided. The reference time is approximated to the haematology specialist evaluation when C1 esterase inhibitor deficiency was excluded and MGUS was identified. Functional status is inferred from the absence of recurrent angioedema or reported limitations. MGUS persistence without progression supports stabilization rather than complete recovery."
+}

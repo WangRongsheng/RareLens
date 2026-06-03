@@ -1,0 +1,23 @@
+{
+    "overall_outcome": "progression",
+    "evidence_excerpt": "After the first specialist evaluation at age 6, subsequent testing showed worsening peripheral neuropathy: EMG at 7 years had a discrete reduction in sural SNAP amplitude, and by 9 years EMG was consistent with sensitive axonal polyneuropathy. The report also notes a typical AOA1 course of slowly progressive cerebellar ataxia.",
+    "quality_of_life": {
+        "functional_status": "moderate",
+        "evidence_excerpt": "Persistent neurological signs after index time included ataxic gait, oculomotor apraxia, distal limb dystonia, and EMG-confirmed axonal polyneuropathy, indicating ongoing prominent symptoms affecting daily life.",
+        "symptom_burden": "persistent_severe"
+    },
+    "timeline_events": [
+        {
+            "event_type": "re-intervention",
+            "time_period": "short_term",
+            "evidence_excerpt": "At age 7, low vitamin E levels were treated with oral vitamin E; levels returned to normal thereafter."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "long_term",
+            "evidence_excerpt": "By age 9, EMG findings progressed to sensitive axonal polyneuropathy, indicating objective neurological worsening compared to earlier testing."
+        }
+    ],
+    "reference_time_used": "first_specialist_visit",
+    "notes_on_uncertainty": "The case report provides limited follow-up details after definitive APTX deletion diagnosis; thus the first specialist evaluation at age 6 was used as the index time. Functional and symptom assessments are inferred from clinician descriptions, and long-term outcomes are based on EMG progression and the stated slowly progressive nature of AOA1. No explicit post-diagnosis functional improvement or hospital readmissions were documented."
+}

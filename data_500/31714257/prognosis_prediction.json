@@ -1,0 +1,104 @@
+{
+    "basic_information": {
+        "age": "6",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Excessive bleeding from the oral mucosa following mild trauma",
+        "history_of_present_illness": "Diagnosed with type 3 VWD at the age of 14 months. Treated with VWF/FVIII concentrate Haemate P for posttraumatic intracranial haemorrhage at 15 months. Received multiple treatments for mucosal bleeding, trauma, and ankle bleeding over the next 3 years. Developed possible allergic reaction (urticaria and dizziness) after 31 exposure days of Haemate P. Later treated with Wilate for a minor diagnostic procedure without side effects. Developed fever and a soft mass on her neck, leading to surgery. Post-surgery, undetectable levels of VWF activity and low FVIII:C were found, leading to suspicion of inhibitors against VWF. Treated with rFVIIa and high doses of rFVIII.",
+        "past_medical_history": "Type 3 von Willebrand disease diagnosed at 14 months. Multiple treatments with VWF/FVIII concentrates for various bleeding episodes.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "VWF activity test",
+            "date": "Not specified",
+            "findings": "Undetectable levels of VWF activity",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FVIII:C test",
+            "date": "Not specified",
+            "findings": "0.045 IU/ml",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-VWF antibodies test (ELISA)",
+            "date": "Not specified",
+            "findings": "Very high levels of anti-VWF antibodies (>3 SDs above the mean result of samples from 10 healthy individuals)",
+            "changes_over_time": "Still highly positive 6 months later"
+        },
+        {
+            "procedure_name": "Inhibitors against FVIII test (Bethesda method)",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Genetic analysis (next-generation sequencing)",
+            "date": "Not specified",
+            "findings": "Homozygous deletion of a C nucleotide in exon 18 of the VWD gene (NM_000552.3:c.2435delC) causing a frameshift mutation and premature termination codon (p.Pro812ArgfsTer31)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [],
+    "other_tests": [],
+    "diagnosis": {
+        "final_diagnosis": "type 3 von Willebrand disease with von Willebrand factor alloantibodies",
+        "diagnostic_reasoning": "The diagnosis was based on the presence of anti-VWF antibodies detected by ELISA, ineffective haemostasis after surgical procedure, lower than expected VWF recoveries, and a frameshift mutation (c.2435delC, p.Pro812ArgfsTer31) in the VWF gene. The patient's history of excessive bleeding and previous treatments with VWF/FVIII concentrates also supported the diagnosis."
+    },
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "VWF/FVIII concentrate Haemate P",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "13,000 IU in 25 exposure days"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "VWF/FVIII concentrate Wilate",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Bolus injection prior to a minor diagnostic procedure"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Parenteral tranexamic acid (Ugurol)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "15 mg/kg of body weight"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Recombinant-activated FVII (rFVIIa) (NovoSeven)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "90 mg/kg at 3-h intervals"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Recombinant FVIII (rFVIII) (Advate)",
+            "start_date": "Not specified",
+            "end_date": "10th postoperative day",
+            "dosage_or_details": "Continuous infusion at a rate of 20 IU/kg/h after a bolus of 80 IU/kg/h"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oral tranexamic acid",
+            "start_date": "Not specified",
+            "end_date": "6 days after discontinuation of rFVIII",
+            "dosage_or_details": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "basic_information": {
+        "age": "56",
+        "gender": "Female",
+        "weight": "36 kg",
+        "height": "146 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Japanese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "redness and pain in the right eye and a headache",
+        "history_of_present_illness": "At the age of 36, she had undergone surgery for bilateral cataracts. Menopause had occurred at the age of 40. There was no history of consanguinity. Her husband (60 years old) was well and she had a son (26 years old) and daughter (29 years old) who were delivered normally and were healthy. She was independent in daily activities.",
+        "past_medical_history": "bilateral cataracts, menopause at the age of 40",
+        "family_history": "Not specified",
+        "social_history": "independent in daily activities"
+    },
+    "physical_examination": {
+        "general_examination": "appearance of a 70-year-old woman, was 146 cm high and weighed 36 kg. She had a \"bird-like\" face with a hawk nose and a small jaw and poliosis of the hair, eyebrows, and eyelashes. Her voice was high-pitched and hoarse, and her skin was dry and atrophic, as well as being lustrous and pigmented, with scleroderma-like changes. There was atrophy of the muscles and adipose tissue of the extremities and plain radiography revealed calcification of both Achilles’ tendons.",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum thyroglobulin level",
+            "date": "Not specified",
+            "findings": "Raised (160 ng/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinary hyaluronic acid level",
+            "date": "Not specified",
+            "findings": "Raised (56 ng/ml)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mutation analysis (MASA method)",
+            "date": "Not specified",
+            "findings": "Amplification of mutation 4/4 detected",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Cranial CT",
+            "date": "Not specified",
+            "findings": "Tumor in the right frontal and temporal lobes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gadolinium-enhanced T1-weighted coronal MRI",
+            "date": "Not specified",
+            "findings": "Large parasagittal meningioma with prominent heterogenous enhancement",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasonography of thyroid",
+            "date": "Not specified",
+            "findings": "Cystic lesion (43 × 30 × 23 mm)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Histopathological examination of surgical specimen",
+            "date": "Not specified",
+            "findings": "Typical meningioma composed of syncitial cells with a whorling pattern. No mitoses were seen",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunohistochemical examination",
+            "date": "Not specified",
+            "findings": "Weakly positive for epithelial membrane antigen but negative for cytokeratin, S-100 and CD34",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ki-67 labeling index",
+            "date": "Not specified",
+            "findings": "0.8% (consistent with benign meningiomas)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

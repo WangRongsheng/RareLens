@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Fragile X-associated tremor/ataxia syndrome (FXTAS)",
+        "differential_diagnosis": "Progressive supranuclear palsy (PSP)",
+        "diagnostic_reasoning": "The patient presented with a slowly-progressive gait impairment and postural instability, with a positive family history for FXTAS. Brain MRI revealed the hummingbird sign, which is typically associated with PSP but has been reported in FXTAS. The patient tested positive for the FMR1 gene premutation (75 CGG repeats), confirming the diagnosis of FXTAS. The absence of supranuclear gaze palsy and the presence of a family history of FXTAS supported the diagnosis of FXTAS over PSP. Additionally, levodopa treatment resulted in no improvement, which is consistent with FXTAS-related parkinsonism."
+    }
+}

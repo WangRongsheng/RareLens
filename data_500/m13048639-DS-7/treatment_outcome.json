@@ -1,0 +1,123 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "10 mg daily, then reduced to 5 mg daily",
+            "treatment_response": "Patient had emotional liability and required reduction in dosage."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Topiramate (Topamax)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Started for mood stabilization."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Oxycodone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Given for temporary pain relief."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Humira",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Some temporary relief noted, but flaring continued."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Methotrexate (MTX)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "20 mg weekly, later increased to 25 mg weekly",
+            "treatment_response": "Patient could not tolerate even low doses due to side effects."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Actemra",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "IV administered, then switched to SC at higher dose weekly.",
+            "treatment_response": "No clear benefit, dose was increased after initial administration."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Cymbalta",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Increased from 60 mg to 90 mg daily.",
+            "treatment_response": "Not specified."
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Xeljanz",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "No benefit noted."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Re-started on Prednisone 10 mg daily."
+        },
+        {
+            "date": "Not specified",
+            "event": "Dose reduced to 5 mg daily due to emotional liability."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Topiramate."
+        },
+        {
+            "date": "Not specified",
+            "event": "Oxycodone prescribed for pain relief."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on Humira."
+        },
+        {
+            "date": "Not specified",
+            "event": "Humira changed to weekly and Methotrexate dose changed."
+        },
+        {
+            "date": "Not specified",
+            "event": "Actemra IV initiated."
+        },
+        {
+            "date": "Not specified",
+            "event": "Actemra switched to SC."
+        },
+        {
+            "date": "Not specified",
+            "event": "Cymbalta dosage increased."
+        },
+        {
+            "date": "Not specified",
+            "event": "Xeljanz started."
+        },
+        {
+            "date": "Not specified",
+            "event": "Prednisone dose started then reduced."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient has been discharged.",
+        "follow_up_details": "Follow up with physicians as directed.",
+        "complications": "Emotional liability and pain management difficulties.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Has experienced significant pain affecting daily activities.",
+        "patient_perspective": "Reported emotional challenges related to treatment."
+    }
+}

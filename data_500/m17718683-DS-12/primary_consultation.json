@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "GI bleeding",
+        "history_of_present_illness": "This is a ___ year old man with past medical history of pancreatitis s/p diverting hepaticojejunostomy, cholecystectomy and side-to-side pancreaticojejunostomy, recent admission for GI bleed (___) thought to be secondary to portal vein stenosis and varices, prompting ___ Y-stent placement to the portal vein, course complicated by partial stent obstruction requiring thrombectomy and TIPS stent placement, discharged on anticoagulation with lovenox bridge to coumadin. He presented today with 3 episodes of maroon blood per rectum, with one maroon stool in the evening and 2 the next morning, prompting visit to ED.",
+        "past_medical_history": "H/o necrotizing pancreatitis with pancreatic pseudocyst, Hepatojejunal varices s/p portal vein/SMV stent, TIPS and coiling (___), CAD s/p MI with stent placement in ___, DM2 on insulin, Bipolar disorder, Hypothyroid, HTN, Chronic low back pain. Surgical history includes Diverting hepaticojejunostomy, cholecystectomy and side to side pancreaticojejunostomy in ___.",
+        "family_history": "Father with MI at age ___. Younger sister with thyroid cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: 98.3 117/63 99 20 99%RA. General: sitting up in bed, comfortable appearing. Abdomen soft, mildly tender at epigastrium to deep palpation (chronic per patient); no rebound/guarding; normoactive bowel sounds.",
+        "specialty_examination": "Heart - RRR, III/VI systolic murmur @ RUSB. Neuro - AOx3, moving all extremities."
+    }
+}

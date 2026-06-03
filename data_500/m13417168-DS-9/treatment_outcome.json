@@ -1,0 +1,47 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Prednisone",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg",
+            "treatment_response": "No effective relief reported; patient felt tired after hydromorphone"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Started taking Prednisone 10 mg"
+        },
+        {
+            "date": "Not specified",
+            "event": "Increased Prednisone dosage to 40 mg"
+        },
+        {
+            "date": "Not specified",
+            "event": "Gabapentin was prescribed and then weaned off due to ineffectiveness"
+        },
+        {
+            "date": "Not specified",
+            "event": "Hydromorphone prescribed but patient reported it made her feel tired"
+        },
+        {
+            "date": "Not specified",
+            "event": "Lumbar puncture performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "MRI of the brain was performed"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Follow up with prior Neurologist",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient described themselves as clear and coherent, alert and interactive",
+        "patient_perspective": "Patient's symptoms included numbness and instability, with unclear cause for MRI signal changes"
+    }
+}

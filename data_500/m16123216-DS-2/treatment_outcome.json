@@ -1,0 +1,75 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Emergency repair of acute type A dissection with ascending aortic and hemi arch replacement with a 24 mm Gelweave graft and aortic valve resuspension",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Right iliac segment fenestration and placement of a 14 and a 12 mm Protege stent for malperfusion caused by aortoiliac dissection",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Bovine patch closure repair of right femoral arteriotomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Fasciotomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Debridement of muscle, right anterior and lateral compartments",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "VAC dressing placement."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Emergency surgery performed for type A aortic dissection"
+        },
+        {
+            "date": "Not specified",
+            "event": "Right iliac segment fenestration and stent placement for malperfusion"
+        },
+        {
+            "date": "Not specified",
+            "event": "Bovine patch closure repair performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Fasciotomy performed"
+        },
+        {
+            "date": "Not specified",
+            "event": "Debridement of muscle and VAC dressing placement performed"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Alert and oriented x3, ambulatory but deconditioned",
+        "follow_up_details": "Patient has follow-up appointment with the surgeon",
+        "complications": "Compartment syndrome and limb ischemia noted",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Deconditioned state observed",
+        "patient_perspective": "Patient experiencing sternal pain managed with oral analgesics"
+    }
+}

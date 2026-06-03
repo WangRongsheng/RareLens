@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Mycoplasma pneumonia",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with cough and fever, had a CT scan showing widespread bronchiolitis consistent with an infection, and serology tests confirmed a positive result for mycoplasma, which is known to infect the lungs."
+    }
+}

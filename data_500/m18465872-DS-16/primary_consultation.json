@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Nausea and vomiting x 5 days, found to be in acute kidney injury with Creatinine 2.2",
+        "history_of_present_illness": "Ms. ___ is a ___ woman with a history of pericarditis, migraines, IBS, vertigo, celiac disease & chronic pelvic pain who complains of severe nausea, vomiting, bilateral flank pain, and lower back pain over the past 5 days. 5 days ago, she experienced severe nausea for 2 days, after which she had 3 days of severe non-bloody non-bilious mostly solid vomiting. Symptoms started after eating some bad cottage cheese and also several co-workers are ill with stomach flu. She has been unable to take POs since then, and was unable to keep down even water for a few days. Along with nausea, she developed dull lower back pain and bilateral lower flank pain, which worsened over the course of the week. Urine was sent and she was discharged with an anti-emetic suppository without relief. She was admitted for further evaluation after receiving IV fluids and assessed for elevated BUN/CR.",
+        "past_medical_history": "Pericarditis ___ year ago, treated with 10000mg ibuprofen; IBS, well-controlled without medications; Non-specific pelvic pain, worked up by laparoscopy, negative for endometriosis or ovarian cysts; appendix removed; occasional vertigo; migraines once/twice monthly; gluten intolerance; no recent illnesses or outdoor activity.",
+        "family_history": "Maternal Aunt with ___; Mom has occasional mild hematuria, anemia & psoriasis; Maternal Grandfather and Maternal cousin with ___ disease; Maternal Grandfather has leukemia; Paternal Grandfather with CAD; Maternal Grandfather and Grandmother with Diabetes; Paternal Grandmother with ?lung cancer; Paternal Grandfather with melanoma.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: T 98.0, HR 78, BP 113/73, RR 16, 100% RA. Well-appearing thin Caucasian female in no acute distress. Slightly tender throughout abdomen, +CVA tenderness R>L.",
+        "specialty_examination": "Neurological: symmetric strength, CNs II - XII grossly intact, no changes in sensation. Cardiovascular: regular rate and rhythm, normal S1 + S2, +SEM heard loudest at ___ ?MVP click, no rubs/gallops. Gastrointestinal: soft, slightly tender, non-distended, no rebound tenderness, no hepatosplenomegaly."
+    }
+}

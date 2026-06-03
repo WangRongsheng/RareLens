@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "22",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Italian",
+        "occupation": "University student, later switchboard operator"
+    },
+    "medical_history": {
+        "chief_complaint": "Visual loss",
+        "history_of_present_illness": "Began experiencing visual loss at age 22, diagnosed with retinal dystrophy. Three years later, had recurrent generalized tonic–clonic seizures and spontaneous myoclonic jerks resistant to barbiturates and valproate. At age 29, visual impairment severe but still able to work. Experienced transient but protracted visual disturbances consistent with palinopsia.",
+        "past_medical_history": "Previously uneventful clinical history.",
+        "family_history": "Parents and paternal uncle heterozygous for the mutated gene, no signs of cognitive impairment. Early death in many older family members may have masked a likely autosomal-dominant pattern.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Visual acuity greatly reduced (1/20), mild ataxia.",
+        "specialty_examination": "EEG showed 8 Hz background activity and rare paroxysms of slow waves, often preceded by small spikes prominent over the parietal regions. MRI revealed selective and severe cerebellar atrophy. Skin biopsy revealed polymorphic lysosomal storage in glandular and endothelial cells. Electron microscopy of peripheral blood leukocytes showed fingerprint profiles in 1/100 lymphocytes."
+    }
+}

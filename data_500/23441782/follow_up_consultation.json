@@ -1,0 +1,118 @@
+{
+    "basic_information": {
+        "age": "55",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "red rash on his chest, shoulders, neck and back, with intense pruritus",
+        "history_of_present_illness": "Over several weeks, he developed nodules over his neck, arm extensor surfaces and on the sides and tips of his fingers. The nodules varied from several millimeters to several centimeters in diameter and were soft to firm. The patient also developed muscle aching and stiffness, which began in his shoulders and progressed to his right hand, knees and thighs, as well as swelling of his right wrist.",
+        "past_medical_history": "Dupuytren’s contractures of both hands, which had both been surgically improved, right wrist fracture from trauma and herpes zoster of the right leg 5 years prior with resolution.",
+        "family_history": "negative for any connective tissue diseases",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete blood cell count",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete general chemistry panel",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Erythrocyte sedimentation rate",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C-reactive protein",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antinuclear antibody",
+            "date": "Not specified",
+            "findings": "Positive (1 : 80)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rheumatoid factor",
+            "date": "Not specified",
+            "findings": "Positive (63 U/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-cyclic citrullinated protein",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-Ro/Sjögren’s syndrome antigen A (SSA) antibodies",
+            "date": "Not specified",
+            "findings": "Positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-La/SSB antibodies",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-double strand DNA antibodies",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anti-Smith antibodies",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aldolase",
+            "date": "Not specified",
+            "findings": "Low (< 7.7 mg/mL)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Skin biopsy",
+            "date": "Not specified",
+            "findings": "Intradermal histiocytic proliferation; most cells were mononuclear and there were no foam cells",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

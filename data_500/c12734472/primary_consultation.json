@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "46",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "White",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Massive exophytic abscesses and fibrotic masses on the chin",
+        "history_of_present_illness": "The patient's symptoms began shortly after a motor vehicle accident in 1979, when his mother noticed persistent 'white heads' on his chin and nose. Inflammatory pustules and papules on the chin developed in 1993 following a switch from a blade to an electric razor. The lesions progressively increased in size over the following years, leading to a massive cluster of exophytic abscesses and fibrotic masses by December 1998.",
+        "past_medical_history": "The patient has been ventilator dependent and in a vegetative state since the motor vehicle accident. He has a medical history significant for seizures, treated with phenytoin and phenobarbital for 18 years. Previous diagnoses include hidradenitis suppurativa and acne conglobata.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    },
+    "physical_examination": {
+        "general_examination": "Physical examination reveals a massive cluster of exophytic, abscessed, and fibrotic masses on the chin, with smaller erythematous nodules around the tracheostomy site and behind the ears. The lesions are primarily firm, with fluctuation in some areas. No systemic signs of infection are noted at this time.",
+        "specialty_examination": "Assessment indicated that the tracheostomy site shows smaller erythematous nodules but no signs of significant inflammation or discharge. The stability at the tracheostomy site is noted."
+    }
+}

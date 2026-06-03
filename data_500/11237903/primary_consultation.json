@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "1 day",
+        "gender": "Female",
+        "weight": "2.1 kg",
+        "height": "47 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Muslim Pakistani",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Absence of a red reflex in both eyes",
+        "history_of_present_illness": "Dense central and moderate diffuse lens opacities present bilaterally. Pharmacologic pupil dilation was absent. Lensectomy was undertaken at 6 weeks of age. Corneal diameters were 8 mm vertically and 7.5 mm horizontally, with 14 mm axial lengths. Iris retractors were required to visualize the lenses fully at surgery. Both lenses were noted to be disproportionately smaller and thinner than expected for the size of the eye. The zonule was elongated and intact. Intraocular pressure was normal. After lensectomy, mild optic disc pallor and a reduced retinal nerve fiber layer were visible.",
+        "past_medical_history": "First child of parents who are first cousins once removed within a multiple consanguineous family. A paternal cousin had died in Pakistan at the age of 24; he had experienced severe mental and physical handicap since early childhood. Birth was induced at 38 weeks gestation because of intrauterine growth retardation.",
+        "family_history": "Paternal cousin had severe mental and physical handicap since early childhood.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "At birth, her weight was 2.1 kg (0.4th centile), length was 47 cm (10th centile), and the head circumference was 31.7 cm (3rd centile).",
+        "specialty_examination": "Dense central and moderate diffuse lens opacities present bilaterally. Pharmacologic pupil dilation was absent. Corneal diameters were 8 mm vertically and 7.5 mm horizontally, with 14 mm axial lengths. Both lenses were noted to be disproportionately smaller and thinner than expected for the size of the eye. The zonule was elongated and intact. Intraocular pressure was normal. After lensectomy, mild optic disc pallor and a reduced retinal nerve fiber layer were visible."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "deceased donor kidney transplant",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Creatinine had decreased to 1.7 by discharge."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient underwent a deceased donor kidney transplant."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient developed a urine leak requiring placement of a percutaneous nephrostomy tube."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient returned for revision of the ureterovesicular anastomosis with stent placement."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent biopsy of the allograft; no evidence of rejection was found."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged with creatinine of 1.7."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient doing well at home, no complaints.",
+        "follow_up_details": "Patient instructed to call the transplant clinic for concerning symptoms; lab work scheduled every ___ and ___ as arranged by the transplant clinic.",
+        "complications": "None mentioned.",
+        "long_term_prognosis": "Not specified.",
+        "recovery_timeline": "Not specified.",
+        "quality_of_life": "Patient feels well, pain improved, requiring minimal opioid pain medication, voiding without assistance, tolerating regular diet.",
+        "patient_perspective": "Patient reports no blood in urine and normal bowel movements; has been adhering to medications."
+    }
+}

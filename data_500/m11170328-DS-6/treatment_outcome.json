@@ -1,0 +1,27 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Laparoscopic cholecystectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Tolerated the procedure well"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with RUQ pain and underwent laparoscopic cholecystectomy"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Recovering well",
+        "follow_up_details": "Follow up in the Acute Care Surgery clinic",
+        "complications": "No complications",
+        "long_term_prognosis": "Good, expected recovery with normal feelings post surgery",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

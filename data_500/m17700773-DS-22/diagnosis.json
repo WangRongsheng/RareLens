@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "urinary tract infection",
+        "differential_diagnosis": "viral bronchitis",
+        "diagnostic_reasoning": "Initial imaging did not show pneumonia, and urine studies revealed a urinary tract infection, which contributed to her symptoms."
+    }
+}

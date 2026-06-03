@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chest Pain",
+        "history_of_present_illness": "Mr. ___ is a ___ year old man who developed excruciating chest pain radiating to his back, which felt like a stabbing sensation. He presented to ___ and underwent CTA that revealed type A dissection. He was emergently transferred for surgical intervention and taken directly to the OR. Of note, he ran out of his blood pressure medication last week.",
+        "past_medical_history": "Hypertension, Psoriasis",
+        "family_history": "unremarkable",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Temp: 99, HR: 99, BP: 131/73, RR: 20, O2 sat: 96% 2 liters NC. RLE has VAC on lateral fasciotomy site, medial site closed with +drainage. Neuro: nonfocal except for RLE: no sensation below thigh.",
+        "specialty_examination": "Mild symmetric left ventricular hypertrophy with normal cavity size and global systolic function (LVEF>55%)."
+    }
+}

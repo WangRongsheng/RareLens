@@ -1,0 +1,92 @@
+{
+    "basic_information": {
+        "age": "36",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Not specified",
+        "history_of_present_illness": "A 36-year-old man suffering from cystic fibrosis was admitted to our hospital in June 2009 for a heart and bilateral lung transplantation. He had a first lung transplantation in 1997 but had chronic rejection since 2001 in spite of several immunosuppressive regimens. His medical history also included renal failure (hemodialysis since 2007), diabetes mellitus, and airway colonization with a multiresistant Pseudomonas aeruginosa. Short antifungal therapy courses had been prescribed over the past years for various yeasts (Candida spp.) and molds (Aspergillus, Paecilomyces, and Fusarium species) colonizing his respiratory tract, but there was no evidence of previous isolation of a Scopulariopsis species.",
+        "past_medical_history": "Cystic fibrosis, first lung transplantation in 1997, chronic rejection since 2001, renal failure (hemodialysis since 2007), diabetes mellitus, airway colonization with a multiresistant Pseudomonas aeruginosa, colonization with various yeasts (Candida spp.) and molds (Aspergillus, Paecilomyces, and Fusarium species).",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    },
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Sputum culture",
+            "date": "June 2009",
+            "findings": "Grew Candida albicans",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White blood cell count (WBC)",
+            "date": "Day after transplantation",
+            "findings": "Increased slowly, reaching 20 x 10^9 cells/liter by day 8 postsurgery",
+            "changes_over_time": "Reached 30 x 10^9 cells/liter by day 11"
+        },
+        {
+            "procedure_name": "Serum Aspergillus galactomannan antigen assays (GM)",
+            "date": "Days 11, 14, 15, 24, and 25",
+            "findings": "All were negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fungal cultures of bilateral pleural specimens",
+            "date": "Day 19",
+            "findings": "Revealed restricted, white and velvety colonies after 6 days of incubation. Microscopic examination revealed branched, hyaline, regular, and septate but sterile hyphae",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Day 27",
+            "findings": "Positive. Direct smear examination revealed several filamentous and septate hyphae with intercalary chlamydospore-like cells",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Antifungal susceptibility testing",
+            "date": "Not specified",
+            "findings": "High MICs for all antifungal agents tested (8 μg/ml for amphotericin B, 4 μg/ml for caspofungin and terbinafine, and more than 8 μg/ml for itraconazole, voriconazole, and posaconazole)",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Thoracic computed tomodensitometry (TDM)",
+            "date": "Day 11",
+            "findings": "Revealed bilateral pulmonary effusions",
+            "changes_over_time": "Persistence of bilateral pleural effusions associated with pneumothorax and a slight pneumomediastinum on day 23"
+        }
+    ],
+    "other_tests": [
+        {
+            "procedure_name": "Direct microscopic examination of pleural samples",
+            "date": "Day 19",
+            "findings": "Several regular, hyaline, and branched septate hyphae on direct examination",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bronchial fibroscopy",
+            "date": "Day 23",
+            "findings": "Highlighted pseudomembranes on the surgery scar",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sequencing the D1/D2 region of the 28S rDNA",
+            "date": "After death",
+            "findings": "99.6% similarity with Microascus cirrosus reference strain CBS 217.31 and 96% with Scopulariopsis brevicaulis strain IFM 54315",
+            "changes_over_time": "Not specified"
+        }
+    ],
+    "diagnosis": {
+        "final_diagnosis": "Disseminated fungal infection due to Microascus cirrosus",
+        "diagnostic_reasoning": "The diagnosis was based on the presence of branched, hyaline, regular, and septate hyphae in pleural fluid specimens and blood culture, confirmed by sequencing the D1/D2 region of the 28S rDNA which showed 99.6% similarity with Microascus cirrosus. The patient's immunocompromised status post heart and lung transplantation, along with negative Aspergillus galactomannan antigen assays, ruled out IA and supported the diagnosis of disseminated Microascus cirrosus infection."
+    }
+}

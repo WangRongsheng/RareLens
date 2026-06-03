@@ -1,0 +1,31 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "metatarsal osteotomies (third and fourth metatarsals)",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient tolerated the procedure well and pain is well-controlled."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Surgical intervention performed for right foot osteotomies."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient seen at bedside in PACU resting comfortably."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Clear and coherent mental status; alert and interactive.",
+        "follow_up_details": "Follow up with podiatric surgeon Dr. ___ and primary care physician within one to two weeks.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient able to actively dorsiflex/plantarflex left foot.",
+        "patient_perspective": "Patient denies any other pedal complaints at this time."
+    }
+}

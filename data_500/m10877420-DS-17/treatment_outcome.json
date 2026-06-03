@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Hyoscyamine",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "0.125 mg PO QID",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Polyethylene Glycol",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "17 g PO DAILY: PRN",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Senna",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "8.6 mg PO BID: PRN",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient admitted with worsening abdominal pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Started on hyoscyamine for crampy abdominal pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Recommended continuation of senna and miralax as needed for bowel movements."
+        },
+        {
+            "date": "Not specified",
+            "event": "Advised to stop taking diabetes medication Ozempic due to associated abdominal pain."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent, clear and coherent mental status.",
+        "follow_up_details": "Follow up with all appointments as detailed in discharge instructions.",
+        "complications": "No complications.",
+        "long_term_prognosis": "Symptoms may improve with more regular bowel movements and management of IBS.",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient's abdominal pain suspected to be related to IBS, potentially exacerbated by stress."
+    }
+}

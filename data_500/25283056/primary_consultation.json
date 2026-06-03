@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "7 months",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "eczema and wheezing",
+        "history_of_present_illness": "First admitted at 5 months with coughing and wheezing, treated with inhaler bronchodilator and steroid therapy. At 6 months, severe allergic reaction to cow’s milk. Hospitalized at 7 months with pneumonia and bronchial hyper-reactivity. Laboratory results showed leukocytosis and positive anti-CMV IgM antibody.",
+        "past_medical_history": "First pregnancy resulted in abortion. First child died at 4 years with atopic dermatitis and chronic diarrhea. Present case had severe allergic reaction with cow’s milk.",
+        "family_history": "Parents are first degree cousins. First child died with atopic dermatitis and chronic diarrhea.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Silvery-gray hair and eyebrow and eyelashes, eczema. Development was normal. Neurological examination was unremarkable. Microscopic examination of hair shafts showed large discrete clumps of melanin pigment.",
+        "specialty_examination": "Not specified"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "3",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Profound hearing loss in both ears",
+        "history_of_present_illness": "Noticed hearing difficulty at 6 months old, started using hearing aids at 9 months old, no further benefit from hearing aids after 3 years of use",
+        "past_medical_history": "No systemic anomalies, normal neurological examination and normal intellectual development",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "HRCT scan showed no signal on the left cochlear region and narrow internal auditory canal on the left side, and cochlear malformation like in Mondini deformity and dilated vestibule on the right side. MRI scan showed absent cochlea and cochleovestibular nerve on the left side."
+    }
+}

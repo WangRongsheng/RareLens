@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "C2 fracture",
+        "history_of_present_illness": "Mr. ___ is a ___ y/o man with a PMH of HTN and a. fib on Coumadin, who presented after a mechanical fall. He says that he was at home, cleaning by the pool, when he tripped over something and hit his head on the concrete. He does not remember how he fell, but does not believe that he ever lost consciousness. The fall was not witnessed, but was heard by his wife and a worker. After the fall, he said he felt woozy for a minute and had a pain in his neck that he said felt like a muscle pain. He said he otherwise felt ok. No headache, visual changes, numbness/tingling, or focal weakness. He initially was brought to OSH in ___, where he lives. A head CT performed there had no acute changes, but a CT scan of his spine was notable for a C2 fracture with a posterior displacement. He was then transferred to ___ for further management. He was discharged to rehab where he stayed for only 2 days and has been at home since without any issues. He reports that he sleeps in a recliner for comfort given the collar, and has not removed the collar at all. He presented to clinic on ___ with new imaging of his cervical spine that revealed a non healing fracture.",
+        "past_medical_history": "A. fib (on Coumadin), HTN, HLD",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Gen: WD/WN, comfortable, NAD wearing hard cervical collar. Vital Signs: Not specified.",
+        "specialty_examination": "Neurological: Mental status: Awake and alert, cooperative with exam, normal affect. Orientation: Oriented to person, place, and date. Language: Speech fluent with good comprehension and repetition. Naming intact. No dysarthria or paraphasic errors. Cranial Nerves: I: Not tested; II: Pupils equally round and reactive to light, 4mm to 3mm bilaterally. Visual fields are full to confrontation. III, IV, VI: Extraocular movements intact bilaterally without nystagmus. V, VII: Facial strength and sensation intact and symmetric. VIII: Hearing intact to voice. IX, X: Palatal elevation symmetrical. XI: Sternocleidomastoid and trapezius normal bilaterally. XII: Tongue midline without fasciculations. Motor: Normal bulk and tone bilaterally. No abnormal movements, tremors. Strength full power ___ throughout. No pronator drift. Sensation: Intact to light touch, proprioception normal. Coordination: Normal on finger-nose-finger, rapid alternating movements, heel to shin."
+    }
+}

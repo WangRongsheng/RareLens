@@ -1,0 +1,43 @@
+{
+    "overall_outcome": "partial_recovery",
+    "evidence_excerpt": "With maintenance IVIg (eventually every 4 weeks) she avoided relapses and could function normally, but focal/asymmetrical disease and cramps/fasciculations persisted over 10 years.",
+    "quality_of_life": {
+        "functional_status": "none",
+        "evidence_excerpt": "Over 10 years, cramps and fasciculations persisted but were limited to clinically affected muscles.",
+        "symptom_burden": "persistent_mild"
+    },
+    "timeline_events": [
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "short_term",
+            "evidence_excerpt": "Two days after treatment began, there was improvement in strength that peaked by 2 weeks."
+        },
+        {
+            "event_type": "deterioration",
+            "time_period": "mid_term",
+            "evidence_excerpt": "Improvement was sustained for 4 months, when the symptoms recurred."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "mid_term",
+            "evidence_excerpt": "She was re-treated with 2 g/kg of IVIg over 2 days."
+        },
+        {
+            "event_type": "symptom_improvement",
+            "time_period": "mid_term",
+            "evidence_excerpt": "After re-treatment, she again showed marked improvement in strength by 2 weeks."
+        },
+        {
+            "event_type": "re-intervention",
+            "time_period": "long_term",
+            "evidence_excerpt": "She continued IVIg every few months, then every 8 weeks, and finally every 4 weeks to avoid relapses."
+        },
+        {
+            "event_type": "functional_improvement",
+            "time_period": "long_term",
+            "evidence_excerpt": "Maintenance IVIg sustained benefit, enabling her to function normally."
+        }
+    ],
+    "reference_time_used": "diagnosis_date",
+    "notes_on_uncertainty": "The index time was proxied by the initial definitive evaluation/diagnosis in 1990. Exact dates for subsequent treatments are not provided; timing was categorized based on narrative intervals (weeks, months, and the 10-year follow-up). No death or major complication was reported; side effects were limited to transient headaches."
+}

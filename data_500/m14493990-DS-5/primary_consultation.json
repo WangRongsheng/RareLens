@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Postoperative wound infection(total thyroidectomy, left neck dissection).",
+        "history_of_present_illness": "History of atrial fibrillation on Coumadin status post total thyroidectomy for metastatic papillary carcinoma. Postoperatively, she was doing relatively well and had no problems. However, yesterday she reports fevers to 102 and pain at incision site. She was told to go to emergency room for evaluation. She was seen, found to have erythema, underwent ultrasound which showed a fluid collection, and admitted for antibiotics. By hospital day to her fever had improved, however erythema was still present. The decision was made to proceed to the operating room rather than entertain any sort of interventional radiology as the patient's fluid accumulation is complex.",
+        "past_medical_history": "PMH: multinodular goiter with FNA L level 2 node suspicious for metastatic cystic thyroid cancer with features of papillary carcinoma (no thyroid FNA d/t warfarin); Atrial fibrillation on Coumadin 5mg, Hypertension, Hypercholesterolemia. PSH: Total thyroidectomy, left modified radical neck dissection, intraoperative nerve monitoring, parathyroid autotransplantation.",
+        "family_history": "Stroke, Arterial hypertension, Obesity.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "General: Alert, no acute distress. Irregularly irregular pulse. Soft abdomen, non-tender, non-distended.",
+        "specialty_examination": "Neurologic Examination: Awake, oriented to hospital, significant anomia, stable right facial droop, full strength bilaterally in upper extremities, lower extremities limited by pain but at least antigravity. Cranial Nerves: PERRL, visual fields full to confrontation, EOMI, sensation intact to light touch and temperature. Motor: Right upper extremity 4+/5 throughout. Reflexes: Plantar response flexor bilaterally. Coordination: finger to nose, heel to shin intact."
+    }
+}

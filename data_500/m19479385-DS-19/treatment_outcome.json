@@ -1,0 +1,79 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Right total knee arthroplasty",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Pending outcome after surgery"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Synvisc injection",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Increased erythema, swelling, and pain following injection"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Aspirin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "81 mg PO DAILY",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Acetaminophen",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "1000 mg PO Q8H",
+            "treatment_response": "Used for pain control"
+        },
+        {
+            "treatment_type": "medication",
+            "specific_treatment": "Enoxaparin Sodium",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "40 mg SC DAILY for 4 weeks",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "physical therapy",
+            "specific_treatment": "PT post-surgery",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Weight bearing as tolerated on operative extremity, mobilize frequently",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Received Synvisc injection, experienced adverse effects"
+        },
+        {
+            "date": "Not specified",
+            "event": "Presented for right total knee arthroplasty"
+        },
+        {
+            "date": "Not specified",
+            "event": "Discharge with medications including Acetaminophen and Enoxaparin"
+        },
+        {
+            "date": "Not specified",
+            "event": "Planned follow-up appointment in two weeks post-op"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Not specified",
+        "follow_up_details": "Follow-up appointment scheduled in two weeks",
+        "complications": "No complications mentioned",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Not specified"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Enterocutaneous fistula",
+        "history_of_present_illness": "Mr. ___ is a ___ male with a history of Crohn's disease s/p exlap/ileocecectomy with end-ostomy. He presents today with abdominal pain and leakage from a new opening in his midline incision. He first noticed pain approximately 25 days ago while doing crunches, which resolved initially but returned over the past 10 days with intermittent achy pain over his midline incision and bulging/thinning of the skin. An area of the incision opened today and began to drain dark-colored and feculent fluid.",
+        "past_medical_history": "Crohn's disease, B cell lymphocytosis.",
+        "family_history": "Father with HTN, sister with breast cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T 97.6 F, HR 53, BP 120/69, RR 18, SpO2 97% room air. The patient is A&O, NAD, interactive and cooperative. Tenderness noted with deep palpation over midline incision with drainage of yellow-green liquid.",
+        "specialty_examination": "Neurological: Not specified. Cardiovascular: RRR. Pulmonary: Clear to auscultation bilaterally. Abdomen: Soft, tender midline with no rebound/rigidity/guarding."
+    }
+}

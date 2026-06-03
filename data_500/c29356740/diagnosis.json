@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "malignant melanoma",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The 18F-fluorocholine PET/CT showed pathological uptake in a cutaneous nodule on the right shoulder, which upon excision proved to be a malignant melanoma. This was additionally supported by the absence of adenoma and the presence of a unilateral multinodular goiter."
+    }
+}

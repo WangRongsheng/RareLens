@@ -1,0 +1,55 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "Rigid and flexible bronchoscopy with tumor destruction and debridement",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Involves YAP laser, electrocautery, cryodebridement, EBUS TBNA",
+            "treatment_response": "Tolerated procedure well; briefly 85% on 4L oxygen, improved to 96% on room air a few hours later"
+        },
+        {
+            "treatment_type": "chemotherapy",
+            "specific_treatment": "Doxorubicin",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Concurrent with radiation therapy",
+            "treatment_response": "Not specified"
+        },
+        {
+            "treatment_type": "radiation therapy",
+            "specific_treatment": "Radiation therapy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Total dose 50Gy, in 25 fractions",
+            "treatment_response": "Not specified"
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Patient presented with concern for obstruction and was admitted"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient underwent rigid/flexible bronchoscopy"
+        },
+        {
+            "date": "Not specified",
+            "event": "Chemoradiotherapy started with low-dose doxorubicin"
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged on a 7-day course of DS Bactrim"
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Ambulatory - Independent",
+        "follow_up_details": "Not specified",
+        "complications": "No complications",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Not specified",
+        "patient_perspective": "Patient was hoping to spend time with family over the holidays"
+    }
+}

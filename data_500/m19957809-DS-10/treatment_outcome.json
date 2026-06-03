@@ -1,0 +1,43 @@
+{
+    "treatment_information": [
+        {
+            "treatment_type": "surgery",
+            "specific_treatment": "laparoscopic cholecystectomy",
+            "start_date": "Not specified",
+            "end_date": "Not specified",
+            "dosage_or_details": "Not specified",
+            "treatment_response": "Patient experienced persistent diarrhea and altered mental status post-surgery."
+        }
+    ],
+    "treatment_timeline": [
+        {
+            "date": "Not specified",
+            "event": "Laparoscopic cholecystectomy performed for acute on chronic gangrenous cholecystitis."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient discharged after surgery with complications."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient sent to nursing home after uneventful rehab."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient seen by new physician for ongoing RUQ abdominal pain."
+        },
+        {
+            "date": "Not specified",
+            "event": "Patient sent to emergency department due to persistent abdominal pain."
+        }
+    ],
+    "patient_outcome": {
+        "final_status": "Patient is alert and oriented to person and place, but largely wheelchair bound.",
+        "follow_up_details": "Patient to check INR daily until therapeutic.",
+        "complications": "Persistent diarrhea and altered mental status post-surgery.",
+        "long_term_prognosis": "Not specified",
+        "recovery_timeline": "Not specified",
+        "quality_of_life": "Patient has been tolerating oral intake.",
+        "patient_perspective": "Pain has fluctuated, with some days being better and others worse."
+    }
+}

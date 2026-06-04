@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "11 months",
+        "gender": "Male",
+        "weight": "7160 g",
+        "height": "70 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Dysmorphic face, ambiguous external genitalia, and cryptorchidism",
+        "history_of_present_illness": "At birth, the propositus (2480 g body weight) showed a dysmorphic face, ambiguous external genitalia, and cryptorchidism. When examined at the age of 11 months, his height was 70 cm (3rd centile), his weight was 7160 g (<3rd centile), and his head circumference was 45 cm (10th centile). He presented muscular hypotrophy, hypotonia and triangular elongated face, synophris, micrognathia, thin upper lip, cupid bow shape of mouth, hypoplasia of alae nasi, large low-set ears, pale skin, abnormal dermatoglyphic pattern, proximal placement of the thumbs, valgi and flat feet, and recurrent respiratory infections. He also presented bilateral cryptorchidism and glandular hypospadias.",
+        "past_medical_history": "Not specified",
+        "family_history": "The mother suffered from obesity, follicular hyperkeratosis, and alopecia. She also shows a mild mental retardation. No additional maternal relatives were mentally retarded or presented KFSD.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Dysmorphic face, ambiguous external genitalia, cryptorchidism, muscular hypotrophy, hypotonia, triangular elongated face, synophris, micrognathia, thin upper lip, cupid bow shape of mouth, hypoplasia of alae nasi, large low-set ears, pale skin, abnormal dermatoglyphic pattern, proximal placement of the thumbs, valgi and flat feet.",
+        "specialty_examination": "The propositus suffered from KFSD, showing follicular and interfollicular hyperkeratosis on the outer aspects of his upper arms, cheeks, and legs. He showed a thickening of the skin of palms and soles, and his hair were sparse and thin with loss. No eye anomalies or photophobia was revealed by ophthalmological examination."
+    }
+}

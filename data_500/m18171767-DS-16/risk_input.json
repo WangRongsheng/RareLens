@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "DKA",
+        "history_of_present_illness": "Patient presents after evaluation for nausea and vomiting revealed DKA. She had been complaining of myalgias, sore throat, and cough since the day prior to admission. Positive influenza test; started on Tamiflu. Placed on an insulin gtt and transferred for further evaluation.",
+        "past_medical_history": "Type 1 Diabetes Mellitus, GERD, Gastroparesis, Pyloric stenosis as infant, Hypothyroidism, Necrobiosis Lipoidica Diabeticorum",
+        "family_history": "No first degree relatives with T1DM or autoimmune disease",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: T 98, BP 110/61, RR 18, SpO2 98% on RA. Ill appearing young woman sleeping in bed. Easy to wake.",
+        "specialty_examination": "Neurological: No facial droop, spontaneously moving all four limbs; further evaluation limited by patient cooperation. Cardiovascular: RRR, no m/r/g. Lungs: CTA bilaterally. Abdomen: Normoactive bowel sounds; soft, nontender to deep palpation. Extremities: Well perfused, no edema. Skin: No obvious rashes or other lesions on limited exam."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "NSTEMI, AFIB with RVR",
+        "history_of_present_illness": "Mr. ___ is a ___ year-old man with history of HTN, HLD, DM, pAF on Eliquis, HFpEF, transferred from ___ ___ for coronary angiography due to concerns of NSTEMI. Patient initially presented to ___ for increased anxiety, depression, poor appetite, and poor sleep, and admitted to psychiatry inpatient unit for medication titration and started on mirtazapine and Lorazepam increased. On ___ he developed severe chest pain/SOB, reported to be in AF with RVR although no documented EKG for this (rates are unreported), converted to sinus with oral metoprolol 50mg x 1 and I liter IVF. hs-cTn from ___ trended up from 25 -> 136, ___ -> 179, and 268 on ___. EKG showed sinus bradycardia with RBBB along with TWI in the pericardial leads. Since the afib with RVR episode, patient denies further chest pain. Patient received ASA 325mg and atorvastatin 80 on ___. He was continued on ASA 81, atorvastatin 80mg and metoprolol tartrate 6.25 q6h, Ramipril 5 BID along with apixaban 5mg BID. TTE from ___ showed EF of 70% and apical hypertrophic cardiomyopathy without evidence of regional wall abnormality or valvular pathology. Patient received last dose of apixaban on ___ AM. Patient was transferred to the ___ for coronary angiography. At the ___, patient denies chest pain. He underwent coronary angiography through right radial access without complications, which showed 50% stenosis in the proximal and mid segments of the LAD along with severe calcifications. Patient was transferred to the floor for medical management.",
+        "past_medical_history": "1. CARDIAC RISK FACTORS - Diabetes: on metformin at home - Hypertension - Dyslipidemia: on atorvastatin 40mg at home 2. CARDIAC HISTORY - Coronaries: - Pump: EF of 60% - HFpEF - Paroxysmal atrial fibrillation 3. OTHER PAST MEDICAL HISTORY - BPH - Anxiety/depression - Chronic back pain: lumbar spinal stenosis and bilateral lumbar radiculopathy",
+        "family_history": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Temp: 97.4, BP: 158/70, HR: 58, RR: 18, O2 sat: 92%",
+        "specialty_examination": "Neuro: Alert and oriented x4. CV: RRR, Normal S1 S2. EKG: sinus bradycardia with left axis deviation. RBBB and T wave inversion in the V1-V4."
+    }
+}

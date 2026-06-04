@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "61 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Dyspnea",
+        "history_of_present_illness": "Patient is a ___ year old female with a past medical history significant for systolic/diastolic CHF, atrial fibrillation on anticoagulation, and mitral regurgitation who presented with acute hypoxemic respiratory distress. In the ED, she suffered PEA arrest x2 and was resuscitated and transferred to the CCU. Initial bedside echo showed EF 10%. After the arrest, she experienced acute respiratory failure, likely due to mixed CHF exacerbation. She was intubated and started on pressors, weaned from pressors on ___ and extubated on ___. The patient also had bilateral thoracentesis for pleural effusions.",
+        "past_medical_history": "1. Cardiac risk factors: hypertension, dyslipidemia. 2. Cardiac history: Mitral regurgitation, atrial fibrillation, systolic/diastolic CHF (LVEF 20%), cardiomyopathy, CAD - CABG: None. Other past medical history: Hypothyroidism, chronic neck pain, chronic kidney disease stage V, colon cancer s/p right colectomy ___, GI bleed ___ years ago, PVD s/p lower extremity stents ___ years ago, gout.",
+        "family_history": "Mother with cardiac history.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission vitals: T=98.5, BP=100/38, HR=107, RR=18, O2 sat=91% RA / 100% 2L NC. General examination shows an elderly woman in no acute distress who is oriented x3. Bilateral pitting edema in lower extremities. Weight recorded at 61 kg.",
+        "specialty_examination": "Neurological: Not specified. Cardiovascular: Irregular rate, normal S1, S2, a systolic murmur. Lungs: Decreased breath sounds bilaterally. No crackles, wheezes or rhonchi."
+    }
+}

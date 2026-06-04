@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Burning pain",
+        "history_of_present_illness": "The patient has had significant increased fatigue, neck spasm and headache, as well as severe itching and burning over her torso and arms. These symptoms have become gradually worse over the last day. She denies new numbness, visual changes or weakness but has baseline numbness over her 'entire body'. She has noted a 'rash' over her arms and torso. She cannot describe what it looked like at onset. She has had significant constipation for the past 5 days but no urinary symptoms. Ms. ___ has tried ativan at home with some improvement of all of her symptoms. In the past she has had significant visual complaint with visual impairment L>R. Symptoms started about one year ago with clouding over her R eye and impaired visual acuity, diagnosed with optic neuroitis and treated with 5 days of IV steroids. New symptoms developed in ___ of last year with leg numbness and visual loss leading to paraplegia, diagnosed with seronegative NMO and treated with steroids.",
+        "past_medical_history": "- S/p hysterectomy - HBV core and surface antibody positive, surface antigen negative",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: 99.1 P: 90 R: 16 BP: 130/80 SaO2: 98% RA. General: Awake, cooperative, NAD. Extensive spasm of neck and shoulders, tender to palpation. Mild tenderness to palpation in LLQ and RLQ but no rebound or guarding.",
+        "specialty_examination": "Neurologic: Mental Status: Alert, oriented x 3. Visual acuity: OD: no blink to threat; RAPD, optic disc palor; barely able to finger count. OS: L + blink to threat: pupil 4mm->2mm. Increased tone ___ > UE; no asterixis or myoclonus. Coordination: + postural tremor. No dysmetria on FNF or HKS bilaterally."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "left face weakness",
+        "history_of_present_illness": "The pt is a ___ yo man with hx of right frontal IPH in ___ who presents as a transfer from ___ for acute ICH. Per the patient's family, they had called EMS this morning as the patient was complaining of chest pain, although now the patient reports it wasn't chest pain, it was gas pain. He denies any headaches, nausea, or vomiting. His family reports that his left facial droop had improved during his recovery from his right IPH, but this morning it is now more prominent. This is the only change from baseline in his mental status/physically that they've noticed. They note that his vitals are checked daily and he's been afebrile, with blood pressures on average 138-140/70s. He has seen Dr. ___ in clinic. He had a repeat MRI brain with contrast in ___ that showed new leptomeningeal enhancement. He is scheduled for a repeat MRI brain in ___. On neuro ROS, the pt reports chronic left hand/arm postherpetic pain. He also has occasional urinary incontinence, primarily when he is unable to make it to the bathroom in time.",
+        "past_medical_history": "- HTN - liver disease, per family he had jaundice which was diagnosed to be some sort of blockage - h/o shingles in his L arm ___ years ago - anxiety - BPH - right frontal intraparenchymal hemorrhage ___",
+        "family_history": "Daughter with migraines and a \"white mass\" in her brain, which she has been told is a birth defect.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "General: Awake, cooperative, NAD. Vitals: BP 138-140/70s, afebrile.",
+        "specialty_examination": "-Neurologic: Mental Status: Alert, oriented x 1. Could not identify hospital even with multiple choices. Unable to identify season, but did pick year from multiple choices. He has decreased spontaneous language output. When asked questions, he tends to joke and talk around the question, without answering. He is fluent. He has difficulty following commands, often requires multiple repetitions, and even with mimicry, he has difficulty. There is some degree of perseverance as well. Inattentive, difficulty in saying the days of the week forward, getting only half correct after some delay. He has anomia for both high and low frequency objects, although he is able to get some high frequency objects with cueing. Gaze midline. No neglect. -Cranial Nerves: II: PERRL 3 to 2mm and brisk. Blinks to threat in all quadrants. Funduscopic exam revealed no papilledema, exudates, or hemorrhages. VII: Left lower facial droop. -Motor: Normal bulk, tone throughout. No pronator drift. Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___ L 5 ___ ___ 4 5 - - 5 5 R 5 ___ ___ 5 5 - - 5 5 -Sensory: No deficits to light touch, pinprick throughout. -DTRs: Bi Tri ___ Pat Ach L 2 2 2 - - R 2 2 2 - - Toe down on right, up on left. -Coordination: No dysmetria on FNF bilaterally."
+    }
+}

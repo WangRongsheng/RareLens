@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Non maturing left brachiocephalic AV fistula.",
+        "history_of_present_illness": "Initially presented to our ER complaining of dyspnea with shortness of breath which had been worsening over time. He reports that he has started to sleep propped up on pillows overnight, developed worsening lower extremity edema and also gained '20 pounds of fluid' during the 2 weeks preceding admission. His son and wife found him on the morning of admission to be confused and disoriented. He was evaluated in the ER and admitted with a diagnosis of uremia and CHF with fluid overload. During this admission he also developed Afib which has not converted back to sinus rhythm but is rate controlled. He is currently on a B-blocker and was recently started on coumadin. During this admission, he has had a R IJ tunneled HD catheter placed. He is also currently being treated for a pneumonia due to a questionable infiltrate on CXR. His AV Fistula had failed to mature in the outpatient setting since being placed.",
+        "past_medical_history": "- DM with retinopathy, - HTN, - PVD - right fem-pop bypass, - Obesity, - BPH - s/p TURP, - Prior bladder stones, - Smoker, - Hypercholesterolemia, - Necrotizing fasciitis of the abdominal wall approx Not specified ago.",
+        "family_history": "There is no family history of any chronic kidney disease or hypertension. His mother had a history of angina and passed away at the age of Not specified. His father died of lung cancer. He has 2 sisters who are reportedly healthy and a brother who recently got diagnosed with diabetes. He has 4 children aged Not specified to Not specified, who are healthy except for asthma. He has 11 grandchildren and one great grandchild and another great grandchild on the way.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: AFVSS. GEN: A&O, NAD, sitting in chair, comfortable. HEENT: No scleral icterus, mucus membranes moist. CV: irregularly irregular, no murmurs. PULM: decreased BS bilateral bases, no wheezes/rhonchi. ABD: Soft, nondistended, nontender, no rebound or guarding, normoactive bowel sounds, no palpable masses. Ext: No edema, warm and well perfused.",
+        "specialty_examination": "Gen: NAD, sitting in chair comfortably. LUE: palpable distal radial pulse, palpable thrill and audible bruit over fistula, fistula site dressed with c/d/i gauze with no serosanguinous soak through."
+    }
+}

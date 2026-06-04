@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "54",
+        "gender": "Not specified",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Unconscious state with a GCS of 8",
+        "history_of_present_illness": "Massive intraventricular hemorrhage with an asymmetrical pattern that is more notable in the atrium of the right lateral ventricle and a remarkable spot sign in the same location",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    }
+}

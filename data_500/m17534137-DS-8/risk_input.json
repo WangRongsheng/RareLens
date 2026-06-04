@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "ST elevations",
+        "history_of_present_illness": "___ yo M with no known pmhx who presents after being found by police agitated and altered. Pt admitted to drinking EtOH and taking cociane but denied any other drug use. He denied trauma, fall, headstrike, chest pain. In the ED, pt was noted to be significantly agitated and combative. Vitals were notable for tachycardia into 130s on arrival and noted to be hypertensive to 174/67. Pt received 10 mg IM haldol and 6 mg IM ativan for agitatation. Labs and imaging significant for lactate of 5. K 3.2. Trop <0.01. CK 401. MB 3. Serum etoh 258. Urine was positive for cocaine. Remainder of chem-7, cbc and coags were unremarkable. EKG was notable for ST elevations in V2 and V3. Bedside echo did not show any obvious wall motion abnormalities. Pt received PR asa 325 and was started on heparin gtt and nitro gtt. He was also given dilt. Vitals prior to transfer were HR 82 BP 125/64 RR 19 O2 Sat 98%.",
+        "past_medical_history": "1. CARDIAC RISK FACTORS: denies Diabetes, Dyslipidemia, Hypertension 2. CARDIAC HISTORY: none 3. OTHER PAST MEDICAL HISTORY: none",
+        "family_history": "unable to obtain",
+        "social_history": "___"
+    },
+    "physical_examination": {
+        "general_examination": "VS: T 98.4, HR 77, BP 132/52, O2 Sat 98% on RA. General: young appearing male, resting comfortably in soft wrist restraints.",
+        "specialty_examination": "CV: RRR, no MRG. Neuro: Alert and oriented x 3. Denies pain. RESP: Lungs CTA throughout."
+    }
+}

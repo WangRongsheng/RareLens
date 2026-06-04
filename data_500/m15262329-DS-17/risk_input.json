@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Left hip pain",
+        "history_of_present_illness": "Patient has had difficulty carrying out ADLs and failed conservative management and is seeking definitive surgical treatment for his left hip pain.",
+        "past_medical_history": "Bilateral OA, HLD, R ACL repair, recent back cellulitis",
+        "family_history": "Positive for father having had colon and liver cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Well appearing in no acute distress Afebrile with stable vital signs Pain well-controlled Respiratory: CTAB Cardiovascular: RRR Gastrointestinal: NT/ND Genitourinary: Voiding independently Neurologic: Intact with no focal deficits Psychiatric: Pleasant, A&O x3",
+        "specialty_examination": "Musculoskeletal Lower Extremity: Incision healing well with staples, Scant serosanguinous drainage, Thigh full but soft, No calf tenderness, SILT, NVI distally, Toes warm"
+    }
+}

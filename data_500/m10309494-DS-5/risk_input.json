@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Altered Mental Status",
+        "history_of_present_illness": "This is an ___ year old man with a history of squamous cell carcinoma EUS stage T3, initiated chemoradiation with carboplatin and paclitaxel, first dose of chemotherapy given on ___, thought to be in remission, recently found to have recurrence s/p re-initiation of palliative chemotherapy with oxaliplatin and capecitabine now presenting with 3 days of altered mental status. Per the ED, his daughter states that over the past 3 days his mental status has deteriorated and is no longer able to participate in conversation as he was 3 days ago. No report of fever, chills, headache, nausea, or vomiting before this started. Per the patient's son, the patient was more confused over the last several days. His home, which is usually clean, was messy and the patient would not open the front door to let his children in.",
+        "past_medical_history": "1. T3N0 Esophageal Squamous Cell Cancer; 2. Hypertension.",
+        "family_history": "No family history of cancer",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals - T: 97.8, BP: 92/60, HR: 76, RR: 16, O2 sat: 98%. General: NAD. Skin: warm and well perfused. HEENT: AT/NC, EOMI, PERRLA, anicteric sclera, pink conjunctiva. Cardiac: RRR, S1/S2, no mrg. Lung: CTAB, slightly decreased breath sounds at the bases. Abdomen: nondistended, +BS, nontender in all quadrants.",
+        "specialty_examination": "Neurological: CN II-XII appear to be intact, patient moves all extremities."
+    }
+}

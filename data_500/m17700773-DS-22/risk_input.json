@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Fever, cough, fatigue",
+        "history_of_present_illness": "Patient is a female with invasive ductal carcinoma s/p surgery and chemotherapy, presenting with several weeks of cough, malaise, worse since two days prior, frequently coughing up green sputum. She received a course of levofloxacin from her pulmonologist with no improvement, progressively feeling worse. Initial vital signs indicated elevated heart rate and low blood pressure. Lab results showed elevated white blood cell count and lactate, with no pulmonary embolism or pneumonia found on imaging. Patient was treated with IV antibiotics.",
+        "past_medical_history": "Diagnosed with triple negative breast cancer in the past, right mastectomy performed, history of Hodgkin's lymphoma, anemia, asthma, and hypothyroidism.",
+        "family_history": "Mother diagnosed with breast cancer at the age of Not specified, had a mastectomy with no adjuvant endocrine therapy.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: 98.1°F, 114/58 mmHg, 112 bpm, 24 RR, 94% RA. NAD. Exam notable for clear lungs without distress.",
+        "specialty_examination": "Neurological: Moving all extremities spontaneously, within normal limits. Cardiovascular: Normal heart sounds, no significant abnormalities. Respiratory: Clear to auscultation bilaterally."
+    }
+}

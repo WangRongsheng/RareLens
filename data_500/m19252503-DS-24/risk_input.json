@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "L carotid artery stenosis",
+        "history_of_present_illness": "M small vessel disease and a previous lacunar stroke whom was brought down to ED from US. Pt was complaining of vague left arm paraesthesias. They are now resolved. Pt had previously had carotid US which showed 70 percent stenosis, today's US shows around 80-99% stenosis.",
+        "past_medical_history": "1. HTN 2. GERD 3. Inc Chol 4. Vertigo 5. TIA in Thalamocapsular region 6. Peripheral Vestibulopathy 7. BPH 8. OSA 9. Seasonal Allergies",
+        "family_history": "Father died at age ___, cause is unknown. Mother is ___, alive and well. Negative for heart disease of AMIs.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital Signs: Temp: 98 RR: 12 Pulse: 76 BP: 142/76. Neck: No masses, Trachea midline, Thyroid normal size, non-tender, no masses or nodules, No right carotid bruit, No left carotid bruit. Nodes: No clavicular/cervical adenopathy, No inguinal adenopathy. Skin: No atypical lesions. Heart: Regular rate and rhythm. Lungs: Clear, Normal respiratory effort. Gastrointestinal: Non-distended, No masses, Guarding or rebound, No hepatosplenomegally, No hernia, No AAA. Extremities: No popliteal aneurysm, No femoral bruit/thrill, No RLE edema, No LLE Edema, No varicosities, No skin changes. Notable increase pulsation R carotid artery.",
+        "specialty_examination": "Neuro/Psych: Oriented x3, Affect Normal, NAD."
+    }
+}

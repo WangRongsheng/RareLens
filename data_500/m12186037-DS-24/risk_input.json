@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Vomiting and epigastric pain",
+        "history_of_present_illness": "The patient states she has been having epigastric pain and nausea for a couple of weeks but it has worsened in the last three days and she has been vomiting. The vomiting has been black and brown in color. She therefore has not been able to eat or drink much of anything recently. Denies fevers or shortness of breath, diarrhea, and has been having small formed bowel movements. ED investigations revealed a pulmonary embolism and gastric outlet obstruction.",
+        "past_medical_history": "Primary diagnosis of metastatic cholangiocarcinoma, prior surgical resection, history of weakness, fatigue, anorexia, and jaundice. Other treatments included gemcitabine and chemoradiation.",
+        "family_history": "Father died of prostate cancer, mother died of dementia, sister has pulmonary hypertension, brother is estranged, uncle has prostate cancer, and aunt has stomach cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital Signs: BP 96/60, HR 86, RR 18, Temp 98.0. General: NAD. Abdomen: Soft, NT, distended, multiple palpable nodules, NG tube in place.",
+        "specialty_examination": "Neurological: Alert and oriented, no focal deficits. Cardiovascular: RRR, NL S1S2. Pulmonary: Decreased breath sounds diffusely."
+    }
+}

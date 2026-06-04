@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "L ankle pain",
+        "history_of_present_illness": "Woman with complex PMH including hypertrophic CM s/p pacemaker/ICD, who presents after mechanical fall while getting OOB resulting in left ankle fx. Had been walking all day in the heat the day prior and didn't drink enough fluids. Excellent functional status without CP or SOB. States her PCP increased nadolol dose from 20mg BID to 40mg BID several months ago, denies any hx syncope but had one prior mechanical fall three mos ago. Currently feels well.",
+        "past_medical_history": "Hypertrophic cardiomyopathy ICD placement, hypercholesterolemia, Trigger finger repair, Dry mouth, Anemia",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "AVSS NAD pleasant, speaking full sentences symmetric chest rise. L Leg in cast; dry, intact wiggles toes, wwp SITLT distal aspects of toes 2+ CR, no pain w/ AROM/PROM.",
+        "specialty_examination": "Not specified"
+    }
+}

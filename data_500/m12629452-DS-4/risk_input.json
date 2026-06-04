@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Works at a mental hospital"
+    },
+    "medical_history": {
+        "chief_complaint": "Altered mental status",
+        "history_of_present_illness": "Patient with a past medical history of bipolar disorder with psychotic features, presents with altered mental status (AMS) after being brought in by police for walking through the streets removing her clothing. The night before admission, the patient refused medications including an antibiotic for UTI. On the day of presentation, found minimally responsive at the facility and transferred to ED. Initial vital signs were 98.4°F, HR 59, BP 106/64, RR 20, O2 saturation 100%. Patient was initially unresponsive, received 2mg IV Narcan - no response initially, awoke 30 minutes later. Negative serum toxicology, head CT and CXR negative. Upon awakening, asserted she was not a patient and claimed to work at a mental hospital. On arrival to the floor, vital signs were 97.4°F, BP 104/62, HR 57, RR 16, O2 saturation 100%.",
+        "past_medical_history": "Hypertension, Bipolar disorder with psychotic features, possible dystonic reaction, possible tremor.",
+        "family_history": "Unable to obtain.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Initial vitals on admission: 97.4°F, BP 104/62, HR 57, RR 16, O2 saturation 100%. Patient is alert, A+O x1 (name), altered but interactive. Notable findings include diffuse white patches on tongue and hard palate, trace edema to mid-calf, dark tan lines from sunbathing.",
+        "specialty_examination": "Neurological exam shows intact CNs 2-12, diffusely hyperreflexic with cogwheeling of upper extremities. Patient has resting hand tremor and appears less Parkinsonian but more agitated than prior day."
+    }
+}

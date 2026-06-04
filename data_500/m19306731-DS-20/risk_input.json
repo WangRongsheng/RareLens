@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hypoglycemia",
+        "history_of_present_illness": "Patient presents after episode of hypoglycemia at home. Took 30 units home insulin without checking BS. Recent admission for hypertensive emergency with symptoms of blurry vision, dyspnea, and swelling. Upon presentation, repeat BS is 128.",
+        "past_medical_history": "Diabetes mellitus II, diabetic nephropathy, diabetic retinopathy, hypertension, hypercholesterolemia, cataracts, erectile dysfunction, scrotal abscess.",
+        "family_history": "Father, mother, and 4 siblings have hypertension; father (lung cancer), mother (breast cancer), paternal grandmother, and father have diabetes type 2.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Initial vital signs: BP 170/80, HR 73, RR 16, O2 97% RA. Admission physical exam showed no cervical LAD, S1/S2 RRR, 1+ pitting edema bilaterally.",
+        "specialty_examination": "Neuro: AAOx3, 3+/5 strength in all four extremities. CV: No murmur, rub, or gallop. Pulmonary exam revealed clear to auscultation bilaterally, mild pulmonary edema noted on CXR."
+    }
+}

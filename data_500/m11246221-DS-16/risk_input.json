@@ -1,0 +1,30 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Right tibial infection",
+        "history_of_present_illness": "Female admitted for right tibial infection requiring surgical management.",
+        "past_medical_history": "(1) T2DM (2) MIx2, s/p CABG (3) HTN",
+        "family_history": "non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": {
+            "vital_signs": "BP: 92/50, HR: 73, RR: 18, Temp: 97.0",
+            "notable_findings": "pleasant, nad; edentulous, mmm, no lesions; no cervical LAD; supple, no LAD, no thyromegaly; RRR, no MRG; CTA bilat w/o wheezes/rhonchi/rales; no spinous process tenderness, no CVA tenderness; +bs, soft, non-tender, non-distended, no cervical or inguinal LAD; areas of incision - proximal tibial incision with minimal surrounding erythema and no clear purulence; distal tibial incision C/D/I; significant TTP throughout tibial surgical site but no fluid collection or induration; aaox3",
+            "constitutional_symptoms": "Not specified"
+        },
+        "specialty_examination": {
+            "neurological": "cn ___ intact",
+            "cardiovascular": "RRR, no MRG",
+            "other_findings": "Not specified"
+        }
+    }
+}

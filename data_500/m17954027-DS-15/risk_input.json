@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "117 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "white Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "chest pain at rest",
+        "history_of_present_illness": "Awoke one morning, felt a pressure-like sensation in his chest, described as feeling as if somebody was sitting on his chest. Underwent nuclear stress testing which revealed concerning EKG changes and reversible ischemia in the inferior and apical territory suggesting a moderate area of reversible ischemia. Referred for cardiac catheterization which found multivessel disease.",
+        "past_medical_history": "Hypertension, Hyperlipidemia, Metabolic syndrome, Obstructive sleep apnea (unable to tolerate CPAP), Proteinuria (not specified), Skin lesion removed from back (not specified)",
+        "family_history": "non contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: Pulse: 84, Resp: 19, O2 sat: 97/RA, B/P Right: 138/87, Left: 136/88, Weight: 117 kg, General: white Caucasian male, morbidly obese. In no acute distress, pleasant and cooperative.",
+        "specialty_examination": "Neuro: Grossly intact. Pulses: Femoral Right: 2+, Left: 2+, DP Right: 2+, Left: 1+, Radial Right: 2+, Left: 2+, Carotid Bruit: none appreciated bilaterally. Chest: Lungs clear bilaterally, Heart: RRR, irregular but no murmur."
+    }
+}

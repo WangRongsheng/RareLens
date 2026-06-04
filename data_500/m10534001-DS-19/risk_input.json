@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Shortness of Breath",
+        "history_of_present_illness": "Ms. ___ is a ___ female with metastatic breast cancer to lung, liver, and bone, s/p mastectomy and radiation, who presented to the ED yesterday with acute on chronic worsening dyspnea and cough. She recently finished cycle 2 of capecitabine. She is followed as an outpatient by pulmonary and oncology for dyspnea, which has been attributed to her metastases to the lung. She is on medications and home ___ to help with respiratory symptoms and hospice nursing comes to her home to aid with care. Over the past several days, she has been having worsening cough and dyspnea, which prompted referral to the ED. There was report of scant hemoptysis at home as well.",
+        "past_medical_history": "R breast invasive carcinoma (dx ___ w ductal and lobular features, poorly differentiated, ER+/PR+, Her-2/neu neg. Right axilla LN positive. Stage IIB T2N1M0. Status post neoadjuvant chemo (AC, then taxol, both c/b side effects). BRCA 1 and 2 negative. PSH: c-section x1, d&c /___ due to miscarriage, port placement ___",
+        "family_history": "Denies family history of blood diseases or cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VITAL SIGNS: 98.9F 114/70 114 18 93% 4L. General: Sitting leaned forward with husband rubbing her chest, not interacting with me from distress. she is in tripod position but when redirected does not appear to be in respiratory failure but does appear to be in mild resp distress, appears quite anxious moaning as she is holding her husband's hands as ___ rubs her anterior chest. HEENT: MMM, no cyanosis. CV: Tachy. PULM: Unable to appreciate any significant air movement b/l, no wheezing no crackles.",
+        "specialty_examination": "NEURO: Grossly normal."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Presents with RUQ pain for 24 hours. Pain started after eating chips and has remained fairly constant since. She has had nausea and 6 episodes of emesis. This is her 4th episode of RUQ pain since her previous episodes resolved on their own in a few hours. Underwent RUQ US showing gallstones. Ate a cheeseburger 3 hours prior to presentation with worsening of her pain. Does not report fevers.",
+        "past_medical_history": "Rheumatoid arthritis",
+        "family_history": "RA in mother, acute cholecystitis in grandmother",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS T 98.0 BP 98/65 HR 82 RR 18 O2Sat 95%@RA. Patient is alert and oriented, no acute distress. Abdomen is soft, non-distended, slightly tender to palpation.",
+        "specialty_examination": "Neurological: Not specified. Cardiovascular: Regular rate and rhythm, no murmurs/gallops/rubs. Abdominal exam shows tenderness."
+    }
+}

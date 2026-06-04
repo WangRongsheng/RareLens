@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Weakness, general malaise",
+        "history_of_present_illness": "A woman with pancreatic cancer metastatic to the peritoneum, liver, and duodenum, s/p chemo, currently on palliative XRT, presents with generalized malaise. She had some nonbloody loose stools the day prior to admission, but the loose stools have resolved. Reports very low appetite and poor PO intake. Also has the same epigastric abdominal pain that she has been having for months. Reports nausea without vomiting. No chest pain, dyspnea. Labs were notable for WBC 25, Cr 3.8, K 5.5. Admitted for further management.",
+        "past_medical_history": "Pancreatic cancer, MDS, HUS thought to be due to gemcitabine, left eye surgery for a retinal tear, hypertension, hyperlipidemia, history of migraines, endometriosis, lumpectomy.",
+        "family_history": "Mother died of breast cancer at age Not specified. No family history of pancreatic cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T 96.9, BP 144/82, HR 68, RR 16, 96% RA. Elderly woman lying in bed in no acute distress but very tired-appearing, awake, alert, answering all questions appropriately.",
+        "specialty_examination": "Neurological: Not specified. Cardiovascular: no jugular venous distention, normal rate, regular rhythm, normal S1/S2, no murmur, no rub. Lungs: clear to auscultation bilaterally, no crackles or wheezes. Abdomen: soft, tender at epigastric area, nondistended, bowel sounds present, no hepatosplenomegaly."
+    }
+}

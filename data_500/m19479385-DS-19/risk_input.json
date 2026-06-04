@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Right knee osteoarthritis",
+        "history_of_present_illness": "Mrs. ___ has had pain in the right knee for a number of years with diagnosis of right knee osteoarthritis for which she has received intermittent steroid injections. In ___, she received a Synvisc injection and the next day she experienced increased erythema, swelling, and pain. She also complains of subjective low-grade fevers and chills, ongoing fatigue and generalized weakness associated with the timing of the injection. Pain rated as moderate; more difficult with weightbearing. Stiffness in the morning, takes ibuprofen occasionally for some improvement. Symptoms ongoing for three weeks, with elevated WBC counts and inflammatory markers.",
+        "past_medical_history": "Inflammatory osteoarthritis of the right knee, hypertension, hypercholesterolemia, chronic anemia, chronically elevated inflammatory markers, urinary frequency, gait disorder with history of falls, osteoporosis, spinal stenosis, thoracic spine at T9 intradermal meningioma s/p resection, small asymptomatic aortic ulceration.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Well appearing in no acute distress; afebrile with stable vital signs; pain well-controlled.",
+        "specialty_examination": "Musculoskeletal: Incision healing well with staples, no erythema, scant serosanguinous drainage, thigh full but soft, no calf tenderness; neurologic intact with no focal deficits; intact with clear and coherent mental status."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Fall",
+        "history_of_present_illness": "Ms. ___ is a ___ year old female with pmh of HTN and diet controlled DM who presents with back pain after a mechanical fall. She has been in the area for about a month to visit her daughter who is also an inpatient. She was in her room last night and tripped over an EEG lead and twisted her back, resulting in severe low back pain. She was obs'd overnight in the ED. She was given oxycodone, percocet, and diazepam in the ED which 'took her pain down a notch' but made her very drowsy and nauseated. In the ED, initial vitals: 98.9 69 199/67 18 100%. Diazepam 5 mg x1, oxycodone-acetaminophen 5mg/325mg x2 and oxycodone 5mg x3, ibuprofen 400mg, and Atenolol 50 mg. CT pelvis done and showed no fracture. Hip films showed mild acetabular spurring noted bilaterally. Otherwise, normal. L-Spine X-Ray: degenerative changes in the lower thoracic and upper lumbar spine as stated. No compression fracture or malalignment. Seen by ___ evaluation completed. Pt unable to perform bed mobility without max A ___ pain and unable to be discharged home safely at this time given back pain during all activity. Anticipate with better pain control/management, pt will be able to participate in ___ however, if unable, may require rehab discharge.",
+        "past_medical_history": "Hypertension, Diet controlled diabetes mellitus",
+        "family_history": "No history of severe back problems",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS - Temp 97.5F, BP 154/80 (manual), HR 63, R 14, O2-sat 100% RA. GENERAL - uncomfortable, appropriate, lying flat in bed. BACK - Tenderness over the paraspinal muscles in the left lumbosacral region, tenderness over SI joint. No midline tenderness.",
+        "specialty_examination": "NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength ___ throughout, sensation grossly intact throughout, leg raise positive bilaterally. DTRs 2+."
+    }
+}

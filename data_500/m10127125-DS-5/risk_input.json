@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Direct admission for initiation of hemodialysis",
+        "history_of_present_illness": "Patient with history of hypertension, TIA, CRF, known 3.3 cm infrarenal AAA with thrombus admitted for placement of a tunneled hemodialysis line and initiation of hemodialysis. Developed acute on chronic renal failure with rapid worsening of creatinine to 8.4 today (baseline ~2). Patient declined hemodialysis previously but accepted today. Reports she does not desire hemodialysis.",
+        "past_medical_history": "1) TIA 2) Hypertension 3) Hyperlipidemia 4) Chronic kidney disease, non-proteinuric 5) Diverticulosis 6) Depression 7) s/p CEA 8) 3.3 cm infrarenal AAA 9) s/p cholecystectomy 10) PVD 11) Recent admission for chronic abdominal pain due to infrarenal aneurysm and question of chronic dissection with thrombus of the infrarenal aorta.",
+        "family_history": "Non-Contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "On admission: Vital signs: T: 98.9 BP: Not specified P: 50 RR: 18 SpO2: 99 %RA. General: Well-appearing, younger than stated age; HEENT: NCAT, + L carotid bruit, no JVD; Cardiovascular: Regular rate and rhythm with II/VI systolic murmur heard best at the base; Lungs: CTAB; Abdomen: Soft and nontender, + bowel sounds; Extremities: no c/c/e, nontender, 2+ DP pulses b/l; Neurologic: Grossly normal, alert and oriented.",
+        "specialty_examination": "Not specified"
+    }
+}

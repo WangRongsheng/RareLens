@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "2 months",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Cerebral infarction",
+        "history_of_present_illness": "Median age 2 months, range 0-16.2 years; Occlusions of the left medial cerebral artery were predominant (n=24), one child developed thrombosis of the central retinal artery, and one thrombosis of the posterior cerebral artery.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Diagnostic measures included electroencephalography, cerebral sonograpy, computed tomography and/or magnetic resonance imaging of the cranium and echocardiography in all patients. Additional angiography was carried out in selected patients (n=5)."
+    }
+}

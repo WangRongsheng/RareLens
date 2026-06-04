@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "intermittent garbled speech, vertigo",
+        "history_of_present_illness": "Mr. ___ is a ___ year old right handed male who presents with garbled speech and vertigo. He was well until 7pm this evening when he was seated next to his wife at a ___ post. He was midsentence, when he produced completely garbled speech. This episode lasted three minutes. His wife drove him to ___ for evaluation. While in the car he became profusely diaphoretic, and then noted that he felt quite dizzy, as in the room spinning every time he stood up. Head CT performed at ___ was negative. He was given 1mg Ativan IV and Zofran IV, and he was transferred to ___ for evaluation. On arrival to ___ ~9:30pm the patient had a second episode of similar garbled speech lasting ___ minutes, with complete and sudden resolution. At present he reports feeling the room spinning when rolling over. He feels very fatigued since the onset of his symptoms. He reports being sensitive to the lights in the room. He denies any headache or neck pain. He had an episode of suddenly becoming very diaphoretic at a baseball game about 4 weeks ago resulting to admission at ___. There an MRI was performed and reportedly normal.",
+        "past_medical_history": "Left carotid endarterectomy (CEA) presented with amaurosis fugax. Peripheral neuropathy with burning pain at toes for the last few years. Restless Legs Syndrome improves with Ativan 2mg QHS. Glaucoma status post right eye surgery.",
+        "family_history": "Brother had seizure disorder since age ___. Sister died of brain cancer. Sisters have CAD.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "T 96.8, HR 57, BP 160/75, R 18, 98% RA. Patient is laying on his right side in a darkened room, squints to light, feels tired, and is described as an obese gentleman. 1+ pitting edema to knees bilaterally.",
+        "specialty_examination": "Neurological exam: Alert and oriented to person, place, and time with fluent speech and intact naming. No deficits to light touch, pinprick, cold sensation, vibratory sense, proprioception throughout. Good initiation of gait, narrow-based, normal stride and arm swing."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Shortness of breath and chest pain",
+        "history_of_present_illness": "Ms. ___ is a ___ y.o. F with hypertension, diabetes, COPD on home O2 3L NC continuously, current 1.5 ppd smoker, who presents with left sided chest pain and some worsened SOB. A few weeks ago she had a URI characterized by rhinorrhea and cough productive of white sputum. She continues to have cough with some white sputum. Reports DOE for the last ___ weeks that is improved today. The morning of admission, she woke up with left sided chest pain that was intermittent, sharp, and pleuritic lasting several minutes, radiating from her chest up the back of her neck to her head and down her left arm. She took 2 SL NTG that relieved her pain. Denies fevers, but endorses nausea and 2 pillow orthopnea that has been chronic for years. Denied PND and edema. In the ED, initial VS: HR 63, BP 107/59, RR 24, 100% RA. Labs including cardiac enzymes and BNP drawn. EKG, portable CXR, and CTA performed, significant for small right pleural effusion and possible basilar opacity on CXR. She was given multiple medications for treatment. On the floor that morning she feels at baseline, states her breathing is good now and is chest pain free.",
+        "past_medical_history": "Hypertension, Diabetes, Hyperlipidemia, Tardive dyskinesia, COPD on home O2, Tobacco abuse, Schizoaffective disorder, Chronic urticaria, Depression, Colonic adenoma, Hypercholesterolemia. Surgical history: s/p tonsillectomy, s/p prophylactic appendectomy at time of hysterectomy, s/p total abdominal hysterectomy.",
+        "family_history": "Mother: heart disease, hypertension, diabetes, anemia; Sister: cancer; Father: TB, passed away in ___; Daughter: ___.",
+        "social_history": "Current smoker, 1.5 ppd; living independently, other social details not specified."
+    },
+    "physical_examination": {
+        "general_examination": "Vitals - T: 97.3, BP: 140/60, HR: 63, RR: 22, O2 sat: 94% on 3 L NC. Pleasant elderly female, sitting up in bed with NC, speaking in full sentences.",
+        "specialty_examination": "HEENT: MMM, poor dentition, anicteric sclera, clear OP; CARDIAC: RR, II/VI SEM; LUNG: CTAB with poor air movement especially at the apices, prolonged expiration; EXT: + clubbing, no cyanosis or edema; NEURO: PERRLA, EOMI, reflexes 2+ at biceps and patellar tendons."
+    }
+}

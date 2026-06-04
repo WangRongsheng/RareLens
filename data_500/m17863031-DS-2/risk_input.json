@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abdominal pain",
+        "history_of_present_illness": "Ms. ___ is a ___ year old female with no significant PMH who presents with lower abdominal pain now transferred to the MICU for acute hepatitis. The patient states that she had a Paraguard placed about 2 months ago and since that time she has had significant abdominal pain. She began taking OTC analgesics including Tylenol, Aleeve, and NSAIDs. Over the past couple days, her pain has worsened with associated nausea and one episode of emesis. The pain is located in the RUQ, pelvic region and central abdomen. States she's having difficulty moving bowels, but she has moved them today. Denies etoh today, reports marijuana a couple days ago. Denies any history of surgery or ___ medical issues. Of note, the patient is a very poor historian. Upon arrival to ___ ED, initial vital signs were: pain ___, T 96.6, HR 100, BP 126/96, R 20, SpO2 98%/RA. - Labs were notable for: AST 1385/ALT 538, LDH 845, TB 3.3, INR 1.2, lactate 2.6, serum APAP 11, platelets 5 - CT abdomen/pelvis notable for acute hepatitis, with small ascites and patent portal vein - Urine cultures sent. Urine HCG negative. - Hepatology & hematology were consulted. They recommended HAV, HBV & HCV serologies, EBV & CMV VL, ___, AMA, ___ & ceruloplasmin, as well as steroids 1 mg/kg, respectively. - Hematology reviewed blood smear: no schistocytes, suspect ITP; start steroids; transfuse only for active bleeding - She was given 3 L IVF, prednisone 60 mg, ondansetron and started on prednisone 60 mg. On arrival to the MICU, she feels fatigued & lightheaded. States that she has had intermittent confusion where she feels like \"she is in a fog.\" Review of PMP negative for opioid use. Prior to transfer to the MICU, the patient had one episode of emesis with \"specks of blood\" although it was not visualized by our team.",
+        "past_medical_history": "None",
+        "family_history": "Does not know of any family history of liver disease. Mother with history of drug use.",
+        "social_history": "Denies etoh today, reports marijuana a couple days ago."
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: T 96.6, HR 100, BP 126/96, R 20, SpO2 98%/RA. General: Alert, oriented, no acute distress. Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly.",
+        "specialty_examination": "Neurology: no asterixis. Cardiovascular: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, gallops."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "3",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "White-Hispanic",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Unresponsive with low fingerstick glucose level (28 mg/dL)",
+        "history_of_present_illness": "Initially presented with altered mental status due to hypoglycemia at age 3. Confirmed primary adrenal insufficiency with isolated glucocorticoid deficiency. Experienced several hypoglycemic episodes, some leading to seizures around age 6 during viral illness. Managed with hydrocortisone and dextrose supplementation.",
+        "past_medical_history": "Primary adrenal insufficiency, alacrima, achalasia, mild learning difficulty, attention-deficit/hyperactivity disorder, migraines.",
+        "family_history": "Unremarkable with no reported adrenal insufficiency or sudden death.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Normal vitals, no hyperpigmentation, hypopigmentation, goiter, organomegaly, or clitoromegaly. Tanner stage 1.",
+        "specialty_examination": "Bilateral adrenal gland atrophy and hyperdense liver on abdominal computed tomography scan. Normal upper gastrointestinal tract studies initially, later developed severe dysmotility confirmed by esophagram and manometry study."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Admission for chemotherapy",
+        "history_of_present_illness": "Female with refractory metastatic colon cancer s/p multiple regimens, with progressive metastatic disease in her pelvis, now on FOLFOX with desensitization, who presents for C20D1 desensitization. Following her last cycle of chemotherapy, she was diagnosed with CDiff colitis. She had to be admitted due to difficulty obtaining the rx as an outpatient. Diarrhea has been improving, but she had a syncopal event last month. She felt very 'woozy' and leaned against a wall. She doesn't remember falling and 'woke up' surrounded by people with EMS activated. Upon awakening she felt relatively well. Since that episode, she has had persistent pain over her right thorax and right hip, up to present. She has had to have significantly increased help getting around the house. Pain is not frankly pleuritic. She has no shortness of breath at rest, despite stable 1 block DOE.",
+        "past_medical_history": "Colon cancer stage IV (T3N2bM1b) KRAS mutated, MSI stable. Hypertension, DVT, CDiff colitis.",
+        "family_history": "Mother died at age Not specified of breast cancer, HTN. Father with HTN, DM, ESRD on HD. No breast cancer in female siblings, colon cancer in male relatives. No FH of Crohn's, UC, IBD.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: T 98.4 HR 138/70 BP 138/70 RR 20 SAT 99% O2 on RA. Pleasant, lying in bed in mild distress due to pain.",
+        "specialty_examination": "Neurological: Alert, oriented, CN II-XII intact, motor and sensory function grossly intact. Cardiovascular: Tachycardic rate and regular rhythm, no murmurs, rubs, or gallops; 2+ radial pulses. Respiratory: Clear to auscultation bilaterally, full air movement throughout. Gastrointestinal: Distended with fluid wave; exquisitely tender in RUQ."
+    }
+}

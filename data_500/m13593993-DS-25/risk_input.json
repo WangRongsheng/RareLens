@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "52 kg",
+        "height": "Not specified",
+        "BMI": "21.7 kg/m2",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Fatigue, cough",
+        "history_of_present_illness": "___ year old woman with history of large cell lymphoma s/p allogenic stem cell transplant in ___ c/b GVHD and chronic kidney disease ___ cyclosporine versus chemo versus GVHD) who presents today from clinic complaining of 2 weeks of cough and fatigue. Says that symptoms began insidiously over the course of two weeks and have not been improving. No associated night sweats, fevers, or chills. No associated N/V/D or GI symptoms. Endorses slight decrease in appetite and possible weight loss of a couple pounds during the time she has been sick. She has seen Dr. ___ in clinic during this time and been started on levofloxacin 250 mg every other day with no significant change in symptoms. Says that her husband has recently been sick with similar respiratory symptoms. She presents today from clinic after receiving 15g IVIG. Her labs from clinic are significant for WBC 8.9, ANC 6520, Hct 30.0, Plt 321, BUN 43, Creat 4.0 (baseline creat 3.5-4.0).",
+        "past_medical_history": "- Large Cell Lymphoma s/p allogeneic stem cell transplant in ___ c/b cutaneous GVHD and nephrotic proteinuria\n- Chronic GVHD (skin,liver)\n- Thyroidectomy-secondary to thyroid mass--pathology was benign\n- Hypercholesterolemia\n- Steroid induced DM\n- CKD stage III-likely ___ chemo and CSA toxicity\n- Herpes zoster with post-herpetic neuralgia",
+        "family_history": "Her mom died at the age of ___ of cerebral hemorrhage. Her father died at the age of ___ of malignant hypertension. Her aunt had breast cancer. Her brother died of a massive MI at the age of ___. She has another brother with hypertension and emphysema.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VITALS: T 97.2, BP 131/79, HR 105, RR 18, 98% RA; slightly frail appearing; in no apparent distress; able to move in room and on bed without discomfort; coughing intermittently during exam",
+        "specialty_examination": "LUNGS: diffuse coarse inspiratory sounds and expiratory wheezes; no accessory muscle use; no focal changes in breath sounds; no decrease in breath sounds; no crackles; HEART: RRR, normal s1/s2; no m/r/g"
+    }
+}

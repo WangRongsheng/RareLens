@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "severe left thoracic pain",
+        "history_of_present_illness": "Mr. ___ presented with severe left thoracic radiculopathy. He did not have any response to conservative management. A decision for surgical treatment was taken.",
+        "past_medical_history": "- Asthma\n- Seasonal allergies\n- History of pulmonary embolus (thought to be provoked by flight from ___ ___, now s/p 6 months of warfarin)\n- Hypertension\n- Previous knee surgery\n- Negative stress test several years ago",
+        "family_history": "Father had CABG at age ___. No other family history of heart disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS ___ 0636 Temp: 98.2 PO BP: 130/85 L Lying HR: 78 RR: 18 O2 sat: 95% O2 delivery: Ra NAD, A&Ox4 nl resp effort RRR dressing c/d/I hemovac output 20 cc",
+        "specialty_examination": "Sensory: ___ L2 L3 L4 L5 S1 S2 (Groin) (Knee) (Med Calf) (Grt Toe) (Sm Toe) (Post Thigh) R SILT SILT SILT SILT SILT SILT L SILT SILT SILT SILT SILT SILT Motor: ___ Flex(L1) Add(L2) Quad(L3) TA(L4) ___ ___ R 5 5 5 5 5 5 5 L 5 5 5 5 5 5 5"
+    }
+}

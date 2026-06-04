@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abdominal distension",
+        "history_of_present_illness": "Ms ___ is a ___ year-old female with hx of ESRD on HD who was sent to the ED from an outpatient appointment with her hepatologist for workup of worsening ascites. Currently she denies any symptoms. She does admit to occasional nausea and vomiting, but denies vomiting blood. Admits to constipation and denies BRBPR or melena. Denies heavy alcohol use or drug use. Denies a history of viral hepatitis or jaundice.",
+        "past_medical_history": "hypertension, end stage renal disease on hemodialysis, s/p failed renal transplant, s/p replacement of aortic graft/resuspension of aortic valve, abdominal hernia, nephrolithiasis, hemorrhoids, arthritis",
+        "family_history": "Significant for HTN. Mother ___; Brother w/CVA in ___.",
+        "social_history": "Denies heavy alcohol use or drug use."
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: 99.5 BP: 117/66 P: 99 R: 20 Sat 97% on RA. Elderly female lying in bed in NAD. Alert and appropriate. Abdomen: distended, somewhat tense abdomen with ascites present. Nontender with bowel sounds present. Slight lower extremity edema present bilaterally.",
+        "specialty_examination": "Neuro: CN II-XII intact, 4+/5 strength in her upper and lower extremities bilaterally. Minor findings in cardiovascular and abdominal examinations."
+    }
+}

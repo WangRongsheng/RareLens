@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Right upper quadrant abdominal pain",
+        "history_of_present_illness": "Patient reports that her pain began one day prior to admission and was characterized by an episode of right-sided pain radiating to the back, nausea, vomiting, and diarrhea for 1 day. She felt back to normal until symptoms recurred; no fevers reported during this time. Pain was noted as 4 out of 10 at evaluation, with additional constant achy pain in the epigastrium that began that morning.",
+        "past_medical_history": "Coronary artery disease status post stenting, tracheal stenosis complicated by recurrent stenosis requiring frequent bronchoscopy, hypertension",
+        "family_history": "Father with esophageal cancer, mother with COPD",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Alert and in no apparent distress. Vital signs: temperature 97.9 °F, heart rate 66 bpm, blood pressure 134/46 mmHg, respiratory rate 16 breaths/min, oxygen saturation 98% on room air. General exam shows mildly icteric sclera, abdomen soft, non-distended, tender to palpation in the epigastric and RUQ.",
+        "specialty_examination": "Eyes: pupils equally round, no visible abnormalities. ENT: clear, no lesions. Cardiovascular: heart regular, systolic murmur. Respiratory: lungs clear. Gastrointestinal: tender RUQ, hyperactive bowel sounds. Skin: no rashes. Neurological: alert, oriented, normal speech and movement."
+    }
+}

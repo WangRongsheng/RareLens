@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "fall",
+        "history_of_present_illness": "Patient fell in bathroom after urinating, did not have any pre-aura or LOC, fell on right arm and shoulder onto door. Presenting with a large right arm laceration, CT head, spine, CXR all negative. Admitted due to MRSA for syncope.",
+        "past_medical_history": "Cervical spondylosis, CAD with pMIBI, aortic insufficiency, right bundle branch block, HTN, peripheral vascular disease s/p bilateral balloon angioplasty, CVA with bilateral vertebral artery stenosis, ulcerative colitis, hypercholesterolemia, squamous cell carcinoma, depression.",
+        "family_history": "non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "T 98 BP 155/50 HR 70 RR 16, frail appearing, A/Ox3, vital signs stable.",
+        "specialty_examination": "NEURO - A&Ox3, CN grossly intact. MSK 4+/5 bilaterally, lower extremity edema. CV - RRR, S1+S2+S3-S4-, SEM LSB."
+    }
+}

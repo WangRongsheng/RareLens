@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "0",
+        "gender": "Female",
+        "weight": "3075 g",
+        "height": "42 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Respiratory distress",
+        "history_of_present_illness": "The female infant was delivered by vacuum extraction following induction of labor at 37 weeks of gestation. Antenatal ultrasound findings of short limbs, micrognathia, small thoracic dimension and overlapping fingers indicated a skeletal dysplasia. The pregnancy was complicated by polyhydramnios necessitating four amnioreductions during the last six weeks of the pregnancy. At birth, the baby was intubated for respiratory distress and transferred to the neonatal intensive care unit. The baby had short limbs, micrognathia, a large cleft palate, small and low-set ears and short overlapping fingers. A skeletal survey showed a short broad thorax with horizontally aligned ribs, shortened long bones, marked metaphyseal widening of the long bones, rounded hypoplastic vertebral bodies, and delayed ossification of the symphysis pubis. The diagnosis of spondyloepiphyseal dysplasia (SED) congenita was made based on the skeletal survey and clinical picture.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "At birth, the baby weighed 3075 g (50th percentile), the head circumference was 35.5 cm (50th percentile), and the length 42 cm (53rd percentile). The Apgar scores were 6 and 9 at 1- and 5-minutes respectively. She was intubated for respiratory distress and transferred to the neonatal intensive care unit. The baby had short limbs, micrognathia, a large cleft palate, small and low-set ears and short overlapping fingers.",
+        "specialty_examination": "A skeletal survey showed a short broad thorax with horizontally aligned ribs, shortened long bones, marked metaphyseal widening of the long bones, rounded hypoplastic vertebral bodies, and delayed ossification of the symphysis pubis. The diagnosis of spondyloepiphyseal dysplasia (SED) congenita was made based on the skeletal survey and clinical picture. Ultrasound examinations of the head, heart, and abdomen were normal."
+    }
+}

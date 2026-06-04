@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Agitation",
+        "history_of_present_illness": "Ms ___ is a ___ with a history of HTN, HLD, CAD, CVA (___), T2DM controlled on diet, chronic confusion, who presents from ___ assisted living with agitation. Three days prior to presentation, the patient was noted to have agitation above her normal level of confusion by staff at her assisted living facility, accompanied by bloody urine. She had a UA with turbid urine positive for 3+ leukocyte esterase, many bacteria, >60 WBC/hpf, and >60 WBC/hpf, consistent with UTI for which she was placed on Ciprofloxacin. Urine culture results returned today positive for quinolone-resistant Proteus for which she was referred to the ED for IV antibiotics. In the ED, she denies fevers, chills, nausea, vomiting, diarrhea, abdominal pain, dysuria, chest pain, shortness of breath or other symptoms. She believes she is at the hospital to visit her nephew.",
+        "past_medical_history": "Cognitive/memory decline, CVA ___ years ago left frontal and parietal, Coronary artery disease, COPD not on home O2, Hypertension, Hyperlipidemia, Atrial fibrillation on asa and apixaban, DM diet-controlled.",
+        "family_history": "Mother - metastatic breast cancer, Father - died from cardiac event.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Initial vitals: 97.6 | 70 | 140/90 | 16 | 97% RA - Exam notable for: Alert, interactive. No lower abdominal, CVA tenderness.",
+        "specialty_examination": "Neurological: CNII-XII intact, ___ strength BUE, ___ strength BLE, grossly normal sensation, 2+ reflexes in BUE/BLE. Cardiovascular: Regular rate and rhythm, normal S1 + S2, ___ holosystolic murmur best heard @ RUSB."
+    }
+}

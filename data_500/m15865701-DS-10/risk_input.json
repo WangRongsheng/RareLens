@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "back pain, unable to ambulate",
+        "history_of_present_illness": "Patient has had chronic, intermittent midline back pain, but has been worse than baseline for ~6 weeks and much worse for several days. Intermittent bilateral radicular pin, radiation from buttocks through anterior thighs and lower leg. Mild bilateral diffuse leg weakness x~6 weeks, worse x several days. Has been unable to walk for ___ days secondary to weakness and pain. Also endorses bilateral lower extremity paresthesias, diffuse through both legs, for ~2 weeks. Decreased sensation noted to wiping saddle area during same time period. Chronic urge incontinence, ___ / week at baseline - occasionally unable to make it to the bathroom; also baseline sensation of incomplete emptying. No significant recent change. Chronic constipation; rare intermittent bowel incontinence with stress, last time ~1 week ago, no change from baseline. Post void residual 100 in ED. Endorses two falls ~2 weeks ago.",
+        "past_medical_history": "Diabetes Mellitus Type 2, bipolar disorder, hypertension, hyperlipidemia, dysrhythmia, asthma, obstructive sleep apnea, allergic rhinitis, gastroesophageal reflux disease, sickle cell trait, vertigo. Anterior/posterior lumbar fusion with recurrent left abdominal seroma.",
+        "family_history": "Diabetes in her maternal grandparents, mother, and siblings. Many of whom had renal failure. Also sister with heart failure. Cirrhosis in one brother.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "On examination the patient is well developed, well nourished, A&O x3 in NAD. AVSS. Range of motion of the thoracolumbar spine is somewhat limited on flexion, extension and lateral bending due to pain. Ambulating well with the assistance of a walker and lumbar corset brace for support.",
+        "specialty_examination": "Gross motor examination reveals good strength throughout the bilateral lower extremities. There is no clonus present. Sensation is intact throughout all affected dermatomes. The posterior thoracic incision is clean, dry and intact without erythema, edema or drainage."
+    }
+}

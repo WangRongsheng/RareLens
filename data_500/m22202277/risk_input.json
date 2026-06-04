@@ -1,0 +1,43 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Acute on sub-acute abdominal pain.",
+        "history_of_present_illness": "The patient was well until 1 month ago when he started experiencing periumbilical and RUQ pain, accompanied by loose non-bloody stools twice a day and a weight loss of 15 kg. Over the past 4 days, there has been a gradual worsening of RUQ pain that now radiates to the mid back. The pain is constant, with varying intensity, and is not related to food. The patient also reports nausea without vomiting and some diarrhea.",
+        "past_medical_history": "HTN, HLD, DM II, GERD/Reflux, investigated for headaches with MRI showing white matter hyperintensities suggestive of either ischemia or demyelinating disease, and status post left lower extremity fracture several years ago.",
+        "family_history": "Not specified.",
+        "social_history": "The patient stopped drinking alcohol about a year ago due to similar pains related to alcohol consumption, with a history of consuming several glasses of rum per day for many years. He is currently a smoker, one pack per day for several years."
+    },
+    "physical_examination": {
+        "general_examination": {
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "blood_pressure": "131/84 mmHg",
+                "heart_rate": "68 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, comfortable, NAD",
+                "eyes": "EOMI, PERRL, no conjunctival pallor or irritation",
+                "ENT": "MMM, no oral lesions",
+                "neck": "no LAD, no nuchal rigidity, JVP WNL",
+                "cardiovascular": "RRR, no M/R/G",
+                "respiratory": "CTAB, no wheezes or crackles",
+                "gastrointestinal": "Soft, NTND, no HSM, Normal Bowel Sounds",
+                "extremities": "No cyanosis, clubbing or edema. No signs of DVT",
+                "skin": "no rash, no Pressure Ulcers",
+                "neurological": "A+OX3, Non-Focal, Fluent Speech, Normal concentration",
+                "psychological": "Calm and Appropriate"
+            }
+        },
+        "specialty_examination": "Not specified"
+    }
+}

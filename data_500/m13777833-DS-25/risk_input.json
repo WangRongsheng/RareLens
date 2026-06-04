@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Anemia",
+        "history_of_present_illness": "Patient sent from PCP office with an acute drop in her Hct to 21 on labs drawn today. Baseline Hct is 30. Denies new symptoms; chronic mild abdominal pain, unchanged from baseline. Last bowel movement was ___ days prior to admission; chronic constipation managed with medications.",
+        "past_medical_history": "Chronic conditions: HTN, CKD, colon CA (s/p sigmoid colectomy), cholelithiasis, ventral hernia, multiple SBOs, lumbar spinal stenosis, OA, depression, gout.",
+        "family_history": "Non-contributory",
+        "social_history": "Denies substance use; bedbound for the past year due to falls."
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: BP 121/47, HR 74, RR 16, Temp 98.2. Alert, oriented, no acute distress, speaking with a very loud voice. No acute distress noted.",
+        "specialty_examination": "Neurological: CNs grossly intact; strength decreased in left ankle (foot drop chronic, per patient). Cardiac: regular rate and rhythm, normal S1 + S2, no murmurs. Abdomen: soft, mildly tender to palpation."
+    }
+}

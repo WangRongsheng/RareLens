@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Fall",
+        "history_of_present_illness": "Mr. ___ is a ___ old man who has a history of developmental delay, who suffered a fall in his group home, unwitnessed, at 4AM on ___. He was able to get up on his own. EMS was called but the patient refused to go to the hospital. Throughout the day after the fall, the patient did stay in bed most of the day and complained of low back pain. He refused to eat. He was able to use the bathroom on his own, but on ambulation he did grimace. He finally did agree to go to the OSH on ___, then was transferred to ___ on ___ for further management. In the ED here he appeared to be neuro intact before being seen by spine. He then became quite agitated prior to MRI and was intubated for that reason. He was also noted to have some hematuria.",
+        "past_medical_history": "Developmental delay, anxiety, HTN. Past Surgical History: none.",
+        "family_history": "Unable to obtain.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Intubated, sedated. Vital signs: RRR, No M/G/R. Clear to auscultation b/l, No W/R/R. Abdomen: Soft, nondistended, no rebound or guarding. Extremities: No edema, warm and well perfused.",
+        "specialty_examination": "Neuro: full strength. No c/c/e."
+    }
+}

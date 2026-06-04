@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "8",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "left inguinal pain",
+        "history_of_present_illness": "10-month history of left inguinal pain",
+        "past_medical_history": "adenectomy a few years previously",
+        "family_history": "Bone dysplasia was not known so far in the patient's family",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "free mobility of the left hip joint with moderate pain-perception by the patient at the final point of internal rotation. Normal skin without local swelling was noted. Neurological examination of the leg and pulses were normal.",
+        "specialty_examination": "Not specified"
+    }
+}

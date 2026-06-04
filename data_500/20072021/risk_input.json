@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "3",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hemifacial asymmetry with flattening of the right forehead and limited opening of the mouth with trismus",
+        "history_of_present_illness": "A few months after birth, her parents noticed hemifacial asymmetry with flattening of the right forehead and limited opening of the mouth with trismus. At the age of 1 year, the patient was treated for TMJ arthrosis in another center, where she underwent surgery consisting in masseter muscle weakening. This operation was unsuccessful.",
+        "past_medical_history": "TMJ arthrosis, masseter muscle weakening surgery at age 1",
+        "family_history": "No history of trauma to the mandible or familiar occurrence of similar abnormalities",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Mandibular lock with incisal clearance of 5 mm, associated with extremely limited protrusion and lateral mandibular movements. On palpation of the masticatory muscles, the masseter was found to be enlarged and very tense.",
+        "specialty_examination": "Preoperative three-dimensional CT reconstructions showed an enlarged coronoid process protruding at least 1 cm above the inferior rim of the zygomatic arch, accompanied by bone sclerosis. The zygomatic bone had an abnormal shape with an excess in the lower part."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "54",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "numbness and burning pain initially confined to the toes and the balls of her feet",
+        "history_of_present_illness": "3-year history of numbness and burning pain initially confined to the toes and the balls of her feet. When walking, she felt as though she had rocks in her shoes, and she preferred to walk barefoot. She developed marked allodynia, shooting pains in her feet and legs, and painful calf cramps. These symptoms slowly spread proximally to involve the whole foot and distal calf.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "sensitivity to pinprick and temperature was diminished on the feet and distal calves. She had normal strength, reflexes (including ankle jerks), vibratory sensitivity, and proprioception.",
+        "specialty_examination": "Results of nerve conduction studies were normal. QST thermal thresholds to cooling were abnormally elevated both at the foot (96th percentile) and hand (>99th percentile), whereas vibratory thresholds were normal. Skin biopsy specimens showed reduced IENF densities more marked in skin from distal than proximal sites (IENF densities: calf skin: 0 mm-’ [normal 2 3.81; thigh skin: 12.5 mm-' [normal 2 5.21). A sural nerve biopsy specimen taken from the calf was normal at the light microscopic level."
+    }
+}

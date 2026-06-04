@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "79.3 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Dizziness",
+        "history_of_present_illness": "Patient is a ___ year-old female with a history of hypertension, hyperlipidemia, and DM II who initially presented with cerebellar stroke and during the admission developed chest pain at rest with ST depressions. She initially presented to OSH with dizziness, right-sided weakness, nausea/vomiting. R cerebellar stroke was found and a pedunculated plaque at the aortic arch and a right vertebral artery plaque were observed. EKG showed SR 99 bpm, less than 1 mm depressions in III, aVF and V5 without ST elevations. Chest tightness on the left side of the chest was complained about during rounds. Episodes of chest discomfort have been occurring about one year with increased frequency.",
+        "past_medical_history": "Hyperlipidemia, Hypertension, Diabetes mellitus, Atherosclerosis of the lower extremities, Lumpectomy and chemotherapy ___. Appendectomy ___. Cholecystectomy late ___.",
+        "family_history": "Both parents passed away at the ages of ___ and ___ from strokes.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T 98.4, BP 117/68, HR 76, RR 18, O2 95 RA. General: Awake, cooperative, NAD.",
+        "specialty_examination": "Neurological: Alert, oriented x 3. Normal bulk, tone throughout. Unable to perform heel to shin with the right leg. Gait: Unable to walk."
+    }
+}

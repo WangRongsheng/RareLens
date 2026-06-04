@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Left-sided numbness and weakness",
+        "history_of_present_illness": "Pt is a ___ year old F with history of HLD, poorly controlled HTN and IDDM presents with 3 day history of intermittent weakness, tingling and weird feeling in her left face, arm and leg. Symptoms started in her face and spread to arm/leg after breakfast on ___. Symptoms were associated with mild bi-frontal HA. Prior neuro stroke w/u x2 for same presentation in ___ and ___ with MRIs negative each time. In ED, notable for 4+ left deltoid strength which appeared to be effort dependent. Decreased sensation to light touch in left face in V1 and V2 distribution with midline splitting and decreased sensation in left arm and leg (roughly 80%). CTH negative. Neurology consulted; symptoms not consistent with CVA. Monitored for elevated blood pressures in the 200s, which transiently responded to IV labetalol and PO/IV hydralazine.",
+        "past_medical_history": "DMII, HTN, Glaucoma, Anemia, Depression, GERD, Gastroparesis, Mesenteric ischemia, Increased alk phos, Hysterectomy ___",
+        "family_history": "DM- mother (died at ___ of complications of diabetes), Stroke- MGM",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 98 64 ___ - Exam notable for: unsteady gait, mild left foot drop, decreased sensation to light touch on L foot, L face > L arm. Decreased L plantar/dorsiflexion.",
+        "specialty_examination": "A&Ox3. Right pupil 3->2mm, left pupil non reactive ___ prior surgery. II-XII intact. Sensation to light touch intact and symmetric at face, arms and legs. Strength intact bilaterally."
+    }
+}

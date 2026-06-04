@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "dysarthria",
+        "history_of_present_illness": "The patient is a ___ year woman with a history of HTN, HLD, bilateral cerebellar/pontine stroke in ___, DVT and PE on lovenox, migraine, depression, recently admitted for L arm/leg heaviness and L face numbness which was diagnosed a stress reaction and multiple prior presentations with neurologic complaints, who presents today as a code stroke for dysarthria among other complaints. NIHSS was 2 for dysarthria and L sided ataxia (which is old), the time of onset was unclear, and the patient is already on lovenox, so no TPA was given. Along with dysarthria she has noted gait unsteadiness, L leg weakness, blurry vision for the past ___ days.",
+        "past_medical_history": "b/l cerebellar/pontine ischemic stroke ___ with residual left sided dysmetria (Arm > leg), migraines, h/o 3 DVTs and PEs on lifelong anticoagulation, currently on Lovenox since she was not compliant with INR checks. ?Etiology. recurrent major depression, pulmonary nodule, low back pain ___ DJD, asthma, HTN, Mild renal insufficiency (baseline Cr 1.2), hypothyroidism, pituitary microadenoma, anomalous pulmonary venous return, HL, nephrolithiasis, \"concentration difficulties\".",
+        "family_history": "Mother - breast CA, Father - HTN kidney removed tumour and enlarged prostate, Siblings - 3 sisters, Children - Daughter with bipolar disorder, with multiple psych admissions and recently back in psychiatric hospital; son with ___",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS 98.3 56 153/77 12 98% RA. General: NAD, lying in bed comfortably. No notable systemic findings.",
+        "specialty_examination": "Mental Status - Awake, alert, oriented x 3. Mildly slow speech and mild dysarthria. Cranial Nerves - Equal and reactive pupils, facial sensation was 50% decreased on the L face, muscles of mastication with full strength, symmetric palate elevation and symmetric tongue protrusion. Motor - Trace R hand pronation but no drift. Sensation - Decreased pinprick sensation on the L, with 80% sensation at L hand and 20% sensation L foot including entire L leg."
+    }
+}

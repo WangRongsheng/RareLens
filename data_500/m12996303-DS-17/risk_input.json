@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "dyspnea",
+        "history_of_present_illness": "Mr. ___ is a ___ year old man with a hx of stage I melanoma s/p resection, prostate cancer s/p prostatectomy and recently found to have NSCLC with right sided lung mass, hilar and mediastinal nodes positive and a right pleural effusion. He presented to the emergency room with worsening dyspnea this evening. Over the course of the past several days, his oxygen saturation has gradually decreased by 1-2%. He slowly became more short of breath with exertion such as walking out of the house. Denies worsening of cough but has a non-productive cough. He has felt progressively weak. Initial vitals: 99.1 94 86/57 20 91%. CXR showed worsening R moderate pleural effusion and suspected L sided pleural effusion.",
+        "past_medical_history": "Diabetes mellitus (last A1c 6.6 in ___ diet controlled), BPPV, Melanoma (Stage I, dx and excised in ___), Prostate cancer s/p radical prostatectomy and negative LN dissection (___), Cataracts, Pulmonary nodules (first noted in ___, s/p biopsy; followed by Dr. ___ at ___), Neuropathy, Tremor, Diverticulosis, Colonic polyps (adenomatous in ___), Celiac artery aneurysm (followed by Dr. ___ at ___) s/p CCY s/p inguinal hernia repair.",
+        "family_history": "No family history of clots or bleeding disorders. No h/o CAD, DM, colon or prostate cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: T98.3, BP 124/66, HR 94, RR 20, 94% on 4L. General: alert and oriented, breathing comfortably, NAD. LUNGS: Decreased breath sounds at the bases bilaterally, right greater than left, with dullness on percussion. RLE trace edema, RLE is larger than LLE.",
+        "specialty_examination": "Neurological: A&Ox3. Appropriate. CN ___ grossly intact. Preserved sensation throughout. ___ strength throughout."
+    }
+}

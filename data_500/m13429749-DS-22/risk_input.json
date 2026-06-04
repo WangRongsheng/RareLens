@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "___",
+        "gender": "Male",
+        "weight": "82.4 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "SOB, weight gain",
+        "history_of_present_illness": "CC: shortness of breath. HPI: ___ yo man with diastolic CHF, hypertension, diabetes, recently on ___ for CHF exacerbation, here from ___ clinic with dyspnea on exertion, weight gain, and an episode of PND. He in fact went to ___ 5 days after his discharge from the ___ on ___, and was monitored for 24 hours. This was after an episode of PND in the middle of the night on ___. He presented today for routine staging, but due to CKD, received a liter of fluids. He was found to have bilateral effusions and edema on his staging CT. Subsequently on questioning, he noted the dyspnea on exertion, as well as weight gain. He notes no chest pain, no palpitations, no changes in his diet. He notes persistent ___ edema. He notes no abdominal pain, nausea, vomiting, urinary symptoms. He notes no fevers or chills. ROS as above, otherwise in 7 systems negative.",
+        "past_medical_history": "- diabetes, insulin dependent - hypertension - severe left ventricle outflow tract obstruction - pancreatic cancer with mets to omentum, undergoing chemo with gemcitabine: no other chemotherapeutic agents, no radiation",
+        "family_history": "No family history of pancreatic cancer, positive for diabetes in his mother.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: Tmax 97.8 BP 170/92 HR 75 rr 18 98% RA O2 sat. General: in NAD, lying flat in bed. HEENT: OP moist, no LAD, JVP elevated to 11 cm. Lungs dull at bases, diminished, few crackles to ___ up bilaterally. CV RRR, systolic murmur ___ at USB. Abdomen soft, NT, ND, NABS. Ext: 2+ pitting edema to knee, bilaterally. Neuro: alert/oriented X3, moves all extremities spontaneously. Normal sensation in legs.",
+        "specialty_examination": "Not specified"
+    }
+}

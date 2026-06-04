@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "lower extremity edema",
+        "history_of_present_illness": "Extensive cardiac history including prior syphilitic aortic valve disease w/severe AR s/p mechanical AVR, CAD s/p CABG, restrictive cardiomyopathy, AF on Coumadin, HTN, pulmonary HTN, HL, and diastolic CHF now presenting from cardiologist for IV diuresis. Patient was recently admitted to ___ (~1 month PTA) twice for renal insufficiency in setting of klebsiella sepsis. Patient denies exertional buttock or calf pain. Denies any history of stroke, TIA, deep venous thrombosis, recent fevers, chills or rigors.",
+        "past_medical_history": "1. Cardiac risk factors: (+/-) Diabetes, (+) Dyslipidemia, (+) Hypertension 2. Cardiac history: 2v CABG for left main and RCA obstruction, atrial fibrillation on Coumadin, pulmonary hypertension status post AVR (mechanical prosthesis), probable restrictive cardiomyopathy with semi-compensated biventricular CHF 3. Other past medical history: Severe pulmonary hypertension, Hypertension, CVD status post Left CEA, Anemia.",
+        "family_history": "Two brothers who died of cancer (one of liver cancer, one of throat cancer), a sister with arthritis, mother had diabetes, father had tuberculosis.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS 98.3 79 116/58 17 99. NAD. Oriented x3. Mood, affect appropriate. 3+ edema, left slightly greater than right.",
+        "specialty_examination": "Neuro exam notable for mild right-sided facial weakness including asymmetric smile and unequal eye opening. Cardiac: irregular irregular with normal S1, mechanical S2, crescendo systolic murmur best heard along R and L USB and radiating along carotids, diastolic descrescendo murmur best heard towards apex, not radiating."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Left hip pain",
+        "history_of_present_illness": "Ms ___ is a ___ y/o female with a history of COPD, IDDM, HTN, recent hospitalization for multifocal MRSA/Serratia PNA pneumonia s/p mechanical fall with radiographic evidence of a left intertrochanteric fracture. She was hospitalized from ___ - ___ with necrotizing PNA during which she underwent VATS + decortication. Since discharge she was managed by ID/OPAT with completion of IV antibiotics. She has been stable off ABX; notably recent f/u showed L pleural effusion that is being observed by pulmonary. Per patient, she was in her usual state of health when she tripped and twisted her left lower extremity resulting in immediate left hip pain and fall. Patient denies associated head strike or loss of consciousness. She denies any recent illness, no chest pain or pressure, no lightheadedness or dizziness. She presented to ___ where plain films found left IT fracture and decision made to transfer here for surgical management. Of note, she underwent ORIF of L supracondylar femur fx on ___, Dr. ___. This is stable (last f/u at ___ ___. Currently the patient is in pain associated with her injury, but is otherwise well. She states that she has no history of chest pain or pressure, dyspnea on exertion, orthopnea, PND.",
+        "past_medical_history": "- COPD\n- CKD\n- Diabetes\n- HTN\n- Gout\n- Anxiety\n- Scoliosis\n- h/o L femoral fxr\n- OA\n- Positive PPD since childhood\n- MRSA and Serratia PNA (___)\n- VATS with hemothorax decortication (___)",
+        "family_history": "- GF, GM and aunt all with TB, formerly lived with patient in distant past.\n- mother and sister with colon cancer",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 97.9 108/53 82 18 93% RA; NAD, awake and alert; no notable systemic findings.",
+        "specialty_examination": "LLE: shortened and externally rotated, ___ + SILT SPN/DPN/S/S/TN TP/DP 1+; Neurological: CN II-XII tested and intact, strength and gait not tested; no other abnormal findings specified."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "4",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Pain + deformation",
+        "history_of_present_illness": "Posterior distal radius swelling, increasing in size with growth. Angular deformity related to intra-articular lesions of the wrist and knee.",
+        "past_medical_history": "Negative family history of bone dysplasia.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Posterior distal radius lesion leading to immediate instability of the wrist. Lesion of carpal ligaments and dorsal capsular distension."
+    }
+}

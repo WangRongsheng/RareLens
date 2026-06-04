@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "7 years",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Intellectual disability",
+        "history_of_present_illness": "First sat at 9 months and walked without support at 18 months. Walking was initially difficult with many falls. Expressive language was delayed. Hyperopia and multiple serous otitis. Neuropsychological assessment at 7 years using the Wechsler Intelligence Scale for Children (WISC) revealed low scores in total intellectual quotient (between 50 and 63).",
+        "past_medical_history": "Hyperopia and multiple serous otitis.",
+        "family_history": "One healthy older brother. Mother suffered from endometriosis, causing two previous miscarriages.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Normal growth in height, weight and head circumference. Able to write her name and to recognize alphabet letters. Mild joint laxity. No dysmorphic features nor motor deficiency.",
+        "specialty_examination": "Not specified"
+    }
+}

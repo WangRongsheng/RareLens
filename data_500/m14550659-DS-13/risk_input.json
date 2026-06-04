@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Left second toe chronic ulcer",
+        "history_of_present_illness": "Mr. ___ is a ___ yo M with a pmh significant for polycythemia who presents to the ED for worsening left digit cellulitis of 1 month duration. He states that the ulcer arose due to mechanical shearing from his new socks. The pt was previously seen in the ED on ___ for a left digit ulcer; at that time foot xrays were negative for any cortical disruption and the pt was afebrile and denied any other symptomatic signs. He was discharged with 10 days of clinda/cipro and a surgical shoe with instructions to follow up with his PCP. He was seen by his PCP this ___, who recommended that the pt re-present back to the ED for further evaluation due to nonimprovement of the pt's left foot. The pt denies any fever, chills, nausea, or vomiting. He states that he wore the surgical shoe as much as tolerated but admits to wearing normal shoe gear for the last ___ days.",
+        "past_medical_history": "- polycythemia\n- lt hallux cellulitis\n- lt foot digit cellulitis\n- testicle removal\n- partial rt ear amputation\n- rt ring trigger finger",
+        "family_history": "N/C",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: Tc 98.3, HR 82, BP 152/84, RR 18, O2sat 99%. Left foot - digit dorsal with black eschar ~1x2cm without any active drainage or probing to bone. +2 edema with erythema extending from the left digit to midfoot. Pulses bilateral. CFT <3s.",
+        "specialty_examination": "Not specified"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Throat pain, difficulty breathing",
+        "history_of_present_illness": "Mr. ___ is a ___ male with a history of obstructive sleep apnea and recurrent GAS infections of the throat, who presented with four weeks of myalgias, 'hot potato' voice, and difficulty breathing. He has been feeling run down for the past four weeks, with diaphoresis and fatigue. He attributed this to work and social stressors after the death of his younger brother by suicide. He felt a 'tickle' in his throat, and by ___ he noticed vocal changes, consistent with previous episodes of strep throat. He began to experience subjective fevers and chills. On ___ AM, he had difficulty breathing and mucous pooling in his throat, prompting a visit to urgent care where a rapid strep test was negative. He exhibited severe tonsillar hypertrophy and was sent to the ED. At ___, he received IV Unasyn, dexamethasone, racemic epinephrine, and was evaluated by ENT.",
+        "past_medical_history": "1. Obstructive sleep apnea 2. Overweight 3. Thyroid nodule suspicious for follicular neoplasm.",
+        "family_history": "Maternal aunt with thyroid nodule.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "alert and oriented, sitting comfortably in bed, speaking complete sentences. Vital signs: Not specified.",
+        "specialty_examination": "Tonsils swollen, no exudate, but erythematous. Large tongue. Heart regular, no murmur, no S3, no S4. No JVD. No wheezing in bilateral lungs, breathing not labored. Abdomen soft, non-distended, non-tender. Neck supple, strength grossly full and symmetric bilaterally in all limbs. No rashes or ulcerations noted. Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs, sensation to light touch intact."
+    }
+}

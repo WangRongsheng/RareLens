@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "1",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Vomiting and lethargy without fever and diarrhea",
+        "history_of_present_illness": "Began to vomit and became lethargic 30 minutes after eating reheated fried rice, became unconscious 6 hours after eating the meal, died after 30 minutes of intensive resuscitation",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Severe hyperkalemia, hypoglycemia, mixed acidosis with an increase of anion gap, and hyperlactacidemia, with elevation of aspartate aminotransferase and alanine aminotransferase levels",
+        "specialty_examination": "Diffuse brain edema in the cerebrum, astroglias possessed disintegrated processes with beaded appearances (termed 'clasmatodendrosis') in the cerebrum, pons, medulla, and cerebellum. No steatosis was found in the liver, but zonal necrosis was observed in the midzonal area between portal tracts and central veins."
+    }
+}

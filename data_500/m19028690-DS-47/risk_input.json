@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Neck pain",
+        "history_of_present_illness": "___ yo male with scleredema, cirrhosis ___ to NASH complicated by ascites and hepatic encephalopathy, DM II, aflutter s/p ablation on coumadin who complains of neck pain and mental status changes. He notes developing chest pain early yesterday morning, describing it as a 'pretty bad' aching pain. He has a history of neck surgery several years ago and is unable to determine if this is similar to any chronic neck pain. He reports slowed thinking for one day and did not take his lactulose prior to admission. Two bowel movements occurred on the day of admission, lower than his usual. Denies fevers, chills, CP, SOB, or cough. Urinary retention noted. In the ED, the patient was to have a right-sided cardiac cath early next week for potential TIPS procedure. Triage vitals were T 98.4, HR 78, BP 113/80, RR 18, O2 98%RA. Lab notable for hyponatremia at 129, Cr 1.4, ALT 54, AST 65, INR 1.8. Abdominal US showed cirrhotic liver without focal lesion, nl GB, moderate ascites.",
+        "past_medical_history": "Fatty Liver/NASH cirrhosis with refractory ascites, Hypertension, Hyperlipidemia, Type II Diabetes Mellitus with last A1C 7.2%, h/o dHF, OSA on CPAP, Scleredema of Buschke, Coronary artery disease with PCI and 2 stents, Pulmonary Embolism, Atrial flutter s/p ablation on coumadin, Atypical depression, Anxiety, Somatization disorder, Attention deficit disorder, Fibromyalgia, s/p cervical laminoplasty.",
+        "family_history": "Mother: hyperlipidemia, hypertension, glaucoma, skin cancer (non-melanoma). Father: hyperlipidemia, thyroid problems, skin cancer (non-melanoma). Maternal grandfather: MI in his ___, died at ___. Paternal grandfather: MI in his ___, died at ___.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission VS: 99.3 118/82 80 18 100%RA. Fatigued appearing in NAD. Sclera anicteric. Distended but Soft abdomen, non-tender to palpation. Umbilical hernia noted with prominent caput medusae. No edema b/l.",
+        "specialty_examination": "Neurological: + asterixis. Cardiac: RRR with no excess sounds appreciated. Lungs: CTA b/l with no wheezing, rales, or rhonchi. Extremities: Warm and well perfused."
+    }
+}

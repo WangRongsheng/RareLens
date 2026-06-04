@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Fall",
+        "history_of_present_illness": "Patient states that she was transferring to a wheelchair when she slipped out from underneath it falling backwards hitting her R wrist but no LOC no head strike, however later she apparently syncopized with head strike but is unable to report the details around head strike. Pt went to ___ where she was found to have right-sided rib fractures ___ with hemothorax and was then transferred here. CT head and c-spine obtained at outside hospital, no acute findings.",
+        "past_medical_history": "RA, OA; HLD; GERD; Hypothyroid; Idiopathic progressive neuropathy; Mild cognitive impairment; Osteoporosis w/ numerous prior fractures; Spinal fusion x4; R shoulder surgery; R knee surgery; LLE ORIF.",
+        "family_history": "Sister with dementia. Brothers with heart disease. Father with CAD.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Temp: 97.3, HR: 68, BP: 124/86, Resp: 18, O2 Sat: 98. 3 cm vertical laceration of the superior forehead. Tenderness over the right chest wall. Full range of motion of extremities.",
+        "specialty_examination": "Neurological: AOx2, cranial nerves tested and intact. Cardiovascular: RRR, S1/S2, early systolic apical murmur. Chest: Tender to palpation over the right chest wall."
+    }
+}

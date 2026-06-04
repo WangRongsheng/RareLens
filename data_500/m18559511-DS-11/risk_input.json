@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Nausea and vomiting",
+        "history_of_present_illness": "Mr. ___ is a ___ male with type 2 IDDM, HTN, ADHD, OSA on CPAP, who presented to the ED with nausea and vomiting. He has had nausea and vomiting since ___. He was on a ___ then and developed nausea and vomiting and a lot of other people on the cruise had similar symptoms. He sought medical care 4 times in different cities while he was traveling. He got home on ___ and was seen in our ED on ___ and discharged home. His symptoms completely resolved after that. He saw his PCP ___ ___. Then yesterday around noon he acutely developed nausea and had ___ episodes of non-bilious, non-bloody emesis, not associated with eating. He denied abdominal pain, chest pain, dyspnea, fevers, chills, known sick contacts (since being home). He has not had diarrhea or bloody stool. He felt diaphoretic when vomiting. He had a cough prior to admission, but that has stopped. He has been unable to take his oral medications. Per ED notes, he had run out of his insulin, though he says he had been continuing to take his usual Lantus 44 units QHS. He does not check his glucose regularly, but says it's usually in 160s-250s. In the ED, he denied abdominal pain, chest pain, dyspnea, but was diaphoretic. He was afebrile, with HR in ___ up to 105, BP initially 202/132 (up to 225/119) then down to 178/82 this morning, RR ___, O2 saturation in high ___ on room air. Glucose was 257 on arrival and ranged from 160s-250s.",
+        "past_medical_history": "DIABETES TYPE II, DYSLIPIDEMIA, ELEVATED BLOOD PRESSURE, SLEEP APNEA, POSSIBLE LACTOSE INTOLERANCE, TINEA VERSICOLOR, ERYTHROCYTOSIS, ERECTILE DYSFUNCTION, ACUTE KIDNEY INJURY, LOW BACK PAIN, KNEE PAIN, ATTENTION DEFICIT DISORDER WITHOUT HYPERACTIVITY.",
+        "family_history": "Father Living with PROSTATE CANCER, MGM Deceased with DIABETES TYPE II, Brother Living with DIABETES MELLITUS, Uncle Living with DIABETES MELLITUS, Mother Living with HIGH BLOOD PRESSURE and ELEVATED CHOLESTEROL.",
+        "social_history": "Children: Yes: 2 sons, 2 daughters. Lives with: Alone. Work: Not specified. Tobacco use: Never smoker; social cigar use. Alcohol use: Present, about 10 times in ___ drinks/time; about 3 drinks/month as of ___. Recreational drugs: Present (marijuana, heroin, crack pills or other): Marijuana twice recently; not regularly."
+    },
+    "physical_examination": {
+        "general_examination": "VITALS: HR: 94, BP: 181/98, O2 sat: 100%. General: Alert and in no apparent distress, laying in bed, looks comfortable.",
+        "specialty_examination": "Neurological: Alert, oriented x3, face symmetric, speech fluent; Cardiovascular: Heart regular, no murmur, no S3, 2+ radial pulses bilaterally; Respiratory: Lungs clear to auscultation with good air movement bilaterally."
+    }
+}

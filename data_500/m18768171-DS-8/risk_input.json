@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abdominal pain",
+        "history_of_present_illness": "Pt is a ___ y/o F with PHMx of UC currently onf ___ and Remicade, who is admitted with 1 week of bloody BMs and abdominal pain, concerning for UC flare. Pt reports that she initially developed abdominal bloating a little over a week ago. Symptoms then progressed to include bloody BM's (up to 16 / day) 5 days ago, prompting her to call her GI MD. ___ was initially placed on budesonide, with no improvement in symptoms. Given lack of improvement as well as developed of diffuse abdominal and lower back pain, 2 days ago, she was changed to PO prednisone 40 mg daily. However, symptoms still persisted, prompting ED presentation. In addition to these symptoms, the patient also reports low grade fevers to the 100's, as well as nausea and lightheadedness.",
+        "past_medical_history": "UC (has been on ___ for ___ years), GERD, Cholecytectomy ___ cholecystitis.",
+        "family_history": "Father- HTN",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "GEN - Alert, NAD. Initial VS: 98.4 97 121/79 18 100% RA. Of note, she did spike a temperature to 101.5 while in the ED.",
+        "specialty_examination": "ABD - S, ND, BS present, min TTP throughout without rebound or guarding."
+    }
+}

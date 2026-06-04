@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "112.5 kg",
+        "height": "191 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Cycle 15 High Dose Methorexate for CNS lymphoma",
+        "history_of_present_illness": "Patient returns for cycle 15 high dose methotrexate (MTX). Patient continues to do well but still notes that he fatigues more easily than he used to. He complains of swelling and transient numbness of the left side of his face and head that lasts minutes and is triggered by emotional conversations or situations. He copes with these by lying down and refers to the episodes as 'seizures' but denies tonic-clonic movements, LOC, or loss of time. No focal weakness or numbness and his balance is intact. He has had laser treatment of his left eye since his last admission. Cough productive of yellow sputum that has continued despite a course of amoxicillin. Denies fevers, sweats, weight loss or other constitutional symptoms. Current plan by ID is for him to start a rifampin course for weeks once his MTX interval is increased to 4 to 6 weeks.",
+        "past_medical_history": "1. Histocytosis X, diagnosed by CT imaging, no biopsy. 2. Diabetes insipidus, diagnosed. 3. Hypertension. 4. Seizure. 5. Osteoarthritis. 6. Sleep disorder. 7. Right hip replacement. 8. History of hepatitis - Hep B serologies are negative. 9. Positive PPD due to TB exposure from mother. 10. Left cataract surgery.",
+        "family_history": "Mother with history of disseminated tuberculosis.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "T: 98.1, BP: 118/78, P: 62, RR: 20, O2Sat: 96% on RA, wt: 246.8 lbs, ht: 75.5 in. Well appearing in no apparent distress.",
+        "specialty_examination": "Neurologic: Alert, oriented x 3. Normal attention. Able to relate history without difficulty. Cranial nerves II-XII intact. Normal bulk, strength and tone throughout. No abnormal movements noted. No deficits to light touch throughout."
+    }
+}

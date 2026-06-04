@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "40.9 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hypoxia, Syncope",
+        "history_of_present_illness": "The patient was in her normal state of health until the morning of presentation, at which point she suddenly vocalized not being able to breathe and had a syncopal episode witnessed by her great-granddaughter and great-great grandson. She was unresponsive for ~4 minutes and confused for 15 minutes thereafter. When EMS was called, BP was noted to be 60/50 and hypothermic to 35 degrees C. Upon arrival to the ED, noted improvement in BP to 110s/50s and HR in 110s; she was hypoxic to 87%, with an episode of emesis. EKG showed ventricular rate 110s, wide QRS 160s, and QTc 510. Labs notable for negative trops x1, lactate 4.0->3.2, AST 54.",
+        "past_medical_history": "Hypertension, Dyslipidemia, Calcified pleural plaques, Hyperthyroidism, Vitamin D deficiency, S/P TAH-BSO, H/O positive PPD.",
+        "family_history": "No known family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "T 97.8, BP 96/59, HR 100, RR 18, O2 sat 98%. Patient is sleeping in bed, very hard of hearing, no distress.",
+        "specialty_examination": "Bradycardic with irregular rhythm, S1/S2, no murmurs, gallops, or rubs. Neurological exam shows AOX2, moving all 4 extremities with purpose."
+    }
+}

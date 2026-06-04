@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Left plantar foot ulcer",
+        "history_of_present_illness": "Patient presents with left charcot foot s/p I&D, exostectomy complicated by chronic plantar wound ulcer.",
+        "past_medical_history": "- Ankylosing spondylitis\n- Hypertension\n- Hyperlipidemia\n- Obstructive sleep apnea\n- Ocular hypertension/glaucoma suspect\n- Partial retinal detachment, repaired with vitrectomy\n- History of prostate cancer (diagnosed, treated with radiation and hormone therapy)\n- Bilateral idiopathic neuropathy of the feet\n- Bilateral Charcot deformity",
+        "family_history": "- Mother died of stroke\n- Father died of heart damage\n- Two brothers alive and in good health",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "NAD. Lying comfortably in bed. No increased work of breathing. Left lower extremity: Vac in place with overlying dressing. Wiggles toes. No distal sensation in left lower extremity. Toes warm to palpation.",
+        "specialty_examination": "Not specified"
+    }
+}

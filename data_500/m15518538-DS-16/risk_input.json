@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chest pressure",
+        "history_of_present_illness": "This male presented with a complaint of chest burning on exertion. The first episode was 2 months ago while walking. He experienced chest burning that lasted about 15 seconds and was relieved with rest. He experienced chest burning again while exercising on a treadmill when he was about ___ minutes into the workout. An exercise stress test was ordered and the patient was given a prescription for nitroglycerin, which he used 3 days ago for similar chest pain. On ___ he had an exercise stress which showed ischemic EKG changes with blood pressure drop in the presence of anginal symptoms and referred for cardiac catheterization.",
+        "past_medical_history": "Coronary artery disease, Hypertension, Obesity, Diabetes mellitus type 2, Hyperlipidemia, Depression, Benign prostatic hypertrophy, Gastroesophageal reflux",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission: VS: T=98.4 BP=163/68 HR=53 RR=15 O2 sat= 95% RA. General: WDWN in NAD. Oriented x3. Mood annoyed/agitated by questioning, affect labile.",
+        "specialty_examination": "Cardiac: RR, normal S1, S2. Difficult to appreciate extra heart sounds. Lungs: Resp were unlabored, no accessory muscle use. CTAB in anterior, although difficult to appreciate rhales due to device noise. Abdomen: Soft, NTND. +BS. Extremities: No edema, warm and well perfused."
+    }
+}

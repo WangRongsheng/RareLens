@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "R femoral neck fracture",
+        "history_of_present_illness": "Who had a fall from standing. She had immediate right hip pain. No numbness/tingling. No chest pain, difficulty breathing, n/v. Of note, she does have a history of progressive leukoencephalopathy and brain mass and is followed by neurology.",
+        "past_medical_history": "Anxiety, Depression, Appendectomy, Chronic systolic CHF (EF 35-40%)",
+        "family_history": "Sister: 'benign cyst' in stomach; Parents: DM; Maternal aunt: DM, stroke in late ___, late onset dementia; Paternal uncle: esophageal cancer (smoker and drinker); Cousin: ___; Great GF: mesothelioma after asbestos exposure; Paternal Great GF: DM",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Gen: NAD; RLE: Incisions c/d/i w/o erythema or induration, Exam limited by mental status but grossly SILT s/s/sp/dp/dp/t, Fires ___, FHL, G/S, TA, 1+ DP",
+        "specialty_examination": "Not specified"
+    }
+}

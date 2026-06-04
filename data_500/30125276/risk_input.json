@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "14",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Herder"
+    },
+    "medical_history": {
+        "chief_complaint": "Psychiatric disorders primarily characterised by logorrhea, hypersomnolence and a persistent fever",
+        "history_of_present_illness": "For at least five months before admission, the patient visited several peripheral health care facilities close to his village with the same symptoms. The symptoms then progressively became aggravated.",
+        "past_medical_history": "Not specified",
+        "family_history": "The patient’s father, his two wives and their children lived in the Bonon area in Coˆte d’Ivoire, where they worked on coffee-cocoa plantations. The family returned to Burkina Faso in 1994 and settled in Gouera. The patient was born in this village seven years later in 2001 and never left the area since his birth, except for a 10-day stay with a traditional healer in the Ivorian village of Kawara in July 2015.",
+        "social_history": "The primary activity of the case family involves seasonal agriculture based on growing maize, millet, cotton, sesame, rice and peanut, in close proximity to the Tanion River and its tributaries. The family’s secondary activity is cattle and sheep breeding, and the patient, who does not attend school, primarily works as a herder."
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Psychiatric disorders primarily characterised by logorrhea, hypersomnolence and a persistent fever. Parasitological investigations revealed the presence of trypanosomes in the blood with the mini Anion Exchange Centrifugation Technique performed on 350 μl of buffy coat (20 trypanosomes) and in the cerebrospinal fluid (CSF) using the Modified Simple Centrifugation (MSC) performed with 3.5 ml of CSF (5 trypanosomes). For CSF white blood cell count, a Uriglass counting chamber was used, revealing 174 cells/mm3."
+    }
+}

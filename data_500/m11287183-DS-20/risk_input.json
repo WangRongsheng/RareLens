@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "weakness, abdominal pain",
+        "history_of_present_illness": "Mr. ___ is a ___ year-old gentleman with a history of pancreatic cancer who received 5 cycles of neoadjuvant FOLFIRINOX s/p resection at ___ (___) with ___ on pathology with course complicated by intra-abdominal collections s/p drains currently on oral ciprofloxacin/metronidazole who is presenting with worsening weakness and abdominal pain in background of failure to thrive. Over the past week or two his appetite has been very poor and his fatigue has been worsening to the point that he is unable to perform his activities of daily living. The past 4 days he has been having intermittent dull left sided abdominal and left shoulder pain without clear trigger.",
+        "past_medical_history": "Pancreatic cancer stage IIB. Status post total knee replacement on the left. Status post rotator cuff surgery. Status post kidney stones. He has a plate in his jaw from a broken jaw. Diabetes. Hyperlipidemia. PE.",
+        "family_history": "Mother with COPD. Father died of old age at age ___. No family history of malignancy.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: BP 118/72, HR 75, Temp 98.5, RR 14, O2 sat 98% RA. Exam showed abdomen soft, mildly distended, left-sided abdominal tenderness without guarding or rebound. Scant purulent drainage from drain sites.",
+        "specialty_examination": "Neurological: Grossly WNL. Cardiovascular: RR, NL S1S2 no S3S4, no MRG. Pulmonary: CTAB, respirations unlabored. Abdomen: BS+, soft, TTP in multiple areas including LUQ and over the anterior fluid collection, LUQ drain (#1) draining pus, L IC drain (#2) with scant purulent drainage."
+    }
+}

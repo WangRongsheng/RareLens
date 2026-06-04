@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Right Foot Infection.",
+        "history_of_present_illness": "F with h/o PMH/PVD, multiple previous admissions p/w c/o worsening of known R foot ulcer. Pt states that her ulcer had previously been healing well and ~6wks ago acutely worsened. She was seen at an OSH where she was started on IV vancomycin and noticed an acute worsening of the ulceration.",
+        "past_medical_history": "PMH: DM1, Triopathy, CAD, CHF EF 42%, CRI, venous stasis, MRSA, PVD, angina PSH: multiple foot surgeries, L BKA, CABG x3.",
+        "family_history": "Non contributory.",
+        "social_history": "Not specified."
+    },
+    "physical_examination": {
+        "general_examination": "Tc: 99.4, Rate: 72, BP: 122/46, RR: 20, P02: 99% RA, Gen: Nad/A&O.",
+        "specialty_examination": "CV: RRR, Pulm: CTAB, Abd: Soft NTND, Ext: s/p L BKA w/ prosthesis in place, R: Erythema to mid ankle. 2+ pitting edema ~ 3cm ulceration does not probe to bone."
+    }
+}

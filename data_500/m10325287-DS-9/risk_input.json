@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chest pain and dyspnea",
+        "history_of_present_illness": "The patient presented with progressive shortness of breath, epigastric fullness, chest pain, and dysuria. His EKG showed Q waves V1-4 and STD laterally, initial Troponin-I was 0.85, which increased to 70.93 and trended down to 55.28. He was noted to have pulmonary edema and a UTI (+ E.Coli). The patient's creatinine was 2.5, baseline 1.6, and potassium was 6.9. He was treated with Kayexalate, insulin, calcium gluconate, and Lasix. After several hours, the patient reported recurrent right chest pain while eating, which was similar to the initial discomfort. An ECG showed new 2 mm STE in V1 and 1 mm STE in V2, and a nitroglycerin infusion was restarted, resolving symptoms.",
+        "past_medical_history": "Chronic conditions: Diabetes (Hgb A1C = 8.1%), Hypertension, CKD with baseline CR of 1.5, Peripheral vascular disease, Chronic lower extremity edema, Possible BPH (on doxazosin). Surgical history: None noted.",
+        "family_history": "The patient's father died from his first myocardial infarction. The mother died from non-alcoholic cirrhosis. Two brothers and one sister underwent CABG. There is a strong family history of smoking and lung cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Thin, elderly male in NAD. Vital signs not specified. Notable crackles on lung exam and 4L NC oxygen requirement.",
+        "specialty_examination": "Cardiovascular: PMI located in ___ intercostal space, midclavicular line. No m/r/g or thrills. Respiratory: Few bibasilar crackles, no wheezes or rhonchi."
+    }
+}

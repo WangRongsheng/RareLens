@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "58",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Japanese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "fever of 38°C, night sweats, and fatigue for several days",
+        "history_of_present_illness": "Systemic lymphadenopathy, diagnosed with stage IVB DLBCL, treated with R-CHOP, re-diagnosed with double-hit lymphoma (DHL), started on R-CODOX-M/IVAC, experienced hepatobiliary enzyme elevation after chemotherapy cycles",
+        "past_medical_history": "Autoimmune hemolytic anemia, previously underwent splenectomy with red blood cell transfusion",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Body weight gain (+2 kg/week), jaundice, lower leg edema, abdominal distention",
+        "specialty_examination": "Hepatomegaly, mild ascites on the surface of the liver, geographic low density area at the posterior segment of the liver on CT"
+    }
+}

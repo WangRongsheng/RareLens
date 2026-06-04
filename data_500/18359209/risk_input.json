@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "41",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "129 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Ashkenazi Jewish",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Bloom syndrome, a rare autosomal recessive condition characterised by chromosomal instability leading to a high risk of cancer at an early age",
+        "history_of_present_illness": "Diagnosis of Bloom syndrome was made in 1978, confirmed by significantly increased sister chromatid exchanges on chromosome examination. She has had a long-standing photosensitive rash on her face. She developed her first cancer at the age of 38 years - a basal cell carcinoma on her right upper lip. Her second cancer was found on screening colonoscopy at the age of 39 years.",
+        "past_medical_history": "Type 2 diabetes mellitus, fibroadenoma of the left breast, raised cholesterol, osteoporosis, intermittent viral labyrinthitis, cirrhosis of the liver, left-sided pelvic kidney, probable bilateral small renal angiomyolipomata, total abdominal hysterectomy and bilateral salpingo-oophorectomy at the age of 35 years.",
+        "family_history": "Non-consanguineous Ashkenazi Jewish parents. Her mother, maternal aunt, grandmother, and great-grandmother shared the feature of developing very few secondary teeth.",
+        "social_history": "Routinely uses high factor sunscreens. Has taken regular vitamin C and multivitamin supplements from her mid-twenties, and more recently supplements of vitamins A, C, and E for their antioxidant properties. Has had influenza and pneumococcal vaccinations."
+    },
+    "physical_examination": {
+        "general_examination": "Photosensitive rash on her face, several cafe au lait macules in the gluteal region, final adult height is 129 cm, decreased subcutaneous tissue, dysmorphic features including a beaked nose and micrognathia, dystrophic nails.",
+        "specialty_examination": "Not specified"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Abdominal/ chest pain",
+        "history_of_present_illness": "Presenting with 1 day of epigastric pain and chest pain radiating to left arm with associated diaphoresis. Awoke at 3:30 am with abdominal 'tightness' associated with diaphoresis similar to previous abdominal tightness during prior ER visits for bowel obstruction. Associated nausea and no bowel movement in 3 days, but passing flatus. Recent GI bug with diarrhea last week. Denied fevers or chills, hematochezia, or melena. Symptoms improved somewhat after baby ASA, O2, and nitroglycerin.",
+        "past_medical_history": "Hypercholesterolemia, hypothyroidism, hypertension, mitral valve prolapse, migraine headaches, bilateral carpal tunnel syndrome, chronic low back pain, history of pneumonia, urinary tract infection, gallbladder disease, s/p miscarriage with associated anxiety. Surgical history: Laparoscopic retrocolic Roux-en-Y gastric bypass, internal hernia causing small bowel obstruction:s/p ex lap and reduction of internal hernia, C-sections x 2, tonsillectomy, laparoscopic cholecystectomy.",
+        "family_history": "Father with diabetes and obesity, mother with heart disease, hyperlipidemia, obesity, asthma, arthritis; sister with hyperlipidemia, thyroid disease, obesity; grandmother deceased with heart disease; grandfather deceased with stroke.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: T99.2, HR 73, BP 142/84, RR 16, 100% RA. Abdomen: Soft, TTP left abdomen, +BS, no rebound or guarding.",
+        "specialty_examination": "No significant neurologic deficits noted. Cardiovascular: RRR, no m/r/g."
+    }
+}

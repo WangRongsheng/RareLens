@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "left hip pain",
+        "history_of_present_illness": "Patient is a male who underwent bilateral hip replacements and is currently experiencing septic joints. He has had multiple debridements and has completed two prolonged courses of IV antibiotics. Now presents for total hip revision.",
+        "past_medical_history": "PMH: Rheumatoid arthritis on prednisone.",
+        "family_history": "Non-contributory to current infection.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Well appearing in no acute distress. Afebrile with stable vital signs. Pain well-controlled.",
+        "specialty_examination": "Neurologic: Intact with no focal deficits. Musculoskeletal: Incision healing well with staples, scant serosanguinous drainage, thigh full but soft, no calf tenderness."
+    }
+}

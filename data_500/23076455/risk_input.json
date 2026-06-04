@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "9 months",
+        "gender": "Female",
+        "weight": "6.6 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Vomiting undigested food of 3 months duration and recurrent chest infection as well as failure to thrive",
+        "history_of_present_illness": "Symptoms started around the age of 6 months. Diagnosis was confirmed by barium swallow. Family history of achalasia with six members affected.",
+        "past_medical_history": "Not specified",
+        "family_history": "Six members of the same family had achalasia. Symptoms started around the age of 6 months in all affected members.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "No abnormalities apart from failure to thrive (weight 6.6 kg).",
+        "specialty_examination": "Not specified"
+    }
+}

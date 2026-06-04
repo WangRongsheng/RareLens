@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "13",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Retinal degeneration with a predilection for the central retina leading to severe central vision loss",
+        "history_of_present_illness": "At 3 months of age he was able to fixate and follow and an exam under anesthesia was entirely normal, including the optic nerve, macula and periphery. At age 5 months he was able to fixate and follow, but macular pigmentary changes were noted in both eyes. By 10 months of age the macular pigmentary changes had progressed to bilateral, atrophic, macular lesions. At the time there was some developmental regression and hypotonia.",
+        "past_medical_history": "Diagnosed with cbl C disease during newborn screening. Poor feeding and jaundice had been noted 7 days after a normal, full-term delivery, prompting metabolic screening. Methylmalonic aciduria with hyperhomocysteinemia was confirmed, leading to the diagnosis of cbl C disease. Started on L-carnitine, intramuscular hydroxocobalamin, betaine, and protein restriction.",
+        "family_history": "No family history of metabolic disorders or of consanguinity.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "At his most recent exam the child was age 13 years. His best corrected visual acuity was 20/250 in the right eye and 20/400 in the left eye with a hyperopic correction (+4.00 +1.50 \u0003 135 and +4.00 +2.00 \u0003 036, for the right and left eye, respectively).",
+        "specialty_examination": "Pupils were briskly reactive and the extent of the peripheral visual field by confrontation appeared full. On fundus exam there were large, coloboma-like, atrophic macular lesions in each eye. The base at the center of these lesions was white and appeared to be protruding posteriorly compared to the surrounding retina. Around this central atrophy there was an annular area of retinal pigment epithelium (RPE) depigmentation that permitted the visualization of deep, large choroidal vessels, surrounded more peripherally by a narrow annulus of pigmentary changes."
+    }
+}

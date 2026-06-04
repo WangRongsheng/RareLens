@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "81.83 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hematemesis",
+        "history_of_present_illness": "___ year old man with hx of HCV cirrhosis (s/p treatment with Ribavirin and Epclusa) c/b hepatic encephalopathy and portal hypertension and grade II-III varices s/p TIPS revision ___ with ___ s/p RFA ___ being worked up for transplant presenting who presents with hematemesis. Per wife ___, patient was in his usual state of health on day prior to admission ___. Around 11pm he started feeling nauseous and had an episode of vomiting with clots.",
+        "past_medical_history": "HCV Cirrhosis c/b portal HTN and Hepatic encephalopathy ___ s/p RFA ___ Insulin dependent DM",
+        "family_history": "Mother died of breast cancer. Father died at age ___. He has a healthy daughter and healthy siblings.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: 98.6 66 125/59 15 99% intubated GENERAL: Intubated, sedated, blood coming from mouth with red clots",
+        "specialty_examination": "NEURO: unable to assess"
+    }
+}

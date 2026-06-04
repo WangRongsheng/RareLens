@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "fall",
+        "history_of_present_illness": "Ms. ___ is a ___ year-old woman with a history of dementia, T2DM c/b polyneuropathy, CKD, CAD, HFpEF, CVA, seizure disorder, and depression, recently discharged on ___ from the neurology service after a seizure, who presents after a fall at home. Of note, the patient is a poor historian. As per the patient, she states that she was at home and was trying to get out of bed when she felt herself slipping and her legs give way. She states that she fell back and hit her head. She has no recollection of whether she hit her head or not, but states that she recalls her entire back being sore afterward. She yelled for her daughter, who then came and she was then brought to the ED. As per the patient's daughter, she states that when she ran to her mother, she was initially unresponsive, staring at her, with her mouth open. After approximately 1 minute, she then regained consciousness and started to follow commands. She did not notice any seizure activity. Did not report bowel or bladder incontinence, nor tongue biting.",
+        "past_medical_history": "Dementia, T2DM, polyneuropathy, CKD, CAD, HFpEF, CVA, seizure disorder, depression, pulmonary embolism, cellulitis, neurotic excoriation, renal insufficiency, coronary artery disease, stroke, hypertension, polyp, anxiety, prior C. diff infection, prior cocaine dependence.",
+        "family_history": "Father, deceased: MI and CHF; Mother, deceased: DMII, ESRD, Alcoholism; Sister, living: Depression, thromboembolic stroke; Sister, deceased: Lung cancer, smoker; Brother, living: ___ Disease; Son, living: Polysubstance abuse; Son, living: Healthy.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: 98.1 F, BP 115/60, HR 66, RR 16, 100% RA. Confused, A&O to self, pain on palp of R trap > C spine, pain on palp of R hip and L foot, bandaids covering abrasions on L forearm; weakness in b/l legs--unable to SLR.",
+        "specialty_examination": "Neurological: A&O to self, place, year, not month (thought it was ___), CN II-XII intact (surgical pupil on R), motor and sensory function grossly intact. Cardiovascular: Regular rate and rhythm, no murmurs, rubs, thrills, or gallops. Lungs: Mild crackles at the bilateral bases."
+    }
+}

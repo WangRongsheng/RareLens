@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chest pain",
+        "history_of_present_illness": "The patient reports that she woke up this morning and went downstairs to see her grandchildren and developed deep pressure type chest pain over the left part of her chest which radiated to her left arm and between her shoulders. The pain was persistent and continued to get worse. She took 3 sublingual nitrogen and the pain did improve but did not resolve. She was taken to the ED where she received 4 baby aspirin.",
+        "past_medical_history": "Hypertension, Hyperlipidemia, Coronary artery disease with probable coronary vasospasm, Hypercholesterolemia, Posttraumatic stress disorder, Raynaud's phenomenon, Osteoporosis, Glaucoma, Chronic kidney disease stage 3, Hypothyroidism.",
+        "family_history": "Family history includes CAD/PVD in her brother, father, mother, and sister; Bipolar Disorder in her mother; Hypertension in her brother and sister; substance abuse in her father and mother.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Well-developed, well-nourished. No acute distress. Vital signs: RRR, normal S1, S2. No murmurs.",
+        "specialty_examination": "No neurological deficits noted. Cardiac examination showed regular rhythm and rate, with no abnormal heart sounds. Lungs clear to auscultation bilaterally, no wheezes. Abdomen soft, non-tender, non-distended."
+    }
+}

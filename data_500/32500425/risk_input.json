@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "8",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Congenital maxillary and mandibular alveolar soft tissue enlargement in the area of the premolars",
+        "history_of_present_illness": "Congenital maxillary and mandibular alveolar soft tissue enlargement, abnormal trabeculation in the maxilla and mandible, congenitally missing maxillary and mandibular first and second premolars and mandibular canines",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Left maxillary and mandibular gingival enlargement, homolateral hypopigmentation and palsy",
+        "specialty_examination": "Abnormal trabeculation in the maxilla and mandible, congenitally missing teeth, dysplastic woven bone with prominent reversal lines"
+    }
+}

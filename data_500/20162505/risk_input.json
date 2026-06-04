@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "47",
+        "gender": "Male",
+        "weight": "110 kg",
+        "height": "178 cm",
+        "BMI": "34.7 kg/m²",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "inexplicable progressive weight gain, muscle tremor, general fatigue, perspiration, hypercholesterolemia, exophthalmos, an enlargement of the thyroid gland, and typical cushingoid features like abdominal striae, 'moon face', central obesity, and a 'buffalo hump'",
+        "history_of_present_illness": "Presented in September 2003 at the age of 41 years with symptoms. Laboratory testing showed increased 24 h urinary free cortisol, significant elevation of basal serum cortisol and ACTH, and hyperthyroidism. Ectopic ACTH syndrome was suspected. Subtotal thyroidectomy and neurosurgical removal of a small lesion of the neurohypophysis did not lead to remission of hypercortisolism. Treatment was started with metyrapone combined with hydrocortisone replacement.",
+        "past_medical_history": "Hypercortisolism, diabetes mellitus, hypertension, hypercholesterolemia, multinodular goiter",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Obesity (110 kg bodyweight, BMI 34.7 kg/m²), pulse of 70 bpm, no signs of cardiopulmonary decompensation but cushingoid features like 'moon face', plethora, 'buffalo hump' and central obesity",
+        "specialty_examination": "Not specified"
+    }
+}

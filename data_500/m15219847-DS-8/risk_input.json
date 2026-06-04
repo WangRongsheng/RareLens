@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Shortness of breath",
+        "history_of_present_illness": "Mrs. ___ is a ___ F with autoimmune hepatitis with secondary cirrhosis, h/o bleeding varices, portal hypertension who was transferred from an outside hospital for management of liver and lung masses seen on OSH CT. She was originally admitted to ___ for shortness of breath with a sat of 88% on room air. Patient had been having SOB for many months and was treated with Zithromax 2 weeks ago for sinusitis. She felt her SOB and productive cough improved but then worsened to the point of gasping for breath with ambulation. At ___, she was empirically treated with Levaquin and Duonebs. Labs on admission there showed a CBC with left shift ___ bandemia). A CXR showed small parenchymal infiltrate in the L lower lobe associated with minimal pleural fluid. She then had a CT scan which found areas of bronchiectasis in the lingula, right midlobe and right lower lobe as well as a 1.5 cm nodular mass surrounding the left pulmonary venous confluence with severe L inferior pulmonary vein stenosis. There were also noncalcified nodules in the R and L lower lobes, groundglass opacities, and poorly defined nodules. The CT also found a 5.9 x 6.4 x 4.7 cm hypodense lesion with capsular retraction in the R lobe of the liver. She underwent an abdominal ultrasound on ___ which showed no hepatic masses. On arrival to the floor, she complains of difficulty taking a deep breath but had sats of 97% on room air. She denies nausea, vomiting, fever, chills, chest pain, dysuria, diarrhea and constipation. Has been having a productive cough. No recent changes in weight.",
+        "past_medical_history": "Autoimmune hepatitis, Esophageal varices, Mild gastropathy, Splenomegaly, Asthma, Recurrent pericarditis, Ulcerative colitis, Keratitis, Barrett's esophagitis.",
+        "family_history": "Negative for underlying lung disease, CAD.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "On admission: Vitals: 98.6, 122/53, 78, 18, 97% on RA. General: Well nourished female in NAD, alert and awake.",
+        "specialty_examination": "Lungs: Clear in upper lung fields, a little diminished bilateral bases. Heart: RRR, no m/r/g. Abd: bowel sounds present, mild diffuse tenderness (baseline per pt), slightly distended, tympanic abdomen. Neuro: A&O x3, no asterixis."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "15",
+        "gender": "Female",
+        "weight": "47 kg",
+        "height": "154 cm",
+        "BMI": "Not specified",
+        "ethnicity": "European, non-Jewish",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "acute progressive gait disturbance associated with dystonic posturing of her back and the left upper extremity, and rapid choreic movements of the right upper extremity",
+        "history_of_present_illness": "One month prior to admission, she ambulated well and played soccer. Developed subacute and progressive choreic movements of the right arm, severe dystonic posturing of the left arm, and spastic dystonia in both legs. Transient improvement with trihexyphenidyl, baclofen, clonazepam; sustained response to intrathecal baclofen over 18 months.",
+        "past_medical_history": "Deletion of the short arm of chromosome 18 (18p deletion) with androgen insensitivity, mild mental impairment, expressive aphasia, oromotor apraxia. Surgical history: removal of undescended atrophic testes and reconstructive pelvic surgery.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs normal. Height: 154 cm, Weight: 47 kg, Head circumference: 54 cm.",
+        "specialty_examination": "Alert and oriented with limited dysarthric, nasal speech. Oromotor apraxia. Moderate hypertonia, diffuse hyperreflexia, extensor plantar responses. Intermittent choreic movements in right upper extremity, dystonic posture in left arm during ambulation. Asymmetric sternocleidomastoid spasms."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "exertional chest pain",
+        "history_of_present_illness": "___ is a ___ with a history of renal mass (angiomyolipoma?), glaucoma, and cataracts who is transferred from an outside hospital for further management of chest pain. She's experienced ___ weeks of progressive exertional chest pressure that began while vacationing in ___. Located substernally with associated arm numbness, it was associated with shortness of breath and would regress with rest after a few minutes. This occurred a few times since then, every time she exerted herself. Denies any symptoms at rest. She also notes a different chest pressure occurring mainly after meals and during nighttime, accompanied by belching, and now with a chronic cough for the past month. Has a history of GERD. Presented to her PCP who sent her for nuclear stress test, which revealed an anterior reversible perfusion deficit concerning for LAD disease, and she presented to the OSH ED. Admission EKG showed T-wave flattening in the late precordial leads, but she ruled out for MI with negative troponins x2. Treated with aspirin, beta blocker, statin. CTA for cough and chest pressure was negative for PE and parenchymal disease. Transferred to ___ for catheterization.",
+        "past_medical_history": "1. Glaucoma 2. Renal mass - likely angiomyolipoma s/p embolization 3. Appendectomy ___ 4. Nasal surgery ___",
+        "family_history": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory. Father with ___. Mother with DM.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission Exam: VS: T98.1 BP147/90 P68 R18 Sat99RA. GENERAL: well-appearing in NAD.",
+        "specialty_examination": "Cardiac: RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4. Lungs: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, CTAB, no crackles, wheezes or rhonchi."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "33",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Syrian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Severe central hypotonia, poor suck, weak cry, minimal vision, and esotropia",
+        "history_of_present_illness": "Prenatal ultrasound showed hyperechogenic bowel, hand, and skull anomalies. Neonatal period was complicated by respiratory distress at birth requiring surfactant application and 2 days of respiratory support. She had dysmorphic facial features, severe central hypotonia, poor suck, weak cry, minimal vision, and esotropia. She was noted to have feeding difficulties, constipation, distended abdomen, and small thoracic cage. Cardiac concerns included mild left pulmonary stenosis and secundum atrial septal defect (ASD).",
+        "past_medical_history": "She had three affected siblings with similar clinical presentation who had died due to disease-related complications.",
+        "family_history": "Parents are first cousins. Three affected siblings with similar clinical presentation who had died due to disease-related complications.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Dysmorphic facial features, severe central hypotonia, poor suck, weak cry, minimal vision, and esotropia. Feeding difficulties, constipation, distended abdomen, and small thoracic cage.",
+        "specialty_examination": "Brain MRI showed irregular outline to prominent bodies of both lateral ventricles with abnormal periventricular T2 hyperintensity returned from the deep white matter, generous extra-axial CSF spaces with bilateral and symmetric underopercularization, and foreshortening and thinning of an otherwise intact corpus callosum."
+    }
+}

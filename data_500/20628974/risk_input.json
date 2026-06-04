@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "54",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Hispanic",
+        "occupation": "woodworker"
+    },
+    "medical_history": {
+        "chief_complaint": "nasal obstruction for several years",
+        "history_of_present_illness": "increasing facial pressure and occasional purulent nasal discharge. Denied pain, numbness, epistaxis, or visual changes.",
+        "past_medical_history": "incidental finding of an intranasal mass on computed tomography (CT) performed after a motor vehicle accident 3 years prior to his presentation. This mass was untreated. He also reported resection of a mass of unknown pathology from the base of his tongue during childhood.",
+        "family_history": "Not specified",
+        "social_history": "30 pack-year smoking history."
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "mass visible in the left nasal vestibule on anterior rhinoscopy. A neurologic exam was normal except for a subjective decreased sense of smell. Extraocular muscle motion and vision were normal. A neck examination revealed no abnormal findings."
+    }
+}

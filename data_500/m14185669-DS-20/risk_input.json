@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Left arm swelling, erythema, pain",
+        "history_of_present_illness": "Mr. ___ is a ___ with a history of hypertension, hyperlipidemia, diabetes mellitus, and 2nd degree AVB requiring Bi-V pacemaker placement in ___. He presents with left sided arm pain and swelling since yesterday. He noticed some mild swelling of the left upper extremity while showering yesterday morning, accompanied by a vague sense of numbness described as if his arm \"fell asleep.\" He carried on as usual, but noted this morning that the arm swelling had worsened with a generally redder appearance of the distal extremity. He also had a fullness in the left neck that was mildly tender to touch. These symptoms prompted PCP visit and he was subsequently referred to the emergency department. In the ED, his initial vitals were T98.1, HR90, BP131/94, RR18, O2 sat 100% on room air. Left upper extremity ultrasound showed left axillary DVT. He was started on heparin drip.",
+        "past_medical_history": "-2nd degree AV block s/p Bi-V pacemaker in ___\n-CVA in ___ (diplopia, left tongue numbness and unsteady gait) s/p tPA\n-GERD\n-Bladder cancer\n-Parotid mass on imaging when had CVA\n-thyroid nodule on imaging when had CVA\n-Syringolmyelia\n-s/p TURP\n-s/p splenectomy\n-L/S spondylosis\n-Migraine HA\n-hyperlipidemia\n-hypertension",
+        "family_history": "-Father with \"heart rhythm problems, had a pacemaker put in\"\n-No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.\n-Mother lived to ___, died of \"old age.\" Father died at ___ of an aneurism. No history of clotting disease, frequent miscarriages, PE or DVT.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission Exam: VS - Temp 98.3F, BP162/90, HR60, R20, O2-sat 98% RA. GENERAL - well-appearing man in NAD, comfortable, appropriate. NECK - asymmetric fullness of the left supraclavicular area compared to the right, mildly tender to touch. EXTREMITIES - Asymmetric edema of the left upper extremity compared to right with slight increase plethora. Distal pulses are 2+ in all extremities.",
+        "specialty_examination": "NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength ___ throughout, sensation grossly intact throughout, DTRs 2+ and symmetric, cerebellar exam intact, steady gait."
+    }
+}

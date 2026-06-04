@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "sub-therapeutic INR",
+        "history_of_present_illness": "This is a ___ year old woman with a history of bicuspid aortic valve s/p mechanical AVR ___, diabetes mellitus, hyperlipidemia, hypertension, who presents with a low INR. The patient had an ___ hospital course and was discharged to home on POD 4. Since discharge she has been doing well. She notes a dry cough, low grade fevers (tmax 100.2) and congestion. She denies chills, purulent sputum production or SOB. She had been taking 3mg of coumadin until ___ when her INR was 1.6. She was given 4mg of coumadin ___ and ___ and again her INR was 1.6. She is now admitted for heparin. Of note, she notes clear drainage from the mid sternum since and echocardiogram on ___. She denies increased pain.",
+        "past_medical_history": "Aortic Insufficiency, Aortic Stenosis, Asthma, Bicuspid Aortic Valve, Diabetes Mellitus, Endometrial Cancer s/p surgery and chemo, Hyperlipidemia, Hypertension, Obesity, Obstructive Sleep Apnea, c-pap s/p Hysterectomy s/p C-section x ___ s/p Hernia repair",
+        "family_history": "Mother - Lung cancer, died in his ___; Father - ___",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission exam: Skin: Dry intact; Vital signs: Not specified; HEENT: PERRLA, EOMI; Neck: Supple, Full ROM; Chest: Lungs clear bilaterally; Heart: RRR; Abdomen: Soft, non-distended, non-tender, bowel sounds +; Extremities: Warm, well-perfused, Edema present; Neuro: Grossly intact; Pulses: DP Right: 2+, Left: 2+; Sternum: Intact with cough, clear drainage expressible from mid-sternum, non-purulent, no erythema.",
+        "specialty_examination": "Neurological: A/O x3, non-focal; Cardiovascular: RRR, Irregular; Respiratory: CTA, No respiratory distress; GI/Abdomen: Bowel sounds present, Soft, ND, NT; Extremities: All warm with edema; Skin/Wounds: Dry intact; Sternal: CDI, small amount of serosang drainage noted on dressing this am, no erythema or tenderness"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Lethargy",
+        "history_of_present_illness": "Male with a past medical history of Alzheimer's dementia, post-polio neurologic deficit, and prostate cancer presents with lethargy in the setting of UTI. At recent baseline until about 5 days ago, then more lethargic for about 24 hours. Outpatient provider recommended close monitoring at home with aides. Oxybutynin was held as potential trigger for lethargy. Improved for about 2 days, but then recurrence of lethargy associated with some shaking chills, no documented fever. No change in urinary pattern, incontinence to diaper. Brought to hospital where urinalysis suggested UTI and appeared volume depleted.",
+        "past_medical_history": "1. Post-polio neurologic deficits. 2. Hypertension. 3. Prostate cancer. 4. Renal mass on the left kidney concerning for RCC. 5. History of PE, no longer on anticoagulation. 6. Alzheimer's dementia.",
+        "family_history": "No family history of bleeding or clotting disorders.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: BP 121/70, HR 72, RR 16, Temp: 97.6, O2 sat: 96% on Ra. Alert. In no apparent distress. Sitting in chair. Trace edema of left lower extremity, 1+ edema of right lower extremity. Strength decreased in all extremities 4+/5 throughout, less in right lower extremity.",
+        "specialty_examination": "Neurological: Alert, oriented, speech limited, follows basic commands. Cognitive deficits noted. Cardiovascular: Heart regular, no murmur, no JVD. Respiratory: Lungs clear to auscultation. No signs of distress."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "29",
+        "gender": "Female",
+        "weight": "78 kg",
+        "height": "161.8 cm",
+        "BMI": "29.8 kg/m2",
+        "ethnicity": "Turkish",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hypertension and diabetes mellitus",
+        "history_of_present_illness": "In the preceding 2 years the patient had gained approximately 10 kg of weight and her menses had become irregular in the preceding few months. An ultrasonography of the abdomen showed a large mass in the region of the left adrenal gland and a CT scan demonstrated an adrenal tumor approximately 6 x 5 cm in size.",
+        "past_medical_history": "Her father had non-insulin-dependent diabetes mellitus. Ten years previously she had delivered a small healthy girl weighing 2500 g.",
+        "family_history": "Father had non-insulin-dependent diabetes mellitus.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "The adipose patient was in good general condition, the height being 161.8 cm, the weight 78 kg, the body mass index 29.8 kg/m2, the pulse 120/min and the blood pressure 140/104 mmHg (circumference of the upper arm 34 cm). The patient displayed discrete Cushing’s stigmata with slight moon facies and plethora, abdominal obesity and mild hirsutism, but no buffalo hump or purple striae were seen. A fine tremor was noted.",
+        "specialty_examination": "Not specified"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Seizures",
+        "history_of_present_illness": "Mr. ___ is a ___ y.o. man with h/o refractory CLL on Ibrutinib, HTN, HLD, and 3-vessel CAD s/p CABG, recently admitted for new onset of right sided seizures, presents from clinic for recurrent episodes of seizures and bilateral hands tremor. Patient was found to have multiple brain lesions on MRI concerning for CSF involvement of CLL. CSF analysis did not show any malignant cells. Patient discharged on Keppra 1000 mg BID awaiting date for brain biopsy. Reports recurrent seizure activities ~3 times since discharge and shakiness. Tremor occurs upon extending arms or fine movements. Subjective weakness in shoulders, neck, and arms.",
+        "past_medical_history": "NSTEMI, Syncope, Hypertension, Hyperlipidemia, CLL, CAD s/p CABG, Skin cancer s/p resection, Intermittent hematuria, Hyperuricemia, BPH, Prior rectal bleeding d/t hemorrhoids. Past Surgical History: Bilateral knee arthroscopy, Resection of pilonidal cyst.",
+        "family_history": "Premature coronary artery disease in father who died from an MI at age ___. Brother with coronary stenting in his mid ___.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "ON ADMISSION: Vitals: Tc 98.7 Tm 98.7 BP 98-122/58-60 RR 18 SaO2 98% RA. Gen: Pleasant, calm, in no acute distress. NEURO: A&Ox3 CN intact; sensory function intact; motor strength ___ in left upper extremity, ___ in right extremity, ___ in lower extremities. Cerebellar exam notable for abnormal rapid alternating movement on right side and tremor upon extending arms in both hands (left>right).",
+        "specialty_examination": "No gait instability. Exam notable for high frequency low amplitude intention tremor."
+    }
+}

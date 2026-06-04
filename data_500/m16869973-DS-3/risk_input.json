@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Facial swelling",
+        "history_of_present_illness": "Patient presented with facial edema and swelling that had gradually worsened over several days, alongside voice change this morning. He reports that he was treated for strep throat three weeks prior and completed his antibiotics two weeks ago, after which leg swelling started. On presentation, he could not take his morning medications due to facial swelling and shortness of breath.",
+        "past_medical_history": "IDDM, Hypertension on lisinopril, Hyperlipidemia",
+        "family_history": "Mother alive with DM, hyperlipidemia. Does not know of any 'allergic reactions' in family.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission exam: BP 190's/100, HR 60's, Afebrile, RR 16, P02 98 on RA. Patient alert, oriented, no acute distress.",
+        "specialty_examination": "ENT examination revealed 'watery edema of the uvula with facial edema bilaterally prominent in the buccal region and extending to the submentum.' Cardiovascular examination showed regular rate and rhythm, no murmurs."
+    }
+}

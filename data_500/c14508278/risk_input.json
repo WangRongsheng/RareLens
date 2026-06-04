@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "57",
+        "gender": "male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Increased fluorodeoxyglucose (FDG) uptake in skeletal muscle observed on PET scan.",
+        "history_of_present_illness": "The patient engaged in strenuous activity (digging) two days before the PET scan, followed by inactivity for 48 hours before the study. No muscle or shoulder pain was reported on the day of the scan.",
+        "past_medical_history": "Non-Hodgkin lymphoma.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    },
+    "physical_examination": {
+        "general_examination": "The patient presents with no visible signs of distress or tenderness. Vital signs are not specified. Neurological examination shows normal strength, intact sensation, and appropriate reflexes.",
+        "specialty_examination": "Mild to moderately increased FDG uptake in the posterolateral aspect of the right deltoid, the right teres major, part of the right latissimus, and part of the medial paraspinal muscles. The patient denies any muscle or shoulder pain. Range of motion in the right shoulder is full without limitations."
+    }
+}

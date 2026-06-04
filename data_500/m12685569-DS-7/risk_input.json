@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "left ankle fracture",
+        "history_of_present_illness": "The patient is a male with a history of prior medical issues, transferred from an outside hospital after a 10-foot fall from scaffolding. He was found to have an open left lower extremity tibia/fibula fracture. He received one dose of Ancef at the outside hospital.",
+        "past_medical_history": "Hyperlipidemia",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "On admission, the patient is in pain. Vital signs are stable. Right lower extremity: Skin intact, soft, non-tender thigh and leg, full painless active range of motion/passive range of motion of hip, knee, and ankle. Pulses are intact with a warm and well-perfused foot. Left lower extremity: Open area of skin to medial malleolus, soft, non-tender thigh and leg, full painless active range of motion/passive range of motion of hip, knee, and ankle, intact pulses with a warm and well-perfused foot. On discharge: No acute distress, comfortable. Similar findings were noted in both lower extremities.",
+        "specialty_examination": "Not specified"
+    }
+}

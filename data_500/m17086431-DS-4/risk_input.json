@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Recurrent ascites s/p TIPS",
+        "history_of_present_illness": "Patient with HCV cirrhosis c/b refractory ascites, on the transplant list, who presents for monitoring s/p elective TIPS for ascites. He has been having twice weekly paracenteses for the past couple of months. He had previously been on diuretics but developed renal dysfunction while taking them and they were stopped. The TIPS was uncomplicated, hepatic portal gradient down from 18 to 3. 9L of ascites was removed during the procedure. He was admitted for routine monitoring after TIPS.",
+        "past_medical_history": "HCV cirrhosis with decompensation, HCV treatment in Not specified, history of ETOH abuse, hypertension, hypothyroidism. Past Surgical History: Lower spine surgery, emergency exploratory laparotomy with appendectomy in Not specified, right inguinal hernia repair with mesh Not specified years ago.",
+        "family_history": "Non-Contributary",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals- 97.9F 110/67 mmHg 84 bpm 18 RR 100% on RA. General- Alert & oriented x 4, no acute distress. Abdomen- soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no hematoma at site of paracentesis. Ext- mild pitting edema bilaterally, no asterixis. neuro- motor function grossly normal, no focal weakness or numbness.",
+        "specialty_examination": "Lungs- atelectatic crackles in R lower lobe, otherwise clear. CV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops."
+    }
+}

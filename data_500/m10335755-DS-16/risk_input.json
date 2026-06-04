@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Dizziness, diplopia and vertigo",
+        "history_of_present_illness": "Mr. ___ is a left-handed man with no reported past medical history who presented to ___ with dizziness, diplopia and vertigo beginning this morning at 6 AM. He reported a headache on one side, nausea, vomiting, and difficulty walking in the morning with heavy legs. Visual acuity was noted to be abnormal bilaterally. A head CT showed hypodensity in the left cerebellum, leading to transfer for further evaluation.",
+        "past_medical_history": "None",
+        "family_history": "No family history of stroke.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: T: 99.5, P: 60, R: 16, BP: 130/78, SaO2: 100% RA. Patient was awake, cooperative, and in no acute distress. Neurological examination showed alert mental status, able to follow commands, slight confusion with details.",
+        "specialty_examination": "Neurological: Difficulty with complex commands, left-right confusion, and vertical diplopia, alongside normal motor function. No sensory deficits. DTRs were normal. Mild dysmetria on left-sided coordination. Gait was normal with a narrow base."
+    }
+}

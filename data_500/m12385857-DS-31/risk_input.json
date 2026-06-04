@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Mr. ___ is a male with a history of insulin dependent diabetes and multiple admissions for abdominal pain secondary to gastroparesis who was discharged yesterday after gastroparesis exacerbation, and represented this morning with abdominal pain, nausea, and vomiting. He was recently admitted for gastroparesis exacerbation and upon discharge was able to tolerate POs but after eating boiled sausage at home, he experienced severe abdominal pain, bloating, nausea, and vomiting. He returned to the ED where he was found to have vitals of 98.6°F, 152/81 BP, and a pulse rate of 88; treated with dilaudid and zofran with some improvement.",
+        "past_medical_history": "- DM type 2, poorly controlled, last HbA1c 10.8; insulin-dependent with complications including neuropathy, nephropathy, gastropathy, retinopathy (legally blind). - Chronic pain, on narcotics contract. - Hyperlipidemia, on Lipitor. - History of Hepatitis C diagnosed by liver biopsy; previously treated without response. - Previous IVDU, stopped. - CAD, s/p NSTEMI. - History of infrarenal aortic dissection, stable.",
+        "family_history": "Mother and father both died from complications of diabetes. His youngest son has autism.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission: Vitals: 98.3°F, 134/78 BP, pulse 83, respiratory rate 18, oxygen 100% RA. Patient is alert & oriented x3, in mild discomfort.",
+        "specialty_examination": "Neurological: moving all extremities, decreased sensation at feet. Cardiovascular: Normal S1, S2, RRR, no murmurs. Abdomen: thin, diffusely tender without rebound or guarding, increased tenderness at the epigastrium."
+    }
+}

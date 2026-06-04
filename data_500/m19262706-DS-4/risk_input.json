@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "neck pain",
+        "history_of_present_illness": "Smoker who presents as transfer from ___ after elective MRI with concern for cervical cord compression. She describes atraumatic onset of left hand tingling in ___ of this year after twisting her head to one side in bed. This has been stable since. A couple of weeks ago, her right hand started tingling as well. This has been associated with neck pain since all started in ___. Denies any history of weakness. She has not had any falls or difficulty with balance; however, over the last two weeks has had some tingling on bottoms of both feet. She does endorse some problems with dexterity. Denies urinary or bowel issues, or perineal numbness. Denies fever/chills/nausea/vomiting/weight loss. Otherwise feels well.",
+        "past_medical_history": "seizures, htn",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Spine Exam: Palpation: No areas of tenderness. No step-offs in the C-, T-, or L-spine. Some pain with range of motion of C-spine. Vascular: 2+ radial pulses bilaterally, 2+ DP pulses bilaterally. Neurologic: PERRL. Face symmetrical. Speech clear and fluent. Tongue midline. EOMs intact. Negative pronator drift. Normal tone and bulk universally.",
+        "specialty_examination": "Motor (UE) C5 Deltoid/axillary: Right: 5 Left: 5; C6 Biceps/MC: Right: 5 Left: 5; C7 Tris/Rad: Right: 5 Left: 5; C8 FF/AIN: Right: 5 Left: 5; T1 FAbd/U: Right: 5 Left: 5. Sensation (UE): C5 lat deltoid: Right: normal Left: normal; C6 thumb: Right: normal Left: reduced; C7 LF: Right: reduced Left: reduced; C8 SF: Right: reduced Left: reduced."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "diarrhea",
+        "history_of_present_illness": "Patient is a ___ year old woman with history of Crohn's (diagnosed ___ yrs ago) who presents with 10 days of abdominal pain and 1 day of bloody diarrhea. She was initially diagnosed ___ year ago after presenting with diarrhea and underwent colonoscopy in ___. Since stopping medications, she has been relatively asymptomatic except for an episode when she experienced sharp cramping abdominal pain for 2 days. Over the past 10 days, she developed diffuse crampy abdominal pain associated with 2 episodes of diarrhea, one with maroon colored blood and one with black blood. Patient endorses nausea, chills, headache, weakness. In ED, VSS On exam, mucous membranes dry. Hemoccult grossly bloody, positive.",
+        "past_medical_history": "Crohn's disease, Closure of anal fissure, ___ yrs ago.",
+        "family_history": "Crohns, UC.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Gen: NAD, lying in bed. Eyes: EOMI, sclerae anicteric. ENT: dry MM, OP clear. Cardiovasc: RRR, no MRG, full pulses, no edema. Resp: normal effort, no accessory muscle use, lungs CTA. GI: Diffusely tender to palpation, guarding. ND, BS+. MSK: No significant kyphosis. No palpable synovitis. Skin: No visible rash. No jaundice. Neuro: AAOx3. No facial droop. Psych: Full range of affect.",
+        "specialty_examination": "Not specified"
+    }
+}

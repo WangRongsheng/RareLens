@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Elevated creatinine",
+        "history_of_present_illness": "___ yo M with a history of nephrotic syndrome and collapsing glomerulopathy as well as hepatitis who underwent deceased donor kidney transplant on ___ and presents today with an elevated creatinine level of 2.4 after normally scheduled clinic visit. Of note regarding his transplant, hep C to hep C kidney transplant blood borne infectious diseases high risk, CMV intermediate risk, EBV intermediate risk(D+/R+) and HLA low-risk. The patient's initial transplant was performed without a ureteral stent that was complicated by urine leak requiring placement of a percutaneous nephrostomy tube on ___. Creatinine collected from the JP output indicated urinoma and nephrostogram at that time demonstrated significant leak from the transplant ureter with extravasation into the peritoneal cavity. The patient returned to the operating room on ___ for revision of the ureterovesicular anastomosis with stent placement. On ___ he underwent a biopsy of the allograft and the biopsy did not demonstrate any evidence of rejection. By the time of discharge on ___, the patient's creatinine had continued to decrease to 1.7. Since discharge the patient has been doing well at home and has no complaints.",
+        "past_medical_history": "Nephrotic Syndrome, CKD stage V, Hepatitis C, IVDU (heroin/cocaine) last ___ year ago, Asthma",
+        "family_history": "Mother had kidney stones, grandfather had testicular cancer, otherwise no history of kidney diseases",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    }
+}

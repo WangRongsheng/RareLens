@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "55",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Kauffrau (businesswoman)"
+    },
+    "medical_history": {
+        "chief_complaint": "chronic facial pain and ptosis on her left side",
+        "history_of_present_illness": "The patient reported suffering from a burning constant pain above the left eyebrow for about 10 years, which was sometimes accompanied by feelings of heat, redness, and tingling. The pain suddenly stopped three weeks before admission, leaving only a slight left-sided facial hypaesthesia.",
+        "past_medical_history": "Hypertension, glaucoma, and iron deficiency. The patient had undergone several MRI scans and treatments for suspected trigeminal neuralgia, migraine, and cluster headache without success.",
+        "family_history": "Not specified",
+        "social_history": "Married, mother of a daughter, and professionally successful as a businesswoman. No mention of substance use or occupational exposures."
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Left-sided mild ptosis and hypaesthesia and disturbance of thermoceception in the entire left trigeminal nerve area. The rest of the neurological and general clinical status was normal."
+    }
+}

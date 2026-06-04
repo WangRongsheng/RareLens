@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "EtOH intoxication",
+        "history_of_present_illness": "M with history of EtOH abuse, prev requiring intubation for aspiration, presents with acute EtOH intoxication. Per ED report, he was found sitting next to a friend with whom he had been drinking (bottle of vodka next to him and known to EMS for ETOH). He had slurred speech, given narcan w/o improvement, monitored initially then had an aspiration event requiring intubation.",
+        "past_medical_history": "- R knee injury s/p surgery at Not specified \n- multiple presentations to ED for acute alcohol intoxication",
+        "family_history": "Unknown PMH (limited contact with medical system)",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "ADMISSION VITALS: AF, HR 85, BP 89/52, RR 20, O2 99% (intubated)",
+        "specialty_examination": "NEURO: sedated"
+    }
+}

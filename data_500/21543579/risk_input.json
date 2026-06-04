@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "36",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Not specified",
+        "history_of_present_illness": "A 36-year-old man suffering from cystic fibrosis was admitted to our hospital in June 2009 for a heart and bilateral lung transplantation. He had a first lung transplantation in 1997 but had chronic rejection since 2001 in spite of several immunosuppressive regimens. His medical history also included renal failure (hemodialysis since 2007), diabetes mellitus, and airway colonization with a multiresistant Pseudomonas aeruginosa. Short antifungal therapy courses had been prescribed over the past years for various yeasts (Candida spp.) and molds (Aspergillus, Paecilomyces, and Fusarium species) colonizing his respiratory tract, but there was no evidence of previous isolation of a Scopulariopsis species.",
+        "past_medical_history": "Cystic fibrosis, first lung transplantation in 1997, chronic rejection since 2001, renal failure (hemodialysis since 2007), diabetes mellitus, airway colonization with a multiresistant Pseudomonas aeruginosa, colonization with various yeasts (Candida spp.) and molds (Aspergillus, Paecilomyces, and Fusarium species).",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    }
+}

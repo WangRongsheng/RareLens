@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "17",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "1 year history of lethargy, nausea and pre-syncopal symptoms",
+        "history_of_present_illness": "Presented with symptoms consistent with SIADH and no sino-nasal symptoms. Routine blood investigations revealed significant hyponatraemia, with a serum sodium level of 111 mmol/L. Diagnosis of SIADH was made based on being euvolaemic, euthyroid and having normal adrenal function.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Physical examination was unremarkable.",
+        "specialty_examination": "Not specified"
+    }
+}

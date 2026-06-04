@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "77.11 kg",
+        "height": "160 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chest pain",
+        "history_of_present_illness": "Year old female with known HTN, DM, hypercholesterolemia who presented for outpatient stress test since having chest pain on exertion over the last several months. During the test she did have chest pain and associated ECG changes suggestive of ischemia. She went to cardiac cath which revealed multivessel coronary disease. She was transferred for evaluation of revascularization.",
+        "past_medical_history": "HTN, DM, Hypercholesterolemia, obesity, GERD",
+        "family_history": "Denies",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Pulse: 71, Resp: 18, O2 sat: 98% on 2 liters, B/P Right: 125/72 Left: Not specified",
+        "specialty_examination": "Neurological: Grossly intact; Cardiovascular: RRR, Irregular; Extremities: Warm, well-perfused, Edema: None"
+    }
+}

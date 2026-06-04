@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "lower back pain",
+        "history_of_present_illness": "Ms. ___ is a ___ PMHx chronic back pain, scoliosis/degenerative joint disease/osteoporosis, HLD, GERD, and iron deficiency anemia who presents with acute exacerbation of her low back pain. She states that she has been having severe R LBP with radiation down the back of her RLE over the past 5 days. She states the pain is so severe it has woken her up from sleep. She has had no preceding trauma. She was initially able to ambulate with assistance, but she states that her pain has progressed such that she can no longer stand or bear any weight. She has had no issues with voiding aside from the fact that she has low back pain with sitting down. She presented to her ___ clinic where lumbar spine x-ray showed no acute spinal process. Given the focality of her R hip pain and back pain, her exam was concerning for R hip fracture as well as possible acute lumbar disc herniation. She underwent lumbosacral spine MRI on ___ which showed multilevel degenerative disease most pronounced at L3-L5 with moderate spinal canal stenosis and nerve root impingement.",
+        "past_medical_history": "Hx of BACK PAIN (ICD-724.5), SCIATICA (ICD-724.3), Hx of IMMUNE THROMBOCYTOPENIA (ITP) (ICD-287.3), Hx of MIGRAINE NOS (ICD-346.9). Hx of OSTEOPOROSIS (ICD-733.0). Iron deficiency anemia. Status post left hip fracture. Chronic pancreatitis. Functional diarrhea. Gastric ulcer. Thrombocytopenia. Anxiety. Hypercholesterolemia.",
+        "family_history": "Mother: breast cancer. Mother's aunt: cancer. Father: heart disease. Brother: Alive, hx. myocardial infarction.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals- 98.2, HR 59, BP 103/74, RR 19, O2 Sat 98% on RA. General: well-appearing elderly female lying flat in bed in NAD. TTP over R buttock and lateral R proximal thigh. No midline TTP of spinous processes or paraspinal areas.",
+        "specialty_examination": "Neurologically AOx3, has limited strength of R hip flexor/knee extensor/dorsiflexion/inversion/plantar flexion limited by pain. Wnl reflexes of BLE. Sensation grossly intact."
+    }
+}

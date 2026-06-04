@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Failure to Wean off Ventilator",
+        "history_of_present_illness": "This is a man with PMHx HCV c/b cirrhosis and HCC s/p OLT, on Tacro and Mycophenolate, c/b HCC recurrence s/p RFA, DM2, HTN, pulmonary HTN, CAD s/p CABG, who presents s/p repeat RFA with acidemia and difficulty with oxygenation/ventilation post-procedure. The morning of admission pt presented for RFA with self-reported BG in the 500s. Per anesthesia, lytes were initially OK without AG; pt was intubated and procedure was uncomplicated. Post-procedure O2 sat was in the low 90s on: Vt 700, RR 15 PEEP 10 FiO2 100%. ABG was: 7.26/48/99. He was transferred to the MICU for ongoing management. On arrival to the MICU, initial VS were: T 98 BP 120/60 HR 64 RR 10 O2 Sat 97%. Vent settings were: Vt 700, RR 12, PEEP 10 FiO2 100% with ABG 7.31/Not specified.",
+        "past_medical_history": "HCV Cirrhosis/HCC s/p OLT, c/b bile leak s/p ERCP with stent placement, CKD (recent baseline Cr 1.5-1.6), Pancytopenia, CAD s/p CABG (4VD), s/p cath with stent placement, Diabetes mellitus type 2 (A1c 9.8), Hypertension, Gastritis, Asthma, Gout, Hiatal hernia, Remote history of skin cancer, BPH, Right distal fibular fracture, Morbid obesity, Hyperlipidemia, s/p bilateral cataract extraction, s/p umbilical hernia repair.",
+        "family_history": "Mother deceased at age Not specified from breast cancer. Father deceased at age Not specified from thrombosis (likely stroke). Sister has asthma, but is well-controlled with inhalers.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "ADMISSION EXAM: T 98 BP 120/60 HR 64 RR 10 O2 Sat 97%. General- Unresponsive, sedated. HEENT- EOMI, MMM, pupils 1.5mm, minimally reactive. Neck- Plethoric, unable to assess JVP. CV- RRR, distant heart sounds, normal s1, s2, no s3, s4, no m/r/g. Lungs- Bilateral breath sounds, CTA anteriorly, synchronous with vent. Abdomen- Obese, non tender, NABS, no r/r/g. GU - Foley. Extremities- pitting edema, no cyanosis or clubbing.",
+        "specialty_examination": "Neuro- Sedated, unresponsive."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "cognitive decline",
+        "history_of_present_illness": "Patient with a history of chronic subdural, mild cognitive impairment, and DM presents with cognitive decline and hyponatremia over the past few weeks. The patient had a subdural in the past and lost some cognitive abilities at that point. Two weeks ago, the patient hit her head, leading to a negative HCT. The patient was previously oriented, but her daughter noticed a decline in her cognitive function, particularly with word searches, and increased fatigue. The patient visited her PCP and was diagnosed with a UTI and started on macrobid. The patient has been hyponatremic to 128 and was instructed to fluid restrict and increase salt intake.",
+        "past_medical_history": "Amaurosis fugax, atrial fibrillation, benign positional vertigo, cataract, colonoscopy, Type II diabetes, diverticulosis, hearing loss, hypertension, hypothyroidism, myelodysplastic syndrome, myocardial infarction, right distal ulnar fracture, squamous cell carcinoma right, chronic subdural hematoma, dementia, exploratory laparotomy, small bowel resection and anastomosis, repair of incarcerated left femoral hernia, cervical lymph node biopsy, laparoscopic cholecystectomy, bilateral inguinal hernia repair.",
+        "family_history": "Father with CAD, mother with DM",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Initial vital signs: 97.8°F, BP 114/49, HR 55, RR 17, O2 saturation 99% RA. Alert and oriented to person only, in no acute distress. Final vital signs on discharge: 97.9°F, 98% RA. Resolving ecchymoses on arms.",
+        "specialty_examination": "Neurological exam revealed alertness with A&Ox2.5 at one point. CNs 2-12 intact, grossly normal motor function, and pronator drift on the left."
+    }
+}

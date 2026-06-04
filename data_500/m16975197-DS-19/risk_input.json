@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Headache and Hypertensive urgency",
+        "history_of_present_illness": "Patient with ESRD and polycystic kidney disease s/p transplant presents with 1 week right sided headache and hypertension. Notable history of eye surgery for benign lesion removal, followed by significant constant, sharp pain behind right eye. BP ranged from 160s to 220s, prompting evaluation. Occasional nausea/vomiting over past 2 days. Denies diarrhea, fevers, myalgias, neck stiffness, but has chills. Baseline tremors noted to be worse.",
+        "past_medical_history": "HTN, hypercholesterolemia, DM2, OSA, basal cell CA (preTx), sq cell CA in situ (postTx), GERD, degenerative L5-S1, sinusitis, internal hemorrhoids, thrush, +CMV, +BKV, EBV ab+, effusion with tamponade s/p drainage.",
+        "family_history": "Lupus (mother), ovarian CA (sister), unspecified conditions (grandfather & father).",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "T: 97, BP: 168/90, HR: 65, R: 20, SpO2: 97% on RA. Patient awakens to voice but falls back to sleep, occasional jerking movements.",
+        "specialty_examination": "Neurological: Mental status awake to voice, oriented to person and place. Cranial nerves II-XII intact. Motor: normal bulk, strength, and tone. Sensory: No deficits to light touch. Cerebellar: No nystagmus."
+    }
+}

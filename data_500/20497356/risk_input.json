@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "15",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "acute onset of a rapidly enlarging, ulcerative nodule on her left lower eyelid",
+        "history_of_present_illness": "The lesion began 3 weeks prior to presentation and was attributed to a presumed spider bite. The patient had discovered a spider in her bed around the time the lesion began. Previous therapies included oral antibiotics, oral corticosteroids, as well as antibiotic and corticosteroid eye drops. An incision and drainage procedure was attempted but no fluid or pus was expressed.",
+        "past_medical_history": "ulcerative colitis, diagnosed at 8 years of age and controlled with a combination of oral 6-mercaptopurine (6-MP), 75 mg daily, and oral mesalamine (delayed release mesalamine monosodium salt), 1200 mg three times daily. She denied symptoms of active ulcerative colitis. Five weeks prior to presentation, she was diagnosed with IM by a positive heterophile antibody in the setting of fever, sore throat, headache, and fatigue.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "a 3 cm indurated, tender, erythematous, violaceous ulcerated, crusted nodule on the left lower eyelid. Mild subconjunctival hemorrhage was observed. Lymphadenopathy was not present in the cervical chain and no other relevant cutaneous findings were observed.",
+        "specialty_examination": "Not specified"
+    }
+}

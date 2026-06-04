@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "80",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Suspicion of primary hyperparathyroidism.",
+        "history_of_present_illness": "In the preceding weeks, patient was diagnosed with hypercalcemia following a short period of illness, nausea, and fever. After administration of vitamin D, hypercalcemia persisted. At the time of referral for PET/CT, patient had no complaints.",
+        "past_medical_history": "Multiple myeloma (IgAκ) diagnosed after imaging.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    },
+    "physical_examination": {
+        "general_examination": "Patient appears well-hydrated and is in no acute distress. Stable vital signs. A unilateral multinodular goiter is noted. Cardiac and lung exams are normal. Abdominal exam reveals no organomegaly, tenderness, or masses. Neurological assessment shows the patient is alert and oriented with normal reflexes.",
+        "specialty_examination": "Serum calcium recorded at 2.81 mmol/L initially and 2.91 mmol/L post-cholecalciferol administration. Elevated parathyroid hormone level at 11.4 pmol/L. Imaging findings include unilateral multinodular goiter and a pathological 18F-fluorocholine uptake in a cutaneous nodule diagnosed as malignant melanoma (Breslow thickness of 2.8 mm)."
+    }
+}

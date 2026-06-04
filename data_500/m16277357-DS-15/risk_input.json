@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "chest pain",
+        "history_of_present_illness": "This is an ___ year old male with history of CAD s/p ___ yrs ago, severe diastolic CHF, and COPD who presents after an episode of chest pain now resolved. Apparently, the patient developed dull diffuse chest pain this evening that he noted while walking from bed to the bathroom. This did not radiate to his arm or jaw and was not associated with any worsening of his baseline dyspnea. Severity was about ___. This lasted about 20 minutes at which point the patient took some maalox and it disappeared around 10 minutes after that. The patient has had two subsequent brief recurrences of the pain, one as EMS arrived at his home and one as he was being moved into bed on the floor. He denies any palpitations, worsening shortness of breath (he does have baseline shortness of breath), worsening lower extremity edema, cough, fevers, or chills. At baseline he uses 2L of O2 by nasal cannula all times and moves this up to 3L on exertion. With 3L of supplementary O2 he is able to walk 18 minutes on a treadmill without chest pain. In the ED VS 98.1 56 132/57 20 100. ECG showed a fib with RBBB but no ST elevation or depression. Labs notable for troponin of 0.03 ___K.",
+        "past_medical_history": "Cardiac Risk Factors: - Diabetes, + Dyslipidemia, + Hypertension Cardiac History: CABG: ___, anatomy not in records Percutaneous coronary intervention, in ___: 3VD, POBA LAD and diag. Pacemaker/ICD: VT in ___, s/p ICD placement. Other PMH: COPD: FVC 69%, FEV1 56%, FEV1/FEV 81% on 2L O2 w/ activity (followed by Dr. ___) Hypercholesterolemia Hypertension Peripheral Neuropathy-unknown etiology. Since ___ History of tobacco use ___ years) Status post ICD placement for VT - ___. Status post TURP x 2 diastolic CHF.",
+        "family_history": "Father deceased from MI at age ___. Brother died of lung CA at ___ yo.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: T 98.1 %# 110/64 20 97% on 2L. Gen: Well appearing elderly gentleman appearing younger than his stated age in soft cervical collar (for comfort from OA of neck).",
+        "specialty_examination": "CV: Irregular, ___ systolic murmur; DP and Radial pulses 1+ bilaterally, no elevated JVP. Pulm: Decreased breath sounds, Expansion equal bilaterally, CTAB. Abd: Soft, NT, ND, BS+. Extrem: Warm and well perfused, 1+ nonpitting edema bilaterally in feet. Neuro/Psych: A and O*3, Very pleasant and cooperative, CN II - XII intact, ___ strength upper and lower extremitites bilat."
+    }
+}

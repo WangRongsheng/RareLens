@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "right foot wound",
+        "history_of_present_illness": "Ms. ___ is a ___ female patient with Crohn's disease and neuropathy who presents to clinic today for follow-up of her right fifth metatarsal head ulceration. She notes that the ulcer does not appear to look well and she is not feeling well. She notes that she is generally feeling very tired. She had chills over the weekend however did not check her temperature. She is scheduled for the operating room tomorrow for ___ metatarsal head resection. The decision was made to admit patient to the hospital for IV antibiotics. She denies any vomiting, nausea, shortness breath, chest pain.",
+        "past_medical_history": "1) severe obstructive sleep apnea fitted for CPAP but does not use (feels claustrophobic with it on) 2) Crohn's disease s/p partial colectomy with ileostomy 3) vitamin B12 deficiency 4) back pain with herniated disc 5) basal cell carcinoma 6) neuropathy followed at ___ by neurology 7) history of cellulitis 8) carpal tunnel syndrome 9) incidentaloma (left adrenal mass removed ___ 10) hyperlipidemia with elevated triglycerides 11) vitamin D deficiency 12) hyperuricemia 13) hepatic steatosis by ultrasound study 14) cholelithiasis and gallbladder sludge by ultrasound study. Surgical history is noteworthy for: 1) laparoscopic repair of a parastomal hernia ___ 2) removal of the left adrenal gland mass (benign) ___ 3) operator arthroscopy with resection of medial plical shelf and anterior synovectomy of the right knee, ___ 4) torn right knee meniscus repair in ___ 5) excision of basal cell carcinoma ___ 6) L4-L5 removal of a herniated disc in ___ 7) I&D of rectal abscess in ___ 8) total colectomy, proctectomy and formation of ileostomy.",
+        "family_history": "Mother/brother-DM; Father/Mother/Brother-HTN; Mother/Brother-CAD",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "General: well appearing female, NAD. Vital signs: RRR.",
+        "specialty_examination": "Lower Extremity: Full thickness ulceration to the plantar aspect of the fifth metatarsal head with metatarsal head exposed. Base is fibro-necrotic. Malodor present. Erythema extending proximally toward the ankle. No purulence expressed. Non-tender to palpation."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "61",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Japanese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Acute-onset consciousness disturbance, fever, and elevated serum creatinine kinase levels",
+        "history_of_present_illness": "Acute-onset consciousness disturbance (a Japanese coma scale score of 200), fever, and elevated serum creatinine kinase levels in mid-September 2010. Convulsion was noted in late-September. Treatment with intravenous acyclovir and methylprednisolone pulse therapy was partially effective. The patient continued to have dementia with myoclonus and psychiatric symptoms despite resolution of the consciousness disturbance.",
+        "past_medical_history": "No medical or familial history of central nervous system disease",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Disturbed consciousness gradually improved, and myoclonus was observed in his right upper limb. Dementia, psychiatric symptoms, a startle reaction, myoclonus, truncal and limb rigidity, and spasticity in all four limbs were noted. Muscle weakness, atrophy, and fasciculation were not observed.",
+        "specialty_examination": "Neurological examination showed dementia, psychiatric symptoms, a startle reaction, myoclonus, truncal and limb rigidity, and spasticity in all four limbs. Periodic sharp-wave complexes were not observed on the serial electroencephalograms."
+    }
+}

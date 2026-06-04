@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "dizziness, weakness",
+        "history_of_present_illness": "This is a ___ year old woman with a PMH significant for NASH cirrhosis (c/b grade I EV, EGD ___, and HE), who presents with ___ days of confusion, as well as a fall 2 days prior to admission (___). Ms. ___ was in her usual state of health until 2 days ago, when her daughter noticed she appeared more tired and less talkative. She had no complaints until 1 day ago when she complained of elbow pain. Per ___ also was complaining of some shortness of breath on the day of the fall.",
+        "past_medical_history": "NASH cirrhosis, complicated by grade I esophageal varices, hypertension, type II diabetes (diet controlled), hypothyroidism, history of subdural hematoma s/p fall, multi-drug resistant E. coli urinary tract infection.",
+        "family_history": "Sister - DM, Brother - ?stomach or liver cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission vitals: 98.3 | 176/74 | 68 | 18 | 95% RA. Thin, elderly woman in no acute distress. Tacky mucous membranes with white-yellow tongue coating. No scleral or sublingual icterus.",
+        "specialty_examination": "Neurological: Very faint asterixis. Face symmetric. Moving all limbs against gravity. Not able to follow instructions. Cardiac: RRR, II/VI systolic ejection murmur heard at all auscultation points. Pulmonary: Clear to auscultation at 8 regions bilaterally."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Right hip fracture",
+        "history_of_present_illness": "___ year old female with history of CLL, ___ disease, and hyperthyroidism who presents with right hip pain after an unwitnessed fall earlier today. Patient is unclear of the details surrounding her fall, but has been unable to bear weight on her right lower extremity since. Denies headache or neck pain. Denies numbness or tingling distally in the right lower extremity. Pt lives alone but has one of her children or a ___ at the house ___. Family reports frequent mechanical falls, however no history of syncope or loss of consciousness.",
+        "past_medical_history": "BACK PAIN, CHOLELITHIASIS, CHRONIC LYMPHOCYTIC LEUKEMIA, ELEVATED HGB A1C, GRAVES' DISEASE, HEALTH MAINTENANCE, HEPATITIS A, HYPERCHOLESTEROLEMIA, MOLES, MULTINODULAR GOITER, OSTEOPOROSIS RISK ASSESSMENT, S/P APPENDECTOMY, S/P PARTIAL HYSTERECTOMY, S/P REMOVAL OF OVARIAN CYST, SMOKER, THYROIDITIS, URINARY TRACT INFECTION, OSTEOARTHRITIS, SHOULDER PAIN, PARKINSONISM, MONOCLONAL PARAPROTEIN, CHRONIC OBSTRUCTIVE PULMONARY DISEASE, TEMPOROMANDIBULAR JOINT DYSFUNCTION, LIGHTHEADEDNESS, TRAUMATIC SUBDURAL HEMATOMA, FALLS, RECOVERED SUBDURAL HEMATOMA, HYPERTENSION, RIGHT ANKLE ULCER",
+        "family_history": "Noncontributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "General: Well appearing, NAD. CV: WWP distally. R: breathing comfortably and conversing easily. Right lower extremity: Dressing clean, dry, intact.",
+        "specialty_examination": "SILT SPN/DPN/TN/saphenous/sural distributions - foot warm and well-perfused."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hematemesis",
+        "history_of_present_illness": "Ms. ___ is a ___ y/o female with a past medical history of gastric cancer (s/p ECX ___, ex lap ___ with inoperable tumor burden, Xeloda ___, Taxol ___, ___ ___ who presents with hematemesis. Patient was recently admitted for anemia, likely secondary to an UGI source. An EGD was not performed as her Hct stabilized with conservative management. She received 2U pRBC during that admission and was discharged on ___ with an H/H of ___. Patient was doing well until the day of admission when she had one episode of hematemesis (tablespoon) associated with orthostasis. She called her daughter who recommended that she go to the ED for evaluation. Patient initially presented to a local hospital where her Hct was 20 and BP 84/44. She received 1U pRBC, PPI bolus/gtt and was transferred to ___ for further management. In the ___ ED, VS T 98.2, HR 80, BP 102/44, RR 16, 98% RA. Stool was maroon color. GI was consulted and recommended conservative management at this time with transfusions, as cautery and clipping are ineffective in the setting of a bleeding mass. Recommended consulting surgery and ___ if concern for active hemorrhage. Patient was transferred to the ICU on PPI gtt. On arrival to the ICU, VS T 98.5, HR 76, BP 109/44, RR 17, 100% RA. Patient was accompanied by her daughter at the bedside. Complained of nausea but no abdominal pain. Endorsed orthostasis upon standing. Last BM was earlier today and was brown. No further episodes of hematemesis since earlier in the day.",
+        "past_medical_history": "Gastric cancer (s/p ECX ___, ex lap ___ with inoperable tumor burden, Xeloda ___, Taxol ___, ___ ___), HLD, GERD, R thalamic CVA.",
+        "family_history": "Paternal grandmother with cancer of unknown type in her ___. No other family history of known malignancy.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admissions vitals: T 98.5, HR 76, BP 109/44, RR 17, 100% RA. General: Alert, oriented, no acute distress. HEENT: Sclera anicteric, MMM, oropharynx clear. Neck: supple, JVP not elevated, no LAD. Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi. CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops. Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly. GU: + foley. Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis; trace edema b/l.",
+        "specialty_examination": "Not specified"
+    }
+}

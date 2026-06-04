@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Loss of Consciousness",
+        "history_of_present_illness": "This is an ___ year old man s/p unwitnessed syncopal episode earlier ___, the day of admission. He was able to get to the phone, but lost consciousness along the way to medflight. He intubated prior to transfer to ___. CT head showed SAH and he was admitted to Neurosurgery for further evaluation.",
+        "past_medical_history": "PMHx: HTN, HL, TIAs, prior history of thalamic bleed.",
+        "family_history": "unknown",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "On Admission: O: T: AF BP: 177/69 HR: 56 R: 18 O2Sats: 100% Gen: WD/WN, comfortable, NAD. Mental status: Intubated/sedated.",
+        "specialty_examination": "Cranial Nerves: Unable to assess. Reflexes: B T Br Pa Ac Normal bilaterally Toes downgoing bilaterally."
+    }
+}

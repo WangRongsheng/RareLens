@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Headache",
+        "history_of_present_illness": "___ y/o female with a history of chronic migraine, h/o TIA, and cervical spasm who developed worse than usual headache. Since her teenage years patient has had frequent migraines, often daily. 6 weeks PTA patient fell and hit her head at ___, since that time patient has had worse symptoms from her chronic daily migraines. On ___ patient underwent facet injection at C2-C3 at OSH. This caused further exacerbation of her headaches. On ___ she was NPO after midnight for a GI motility study. On ___ (morning of admission) she developed nausea and subsequently began dry heaving (with one episode of emesis) which worsened her headache pain. She describes the headache as throbbing, constant and diffuse. It is worse with standing and better with lying flat. She has associated pressure behind the right eye and describes a white orb floating in front of the eye. She denies any fevers or chills but does report some sensitivity to light.",
+        "past_medical_history": "- TIA\n- PFO\n- IBS, constipation-predominant\n- GERD\n- Bipolar disorder\n- Migraines\n- Diverticulosis and diverticulitis\n- OCD\n- Chronic back pain\n- Cervical disc disease and radiculopathy s/p cervical spinal fusion\n- TMJ disorder\n- Urinary incontinence\n- Osteopenia\n- Chronic abdominal pain\n- Pancreatitis s/p multiple stents at ___ in ___\n- Leukopenia\n- PE (on Coumadin) ___ with subsequent CTA negative for PE.\n- RUE DVT ___\n- C. Diff s/p Vanco last dose ___\nPast Surgical History (total of 14 per patient):\n- S/p hysterectomy\n- S/p ex laparoscopy ___ with LOA\n- S/p spinal fusion\n- S/p implantation then removal of bladder device\n- S/p bladder suspension then sling\n- S/p left occipital nerve procedure",
+        "family_history": "Mother deceased with IBS, diverticulosis, GERD, and lung cancer. Mother died in her ___ with CHF. Aunt with a stroke. Her GM and aunts died of heart disease. Multiple members on both sides with heart disease. Father deceased with prostate cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS - 97.6, 102/75, 60, 18, 98% RA. GENERAL - lying in bed in the dark, sunglasses on, NAD.",
+        "specialty_examination": "NEURO - CN II-VI not assessed as patient did not wish to remove her sunglasses, asymmetric smile with flattening of the right nasolabial fold, strength ___ in upper and lower right extremities."
+    }
+}

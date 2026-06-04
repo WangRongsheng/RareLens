@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "not specified",
+        "gender": "female",
+        "weight": "not specified",
+        "height": "not specified",
+        "BMI": "not specified",
+        "ethnicity": "not specified",
+        "occupation": "not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Abdominal pain since last night.",
+        "history_of_present_illness": "The pain began at 2 AM after eating a sandwich and ice cream before bed. The patient woke up with intense pain in the right upper quadrant (RUQ) that caused her to faint. She took Motrin with no relief, experienced nausea, and had several episodes of vomiting. Additionally, she had urgency with bowel movements and diarrhea with cramping during the day before. She denies having fevers, but is passing flatus. She received morphine in the emergency department without pain relief. She has experienced about 4 similar episodes of pain over the last few months, each lasting approximately two hours.",
+        "past_medical_history": "History of seizures vs syncope as a child s/p normal cardiac workup; gestational diabetes on Humolog 2 units B/L/D; endometriosis; migraine headaches; G6PD deficiency. Past surgical history includes excision of abdominal wall endometrioma and lower transverse cesarean section.",
+        "family_history": "Father has type 2 diabetes mellitus.",
+        "social_history": "Not specified."
+    },
+    "physical_examination": {
+        "general_examination": "Gen - alert, oriented, in NAD; Heart - RRR; Lungs - CTAB; Abd - soft, non-distended, incision sites c/d/I; Extrem - warm, no edema; Psyc: appropriate affect; Neuro: CN ___ grossly intact.",
+        "specialty_examination": "Maximally focally tender with ultrasound pressure over the gallbladder, consistent with a positive sonographic Murphy sign."
+    }
+}

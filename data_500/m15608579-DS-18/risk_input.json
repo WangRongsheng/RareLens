@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Constipation",
+        "history_of_present_illness": "Patient is a female with a history of CAD, hypercholesterolemia, HTN, GERD, IBS, Esophageal Dysmotility, who presents with 2 weeks of constipation although she did pass one large BM in the ED. Patient states that she usually has 1 BM per week. She takes Sennakot derivative once per week which helps with her BM. She also suffers from severe GERD and esophageal dysmotility which usually worsens when she is constipated. She admits to not taking her laxative last week as she 'was doing well' the week before with her BM's. She reports increase in her GERD symptoms over the past week which has prompted poor PO intake as her GERD is worsened with meals. She denies any recent CP but does report SOB once last week when combing her hair, this was associated with LH and weakness. While combing her hair she reports being unable to hold the blowdryer due to fatigue. She also reports a few episodes of palpitations, where she feels her heart racing when she gets tired. She denies any recent illness, URI, diarrhea, abdominal pain. She does report slight bloating. She denies dysuria, urinary frequency. One episode of Nausea this morning with her BM.",
+        "past_medical_history": "1. Hypercholesterolemia. 2. Hypertension. 3. Coronary artery disease (50% left anterior descending artery occlusion noted on cardiac catheterization in Not specified, without intervention). 4. Asthma. 5. Gastroesophageal reflux disease. 6. Lactose intolerance. 7. Irritable bowel syndrome. 8. Knee surgery. 9. Esophageal Dysmotility.",
+        "family_history": "Mother with MI, Father with CVA.",
+        "social_history": "Not specified."
+    },
+    "physical_examination": {
+        "general_examination": "V/S Temp 98.6 HR 86 BP 129/80 RR 16 O2sat 100% RA. Gen: NAD, lying comfortably in bed. HEENT: EOMI, NCAT, MMM. Neck: no goiter, no LAD. Cardiac: +S1, +S2, no M/R/G, RRR. LUNGS: CTAB, no wheezes, crackles or ronchi. ABD: +BS, NT/ND, no HSM. EXT: no C/C/E, +2 distal pulsus.",
+        "specialty_examination": "NEURO: CN II-XII grossly intact, brisk patellar pulses, +myoclonus of RLE."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Back Pain",
+        "history_of_present_illness": "Ms. ___ is ___ with history of DM, hypothyroidism, recent TB diagnosis 6 months ago, who presented with one-month history of worsening bilateral lower back pain radiating to her buttocks. The patient was brought into her PCP's office by her family with radiation of this back pain into her left buttock with radiation down to her lower leg. The patient denied having any urinary or fecal incontinence. Pain control included Vicodin BID, tramadol BID, and lidocaine patches daily. Pain is worse with walking. Exam notable for nonfocal neurologic exam. Neurosurgery indicated no surgical intervention at this time. Advised admission for pain control and possible rehab placement.",
+        "past_medical_history": "Hypertension, Hyperlipidemia, Hypothyroidism, Non-insulin dependent Diabetes Mellitus, Arthritis - s/p bilateral knee replacement, 4-cm subcarinal mass, inseparable from the esophageal wall, enlarged mediastinal lymph nodes with path consistent with granulomatous lymphadenitis, AVNRT/Paroxysmal Afib.",
+        "family_history": "No family history of any malignancy; her mother died of heart disease. All 5 children are healthy.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: afebrile 98.4, BP 153/54, HR 65, sat 95% on RA. General: well appearing, anxious and tearful woman, in NAD when laying in bed.",
+        "specialty_examination": "Neurological: strength bilaterally with leg raising while supine, dorsiflexion and plantarflexion of feet bilaterally, knee flexion bilaterally, CN intact, mental status normal."
+    }
+}

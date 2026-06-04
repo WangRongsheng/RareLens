@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Constipation Scheduled Bronchoscopy",
+        "history_of_present_illness": "Patient presented with concern for obstruction due to lack of ostomy output for 3 days with emesis/constipation. Output improved with magnesium citrate and milk of magnesia. Underwent bronchoscopy for tumor-related obstruction of bronchus intermedius.",
+        "past_medical_history": "Metastatic poorly differentiated sarcoma involving the rectum, prostate, bladder, and lungs. History of severe constipation, hydronephrosis, UTI, and diverting colostomy.",
+        "family_history": "Brother is diabetic and has CHD, son has testicular cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: 98.4, 67-84, 101-128/53-67, 93-96% on RA at rest and 95% with ambulation. Alert and oriented. No acute distress.",
+        "specialty_examination": "Neurological: A&O x3, gait WNL. Cardiovascular: RRR, no MRG. Abdomen: Soft, nontender, no mass, no organomegaly. The diverting colostomy has a pink well hydrated mucosa with green-brown stool."
+    }
+}

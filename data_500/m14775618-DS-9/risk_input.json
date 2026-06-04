@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "84.5 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "dizziness",
+        "history_of_present_illness": "This is a female with a history of HTN, DM2, strong family history of CAD who presents with dizziness and chest tightness. She notes that 2 weeks ago she had an episode of dizziness ('world spinning around her') that improved on its own. Last night, she felt so dizzy again that she 'couldn't breath' and 'was going to die'. This was associated with chest tightness and a strong sensation that she 'needed air.'",
+        "past_medical_history": "Hypercholesterolemia, Hypertension, essential, benign, Obesity, Type 2 diabetes mellitus, Glaucoma primary - unclear status, Hysterectomy",
+        "family_history": "Mother had MI versus stroke, maternal aunt had heart surgery, maternal uncles had 'heart problems', died from MI. Aunt has diabetes. Glaucoma runs in her father's side.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: Weight 84.5kg, 120/57, 65, 15, 99% RA. General: NAD, lying comfortable in bed.",
+        "specialty_examination": "Neurological: moving all extremities grossly. Cardiovascular: regular rhythm, no m/r/g. Lungs: no crackles or wheezes. Abdomen: soft, non distended, non tender. No rebound or guarding."
+    }
+}

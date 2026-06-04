@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Cellulitis",
+        "history_of_present_illness": "Patient with history of hypertension, paroxysmal atrial fibrillation, and venous insufficiency presents with presumed cellulitis of the right lower leg, unimproved after Keflex for 1 week. She had a tissue box cover fall on her right lower leg four days prior to admission, causing a laceration/skin tear which was cleaned by the NP. Denied fever, chills, nausea, vomiting, or significant pain initially. After 8 days of Keflex, returned to ED for evaluation where she received Vancomycin and was pleasant with mild ambulation difficulties due to discomfort.",
+        "past_medical_history": "Hypertension, venous insufficiency, paroxysmal atrial fibrillation, anxiety, insomnia, degenerative joint disease, macular degeneration, cataract surgery.",
+        "family_history": "Non-contributory",
+        "social_history": "Resident of an assisted living facility."
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: 96.1°F, BP 164/66, HR 65, RR 24, O2 sat 99% RA. Patient is a thin, elderly woman, comfortable, not in distress, expresses anxiety.",
+        "specialty_examination": "Neurological: Not specified. Cardiovascular: Regular rate and rhythm, systolic murmur loudest at right upper sternal border, S1 S2 present, no rubs/gallops. Extremities: Right lower extremity erythematous and warm from mid-calf to mid-foot, with pitting edema, tender to palpation over distal tibia, and drainage noted."
+    }
+}

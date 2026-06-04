@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "BRBPR, hypotension",
+        "history_of_present_illness": "Patient with a history of recent pelvic fracture on Lovenox, atrial fibrillation, hypertension, coronary artery disease s/p AMI, and TIA presenting with hypotension. Recently hospitalized for non-operative nondisplaced fractures of the right superior and inferior pubic rami. While in rehab, noted to have several heme positive stools and then gross blood at the rectum. The patient is asymptomatic but has intermittent pelvic pain. Denies past history of rectal bleeding but has a history of polyps.",
+        "past_medical_history": "Atrial fibrillation, not on anticoagulation; Hypertension; Hyperlipidemia; Coronary artery disease, s/p MI; ?Partial complex seizure or TIA; LV outlet obstruction on ECHO; Normal Pressure Hydrocephalus s/p shunt, which was removed; Abdominal hernias.",
+        "family_history": "Sister with lung cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "General: Alert, oriented, no acute distress. Initial vital signs: BP 105/62, HR 94, RR 16, Temp 97.7°F. Blood pressures later recorded at 95/45, 90/50. Warm, well perfused, 2+ pulses.",
+        "specialty_examination": "Neurological: Cranial nerves II-XII intact, moving all extremities with sensation intact. Cardiovascular: Regular rate and rhythm, normal S1 + S2, systolic ejection murmur heard throughout the precordium. No other significant findings."
+    }
+}

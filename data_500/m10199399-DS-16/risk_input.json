@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "pulmonary embolism",
+        "history_of_present_illness": "Admitted with saddle pulmonary embolism; elective admission for port placement complicated by hemopneumothorax and hypotension. Developed acute shortness of breath and tachycardia on POD#1. Transfused with 2 units PRBCs, one unit of platelets. Chest tube placed draining 250cc of blood. Not anticoagulated due to recent bleed. Diagnosed with diffuse large B cell lymphoma.",
+        "past_medical_history": "Recent diagnosis of lymphoma, Hypertension, Hyperlipidemia, Hypothyroidism, GERD, Arthritis, OSA, CAD s/p stenting, ovarian cancer, IVC filter placement, TAHBSO, cholecystectomy.",
+        "family_history": "Father had a CVA, Mother had a CVA.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: 98.6, BP: 152/66-119/64, HR: 83-104, RR: 20, O2: 96% on 2L. No complaints; speaks complete sentences.",
+        "specialty_examination": "Neurological: awake, alert, speech fluent, face symmetric. Cardiovascular: S1, S2 regular rhythm, normal rate. Lungs: unlabored, decreased breath sounds left base. Trace edema in extremities."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Pain left mastectomy site and under both arms, fever and overall malaise",
+        "history_of_present_illness": "Patient is a ___ old female with carcinoma of the left breast, secondary malignancy of left breast to left axilla, and bilateral breast hypertrophy who is status post neoadjuvant chemotherapy with a good clinical response. She then underwent a left modified radical mastectomy and right oncoplastic reduction on ___. Due to multiple other comorbid illnesses, Ms. ___ remained hospitalized from ___ to ___. During that time, her respiratory situation improved, she was transitioned back to her normal dose of Coumadin for management of pulmonary embolism, hypertension was managed as well as depression. She was discharged back to the rehabilitation facility. She reports that 2 days prior to presenting to the emergency room, she vomited down all over her mastectomy site. She subsequently presented with pain and worsening erythema around her bilateral incision sites. In addition, she reports a brownish feculent appearing liquid draining from her drain outputs that started 48 hours prior to presentation soon after she had the episode of vomiting. She also reports that her posterior axillary drain fell out while she was in the bathroom at the rehab facility.",
+        "past_medical_history": "EtOH abuse, COPD, Asthma, T2D, Hypothyroidism, Morbid obesity, OSA who uses CPAP, Diverticulosis with history of bowel obstruction, HTN, HLD, Tobacco use disorder, Depression, ADHD, Arthritis",
+        "family_history": "Her family history is negative for breast and ovarian cancer. Mother deceased at age ___ of pancreatic cancer and uterine cancer. Father deceased at age ___ of heart failure. Sister deceased at age ___ of heroin overdose. Sister deceased, coronary artery disease and diabetes. Ms ___ had three daughters, oldest ___, age ___, deceased, unknown cause; ___, age ___, at home, prior heroin addict, currently completely drug-free and off all medication supports; ___, age ___, heroin addict, in treatment. Her paternal grandmother deceased at age ___ of coronary artery disease. Maternal grandmother deceased at age ___ of coronary artery disease and MI. Paternal grandmother deceased at age ___ of pancreatic cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: Temp: 98.4, BP: 118/74, HR: 68, RR: 18, O2 sat: 98% (RA). Well-appearing, NAD, pleasant.",
+        "specialty_examination": "Neurological: A&Ox3, no focal neurologic deficits. Cardiovascular: RRR. PULM: Normal work of breathing. BREAST: s/p L mastectomy and R breast reduction. Incisions intact with area of erythema and tenderness bilaterally - erythema is significantly decreased from prior exam, on the L tender induration superior to the wound with erythema, wound dressing showed trace serous fluid. ABD: soft, non-tender, non-distended. EXT: Warm, well-perfused, no edema. PSYCH: normal judgment/insight, normal memory, normal mood/affect."
+    }
+}

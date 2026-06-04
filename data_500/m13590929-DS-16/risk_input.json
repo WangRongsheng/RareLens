@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Found down at bus stop",
+        "history_of_present_illness": "This is a Not specified year old female who was found down at a bus stop with GCS 5 and reported recent use of heroin. Brought to the ED with mental status decline->GCS 3 and poor gag- emergently intubated with succinylcholine/etomidate/4 mg Ativan IM total/and 5 mg Haldol. The patient presented with a lactate of 3.7 and a temp of 102.4 and was given vancomycin 1 gm IVx1 and ceftriaxone 2 grams IVx1. Blood cultures were sent.",
+        "past_medical_history": "Unknown",
+        "family_history": "Not specified",
+        "social_history": "+heroin use, ETOH abuse"
+    },
+    "physical_examination": {
+        "general_examination": "O: T: 102.4 BP: 124/72 HR: 164 R: 20 O2Sats 99%. Gen: intubated- non verbal- no commands.",
+        "specialty_examination": "Neuro: Mental status: eye-2, motor-5, verbal 1T- total 8T. Orientation/Recall Language: non verbal/intubated/no commands."
+    }
+}

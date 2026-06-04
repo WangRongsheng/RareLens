@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "7",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Caucasian",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Status epilepticus due to profound hypomagnesemia",
+        "history_of_present_illness": "Developed recurrent urinary tract infections (UTIs), neurogenic bladder dysfunction, proteinuria, partial Fanconi syndrome, bladder calculus, and left non-obstructing renal calculi",
+        "past_medical_history": "Severe developmental delay, microcephaly, spastic dystonic diplegia, facial dysmorphism, respiratory distress due to tracheomalacia, seizures, hypomagnesemia, renal tubulopathy",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Microcephaly, developmental delay, spastic dystonic diplegia, facial dysmorphism, neurogenic bladder dysfunction, hypomagnesemia (0.31 mmol/L), proteinuria (microalbumin/creatinine ratio 647 mg/mmol), partial Fanconi syndrome, bladder calculus (3.3 × 3.2 cm), left non-obstructing renal calculi"
+    }
+}

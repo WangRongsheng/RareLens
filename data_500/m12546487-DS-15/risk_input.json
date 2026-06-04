@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "left arm weakness",
+        "history_of_present_illness": "Ms. ___ is a left-handed woman with history of asthma and IBS who presents with lightheadedness and left arm weakness since yesterday. Symptoms began when she stood up from bed and felt dizzy, which resolved gradually. She had nausea and experienced further weakness in her left arm throughout the day. She noted that movements in the left arm were 'delayed', and there has been tenderness in the left forearm/antecubital fossa. Symptoms are stable.",
+        "past_medical_history": "Asthma, Lactose intolerance, Ovarian cyst s/p removal, Back Pain, Dysmenorrhea, Lymphocytic colitis, IBS (irritable bowel syndrome), Postpartum hemorrhage",
+        "family_history": "Maternal uncle had a blood clot (DVT) at age ___ after a plane ride. Extensive family history of lupus on paternal side including mother and several aunts. Maternal grandmother had a history of epilepsy.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: 97, P: 80, R: 16, BP: 133/85, SaO2: 99 RA. General examination showed patient is awake, cooperative, and in no acute distress.",
+        "specialty_examination": "Neurologic examination revealed alert mental status, normal bulk and tone throughout, + pronator drift on left arm, with sensory examination intact to light touch. DTRs were normal, and there was some decreased sensation on the left arm from fingertips to shoulder. Strength exam noted left arm weakness which improved slightly by discharge."
+    }
+}

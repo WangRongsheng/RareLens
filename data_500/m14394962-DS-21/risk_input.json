@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Abdominal pain.",
+        "history_of_present_illness": "Following arrival to the general medical floor, the patient refused to answer further questions about her presentation, though stated repeatedly \"I have PAIN. I need PAIN MEDICATION.\" Patient has a history of ___ syndrome s/p proctocolectomy with ileostomy complicated by multiple prior abdominal surgeries, small bowel obstructions, and chronic pain. She was prescribed narcotic pain medication (Dilaudid 6 mg PO Q3H) by her current PCP but violated her contract by taking more medication than prescribed. She was initially aggressive and verbally abusive to staff. Vitals were recorded as T 98.8, HR 90, BP 102/64, RR 18, O2 sat 100% RA. The patient initially tried to leave AMA.",
+        "past_medical_history": "___ syndrome s/p proctocolectomy with ileostomy at age ___; approximately 8 abdominal surgeries with multiple SBOs; chronic abdominal pain; Borderline Personality Disorder; PTSD; Bipolar Disorder; Polysubstance Abuse; Multiple psychiatric admissions; Left eye cataract/mole leading to blindness in left eye; Partial hysterectomy.",
+        "family_history": "Mother and sister both passed away of complications related to ___ syndrome.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Awake in bed, NAD, refuses to answer many questions. Vitals on admission were: T 98.8, HR 90, BP 102/64, RR 18, O2 sat 100% RA.",
+        "specialty_examination": "Psychiatric evaluation noted splitting behavior throughout the interview. Patient displayed aggressive affect and was rude to staff, with an unwillingness to discuss her plan of care."
+    }
+}

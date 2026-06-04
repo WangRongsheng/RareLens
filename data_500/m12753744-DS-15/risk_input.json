@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Urosepsis, aspiration pneumonia",
+        "history_of_present_illness": "Mr. ___ is a ___ year-old male with history of bladder cancer, CKD IV, PVD s/p b/l ___ amputations, CAD transferred from ___ ___ at patient's request following admission for fever to 102 and back pain, where patient was found to have pyelonephritis. Yesterday morning patient started having back pain, dysuria and low grade fevers at home. Patient presented to OSH on ___ with fever, back pain, leukocytosis, and UTI and was initially admitted to medical floor. Patient was started on zosyn and received NS. He had a renal ultrasound showing bilateral hydronephrosis which is to a similar degree as a retrograde pyelogram in ___. While at OSH on ___ at 1:00 AM patient became somnolent and hypoxic with O2 sats in ___ on medicine floor.",
+        "past_medical_history": "Bladder cancer (high grade TCC) s/p transurethral resection of a bladder tumor and stent placement, peripheral vascular disease with history of aortobifemoral bypass graft and now s/p Left BKA, right AKA, diabetes, coronary artery disease, tobacco dependence, Crohn's disease, hypertension, hypercholesteremia, stage IV CKD, anemia, Depression, BPH, HIT antibody positive, recurrent UTIs with MRSA/VRE in urine",
+        "family_history": "Negative for prostate or breast cancer, or any urinary tract cancers.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: BP: 114/65, HR: 69, RR: 15, Temp: 97.8°F. General: Alert, oriented, wearing nonrebreather, in no acute distress. Constitutional symptoms: Not specified.",
+        "specialty_examination": "Neurological: CNII-XII grossly intact, Alert, oriented, moving all extremities. Cardiovascular: Regular rate and rhythm, distant heart sounds, no murmurs appreciated. Lungs: Diffuse rhonchi, bilateral crackles worse on right."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "High Blood Pressure.",
+        "history_of_present_illness": "Patient recently admitted with hypertensive emergency. Switched the hours of his medications. Took some (amlodipine and others) at 10 PM and had a SBP of 230/120. His BP improved after taking labetalol 600 mg PO at midnight but experienced oppressive left lower chest pain. Denied diaphoresis, nausea, or vomiting. In the ED, BP was 162/88 mmHg, HR 74, RR 16. Received morphine (2mg IV once) with good effect. Initial diagnostic findings showed no changes on ECG and negative first set of cardiac enzymes.",
+        "past_medical_history": "Hypertension, CAD, diabetes, dyslipidemia, obstructive sleep apnea, anxiety, history of prostate cancer, neurocysticercosis, and more. No major surgical procedures.",
+        "family_history": "Father with CAD, died of MI at age Not specified. Mother died of sepsis. 5 siblings died young; etiology unknown. No family history of arrhythmias.",
+        "social_history": "History of alcohol abuse."
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: Temp 97.2 F, BP 190/96 mmHg, HR 70 BPM, RR 18, O2 saturation 98% on 2 L NC. Well-appearing man in NAD, oriented x3.",
+        "specialty_examination": "Neurological examination: awake, A&Ox3, CNs II-XII grossly intact. Cardiac examination: RRR, normal S1, decreased S2, SEM in RUSB. Lungs CTA bilat, respiratory effort unlabored."
+    }
+}

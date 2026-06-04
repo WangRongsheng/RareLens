@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Fevers, hyperglycemia",
+        "history_of_present_illness": "Patient is a female with well-controlled Type I IDDM presenting with 3 days of fevers, chills, and hyperglycemia. She started feeling generally 'terrible' on the plane flight, with fevers, chills/rigors, a sore throat, and some shortness of breath. She noted difficulty controlling her blood sugars, with FSBG levels in the 200s, which is atypical for her. She felt very thirsty and had a dry mouth and throat. After returning home, she took 4*325 mg ASA for fever, which resolved temporarily. She presented to the ED with continued chills and fever to 103. Denies any sick contacts or urinary symptoms.",
+        "past_medical_history": "IDDM since age Not specified on insulin pump; history of 'borderline' ovarian cancer treated with TAH, no chemo; sebaceous cyst of R breast with recent infection; rotator cuff injury in L shoulder awaiting surgery; urge incontinence; hypothyroidism; hypertension; glaucoma; foot surgery; sinus surgery; history of intestinal obstruction.",
+        "family_history": "Brother with breast cancer at Not specified y/o (BRCA negative), maternal aunt with ovarian cancer treated with XRT, father with lung and prostate cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs on admission: 99.6°F, BP 152/69, HR 116, RR 20, O2 saturation 97% on RA. Well-appearing woman in no acute distress, comfortable, able to ambulate and converse easily.",
+        "specialty_examination": "Neurological: Awake, alert and oriented x3, cranial nerves II-XII grossly intact, muscle strength not specified throughout, sensation grossly intact throughout. Cardiovascular: Increased heart rate, normal rhythm, no murmurs, normal S1-S2. Lungs: Clear to auscultation bilaterally, good air movement, respiratory effort unlabored."
+    }
+}

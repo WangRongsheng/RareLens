@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Upper/lower Extremity Weakness, Parasthesias",
+        "history_of_present_illness": "Patient notes that she was in her normal state of health until approx one month ago when she notes migratory joint pain. She notes that it involved the knees, shoulders. The pain wouldn't involve multiple joints at once but would migrate between them. She denies associated swelling. Approx 2 days ago the patient noted the sudden onset of weakness in the feet, legs and hands. The weakness has been progressive and profound to the point that she cannot even stand. She has difficulty doing things with her hands. Associated with this is some parasthesias. The night prior to presentation while in bed she developed worsening shortness of breath and anxiety. Denies associated chest pain. Shortness of breath led her to come to the hospital.",
+        "past_medical_history": "HTN, HLD, Appendectomy ___ years ago, Squamous cell carcinoma of the left leg ___",
+        "family_history": "Father died at ___ years of age due to ___ disease and diabetes. Mother died at ___. Both of her siblings have diabetes.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Temp 97.7, BP 136/80, HR 93, R 16, O2-sat 96% RA. NAD, comfortable, appropriate.",
+        "specialty_examination": "Neurological: awake, A&Ox3, CNs II-XII grossly intact, muscle strength ___ in deltoids, biceps, triceps, ___ strength in interosseous, intrinsic muscle of hand, ___ strength with plantar/dorsiflexion, illiopsoas, gait not test, sensation subjectively decreased to light touch in hands, feet in stocking glove distribution, DTRs 2+ on left and 1+ on right."
+    }
+}

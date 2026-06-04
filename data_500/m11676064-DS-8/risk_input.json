@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Substernal goiter, left.",
+        "history_of_present_illness": "This patient presented with deviation of the trachea to the right significantly. Needle biopsy of substernal mass was consistent with a benign goiter. The connection between the left lobe and the goiter was unclear on CT scan.",
+        "past_medical_history": "Migraines; Substernal goiter, left; Previous surgical history includes removal of substernal goiter, cervical approach, and tubal ligation.",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: 97.8, HR 90, BP 151/95, RR 20, 99% RA. General: well appearing, NAD, clear phonation.",
+        "specialty_examination": "HEENT: neck incision C/D/I, no neck fullness, no hematoma. Cardiac: regular rate rhythm, S1 S2 normal. Pulmonary: clear, no stridor. Abdomen: soft, nontender, nondistended, normoactive bowel sounds. Extremities: WWP, no CCE."
+    }
+}

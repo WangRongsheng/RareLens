@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "77.6 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Anemia",
+        "history_of_present_illness": "Mr. ___ is a ___ year old man with NASH cirrhosis, Childs B, c/b SBP, ascites requiring paracentesis q2-3 weeks, CKD, dCHF, and baseline dementia + ___ syndrome admitted for anemia who came in for a scheduled paracentesis on ___ with labs showing profound anemia with Hgb to 3.7. He had a previous admission for anemia in ___ but at the time the hemoglobin was 6.9; he has never fallen below this number. In the interim he was admitted for hepatic encephalopathy (___) and urinary retention (x2 in ___. He has known hemorrhoids and did have 1 bloody bowel movement last week with a \"large volume\" of red blood. No other bloody or melenic stools in recent memory. ROS: Denies fever, chills, headache, lightheadedness, dizziness, chest pain, palpitations, dyspnea, abdominal pain, nausea/vomiting, diarrhea, and constipation.",
+        "past_medical_history": "-Diastolic heart failure -Cirrhosis ___ non-alcoholic fatty liver disease (NAFLD) -Hypertension -Hyperlipidemia -Gout -Obesity -Hypothyroidism -Nephrolithiasis -Asthma -BPH -Chronic renal insufficiency -Memory impairment, Kosakoff -Status post cholecystectomy",
+        "family_history": "Mother - deceased at age ___ from stroke; Father - deceased at age ___ from cancer",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VITAL SIGNS: 98.1 | 121/56 | 86 | 18 | 96%RA. Thin, elderly man in no acute distress with pleasant demeanor, speaking ___ translated by wife, evidently making jokes and in good humor. Somewhat confused. Oriented to hospital setting but thinks it's ___. Not oriented to date/year.",
+        "specialty_examination": "HEENT - Pupils asymmetric (left 4mm, right 2mm), both reactive; per wife has been this way since cataract surgery in ___. CARDIAC - Regular rate and rhythm, holosystolic murmur appreciated best at LUSB and Erb's point; ABDOMEN - Soft, nontender, very distended and somewhat tense without caput medusa. Spleen and liver not assessable as too distended to palpate; EXTREMITIES - WWP, bilateral lower extremities with 3+ pitting; NEUROLOGIC - Attentive to days of the week backwards from ___. Oriented to self, wife, hospital setting."
+    }
+}

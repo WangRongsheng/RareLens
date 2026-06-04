@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "15",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Junior-high-school athlete, gymnast"
+    },
+    "medical_history": {
+        "chief_complaint": "Palpitations during gymnastic training",
+        "history_of_present_illness": "Palpitations emerged only after landing a round-off back somersault in a floor exercise. The palpitations were highly reproducible and occurred only after performing a round-off back somersault. The palpitations lasted for a few minutes and stopped spontaneously with resting.",
+        "past_medical_history": "No history of heart disease",
+        "family_history": "Not specified",
+        "social_history": "Promising gymnast, no substance use mentioned"
+    },
+    "physical_examination": {
+        "general_examination": "Chest roentgenogram showed no cardiac enlargement or congestion. Electrocardiogram showed a sinus rhythm of 75 beats/min without any significant abnormalities including delta waves.",
+        "specialty_examination": "Transthoracic echocardiography (TTE) revealed a tiny atrial septal defect (ASD) of the secondary foramen type with a size of 4 × 2.9 mm and a left-to-right blood shunt with a 1.4 of Qp/Qs ratio. Electrophysiologic study (EPS) revealed the existence of a retrograde ventriculo (V) – atrial (A) conduction with decremental properties, and high RA pacing under isoproterenol administration induced tachycardia."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Fluid overload",
+        "history_of_present_illness": "Patient with history of hepatitis C cirrhosis who is s/p Segment III liver wedge resection for hepatocellular carcinoma. Postoperative course was uneventful and patient was discharged home. Recently admitted with urinary frequency, incontinence, fever and chills due to UTI, normal CT abdomen, and discharged on 7 days of cipro. Completed 6 days of cipro with improved appetite and normal bowel movements. Complains of shortness of breath, fatigue, lower leg and scrotal swelling.",
+        "past_medical_history": "Hepatitis C, cirrhosis, Stage III non-small cell lung cancer, COPD. Appendectomy and cholecystectomy (dates not specified). Left upper lobectomy for non-small cell lung cancer (date not specified) + XRT.",
+        "family_history": "Mother-NSC Lung CA; Brother-cirrhosis; Sister-renal disease; Daughter-DM-1.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: 97.6°F, HR 88, BP 127/75, RR 22, 97% RA. Appears well, NAD, no jaundice. Abdomen soft, nontender, distended. Pitting edema to knees and thighs, + scrotal edema.",
+        "specialty_examination": "Neurological: Not specified. Cardiovascular: RRR. Respiratory: Breath sounds present bilaterally, no crackles, wheezes, or rhonchi. Abdomen: Soft, nontender, distended, though improved from prior exam. Extremities: Pitting edema, though improved."
+    }
+}

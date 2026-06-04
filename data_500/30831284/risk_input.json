@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "38",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "hoarseness and breathing difficulty for 1 day",
+        "history_of_present_illness": "intermittent headache for more than 3 years, left cervical pulsating mass of 2.5 cm in diameter",
+        "past_medical_history": "No history of diabetes, hypertension, cerebral stroke, head and neck injuries or tumors, alcohol abuse, and smoking",
+        "family_history": "Not specified",
+        "social_history": "No history of alcohol abuse and smoking"
+    },
+    "physical_examination": {
+        "general_examination": "left cervical pulsating mass of 2.5 cm in diameter",
+        "specialty_examination": "Not specified"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "AMS",
+        "history_of_present_illness": "___ yo M w/ HCV cirrhosis, PUD, EtOH abuse, L frontal traumatic hemorrhage who was brought from home by ambulance in setting of suspected seizure, intubated in the field, now admitted to further evaluation of his encephalopathy. Pt. was in USOH until the evening PTA. Wife reported patient was unresponsive and staring into space, then appeared stiff with movement of right upper extremity. EMS noted right gaze preference and anisocoria on evaluation. Intubated due to respiratory compromise. Initial vital signs in ED were 142/22, HR 113, BP 72, Temp 99.2F. Head CT showed left frontal encephalomalacia. Neurology evaluated patient and suggested further imaging and Keppra for seizure management. Initially intubated, extubated post-24 hours, remains confused but improving.",
+        "past_medical_history": "HCV cirrhosis, VL 920K, no prior tx; small SDH and SAH; GIB; PUD (gastritis/esophagitis and multiple gastric ulcers); HTN; COPD; Anxiety.",
+        "family_history": "wife unaware.",
+        "social_history": "Significant history of 18 beers/day with reported last drink ___ night."
+    },
+    "physical_examination": {
+        "general_examination": "Admission exam: Intubated, off propofol x 20 mins, opens eyes to sternal rub. Vital signs on arrival: T- 98.0, BP- 120/60, HR- 74, RR- 18, SaO2- 96% on RA. The patient seemed more awake and oriented than overnight.",
+        "specialty_examination": "Neurological: Intubated, not responsive to commands, moving bilateral upper extremities more than lower extremities. Anisocoria noted. Cardiovascular: Regular rate, normal S1 + S2, no murmurs. Respiratory: Lungs clear to auscultation, no wheezes or rales."
+    }
+}

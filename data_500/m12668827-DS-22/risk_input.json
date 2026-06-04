@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "R Knee drainage/Wound dehiscence",
+        "history_of_present_illness": "The patient is a ___ s/p two weeks from a L TKA. The patient was seen in the office for a post-operative visit and was found to have the middle third of her incision dehisced - which was repaired with sutures in the office. Over the following three days, the wound dehiscence progressed and the patient returned for re-evaluation. At this visit it was determined that the patient should be admitted and taken to the OR for I&D.",
+        "past_medical_history": "Rheumatoid arthritis, hypertension, breast cancer, thyroid cyst.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Afebrile, VSS, A/Ox3, LCTA bilaterally, RRR, ABD soft, NTND, +BS, BLE fully NVI distally with 2+ DP pulses and full strength throughout. Painful and limited ROM of L TKA. 3cm area of wound dehiscence with serous drainage from the wound.",
+        "specialty_examination": "Not specified"
+    }
+}

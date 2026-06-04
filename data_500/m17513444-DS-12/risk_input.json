@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "85.2 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "left neck pain and headache",
+        "history_of_present_illness": "Ms. ___ is a ___ y/o F with h/o extensive substance abuse history, most recently IVDU (cocaine and heroin) who presents with L-sided neck pain and headache. Patient's symptoms began after injecting cocaine and heroin into her left external jugular. Pain has increased and feels like 'pulsating pressure'. She reports left sided weakness, left facial droop, and visual changes that have improved. ED course shows elevated ALT, AST, normal CT head.",
+        "past_medical_history": "IVDA (cocaine and heroin), LLE DVT related to IV drugs, required surgery but details are not remembered. History of cholecystectomy and 3 vaginal deliveries.",
+        "family_history": "non-contributory",
+        "social_history": "Extensive substance abuse history, IVDU (cocaine and heroin), multiple detox programs, previously held periods of >30 days of no drug use."
+    },
+    "physical_examination": {
+        "general_examination": "VS: 96.1 90/58 55 18 97% RA. Patient is NAD; appears comfortable but responds to questions slowly. A&O *3. Increased pain with neck flexion, no thyromegaly.",
+        "specialty_examination": "Neurological: Decreased perception of light touch on left side of face, decreased hearing on left. Strength in left SCM and trapezius not specified. Normal gait."
+    }
+}

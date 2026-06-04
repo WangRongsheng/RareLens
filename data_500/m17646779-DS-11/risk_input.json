@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "84.4 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Fall",
+        "history_of_present_illness": "Patient with a history of chronic CHF (EF 30%) and recent diagnosis of afib on warfarin presented after fall at home. Reports feeling thirsty after having a cocktail and dinner but was not drinking other liquids. Stood up from chair, felt lightheaded, and fell to ground. No LOC. Found to have a C2 non-operative fracture. No chest pain, SOB, or palpitations.",
+        "past_medical_history": "Chronic Congestive Heart Failure LVEF 30%, Paget's disease, lumbar stenosis, BPH, colon cancer s/p resection many years ago, subarachnoid hemorrhage in the 1980s (spontaneous), c-spine surgery many years ago, s/p R hip and L knee replacements.",
+        "family_history": "No known family history of premature coronary artery disease, arrhythmia, or cardiomyopathy; otherwise noncontributory.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS 97.8 132/76 58 12 94%RA. Elderly gentleman, sitting in bed, neck brace in place in NAD. Small abrasion left side of forehead, EOMI, sclera anicteric. Bradycardic, normal s1,s2, no r/m/g appreciated. Bibasilar crackles up the lungs bilaterally, no wheezes or rhonchi. Abdomen soft, non-distended, non-tender to palpation, +BS. Bandage over left knee, warm/well perfused, 1+ radial and DP pulses.",
+        "specialty_examination": "Neurological: Not specified. Cardiovascular: Bradycardic, normal s1,s2, no r/m/g appreciated. Other: Bibasilar crackles, bandage over left knee."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, malaise",
+        "history_of_present_illness": "ESRD secondary to FSGS with renal transplant, which failed immediately s/p bilateral nephrectomy and nephrectom of transplanted kidney, peritoneal dialysis until patient presented with ascites and encapsulating peritoneal sclerosis. Symptoms included malaise and lightheadedness at home for ___ days, associated with some diarrhea. Patient presented to the ED after feeling pre-syncopal. Found to be septic with fever to 102, tachycardic to 120s, hypotensive to 70/40s, and abdomen diffusely tender. Lactate was 3.5. Received 1L of crystalloid, IV vancomycin, and Zosyn. CT scan revealed intrabdominal free air and increased ascites.",
+        "past_medical_history": "Pituitary mass, history of thyroid cancer, FSGS, end stage renal disease, history of renal transplant, encapsulating peritoneal sclerosis, pancreatitis, stroke, hyperprolactinemia, hypogonadism, EOE/GERD, lactose intolerance, constipation/dysmotility",
+        "family_history": "Maternal grandmother with diabetes",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T 102.0, HR 127, BP 111/71, RR 18, Sat 97% RA. Patient was uncomfortable, lethargic, and oriented x 3. Abdomen was distended, diffusely tender with guarding. Extremities were warm to the touch, no peripheral edema.",
+        "specialty_examination": "Neurological: Not specified. Cardiovascular: Tachycardic. Other: Abdomen soft, appropriately tender, and nondistended."
+    }
+}

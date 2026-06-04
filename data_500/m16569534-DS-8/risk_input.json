@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "acute cholecystitis in the setting of atrial fibrillation with RVR",
+        "history_of_present_illness": "Ms. ___ is a ___ lady with a-fib on Coumadin, and diastolic HF, who is admitted to the MICU with acute cholecystitis in the setting of rapid atrial fibrillation. She initially presented to an OSH (___) on ___ due to elevated INR of 12 on labs drawn at home, and upon arrival was found to have abdominal pain, RR 22, and O2 sat of 95% on RA in the setting of an INR of 9.8, WBC 13.1, and T Bili 2.2. Abd CT revealed cholelithiasis with external biliary duct dilatation (unchanged from CT on ___. HIDA scan was positive for acute cholecystitis. She was in atrial fibrillation with RVR, and due to her age/comorbidities, she was considered to not be a surgical candidate so she was transferred to ___ today for ERCP and percutaneous cholecystostomy.",
+        "past_medical_history": "TIAs (transient speech deficit), Afib, diastolic heart failure, EF reportedly 65%, dyspnea on exertion at baseline, pacemaker placement, DM2 controlled with diet, severe constipation, mild dementia, knee replacement x3, appendectomy.",
+        "family_history": "Nobody with DM2, liver disease, or MI. No family history of any malignancies.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: 96.2 BP: 97/51 P: 100 R: 18 O2: 92% 4L NC. General: Alert, oriented to person/city/date/year, no acute distress. Abdomen: obese but nondistended, (+)BS, tender to palpation of medial RUQ; negative ___ sign; no rebound tenderness or guarding, no organomegaly. Ext: extremely edematous (2+ throughout); warm, well perfused, 2+ DP pulses.",
+        "specialty_examination": "Crackles at bilateral bases. CV: S1 and S2, irregularly irregular, SEM heard at LSB."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chest pain",
+        "history_of_present_illness": "Patient is a ___ y.o female with hx of diabetes, hyperlipidemia and extensive PVD including Fem-fem bypass, iliofem bypass and iliac stents with no known CAD who was transferred for cardiac cath. She initially presented to ___ with chest pain and numbness/tingling that radiated to left arm and neck and started on ___. Pain is worse at night and with exertion. She was admitted to the hospital on ___. ACS workout was negative (negative troponins and EKG). Stress test was done showing ischemic ekg changes, chest pain and a large inferior defect. She was transfered to ___ for cardiac cath. She was chest pain free and npo at the time of transfer.",
+        "past_medical_history": "1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension 2. CARDIAC HISTORY: s/p single DES to PDA, and balloon rescue of the jailed branch of RPL through radial artery. 10%LCX, 20%serial RCA, 90% PDA/PL 3. OTHER PAST MEDICAL HISTORY: -Coilitis (ischemic vs. infectious) -T2DM, on insulin -HTN -COPD -GERD -OSA on CPAP -HLD -Vertigo -Rectal incontinence -depression -lumbar back pain with MRI with mild nerve deformity hx of femfem bypass (right to left) and left sided stents -radiofrequency lesioning of the right-sided L4, L5, and SA medial branches after having previously undergone radiofrequency ablation of the left side on ___",
+        "family_history": "MI (father at ___ mother at age ___, DM, sister with ___ revascularizations at age ___, brother CABG at age ___.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS prior to transfer were 97.3, hr 84 accelerated junctional and NSR, rr 18, 95% r/a, 132/60. Vital signs are 143/54, 66, 18, 98%RA. Denies any cp, sob, palpitations, lightheadedness.",
+        "specialty_examination": "GENERAL- Sitting in bed, NAD. A&O x3. NECK- Supple, no JVD appreciated. CARDIAC- normal S1, S2, No m/r/g LUNGS- CTAB, mild decrease in breath sounds at the bases. ABDOMEN- Soft, NTND, obese EXTREMITIES- No edema PULSES- Right: ___ 1+, radial pulse 2+ Left: ___ 1+ , radial pulse 2+."
+    }
+}

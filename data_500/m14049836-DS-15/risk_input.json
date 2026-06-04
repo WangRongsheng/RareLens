@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "muscle aches, rash",
+        "history_of_present_illness": "Mr. ___ is a ___ year-old gentleman with PMH hypertension, ADD and multiple sexual partners, who is now presenting with fevers, myalgias and rash. At 3 am on ___, patient first developed shaking chills, requiring extra blankets. He then experienced intermittent fevers, mostly 100-101, but highest at 102 until the morning of ___. This was accompanied by nausea, lightheadedness, non-productive cough, NBNB vomiting (of yellowish emesis) and slightly decreased appetite, as well as muscle aches along the lateral sides of both thighs and his calves. He developed diarrhea on ___, and this has continued up until admission. Patient also reports shortness of breath that was relieved with his little brother's inhaler, over the past two days. He noted a rash starting yesterday; this was described as small papules over the bridge of his nose, with some red spots on his chest as well. It is not itchy. He notes that he had unprotected intercourse two weeks ago, and since then, has been experiencing sensitivity and a slight rash on the glans of his penis; symptoms improved with wearing looser underwear. He denies any recent travel, sick contacts or new foods.",
+        "past_medical_history": "- hypertension\n- ADD on Adderall\n- urinary burning with empiric treatment for Gonorrhea in ___\n- UTI ___, treated with multiple different antibiotics as diagnosis was unclear\n- knee pain secondary to football injury (played ___)\n- vaccinated against hepatitis B in ___\n- s/p inguinal hernia repair as a baby",
+        "family_history": "Hypertension on his father's side, and DM on his mother's side.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals- 98.2 146/98 86 18 100RA. General- Alert, oriented, anxious. Sclera anicteric, MMM, oropharynx clear without ulcers or lesions. Neck- supple, JVP not elevated. No anterior or posterior cervical LAD. Lungs- Good air movement. Clear to auscultation bilaterally, no wheezes, rales, rhonchi. CV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops. Abdomen- soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly. GU- No foley. There is TTP over the glans, but no visible rash. No penile discharge. Ext- Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema. No calf TTP. Neuro- Alert, awake and oriented. Fluent speech. CNs2-12 intact, motor function grossly normal. Skin- Blanching maculopapular erytematous rash over the forehead, bridge of nose, chest and upper back.",
+        "specialty_examination": "Not specified"
+    }
+}

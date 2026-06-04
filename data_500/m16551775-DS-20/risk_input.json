@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, lethargy, back pain",
+        "history_of_present_illness": "Majority of her symptoms began when she started to citalopram last week. Seroquel was also discontinued at this time. Over the past week, she has had worsening weakness, a reduced oral intake, lack of appetite, nausea, without vomiting. She presented to clinic today where her blood work showed elevated WBC. In the ED, initial vital signs were 97.0 64 125/87 14 98% on room air. Exam was notable for mild suprapubic tenderness. Labs notable for CBC with WBC of 15.3, otherwise normal CBC. CXR with new bibasilar opacities and small pleural effusions, concerning for pneumonia with parapneumonic effusions. CT A/P significant for heterogeneous, slightly mottled appearance of the hepatic parenchyma.",
+        "past_medical_history": "Atrial fibrillation on warfarin, on amiodarone at a dosage of 200 mg, reloaded and cardioverted for atrial flutter. Hyperlipidemia, Hypertension, Valvular heart disease, SMA stenosis, Colonic ischemia related to iliac and SMA stenosis, Rotator cuff tear, Osteoarthritis, Restless leg symptoms, Iron deficiency, Gallbladder polyp, Chronic back pain, Rectal cancer, TAH/BSO, Urinary incontinence.",
+        "family_history": "Mother and father with CAD.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Afebrile and vital signs stable. Alert, appears uncomfortable, adjusting in bed. Heart irregular, tachycardic. Abdomen soft, non-distended, mild tenderness palpation suprapubic region. Trace pedal edema left, right arm and other areas are edematous, looks dependent.",
+        "specialty_examination": "Neurological: Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs. Cardiovascular: Heart irregular, tachycardic. Respiratory: Lungs clear to auscultation with good air movement bilaterally, crackles in the anterior and lateral lung fields bilaterally."
+    }
+}

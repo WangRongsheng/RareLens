@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "neck pain, swelling",
+        "history_of_present_illness": "1 year old male who originally presented to after injecting heroin into his neck this AM at a motel. A CT of the neck showed severe parotitis, though there were concerns for necrotizing soft tissue infection. He was started on vancomycin/Zosyn/clindamycin and transferred for surgical evaluation. Initial vitals were stable and he did not require pressors. Repeat CT showed interval progression of inflammatory changes concerning for worsening infection.",
+        "past_medical_history": "Opiate abuse",
+        "family_history": "UNKNOWN",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Intubated, sedated and responding to vocal stimulus. Initial vitals: HR 115, BP 115/69, Temp 32. CT Neck as above.",
+        "specialty_examination": "Significant edema of R hand, 7x7cm erythematous, denuded skin on R shoulder with well demarcated border. 4x5 cm flaccid bullae on R wrist dorsum. Yellow serous exudate on neck with significant subcutaneous edema. Opens eyes to voice, follows 1 step commands, PERRL, +corneal, +gag."
+    }
+}

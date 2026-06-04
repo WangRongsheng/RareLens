@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "62",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "MA in history"
+    },
+    "medical_history": {
+        "chief_complaint": "Not specified",
+        "history_of_present_illness": "Large, left-sided, middle-cerebral artery stroke 3 years before testing. Initially globally aphasic, but had improved mainly through rehabilitation and probably physiological reinstitution at least in the first year.",
+        "past_medical_history": "Large, left middle cerebral artery stroke and an incidental finding of a completely occluded right carotid artery.",
+        "family_history": "Not specified",
+        "social_history": "Lived independently, taking care of his own bills, and all of his own needs."
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Aphasia type was unclassifiable; he was classified by the Western Aphasia Battery (WAB) as anomic, but he had 'asyntactic' auditory comprehension on sentence comprehension tasks. His spontaneous speech was generally fluent and well articulated, but he had hesitations for word finding and frequent circumlocutions."
+    }
+}

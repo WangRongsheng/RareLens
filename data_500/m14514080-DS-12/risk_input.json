@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Tongue swelling.",
+        "history_of_present_illness": "Mrs. ___ is a ___ woman with history of hypertension on lisinopril who was transferred overnight for management of angioedema. She awoke from sleep at 2:30 am with a sensation of right tongue swelling and progressive feeling like her throat was closing. Initial treatment included Benadryl, steroids, and Pepsid. In the ED, her initial vital signs were T 97.3, HR 80, BP 157/83, RR 16, satting 100% on 2L NC. Labs were notable for hematocrit of 35 and white count of 8.1. ENT performed laryngoscopy noting right-sided tongue swelling at the base extending to the vallecula, with no laryngeal edema. She received 10 mg IV Decadron at OSH at around 2 am and was due for her next dose at 10 am. Vitals at transfer were HR 85, BP 131/70, RR 18, satting 97% RA.",
+        "past_medical_history": "Hypertension, meningioma s/p cyberknife radiation.",
+        "family_history": "Her father has coronary artery disease. Two sisters died of colon cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "General: a well-appearing middle-aged woman in no distress. Vitals: afebrile, HR 82, BP 141/74. Oropharynx: slight edema of the left posterior tongue with deviation of the uvula to the right; oropharynx was clearly visualized, and there did not appear to be any airway compromise.",
+        "specialty_examination": "ENT examination noted right-sided tongue swelling at the base extending to the vallecula, with no laryngeal edema. Vocal cords bilaterally mobile and symmetric, airway widely patent at level of cords."
+    }
+}

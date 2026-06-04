@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Dyspnea, chest discomfort",
+        "history_of_present_illness": "Patient with a history of non-small cell lung cancer with metastasis to lymph nodes, status post VATS/right lower lobectomy, and previous chemotherapy, presents with progressively worsening dyspnea over the past 3 days with severe episodes. Patient notes episodes associated with substernal chest discomfort and increased need for home oxygen.",
+        "past_medical_history": "Non-small cell lung cancer, prostate cancer, small bowel desmoid tumor, left adrenal cortical adenoma, hypercholesterolemia, migraine headache, left inguinal hernia repair, appendectomy.",
+        "family_history": "Maternal grandfather possibly died of colon cancer. Mother had heart problems and congestive heart failure. Father had multiple sclerosis. Brother has no medical problems.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Temp 97.7, BP 130/72, HR 83, RR 22, O2 saturation 95% on 2L NC. Patient in no acute distress, mildly tachypneic.",
+        "specialty_examination": "Cardiovascular: Regular rate and normal rhythm. Respiratory: Bronchial breath sounds on the right, intermittent wheezing on the left."
+    }
+}

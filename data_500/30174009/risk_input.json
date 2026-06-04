@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "13",
+        "gender": "Not specified",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Moroccan",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "bilateral sensorineural deafness BSD",
+        "history_of_present_illness": "diagnosed for a bilateral sensorineural deafness BSD at 12 months old, during his childhood he developed a muscular weakness, polydipsia, nocturnal enuresis, hyperuricemia with a metabolic alkalosis and high levels of renin",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Not specified"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Right leg pain",
+        "history_of_present_illness": "s/p R TKA now with right periprosthetic distal femur fracture s/p ORIF",
+        "past_medical_history": "HTN, Anxiety/Depression, Synthroid Hypothyroidism",
+        "family_history": "non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "General: no acute distress, CV: well-perfused, Resp: non-labored, Abd: non-distended, Extremities: well-perfused",
+        "specialty_examination": "RLE: Incisions clean, dry, and intact. Sensation intact to light touch. Fires hipflexors, Quad, HS, TA, EDL/FDL warm and well-perfused"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "syncope, questionable loss of consciousness",
+        "history_of_present_illness": "___ yo male with history of CAD s/p CABG x2, AVR, HTN, HL, and ___ disease presented to the ED after potential syncopal episode found to be hypotensive. He was moving his gardening tools when he felt tired and went to lay down. He had been up since 6am preparing for his ___ guests. He took his medications at 8am, and then around 10 am, his contractor shook him when he was \"semi-awake\" laying in bed but \"wobbly and pale\". He reported feeling dizzy but denies CP, SOB, palps, or lightheadedness. His contractor told EMS a different story. He had a possible syncopal episode today while sitting in a chair. He was talking to his contractor, went inside, sat down, and then the contractor was shaking him and called EMS since he looked pale and took a minute or two to rouse. EMS says initial BP ___ systolic. Rhythm strip for EMS showed paced rhythm w/? STE. Laid flat and BP improved. Four weeks ago he had a teeth cleaning, at which point he was given a week of antibiotics. He reports that he had two teeth pulled two weeks ago. He was given 4 doses of the same antibiotic that day. He also reports weakness but notes that this has been going on for the past 6 months. In the ED, initial VS: SBP 100s. At 1815, SBP in ___ but patient asymptomatic, so bolused 1L. -EKG: paced at 76, no STE -Electrophysiology: nothing on pacer interrogation -CXR: no acute cardiopulmonary process -labs incl UA pending -2L total given Most Recent Vitals: 61, 23, 122/77, 100%2L Currently, he feels well and at his baseline.",
+        "past_medical_history": "Hypertension, Dyslipidemia, CABG x4 ___: in-situ LIMA to diagonal, reversed SVG to distal LAD, reversed SVG to OM1, reversed SVG to PDA -Redo CABG x2 ___: SVG to LAD, SVG to PDA AVR with 23 mm Biocor porcine valve. Endoscopic vein harvesting c/b post-op afib requiring amiodarone. Unresponsive episode in ___ believed ___ TIA vs seizure. L3-L4 spinal stenosis, L basilic vein thrombosis, ___ ___ disease, BPH, diverticulosis, arthritis, s/p cataract surgery, s/p tonsillectomy.",
+        "family_history": "No family history of arrhythmia, cardiomyopathies, or sudden cardiac death. Mother: ___ disease. Father: ___, ?MI at age ___. Son: tourette's disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "On Admission: VS - 98.4 139/96 75 18 97% on RA. GENERAL - well-appearing man in NAD, comfortable, appropriate. HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear. NECK - supple, JVD at 4mmHg while flat, no carotid bruits. LUNGS - CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use. HEART - PMI non-displaced, RRR, ___ SEM at RUSB, nl S1-S2. ABDOMEN - +BS, soft/NT/ND, no masses or HSM, no rebound/guarding. EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs). SKIN - no rashes or lesions. NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength ___ throughout, sensation grossly intact throughout.",
+        "specialty_examination": "Not specified"
+    }
+}

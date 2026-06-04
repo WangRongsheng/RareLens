@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "62.14 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "IV diuresis and rate control",
+        "history_of_present_illness": "Man with history of Dilated cardiomyopathy thought secondary to AFib/alcohol abuse with recovery, moderate mitral regurgitation secondary to mitral valve prolapse, paroxysmal atrial fibrillation on Amiodarone and Rivaroxaban, presents after being found in atrial fibrillation in clinic with rates in the 120s-130s, in persistent AF, volume overloaded with a newly reduced EF to 21%, and a TSH of 20. Reports progressive edema, fatigue, and intermittent palpitations for the past few months. Denies PND or orthopnea, but states he has been getting tired more quickly than usual while at work. Recently had difficulty remembering to take medications.",
+        "past_medical_history": "Cardiomyopathy, Hypothyroidism, Osteoporosis, Depression, History of abnormal LFTs, History of atrial fibrillation",
+        "family_history": "Sister with unspecified condition, Brother with myocardial infarction",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "BP: 130/78, Heart Rate: 140, O2 Saturation%: 97, Weight: 156.6 lbs. Appears comfortable lying in bed, somewhat blunted affect. JVP at 11-12cm. Tachycardic, irregularly irregular. 2+ edema to the knees bilaterally.",
+        "specialty_examination": "Neurological: Resting tremor bilaterally, No focal deficits. Cardiovascular: Tachycardic, irregularly irregular. No murmurs. PULM: Clear bilaterally."
+    }
+}

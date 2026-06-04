@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "5 m",
+        "gender": "Female",
+        "weight": "2000 g",
+        "height": "43 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Czech and Vietnamese",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hyperphenylalaninaemia",
+        "history_of_present_illness": "Born small for gestational age, positive Guthrie test, blood phenylalanine as high as 2210 pmol/l, reduced to 30 pmol/l with low-phenylalanine diet, occasional refusal of feeding, slightly retarded psychomotor development",
+        "past_medical_history": "Hypotrophic newborn, not breast fed, high protein milk formula",
+        "family_history": "Mother and maternal grandfather showed retarded hyperphenylalaninaemia after loading with phenylalanine",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Weight and length below the 3rd percentile, Apgar score at 1 min was 10",
+        "specialty_examination": "Not specified"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "s/p fall",
+        "history_of_present_illness": "This is an ___ female with a history of hypertension and hypothyroidism who presents for evaluation of mechanical fall. She lost her balance while walking up the stairs from her basement at home and fell backwards down ___ stairs. She struck the posterior aspect of her head on a pain can and sustained a significant laceration. She was able to call for help, and neighbors heard her and called EMS. They found her at the bottom of the stairs. They applied a pressure dressing to the scalp laceration and also identified a left lower extremity skin tear. She also has been complaining of lower sternal chest pain. She has no other complaints at this time.",
+        "past_medical_history": "Hypertension, hypothyroidism, A-fib. Past surgical history: Denies.",
+        "family_history": "Non-Contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Temp: 97.0 HR: 76 BP: 150/66 Resp: 16 O(2)Sat: 92. Stellate right occipital 5 cm laceration with active venous bleeding no cspine tenderness. Clear to auscultation, no crepitus, sternum tender. Left lower leg anterior skin tear, right scapular ecchymosis. Speech fluent, nonfocal extremity motor exam. Normal mentation.",
+        "specialty_examination": "Neuro: Nonfocal extremity motor exam. Cardiovascular: Regular rate and rhythm."
+    }
+}

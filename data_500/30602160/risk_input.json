@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "16",
+        "gender": "Male",
+        "weight": "50 kg",
+        "height": "180 cm",
+        "BMI": "15.5 kg/m2",
+        "ethnicity": "Austrian",
+        "occupation": "High school student"
+    },
+    "medical_history": {
+        "chief_complaint": "Dysphagia for 3 months, swallowed solids became stuck behind his breast bone and filled up his throat",
+        "history_of_present_illness": "3-month history of dysphagia, weight loss of 3 kg (patient report) or 8 kg (mother's report), referred for management of achalasia, turned out to have pseudoachalasia due to adenocarcinoma of the cardia",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Unremarkable",
+        "specialty_examination": "Esophageal manometry revealed a common channel of the body of the esophagus with loss of primary peristalsis. LES pressure was 22 mm Hg with failure to relax completely and to decrease to fundic pressure on swallowing. Endoscopy revealed smooth mucosa in the distal esophagus with a closed cardia, which the endoscope could pass when some pressure was applied. A small erosion above the cardia was biopsied."
+    }
+}

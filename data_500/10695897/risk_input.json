@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "6 months",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abnormal behavior following immersion in warm bath water at home",
+        "history_of_present_illness": "At the age of 6 months, he had three episodes of abnormal behavior following immersion in warm bath water at home. He suddenly became unresponsive and hypertonic, his eyes gazed upward, then he became floppy. The whole attack lasted about 1 minute.",
+        "past_medical_history": "Psychomotor development was normal. The family history was negative for seizures.",
+        "family_history": "Negative for seizures",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Neurologic examination, electroencephalographic (EEG) investigation, and electrocardiography (ECG) were normal. Vagal stimulation test by ocular compression was positive.",
+        "specialty_examination": "EEG abnormalities started 25 seconds after placing the child into the bath; water temperature was 37°C. Five seconds later, the boy had shoulder jerks. He became unresponsive, stared, and had clonic movements of the lips. Consciousness returned 2 minutes later, with tears. He then fell asleep. There was no fever."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "28",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "voice hoarseness and dysphagia, and a 6-month history of left-sided blurred vision",
+        "history_of_present_illness": "3-year history of voice hoarseness and dysphagia, and a 6-month history of left-sided blurred vision. Development of multiple palpable nodular masses of the left hand beginning at 7 years of age, later accompanied by formation of subcutaneous blue, soft, nontender masses, diagnosed as hemangiomas on physical examination.",
+        "past_medical_history": "Maffucci syndrome diagnosed based on radiographs of the left hand showing skeletal phalangeal malformation with calcific nodules and multiple enchondromas. Chest CT demonstrated enchondromas of the bilateral ribs and scapulae. Technetium-99m methylene diphosphonate whole-body bone scintigraphy revealed foci of intense tracer uptake, involving multiple bones.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Multiple palpable nodular masses of the left hand, subcutaneous blue, soft, nontender masses diagnosed as hemangiomas.",
+        "specialty_examination": "Neurological examination revealed left-sided deficits in hearing and gag reflex, bilateral temporal hemianopia, and decreased visual acuity (left eye 20/30; right eye 20/50). Brain MRI demonstrated 2 heterogeneously enhancing lesions, 1 in the left jugular foramen and the other in the suprasellar region suggestive of a pituitary macroadenoma."
+    }
+}

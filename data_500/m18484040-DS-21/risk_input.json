@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hypotension",
+        "history_of_present_illness": "Mrs. ___ is a ___ woman with dementia, DMII, HTN, CVA x2 (on plavix and coumadin), and CRI who was transferred from ___ yesterday for concern of sepsis ___ cholangitis. She had been brought to ___ from her nursing home for AMS and fever. She was found to have a WBC to 18 and elevated LFTs (ALT 294, AST 195, TB 2.8, APhos 386). Although she was previously DNR/DNI, her family reversed the DNI order and she was subsequently intubated for respiratory distress and airway protection. At ___, she underwent a CT abdomen/pelvis (non-contrast due to elevated Cr), which revealed extensive fecal loading but no evidence of biliary pathology. Her U/A was grossly positive. She was admitted to the MICU given her hypotension (SBP 70-80s). Stool disimpaction was performed with retrieval of a large amount of stool, which was trace guaiac+. However, despite this, her lactate continued to trend up (from 3.7 to 5.8) and she remained hypotensive despite generous fluid resuscitation. She had received 4L prior to her MICU admission and received a further 3L while in the ICU but was still requiring levophed. She has received empiric vanc/zosyn, as well as IV flagyl for coverage of cdiff.",
+        "past_medical_history": "DMII (c/b neuropathy and nephropathy, HgbA1c 7.1% in ___), HTN, HPL, CVA x2 (___), upper GI bleed, MRSA+, prior aspiration pneumonia, glaucoma, dementia, generalized seizures.",
+        "family_history": "Non-contributory.",
+        "social_history": "Not specified."
+    },
+    "physical_examination": {
+        "general_examination": "ADMISSION PHYSICAL EXAM VS - 98.8 102 (SR) 98/50 (levo @ 0.35) 32 99% VENT - CMV 40% / 380 x 32 / 9 GEN - intubated, sedated HEENT - no scleral icterus - tachycardic, regular (sinus) PULM - intubated, diminished breath sounds at bases b/l (L>R) ABD - obese, moderately distended; patient grimaces to palpation; pt has 2cm transverse scar in the epigastrium (? prior PEG site) EXTREM - warm, well-perfused, no peripheral edema.",
+        "specialty_examination": "CT Abdomen/Pelvis w/o Contrast IMPRESSION: Fecal impaction in the rectum causing large bowel obstruction, the rectum is dilated to 10 cm. Fat stranding in the presacral space and bowel wall thickening at the level of the rectum are concerning for stercoral colitis. There is no free air to suggest perforation. CT Head w/o Contrast IMPRESSION: No acute intracranial process."
+    }
+}

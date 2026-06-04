@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "24",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "técnica en administración"
+    },
+    "medical_history": {
+        "chief_complaint": "tumoración cervical, además de periodos de rubicundez facial, de presentación y remisión espontánea",
+        "history_of_present_illness": "Paciente mujer de 24 años de edad, natural de Jaén-Cajamarca y procedente de Lima, de profesión técnica en administración, referida al consultorio de Genética por antecedentes familiares paternos de CMT y por presentar tumoración cervical, además de periodos de rubicundez facial, de presentación y remisión espontánea. Niega antecedentes patológicos o quirúrgicos previos.",
+        "past_medical_history": "Niega antecedentes patológicos o quirúrgicos previos.",
+        "family_history": "La paciente pertenece a la cuarta generación de familiares afectados por CT, tiene dos hermanos varones con bocio, padre diagnosticado de CT y fallecido a los 50 años, y cinco tíos paternos diagnosticados con CMT o CT, tres de ellos ya fallecidos. Abuelo paterno con CT con dos hermanos con el mismo diagnóstico y bisabuelo paterno con CT.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Al examen físico se evidenció en ambos lóbulos la presencia de un nódulo duro, de 2.5 cm en el lado derecho y de 1.5 cm en el izquierdo, no palpándose adenopatías cervicales.",
+        "specialty_examination": "Al examen ecográfico de tiroides, se observó en ambos lóbulos un nódulo sólido, hipoecogénico, con microcalcificaciones en su interior y vascularización al estudio Doppler, de 0.8 X 0.6 cm en el tercio inferior del lóbulo derecho y de 1.0 x 0.7 cm en el tercio medio del lóbulo izquierdo, ambos de alta sospecha de malignidad. El dosaje de calcitonina detectó niveles elevados en plasma: 1,605 pg/mL (VN: 0-18.3 pg/mL), estableciéndose la posibilidad diagnóstica de CMT."
+    }
+}

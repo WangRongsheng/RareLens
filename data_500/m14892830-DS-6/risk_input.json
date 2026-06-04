@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Dysphagia",
+        "history_of_present_illness": "The patient is a female with atrial fibrillation on Xarelto, history of H. Pylori presenting with dysphagia and globus sensation after dinner concerning for food impaction. The patient was eating dinner when she had the sudden sensation that her last piece of chicken was stuck in her throat. She had the unpleasant sensation that food was stuck in her throat, but denies difficulty breathing, chest pain, and palpitations. She became very anxious and distressed due to a perceived inability to swallow, and her son brought her to the ED. Initially in significant distress in the ED with tachycardia, hypertension and tachypnea with mild hypoxia. Given glucagon, Ativan, and small sips of ginger ale with slight improvement, but still feels something stuck in chest. Patient reports no history of dysphagia or aspiration, though discharge summary notes problems swallowing pills. The patient has been experiencing a general decline in mental status for around the past one year, initially beginning after cataract surgery. The patient believed she had a bad reaction to prednisolone drops, because after receiving them she was confused and very anxious. Since then, her son reports that she has episodes of decreased recall, heightened anxiety, and poor executive function. He thinks her decline has accelerated in the past month, and she has required increased healthcare intervention and monitoring. The patient reports that her confusion and anxiety has been at its worst during the 3 days prior to this current presentation. The patient and her son had been discussing a cognitive neurology appointment, and had been trying to make an appointment with a neurologist. The patient was admitted for dizziness, where she was diagnosed with BPPV and started on meclizine. Imaging of the head was notable only for chronic ischemic changes. Thyroid studies within normal limits. After discharge she went to a rehab facility for physical therapy before returning home.",
+        "past_medical_history": "1. Atrial fibrillation with long-term anticoagulation use on rivaroxaban. 2. Benign paroxysmal positional vertigo. 3. Status post right hip replacement. 4. History of cholecystectomy. 5. History of appendectomy. 6. History of total hip replacement. 7. History of thyroidectomy in the remote past. 8. H. pylori.",
+        "family_history": "Poor historian about family history.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Initial vitals were: 97.1 49 163/99 16 90% RA. On the floor, patient is comfortable and in no acute distress.",
+        "specialty_examination": "Neurological: CNII-XII intact, strength upper/lower extremities not specified, grossly normal sensation, 2+ reflexes bilaterally, gait deferred. Cardiovascular: irregularly irregular, normal S1 + S2, no murmurs, rubs, gallops. Lungs: Bibasilar crackles."
+    }
+}

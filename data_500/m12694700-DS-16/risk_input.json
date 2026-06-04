@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "blood in stool",
+        "history_of_present_illness": "Patient presents with 2 days of melena and lower abdominal pain. Patient was recently admitted for severe upper GI bleed with melena, bloody emesis, and fatigue. He received 8 x PRBC and 4 x platelets. Previously underwent guided left gastric artery embolization and clipping of Dieulafoy's lesion. Denies any nausea or vomiting. Reports lightheadedness but no chest pain or dyspnea.",
+        "past_medical_history": "Upper GI bleed secondary to Dieulafoy's lesion s/p gastric artery embolization and endoclipping, Bradycardia, Aortic stenosis (0.8 cm², peak gradient 39 mmHg), CAD s/p quadruple bypass CABG, Subclavian stenosis with steal syndrome, CHF, HTN, AAA s/p repair, left CEA, embolic CVA, HLD, Right iliac artery aneurysm, h/o skin cancer s/p resection, h/o prostate cancer treated with radiation, h/o colon cancer treated with radiation and hemicolectomy, Mucinous cyst adenocarcinoma of the pancreas resected, h/o splenectomy, Glaucoma.",
+        "family_history": "Prostate cancer in brother",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 98.8F, 144/63, 66, 98% RA. General: Alert, oriented x name, no acute distress. Abdomen: Soft, non-distended, mild tenderness to palpation of LUQ and LLQ.",
+        "specialty_examination": "Neurological: Reduced strength and sensation in LUE, mildly asymmetric face. CV: Regular rate and rhythm, normal S1 + S2, systolic murmur heard best at R ICS."
+    }
+}

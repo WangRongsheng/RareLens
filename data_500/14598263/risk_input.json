@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "42",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Epigastric pain followed by hypovolemic shock due to intraperitoneal hemorrhage",
+        "history_of_present_illness": "Admitted to Tours Hospital in October 1991 for epigastric pain followed by hypovolemic shock due to intraperitoneal hemorrhage. Emergency laparotomy showed 5500 mL of blood coming from a large rupture of Glisson’s capsule. The liver was enlarged and soft, and Pringle’s maneuver temporarily stopped bleeding. Macroscopic examination and frozen sections of wedge biopsy specimens made in the right and left lobes and extemporaneously examined showed no evidence of tumor. Selective hepatic arteriography showed unusual distal vascularization. Bleeding was definitively stopped in a second laparotomy by ligation of the hepatic artery and gauze packing. After depacking and cholecystectomy in a third laparotomy, the outcome was marked by jaundice and acute pancreatitis; however, the patient was discharged 1 month later in good condition.",
+        "past_medical_history": "Not specified",
+        "family_history": "The father of case A1 had type 2 diabetes mellitus at the age of 60 years and died at the age of 73 years without clinical evidence of liver disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Hypovolemic shock due to intraperitoneal hemorrhage. The liver was enlarged and soft.",
+        "specialty_examination": "Not specified"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Left tentorial hemorrhage; cerebellar ICH with tracking into the brainstem.",
+        "history_of_present_illness": "Patient denies prior medical history. Sudden onset slurred speech and right arm numbness experienced while socializing at a bar. Taken to OSH where CT showed left IPH. Transferred for further evaluation. Denies headache; positive for nausea and dizziness. Reports numbness in right arm and left face.",
+        "past_medical_history": "S/p tonsillectomy at age Not specified.",
+        "family_history": "Mother with dementia.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": {
+            "vital_signs": {
+                "Temperature": "98.2",
+                "Heart Rate": "62",
+                "Blood Pressure": "189/107",
+                "Respiratory Rate": "16"
+            },
+            "notable_systemic_findings": "General: WD/WN, comfortable, NAD. HEENT: normocephalic, atraumatic. Neck: Supple. Extremities: Warm and well-perfused."
+        },
+        "specialty_examination": {
+            "neurological": "Mental status: Awake and alert, cooperative with exam, normal affect; mild inattention. Orientation: Oriented to person, place, and date. Language: Thickened speech with good comprehension and repetition. Cranial Nerves: Decreased movement in lateral gaze of left eye, mild left ptosis, slight nasolabial fold flattening on left, decreased V1-V3 sensation. Tongue deviates to left. Motor: Mild right pronator drift, full power throughout. Sensation: Decreased to light touch on right arm and leg. Coordination: Positive dysmetria bilaterally.",
+            "cardiovascular": "Not specified",
+            "other": "Physical examination on discharge noted normal mental status, cranial nerves: physiologic anisocoria, left nerve palsy, and more."
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Necrotic Toes",
+        "history_of_present_illness": "Patient has a history of atrial fibrillation, CVA with left-sided hemiparesis, breast cancer, hypertension, and hyperlipidemia. She presented with necrotic toes and previously diagnosed right foot cellulitis several weeks prior, possibly related to recent antibiotic use. Patient became more lethargic over the last several days, displaying black toes, leading to an emergency call. Initial vital signs revealed hypertension and significant lab abnormalities including hyponatremia.",
+        "past_medical_history": "Hypothyroidism, Hypertension, Dyslipidemia, Atrial Fibrillation (on coumadin), Anxiety, Breast cancer status post lumpectomy and radiation therapy for invasive ductal carcinoma.",
+        "family_history": "Unable to obtain",
+        "social_history": "Patient lives at home with her disabled son who serves as her primary caregiver. Son has paraplegia and mental retardation. Reports are that son administers medications but not necessarily as prescribed."
+    },
+    "physical_examination": {
+        "general_examination": "Admission vital signs: T98 P70 BP156/63 RR16 O2 sat 97% RA. Patient was alert but unresponsive.",
+        "specialty_examination": "Neurologically, patient is severely contracted with intermittent slight movement of right extremities. Left foot shows necrotic toes, and right foot is erythematous to metatarsals with coolness to touch."
+    }
+}

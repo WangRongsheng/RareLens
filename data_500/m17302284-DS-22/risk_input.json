@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Shortness of Breath",
+        "history_of_present_illness": "Mr. ___ is a ___ with history of CAD, ICM (EF ___ s/p PPM/ICD who presents with 1 week of worsening SOB and cough. He reports that he has baseline dyspnea which requires him to stop and catch his breath every flight of stairs. In ___ he could walk ___ blocks but would become very dyspneic. He says that recently, his activity level has been limited due to a 'pinched nerve' in his L thigh. He has hardly been active. Nevertheless, his dyspnea on exertion has been getting worse over the last week, and particularly bad with lightheadedness the day of admission. He denies chest pain, orthopnea, weight gain, or increased ___ edema. He denies palpitations. No h/o ICD firing. He does endorse a cough productive of clear sputum which is chronic. In the past, he has c/o dyspnea on exertion to his cardiologist, and his lasix dose was uptitrated with no effect on his symptoms. He currently takes 20mg lasix po daily.",
+        "past_medical_history": "1. CAD: status post anterior myocardial infarction and CABG in ___ (LIMA to LAD, SVG to OM, and SVG to PDA). Cardiac catheterization was done in ___ which showed that the LIMA and OM grafts were patent but the SVG to PDA graft had a 95% stenosis that was treated with a bare metal stent. Most recent nuclear perfusion imaging done in ___ showed moderate-to-severe fixed anterior and apical defect as well as a moderate-to-severe fixed inferior defect with an ejection fraction of 23%. 2. Ischemic cardiomyopathy: Systolic HF, EF 25% 3. Status post ICD implantation ___ ICD Dual Chamber implanted in ___ with generator change ___. 4. STEMI in ___ - inf STEMI with thrombus in proximal part of SVG to PDA while in ___. Although the physicians in ___ were eventually able to open up this graft, he did have a significant myocardial infarction and consequent damaged to the wall. 5. Mild to moderate MR. OTHER PAST MEDICAL HISTORY: HTN HLD ITP - last platelets 55 Anemia.",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: 97.8, 140, 154/95, 24, 97%. General- Alert, oriented, no acute distress. JVP elevated at 10cm, no LAD.",
+        "specialty_examination": "Lungs- bibasilar crackles, no wheezes, ronchi. CV- irregularly irregular at a normal rate, normal S1 + S2, no murmurs, rubs, gallops. Neuro- CNs2-12 intact, motor function grossly normal."
+    }
+}

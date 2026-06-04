@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "body jerks",
+        "history_of_present_illness": "The patient is a female with a past medical history of ADHD and possible seizures who presents with increased frequency of her typical spells today. She had an increased frequency of her typical spell upon waking this morning. They have been occurring several times per hour today, she states she has had around 15 since being in the emergency room in around a few hour period. She had not this spell for over a year. The spells typically consist of whole body jerks of the arms and legs with an associated gasp, lasting less than 1 second. There are no preceding symptoms or post ictal periods. The frequency has varied since they first started, with today being more than usual. She has dropped objects during these and has fallen in the past. She reports no recollection of them. In the past, they have been triggered by stress. She denies any convulsive seizures, but reports one seizure where she was told she was foaming at the mouth and bit her tongue. Her spells began after hitting her head on a desk years ago, where she reportedly had loss of consciousness for 30 minutes. They improved in her senior year of high school until today. She had been drinking less alcohol and smoking less marijuana than usual in the last week and reports heavy alcohol use last night, resulting in blacking out. A 63-hour ambulatory EEG was wnl for age in awake and asleep states, with no events captured.",
+        "past_medical_history": "ADHD",
+        "family_history": "Cousin with epilepsy since childhood, on AEDs.",
+        "social_history": "Last night she reports having 4 shots of alcohol and also reports having used marijuana yesterday. Denies any head trauma or recent stressors."
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs stable, awake, cooperative, no acute distress. Cardiac RRR, lungs CTA bilaterally, abdomen soft, no edema. Neurologic review of systems normal.",
+        "specialty_examination": "Mental Status: Alert, oriented x 3. Normal speech and language function. No deficits in cranial nerves, motor strength normal bilaterally. No sensory deficits. Deep tendon reflexes within normal limits. Coordination and gait normal."
+    }
+}

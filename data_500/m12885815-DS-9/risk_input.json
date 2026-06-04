@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "abd pain",
+        "history_of_present_illness": "Ms. ___ is a ___ year old female with history of multiple sclerosis, bilateral recurrent DVTs, hypertension, hyperlipidemia, diabetes, osteoarthritis, and dementia who presents with severe abdominal pain, nausea, and emesis. The pain started 3 hours prior to their arrival. In the ED, she denies chest pain, fevers, chills, or other symptoms.",
+        "past_medical_history": "Multiple sclerosis - relapsing remitting disease; Bilateral DVT's post TKR; Diabetes; HTN; Night time urinary incontinence.",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital Signs: T 98.4, BP 178/95, HR 104, RR 20, O2 100 on RA. General: Alert, able to follow simple commands and respond to simple questions, oriented to being in a hospital but could not name which.",
+        "specialty_examination": "Able to move all extremities with purpose; Clear bilateral lung exam; Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops; Abdomen soft, tender possibly lower > upper quadrants."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient is a poor historian, reported history based on OSH records. Patient underwent laparoscopic cholecystectomy for acute on chronic gangrenous cholecystitis. Discharged from OSH after a course complicated by persistent diarrhea and altered mental status. Treated empirically for C. diff with all cultures negative. Persistent RUQ abdominal pain since surgery, which varies in severity; denies fevers, chills, or malaise and has loose bowel movements daily.",
+        "past_medical_history": "C. difficile infection, CAD s/p stent, Atrial fibrillation/flutter on Coumadin, Congestive heart failure (EF 30%), Pulmonary HTN questioned, OSA, Diabetes mellitus on insulin (with retinopathy, neuropathy, and nephropathy), PVD, Cataract surgery, Retina surgery, BPH, CVA s/p L Below Knee Amputation.",
+        "family_history": "Unknown since patient is adopted.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: Temp 97, BP 118/78, HR 62, RR 18; Patient is A&O, NAD. Abdomen is soft, mildly distended, tender to palpation diffusely but patient is distractible. Well healed surgical incisions.",
+        "specialty_examination": "Neurological: Not specified; Cardiovascular: irregular heart rhythm, No M/G/R; Pulmonary: Clear to auscultation bilaterally; Extremities: Right Lower Extremity warm with moderate stasis dermatitis, 1+ edema."
+    }
+}

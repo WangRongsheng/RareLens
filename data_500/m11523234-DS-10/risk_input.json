@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "'s thyroiditis and primary hyperparathyroidism",
+        "history_of_present_illness": "This patient presented with a large goiter with compressive symptoms and primary hyperparathyroidism. Preoperative localization with sestamibi ultrasound and 4-D CAT scan was vague at best, but there was a suggestion of an enlarged parathyroid in the left lower position. This patient had a lupus coagulant factor and was therefore kept on Coumadin for the entire operation with an INR of 2 that was confirmed just before surgery. Preop PTH was 97 in the holding area.",
+        "past_medical_history": "'s thyroiditis, Primary hyperparathyroidism, Lupus anticoagulant with DVT and PE. Surgical history: IVC filter removal, Hysterectomy.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: 97.8 78 117/58 18 98%RA. GEN: A&O, NAD. HEENT: No scleral icterus, mucus membranes moist, incision site c/d/i, no surrounding erythema or swelling. CV: RRR, No M/G/R. PULM: Clear to auscultation b/l, No W/R/R. ABD: soft, non-distended, nontender. Ext: No edema, warm and well perfused.",
+        "specialty_examination": "Not specified"
+    }
+}

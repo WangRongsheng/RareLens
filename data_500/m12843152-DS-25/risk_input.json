@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Sudden onset severe abdominal pain.",
+        "history_of_present_illness": "POD 12 from proctectomy w/ ileostomy p/w sudden onset severe abdominal pain yesterday afternoon. Some associated nausea and vomiting x4, but denies blood from ostomy, not able to tolerate PO. She is having good ostomy function and denies any decreased output or blood from ostomy. She also denies BRBPR and reports only a mucosy discharge from her rectum. Pt has a seizure history and has been taking her antiseizure medications. Last seizure was this past ___.",
+        "past_medical_history": "- Complex partial seizures ___ neurocysticercosis ___ years ago. - Ulcerative Colitis, biopsy confirmed in ___.",
+        "family_history": "Sister has abd pain and hemorrhoids. No history of seizures or IBD.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "General: appears well, out of bed with nursing, no noticeable seizure activity, tolerating regular diet, adequate urine output, stable ileostomy output. VSS.",
+        "specialty_examination": "Cardiac: RRR. Lungs: CTAB. Abd: non-distended, no nausea, non-tender, ___ drain in place and draining minimal amounts of sero-sang fluid."
+    }
+}

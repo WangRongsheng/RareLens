@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Hypokalemia",
+        "history_of_present_illness": "Ms ___ is a ___ year old lady with a history of pAFib, HTN, melanoma, presenting with nausea/vomiting and weakness. She had nausea and vomiting the day prior to admission, with poor PO intake. She hadn't been able to eat for the past 24h, which led to generalized weakness and fatigue. Per her daughter, she was hypotensive this morning with BP 65/49, which prompted call to her PCP. She had been in the PCP's office and gotten routine labwork. Her symptoms, combined with labs showing hypokalemia and Hyponatremia, led to patient's referral to the ED. Of note, patient recently had furosemide, losartan stopped and started on indapamide. She had also had a fall two weeks ago with CT head showing 1.0 cm left frontal subgaleal hematoma. Lastly, she had an insidious weight loss of 40 lb over the past year.",
+        "past_medical_history": "Atrial fibrillation on coumadin, osteoarthritis, peripheral neuropathy, osteoporosis c/b compression fractures, OSA on CPAP.",
+        "family_history": "Positive for mother with hearing loss and heart disease, father with diabetes, patient also reports history of DM.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "ADMISSION PHYSICAL EXAM: VITALS: T 97.8, BP 103/65, HR 56, RR 16, O2 sat 95 RA. GENERAL: Uncomfortable appearing.",
+        "specialty_examination": "NEUROLOGIC: A&Ox3, CN II-XII, motor and sensation grossly intact. CARDIAC: Bradycardic, no murmurs/gallops/rubs."
+    }
+}

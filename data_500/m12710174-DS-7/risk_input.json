@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Scheduled Chemotherapy, C2 DA-EPOCH",
+        "history_of_present_illness": "Mr. ___ is a ___ gentleman with a history of high-grade DLBCL, HIV (on ART, no OI's, most recent CD4 505 and VL undetectable, nadir CD4 39 at diagnosis ___ years ago) presenting for cycle 2 of DA-EPOCH. Since discharge he has been feeling well. Nausea improved several days after discharge and he is tolerating solid foods without difficulty. He has had no witnessed BRBPR, has some intermittent abdominal pain at night better with oxycodone prn.",
+        "past_medical_history": "- AIDS: On Raltegravir/Truvada, last CD4 ___ copies, no OI's, CD4 nadir 39\n- Secondary neurosyphilis s/p treatment\n- Deviated nasal septum repair\n- Soft palate implant (for OSA)",
+        "family_history": "- Uncle had one of first heart transplants (unsuccessful)\n- Maternal Aunt died of melanoma",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "ADMISSION EXAM: VITALS - 97.8 BP 110/72 P97 RR18 O2 Sat 100%RA GENERAL - Well-appearing M who appears comfortable, appropriate and in NAD",
+        "specialty_examination": "HEENT - NC/AT, PERRL, EOMI, sclerae anicteric, MMM, OP clear; NECK - supple, no thyromegaly, no JVD, no carotid bruits; LUNGS - CTAB, moving air well and symmetrically, resp unlabored, no accessory muscle use; HEART - PMI non-displaced, RRR, S1-S2 clear and of good quality without murmurs, rubs or gallops; ABDOMEN - NABS, soft/NT/ND, no rebound/guarding; EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs); NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength ___ throughout, sensation grossly intact throughout, DTRs 2+ and symmetric"
+    }
+}

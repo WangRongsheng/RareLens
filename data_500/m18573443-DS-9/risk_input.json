@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "142.88 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Cellulitis",
+        "history_of_present_illness": "Patient has a history of CKD, DM, HTN, with multiple episodes of cellulitis presenting with left calf swelling and pain. Recently traveled and noted gradual left lower extremity swelling for approximately 3 weeks. One day prior to presentation, developed redness and pain in the left calf along with subjective fevers. Seen by PCP and referred to ED. In ED, initial vital signs were T 99.3, P 91, BP 154/20, RR 20, O2 99%. Labs notable for WBC 18, Ht 32, Platelets 147, Cr 3. Patient treated with vancomycin, ceftriaxone, 1L NS, and 2 tabs of Percocet. Lower extremity ultrasound negative for DVT.",
+        "past_medical_history": "CKD, DM type 2, Diabetic nephropathy, Diabetic retinopathy, Hyperlipidemia, Erectile dysfunction, GERD, HTN, Morbid obesity, Gout, Cellulitis, Eczema.",
+        "family_history": "Father with heart problems, Brother with unspecified disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission vital signs: T 99.5, BP 144/70, P 85, RR 20, O2 98% RA. Patient was noted as a pleasant obese male sitting up in a chair, no acute distress.",
+        "specialty_examination": "Left lower leg swollen compared to right, diffuse erythema from ankle to approximately 2cm below knee, warm to touch, no drainage or exudate. Neurological: awake and alert."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "LLE pain, redness, swelling",
+        "history_of_present_illness": "This is a ___ yo male with CAD s/p CABG, AVR, diabetes with neuropathy and R foot osteomyelitis c/b MSSA sepsis s/p debridement and third toe amputation in ___ who now presents with malaise and fever in the setting of new onset L foot pain, erythema, and swelling. The patient was in his usual state of health last ___ ___ when he began to have intermittent foot pain. Around the same time, he noted increased redness and swelling in his left foot and ankle. He does not recall any recent trauma to his LLE. He cannot localize his pain, but describes the sensation as migrating throughout his foot, \"like an electric shock.\" At baseline, he has bilateral foot pain and loss of sensation in both feet, but he reports that his recent pain is more intense. The following ___, he began to have subjective fevers with chills, and anorexia. He denies additional focal complaints. He was seen in primary care clinic on ___ for these complaints.",
+        "past_medical_history": "1. Diabetes mellitus type 2, complicated by retinopathy and neuropathy. Last hemoglobin A1c 8.6 at the ___ (___). Has a new ___ doctor, ___ coming up. 2. Retinopathy, followed by Dr. ___. 3. Neuropathy, treated in the past by Dr. ___, not currently on treatment for this. 4. Obesity. 5. Status post appendectomy. 6. Allergic rhinitis. 7. Depression, followed by Dr. ___. 8. Low back pain. 9. CAD, status post CABG and AVR in ___. Initially presented with some shortness of breath and mild chest discomfort with a positive stress test. Cath showed 3-VD with an EF of 30% as well as her aortic valve problems, he received a #23 ___ valve as well as limited LAD, SVG to PDA, and SVG to OM, with Dr. ___. This was complicated by watershed infarct and eye problems. He is currently doing quite well without any chest pain. 10. CVA as above. 11. Aortic insufficiency, status post replacement as above. 12. Left lower extremity cellulitis, ___. 13. Right eye vision loss after CABG, followed by Dr. ___, ___ secondary to ischemic optic neuropathy. 14. Left ___ tenosuspension of the hallux and IP fusion. 15. Early cataracts bilaterally. 16. Hypertension. 17. Hypercholesterolemia. 18. Cervical spondylosis. 19. Erectile dysfunction.",
+        "family_history": "Father died in his ___ from an MI. Mother died from some type of cancer. Brother died in his ___ from CAD.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Admission vital signs: T 102.6 HR 94 BP 130/69 RR 16 SaO2 95%. Unkempt, but otherwise well appearing. Heart: RRR, normal S1/S2, ___ systolic murmur (baseline). Lungs: CTAB. Lower Extremities: Moderate left foot and ankle edema (2x RLE), mild erythema on the external ankle, eschar above left great toe and beneath left second toe. Both feet equally warm.",
+        "specialty_examination": "Neurological: MAEE with compromised ability to move toes on both feet, complete loss of sensation in both ankles and feet, full strength and sensation in hands and arms, bilaterally, gait deferred."
+    }
+}

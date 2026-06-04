@@ -1,0 +1,47 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Sudden onset diffuse abdominal pain for 1 day.",
+        "history_of_present_illness": "The pain started around 7 AM when the patient awoke. The patient has chronic pain in the left lower quadrant (LLQ) but this pain was more severe, similar in character, and originally started in the LLQ before moving to the right lower quadrant (RLQ). The pain is not associated with food, and the patient reports having vomited some bile.",
+        "past_medical_history": "Hypertension, Diabetes Mellitus type II, Chronic Kidney Disease stage II, Gastroesophageal reflux disease, history of diverticulitis status post sigmoidectomy, obstructive sleep apnea on CPAP, gout, depression, urge incontinence, arthritis status post hip and knee replacements, hysterectomy, and bilateral cataract surgeries.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    },
+    "physical_examination": {
+        "general_examination": {
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "184/94 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, grabbing abdomen due to pain.",
+                "HEENT": "Pupils constricted equal bilaterally and reactive, mucous membranes moist, oropharynx clear.",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, or ronchi.",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, or gallops.",
+                "abdomen": "Obese, soft, non-distended, hypoactive bowel sounds, tender to palpation throughout, no rebound tenderness or guarding.",
+                "extremities": "Warm, well perfused, 2+ pulses, 2+ edema to mid shins bilaterally, skin changes consistent with chronic venous stasis."
+            }
+        },
+        "specialty_examination": {
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "182/92 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "Patient remains uncomfortable and unable to sit still without grabbing abdomen, signs of nausea and vomiting bile, persistent abdominal pain."
+        }
+    }
+}

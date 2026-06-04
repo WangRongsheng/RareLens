@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "syncope",
+        "history_of_present_illness": "Aphasic, hx of seizures with stage IV GBM here with syncopal episode witnessed by wife. Pt was sitting at a table about to eat when he suddenly slumped in the chair and lost consciousness. The family lowered him to the floor and attempted to rouse him but he did not wake up. Was somewhat confused when he awoke but not for very long. Family noted increased RLE swelling and DOE over the past weeks but otherwise no f/c, hemoptysis, cough, chest pain, abdominal pain, diarrhea. Some nausea/vomiting after chemo - no bile or blood. In the ED, initial vitals 95 124 124/85 20 92% RA. ECG showed new Afib with RBBB. Labs notable for lactate 5.9->4.9 after 3L IVF, UA with trace bld, few bacteria, trop x 1 negative, Na 130, Hct 38.9, plt 95. CTA Chest showed large saddle embolus and segmental PE involving all segments concerning for right heart strain.",
+        "past_medical_history": "ONCOLOGIC HISTORY: First presentation  ___ yrs ago - presented with episodes of speech arrest, right facial droop and right hand weakness. Pathology from brain biopsy revealed glioblastoma grade IV. Status post multiple treatments including brain biopsy, radiation, and chemotherapy among others. Other past medical history includes hypertension and hyperlipidemia.",
+        "family_history": "He has no family history of cancer, heart disease, diabetes. He has no seizure history.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 64 98%3L 18 118/88. General: Well appearing in no acute distress. HEENT: Moist mucous membranes, white plaques over tongue. JVP non elevated. CV: Regular rate and rhythm, normal S1 S2, no murmurs.",
+        "specialty_examination": "Neuro: AOx3, +R facial droop, dilated pupils but equal and reactive to light, EOMI, VF intact, other CNs intact, dysmetria on FTN on R, absent grip on R, otherwise intact."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "101.2 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "chest tension, nausea, SOB",
+        "history_of_present_illness": "Patient has a history of HTN, HLD, and anterior STEMI s/p DES to LAD presenting with one hour of chest pain and nausea. Patient was walking around at his son's hockey game when he began feeling 'tension' in his chest associated with nausea and mild shortness of breath. Chest pain built up gradually over about 30 min and slowly resolved over about 30 min; was essentially gone by arrival to the ED.",
+        "past_medical_history": "CAD s/p STEMI with PCI to LAD, Dyslipidemia, Hypertension.",
+        "family_history": "Reports several family members with clotting problems. Father died from 'clot from legs to heart.' Reports blood clots in one brother and sister as well.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Initial ED vitals: T 98.4, HR 110, BP 119/63, RR 18, 96% RA. Notable findings include hypertension 204/110 which resolved to 120s/70s. Vitals on transfer: T 97.8, BP 135/84, HR 70, RR 18, 97% RA.",
+        "specialty_examination": "Neurological: A/O x3 non-focal. Cardiovascular: RRR. Respiratory: CTA. Extremities: Right Upper extremity Warm Edema, Left Upper extremity Warm Edema, Right Lower extremity Warm Edema 1+, Left Lower extremity Warm Edema 1+."
+    }
+}

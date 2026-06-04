@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "69",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "acute weakness and clumsiness of the left hand, dysarthria and gait disturbance",
+        "history_of_present_illness": "One year preceding her death this 69-year-old woman developed acute weakness and clumsiness of the left hand, dysarthria and gait disturbance. These symptoms disappeared within a few hours except for a mild clumsiness. Later her daughter noted difficulties of her mother in orientation in her own flat, which had become untidy. She also noted short-term memory deficits and general slowing of her mother. At the time of clinical presentation, 1 month later, she had mild cognitive impairment, especially short-term memory deficits and gave incoherent answers. The neurological examination showed mild left facial paresis, latent paresis of the left hand, mild dysarthria, dysdiadochokinesia and mild gait ataxia. She had arterial hypertension. She had been seriously injured in a car accident a few years before clinical admission.",
+        "past_medical_history": "arterial hypertension, seriously injured in a car accident a few years before clinical admission",
+        "family_history": "Her mother had died at the age of 90 years. She had a urinary bladder carcinoma; no dementia was reported. Her father had died at the age of 45 years of bronchial hemorrhage. Her younger sister (67 years) has been suffering from a psychiatric disorder without dementia or neurological deficits for about 5 years. Her brother (62 years) is healthy. She has two healthy daughters aged 41 and 38.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "mild left facial paresis, latent paresis of the left hand, mild dysarthria, dysdiadochokinesia and mild gait ataxia",
+        "specialty_examination": "The cerebral MRT showed vascular lacunar lesions of the right basal ganglia, the genu of the internal capsule and periventricular white matter. The EEG initially showed diffuse slowing and progressed to triphasic and tetraphasic sharp-wave discharges as the disease progressed. The CSF showed a mild blood-CSF barrier disturbance, elevated neuron-specific enolase (74 ng/ml) and 14-3-3 proteins were detectable."
+    }
+}

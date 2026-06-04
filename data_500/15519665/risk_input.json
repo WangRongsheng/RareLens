@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "18 days",
+        "gender": "Female",
+        "weight": "2500 g",
+        "height": "48.5 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "hepatomegaly, abnormal coagulation, jaundice, and lethargy",
+        "history_of_present_illness": "The patient presented with hepatomegaly, abnormal coagulation, jaundice, and lethargy. Her condition progressively worsened and despite intensive management she died on day 31 of life of sepsis with diffuse, uncontrolled, cutaneous and mucosal bleeding, and multi-organ failure.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Post mortem evaluation revealed significant iron deposits in the pancreas, thyroid, heart, and in the liver, which presented extensive loss of parenchyma, and giant cell transformation, while residual hepatocytes showed iron overload. Reticuloendothelium was spared.",
+        "specialty_examination": "Not specified"
+    }
+}

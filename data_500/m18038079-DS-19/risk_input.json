@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "47.8 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "progressive dyspnea",
+        "history_of_present_illness": "Ms ___ is an ___ yo F with previously reported severe AS ___ 0.7) and pulmonary fibrosis (presumed IPF) on home 02 (6L at baseline) who presents for further evaluation after left-heart cath for TAVR evaluation showed only mild aortic stenosis. Over past 8 months, has had an increase in dyspnea and oxygen requirement (from stable 3L requirement for ___ years to ___ baseline).",
+        "past_medical_history": "HTN, hypothyroidism, HLD, GERD, pulmonary fibrosis/ILD diagnosed in ___ on ___ home O2, not on prednisone currently.",
+        "family_history": "Mother: ___ cancer, heart disease; Father: Heart disease; Brother with cancer; Sister with lung disease (heavy smoker); all 6 siblings have passed away.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: T 97.6, BP 108/73, HR 88, RR 16. Thin elderly female in NAD. Oriented x3. Mood, affect appropriate.",
+        "specialty_examination": "Cardiac: RR, normal S1, S2. No murmurs/rubs/gallops. Lungs: Coarse dry crackles throughout lungs, although less in left upper lung fields. Unlabored breathing on 3L NC."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "14",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "145 cm",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Enamel of her teeth was worm-eaten in appearance",
+        "history_of_present_illness": "Severe polyhydramnios detected antenatally, poor feeding and failure to thrive at 2 months, diagnosed with impaired renal concentration at 1 year old, hypokalaemia and hypercalciuria at 18 months, diagnosed with amelogenesis imperfecta (AI) and bilateral nephrocalcinosis at 12 years old",
+        "past_medical_history": "Impaired renal concentration, hypokalaemia, hypercalciuria, amelogenesis imperfecta (AI), bilateral nephrocalcinosis",
+        "family_history": "Parents are first cousins, no siblings, no family history of diabetes mellitus or hearing loss",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Height 145 cm (-1.0SD), normal appearance and intelligence, normal secondary sex characteristics, normal blood pressure",
+        "specialty_examination": "Extremely thin enamel, rough and extensively cracked surface of permanent teeth, bilateral nephrocalcinosis identified by ultrasonography"
+    }
+}

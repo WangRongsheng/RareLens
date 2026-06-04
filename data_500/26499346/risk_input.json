@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "6 months",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Pathologically increasing head circumference and symptoms of increased intracranial pressure, in combination with marked developmental delay and loss of abilities",
+        "history_of_present_illness": "At 1 month of age, she underwent an echocardiogram revealing a persistent foramen ovale but no cardiac insufficiency and also had two suspected left partial epileptic seizures. At 2 months, developmental delay was noted with lack of eye contact, no smiles, and feeding difficulties, and at 3.5 months, an increase in head circumference was noted. At 6 months of age, she had opisthotonus-like attacks with an increasing frequency. She also kept her head extended when placed in bed, all signs corresponding to symptoms of increased intracranial pressure.",
+        "past_medical_history": "Persistent foramen ovale, suspected left partial epileptic seizures, developmental delay, feeding difficulties",
+        "family_history": "Mother with similar cutaneous capillary haemangiomas and RASA1 mutation",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Radiological evaluation with transfonatanellar ultrasound and MRI revealed a vein of Galen malformation with hydrocephalus, and tonsillar prolapse. Angiographic examination revealed a mural type of vein of Galen malformation with its main supply from the postero-lateral and postero-medial choroidal arteries. There was a pronounced hypoplasia of the superior sagittal sinus compensated by enlarged cortical veins draining mainly into the cavernous sinus. Persisting occipital and marginal sinuses were noted and there was a high-grade stenosis of the right jugular bulb."
+    }
+}

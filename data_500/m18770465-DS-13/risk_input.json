@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Deconditioning/Asterixis",
+        "history_of_present_illness": "Male with history of ESRD due to glomerulosclerosis and HIVAN and s/p humoral rejection of kidney transplant now on home peritoneal dialysis, HIV on HAART with a CD4 count in the 300 range and a viral load undetectable. Presenting to the emergency department after fall at home last night. Patient states he got up to use bathroom, felt light headed and unsteady on his feet. He fell and struck his left knee and had foot cramping. He has not been having any new pain, however complains of left cramping in foot. In the ED wife reported increased frequency of repeating himself in the past two weeks. Patient lost at least 60 pounds. Unable to complete dialysis last night due to ambulance arrival.",
+        "past_medical_history": "1. Diabetes mellitus, insulin controlled. 2. Diarrhea; prior C. diff infection. 3. Strongyloides infection. 4. Herpes simplex virus 2. 5. HIV infection. 6. Peripheral neuropathy. 7. History of pericardial effusion. 8. Chronic cough. 9. HIVAN. 10. FSGS. 11. Deceased donor kidney transplant with acute on chronic humoral rejection treated with pulse dose steroids, rituximab and apheresis.",
+        "family_history": "Mother died at age of ___ from CVA; also had CAD and hypertension. Father died at age of ___ from respiratory failure and had prostate cancer. One brother had a CVA, one sister has HIV infection, and five siblings lost to motor vehicle accidents, lung cancer and MIs.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Initial vital signs were: Temp 98.9, BP 124/88, HR 81, RR 16, O2 Sat 99%. Exam notable for thin male, appears malnourished. On transfer, Vitals were: Temp 98.2, BP 170/89, HR 80, RR 18, O2 Sat 99%. Ill appearing, comfortable, thin with evidence of muscle wasting. Left foot swollen and tender to palpation.",
+        "specialty_examination": "Neurological: AOx3, word finding difficulty, jerking movements of upper extremities, unable to do finger to nose test; sensation intact. Motor strength decreased in left lower extremity due to pain."
+    }
+}

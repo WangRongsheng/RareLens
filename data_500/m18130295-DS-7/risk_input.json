@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "continuous cough since discharged home with epigastric and back pain with deep breath",
+        "history_of_present_illness": "Patient is a female with a history of Marfan Syndrome who is s/p repair of type A dissection with aortic arch replacement. She presented with shortness of breath, and was found to have large left effusion and pericardial effusion. After treatment, she was re-admitted with cough, epigastric and back pain, increasing SOB and weakness.",
+        "past_medical_history": "Aortic aneurysm, Aortic dissection, Marfan's syndrome, Bilateral retinal detachments. Surgical history includes bilateral eye surgery for retinal detachments and C-section.",
+        "family_history": "No known thrombophilic or bleeding disorders.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "General: Weight changes. Respiratory: Cough constant since discharge and worse with lying supine. GI: Nausea past 24 hours with coughing."
+    }
+}

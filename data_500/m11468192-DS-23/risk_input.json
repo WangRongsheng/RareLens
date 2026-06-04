@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "right toe pain",
+        "history_of_present_illness": "Patient presented to primary care clinic for follow-up after being seen for right toe pain, hospitalized several weeks ago for right toe infection. Underwent I&D, and antibiotic treatment for about two weeks. Discharged from rehab with a 2-week Bactrim course, which he completed. In clinic today, patient endorses right toe pain, referred to the ED for further evaluation. ED visit had initial vitals: 97.7, HR: 74, BP: 117/66, RR: 18, O2: 97% RA. Labs notable for: Creatinine 1.4, bicarb 18, phos 5.2, CRP 23.7, WBC 12.9. Imaging showed no osteomyelitis. Currently endorses continued right toe pain but states symptoms are better than over the past several weeks, no fevers or chills since the original infection, no open wound or purulent drainage.",
+        "past_medical_history": "- Diabetes type 2, uncontrolled, complicated by neuropathy and nephropathy. - Hyperlipidemia. - Sarcoidosis - unclear diagnosis. - Hypogonadism. - Depression. - Mood disorder with psychotic features/schizophrenia. - Migraines. - Chronic chest pain. - Multiple skin abscesses. - Asthma. - Allergic rhinitis. - Sickle cell trait. - GERD. - Diabetes insipidus.",
+        "family_history": "None per patient.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals on admission: 98.7, BP: 141/78, HR: 101, RR: 19, O2: 100% on RA. Patient was alert, appeared comfortable, no acute distress. General examination showed 2+ peripheral pulses, R toe with mild soft tissue edema, no erythema or warmth, no ulceration or purulence.",
+        "specialty_examination": "Neurological: Cranial nerves II-XII intact, grossly normal strength and sensation. Cardiovascular: Regular rate and rhythm, normal S1 and S2, no murmurs, gallops, or rubs."
+    }
+}

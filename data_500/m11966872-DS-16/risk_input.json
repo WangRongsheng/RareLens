@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "ACOMM Aneurysm",
+        "history_of_present_illness": "The patient is a ___ y/o female transferred with a probable ACOMM aneurysm for further evaluation and possible intervention. She is s/p suboccipital craniectomy in ___ at ___, which was followed by a long hospital course, including placement of a trach and PEG. She was discharged to a rehabilitation facility, where drainage from her suboccipital incision was noted, leading to readmission. During this admission, she underwent placement of a VP shunt. A probable ACOMM aneurysm was noted, and a direct transfer to Neurosurgery was scheduled.",
+        "past_medical_history": "History of recent IVH, cerebellar hemorrhage s/p suboccipital craniectomy, placement of VPS on the right, Type II DM, obesity, asthma, hypertension.",
+        "family_history": "Denies family history of aneurysms.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "On admission: T: 98.7, BP: 150/74, HR: 78, RR: 20, O2Sats 96% RA. General: Lying in bed, no acute distress. Neuro: Mental status awake, alert, cooperative, oriented to person only by mouthing words.",
+        "specialty_examination": "Neurological: Right ptosis, lower right facial droop, strength full power throughout biceps, triceps, grip strength, deltoid strength 4+/5 on the right. Cranial nerves were examined; hearing intact to voice. No drainage from incisions but slight erythema noted."
+    }
+}

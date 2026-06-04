@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "96.1 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "back pain",
+        "history_of_present_illness": "Mr. ___ is a gentleman with chronic low back pain s/p L5-S1 discectomy in ___ who presented to the ED with back pain after falling down ___ steps on the day of admission. He reports increased problems with his chronic back pain since ___, when he was hospitalized at ___ and discharged to ___ in ___. He stayed at ___ ___ until ___, when he was discharged home with one week of pain medications. He came into the ED for care after tripping on a step and falling down ___ steps, worsening his back pain.",
+        "past_medical_history": "*Chronic low back pain s/p L5-S1 discectomy and left hemilaminectomy at ___ in ___ *Prior narcotic contracts at ___, which have been discontinued after being broken twice *Frequent no-shows to appointments; last appt with PCP was ___, and she wanted to see him again in 2 weeks but no appointment in system, then DNKd to two visits with Dr. ___ at ___. *Depression",
+        "family_history": "Mother with ___. Father with alcoholic cardiomyopathy.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: 98.5 113/60 76 18 98% RA. Sleepy, yawning frequently and sometimes slurring words, in NAD, lying on his right side and shows pain when he moves in bed.",
+        "specialty_examination": "NEURO: A&Ox3, appropriate. CN ___ grossly intact. Decreased sensation to light touch from hip down length of left leg. ___ strength in UE b/l. Tenderness to palpation along his ___ from his lower thoracic to his upper sacral ___. Pain in his left buttocks with log-rolling and straight leg raise. Able to lift left leg in air against gravity but does not keep up against resistance."
+    }
+}

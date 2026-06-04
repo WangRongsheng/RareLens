@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "82",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "slowly-progressive gait impairment and postural instability",
+        "history_of_present_illness": "two-year history of a slowly-progressive gait impairment and postural instability, which caused frequent falls",
+        "past_medical_history": "unremarkable, without endocrine disturbances, such as primary ovarian insufficiency syndrome or hypothyroidism",
+        "family_history": "Her 60-year-old son had similar symptoms since age 54 and the brain MRI revealed bilateral MCP sign and hyperintensity in the corpus callosum. Her son's FMR1 gene analysis revealed a premutation (100 CGG repeats), confirming the diagnosis of FXTAS. Patient's nephews had the classic presentation of fragile-X mental retardation syndrome.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Patient was unable to perform a tandem gait and had axial rigidity and prominent postural instability in neurologic examination. There were no other movement disorders, cognitive or psychiatric symptoms, and there was no supranuclear gaze palsy."
+    }
+}

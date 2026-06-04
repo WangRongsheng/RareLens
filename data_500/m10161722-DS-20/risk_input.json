@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "169.3 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Black",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "leg pain",
+        "history_of_present_illness": "Mr. ___ is a ___ year old gentleman with a history of idiopathic polyneuropathy, ETOH abuse, chronic bilateral edema and xerosis on furosemide who presented with pain and swelling in the right lower extremity. Patient has had 9 days of redness, clear/yellow drainage and tenderness in the back of the right calf. He has noted shortness of breath with walking, can walk approximately 10 feet. He presented to the ED for further evaluation and treatment.",
+        "past_medical_history": "Acute renal failure, breast enlargement, chest pain, cough on ACE, headaches, hypertension, left ear flaking, alcohol abuse, chronic lower extremity edema of unclear etiology, likely venous stasis, lower extremity xerosis vs. stasis dermatitis, idiopathic polyneuropathy, hypothyroidism.",
+        "family_history": "Notable for hypertension in a sibling, no CAD, no diabetes, no cancer.",
+        "social_history": "ETOH abuse."
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T 98.8, HR 88, BP 151/69, RR 18, O2 sat 100% on RA. Weight: 369 lbs. Patient is an obese black male lying in bed speaking in full sentences, very comfortable appearing. Notable findings include bilateral lower extremities with massive pitting edema to knee and overlying chronic venous stasis changes.",
+        "specialty_examination": "Neurological: A&O x3, CNII-XII grossly intact, difficulty moving bilateral lower extremities secondary to weight of legs. Cardiovascular: RRR, S1, S2 with II/VI systolic murmur. Skin: Right lower extremity with an open superficial wound on lateral surface with granulation tissue, foul smelling."
+    }
+}

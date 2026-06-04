@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "86.3 kg",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Dyspnea, fatigue",
+        "history_of_present_illness": "___ year old female with history of CHF (EF ___ in ___, s/p ICD placement, MVR (bioprosthetic ___, CAD s/p CABG (___), DVT on Coumadin. She has been feeling progressively more weak for the last ___ months, which has worsened more acutely in the last 2 weeks. Treated with Lasix 80 mg IV and torsemide dosing increased to 60mg BID with minimal change in symptoms. She keeps daily weights at home, weighing 200-203 pounds for the month of ___. Sleeps completely upright as she cannot tolerate lying flat. Endorses dyspnea with minimal exertion, none at rest. Notable bilateral lower leg edema increasing over the past few weeks.",
+        "past_medical_history": "1. Nonischemic cardiomyopathy (LV systolic function decreased from 45-50% to 35-40% in ___, LVEF of 20%). 2. Hypertension. 3. Hypothyroidism. 4. Hyperlipidemia. 5. DVT in ___ of RLE on chronic AC. 6. Chronic bronchitis. 7. GERD. 8. Hiatal hernia. 9. Pericardial effusion drained in ___ during pneumonia admission. 10. Rheumatoid arthritis.",
+        "family_history": "Aunt died in her ___ of heart disease. Mother died from cancer. Father's cause of death unknown.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital Signs: T 97.5, HR 102, BP 94/62, RR 18, 98% on room air. Awake, alert, in no distress. Sitting upright in bed. JVP is at the level of her jaw. 1+ edema in both LEs extending into the hips.",
+        "specialty_examination": "Neurological: AAOx3, CN II-XII intact. No focal deficits. Cardiovascular: Regular rhythm, soft systolic murmur, distant heart sounds. Respiratory: Some decreased breath sounds at the bases, minimal."
+    }
+}

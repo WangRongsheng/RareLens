@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Man with a history of HTN, GERD, Hep C and alcoholic cirrhosis found to have HCC on a liver biopsy who presents with a four day history of abdominal pain and shortness of breath. His abdominal pain is located in his RUQ, sharp, does not radiate, and is intermittent, waxing and waning throughout the day. This past week he has felt feverish with worsening abdominal distention and shortness of breath. Some nausea, though he says this is chronic and related to his GERD. He endorses early satiety over the past few days and a history of memory difficulties and neuropathic lower extremity pain. Denies vomiting, chills, diarrhea, headaches or chest pain. In the ED he had pain, T 98.4 HR 95 BP 169/98 97%RA. He had a mild transaminitis, trops negative x2. An ultrasound of his liver showed a partially occlusive thrombus in the main portal vein, other portal veins patent. CT abdomen/pelvis showed a liver mass previously biopsied to be HCC extending into the hilum. Of note, patient reports a rash that started seconds after receiving IV contrast in CT that spread up his posterior side with severe itching. He was treated with IV Benadryl and the rash and itching subsided. He has had IV contrast in the past with no similar reaction. In the ED he was treated with famotidine, IV magnesium and morphine. He was admitted to the medicine service for pain control. This morning his pain is well controlled on oxycodone. He has no complaints, though expresses concern and worry about his HCC diagnosis and prognosis.",
+        "past_medical_history": "HTN, GERD s/p Enteryx procedure, Hepatitis: completed PEG-IF and Ribavirin with undetectable viral loads since, Alcoholism with multiple ED visits for abuse and withdrawal seizures, Lower extremity neuropathy and gait impairment, Borderline DM A1C 6.7%, Depression/anxiety, Panic disorder with agoraphobia. Surgical history includes R carpal tunnel release, R knee medial meniscus surgery, inguinal hernia repair, cholecystectomy.",
+        "family_history": "Daughter deceased from ovarian cancer. Mother's family: history of MI/stroke. Father's history: panic disorder and agoraphobia.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital Signs: T 98.1 HR 80 BP 130-150/70s-90s RR 18 96%RA. Slightly disheveled man sitting uncomfortably in bed, no acute distress.",
+        "specialty_examination": "Neurological: Oriented, appropriate judgement and abstraction, word recall at 3 min. Cardiovascular: Regular rate and rhythm, soft S1 + S2, no murmurs, rubs, gallops appreciated. Abdomen: CCY scar in RUQ, distended, soft, bowel sounds present, liver margin 4 inches below rib margin, no ascites appreciated."
+    }
+}

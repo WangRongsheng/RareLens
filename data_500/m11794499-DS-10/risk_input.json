@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Facial swelling and pain",
+        "history_of_present_illness": "Mr. ___ is a ___ yo male with no past medical history who presents with left-sided facial swelling and pain for the last three days. Patient states that he had a pimple on his tragus that he popped last Tuesday, later developing erythema and edema. Patient had an incision and drainage (I&D) at urgent care on ___. He was given IV ceftriaxone and discharged on Bactrim. However, his symptoms did not improve, and so he presented to the ED yesterday for further evaluation. In the ED, the patient had the left preauricular area explored by ENT. A small pocket was present with only a small amount of pus that was able to be expressed. No facial nerve or pharyngeal involvement. A CT of the neck showed no abscess or spread to the deep tissue spaces of the neck. He was also given IV Vancomycin x2, a dose of levofloxacin and pain control with oxycodone. Patient was admitted to medicine for observation and IV antibiotics. On the floor, patient says that his pain is much improved on the oxycodone.",
+        "past_medical_history": "GERD, Irritable bowel syndrome, Lactose intolerance",
+        "family_history": "Non-contributory.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: T: 97.7 BP: 129/69 HR: 74 RR: 18 O2 sat: 98% RA. GENERAL: NAD, awake and alert. HEENT: Edema and erythema with a small amount of pus draining from the pre-auricular region. NECK: nontender and supple, no LAD, no JVD. BACK: no spinal process tenderness, no CVA tenderness. CARDIAC: RRR, nl S1 S2, no MRG. LUNG: CTAB, no rales, wheezes or rhonchi, no accessory muscle use. ABDOMEN: +BS, soft, non-tender, non-distended, no rebound or guarding, no HSM. EXT: warm and well-perfused, no cyanosis, clubbing or edema. PULSES: 2+ DP pulses bilaterally. NEURO: CN II-XII tested and intact, strength ___ throughout, sensation grossly normal.",
+        "specialty_examination": "Physical exam on discharge notable change: HEENT: Significant decrease in edema and erythema in the pre-auricular region with a large amount of pus draining; wick in the ear canal."
+    }
+}

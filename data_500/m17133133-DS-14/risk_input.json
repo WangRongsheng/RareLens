@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "aggressive behavior/admission to inpatient hospice",
+        "history_of_present_illness": "Patient has a PMHx of HIV, dementia, progressive aphasia, MDD with psychotic features, prior suicide attempts, and was transferred from nursing home for behavioral dysregulation and aggression on a specific date. She was agitated, throwing things, and had a history of similar behavior during constipation. The patient had difficulty swallowing pills and not taking her medications regularly. Agitation was noted in the ED, where she was given IM zyprexa and manual disimpaction for constipation. At arrival on the floor, the patient was more calm but unable to express symptoms, though her daughter reported abdominal pain.",
+        "past_medical_history": "HIV, Frontotemporal dementia, Progressive aphasia, Essential hypertension, Anxiety, Panic disorder with agoraphobia, Major depressive disorder with severe psychotic features, cognitive impairment, chronic constipation, cervical radiculopathy.",
+        "family_history": "Mother with heart condition, daughter with hypertension and cervical dystonia, possible bipolar disorder, maternal aunt with alcohol abuse and depression, paternal grandmother with unknown psych condition.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Initial VS: T97.2 HR 73 BP 133/68 RR 16 O2 100%. Upon admission, the patient was comfortable appearing but non-verbal and muttering.",
+        "specialty_examination": "Neurological findings unspecified due to muttering. Cardiovascular: deferred examination. Gastrointestinal: deferred examination."
+    }
+}

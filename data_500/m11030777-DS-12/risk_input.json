@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "R arm pain",
+        "history_of_present_illness": "Patient with a history of dementia, HTN, and hypothyroidism presents as a transfer from an outside hospital for a right distal humerus fracture after tripping and falling while walking with a walker. She has abrasions to her head and her extremities. Initial evaluation showed her right humerus x-ray indicates an angulated, displaced distal humerus fracture. Negative findings on head and C-spine CTs, bilateral knee x-rays, CXR, and pelvis x-ray. At the time, she denies any pain, numbness, weakness, headache, neck pain, back pain, chest pain, shortness of breath, or abdominal pain. Not on any anticoagulation.",
+        "past_medical_history": "Dementia, HTN, hypothyroidism.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Well-appearing, breathing comfortably. General vitals not specified.",
+        "specialty_examination": "RUE in cast. Able to move wrist and fingers. SILT distally. WWP."
+    }
+}

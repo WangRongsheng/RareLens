@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Chest Pain",
+        "history_of_present_illness": "Mr. ___ is a ___ y/o Male with history of CAD s/p BMS-->LAD in ___, history of duodenal ulcer in ___. He presented to the hospital with left shoulder pain, found to have ECG changes suggestive of inferolateral ischemia, and positive cardiac biomarkers. Over last 7 days, he developed the shoulder pain and had difficulty sleeping the last 2 days, which was worse last night. He reported no exertional component, shortness of breath, or frank chest pain.",
+        "past_medical_history": "CAD s/p proximal LAD stent in ___. Moderate to severe mitral regurgitation, aortic insufficiency, peripheral vascular disease, stones, basal cell carcinoma of left ear, glaucoma.",
+        "family_history": "No gastric cancer, colon cancer, diabetes mellitus, or coronary artery disease.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Vital signs: Temp 97.8, BP 131/68, HR 62, RR 18, Sat 97% RA. General: Elderly thin male in no acute distress, oriented x3.",
+        "specialty_examination": "Neurological: Grossly appropriate, alert and oriented x3. Cardiovascular: PMI located in ___ intercostal space, midclavicular line, normal S1, S2, no rubs, murmurs at apex, no thrills or lifts. Respiratory: Chest clear to auscultation bilaterally, no crackles, wheezes, or rhonchi. Abdomen: Soft, non-tender, non-distended, no hepatosplenomegaly or tenderness. Extremities: No cyanosis, clubbing, or edema. Pulses: Carotid, femoral, popliteal, and dorsalis pedis 2+ bilaterally."
+    }
+}

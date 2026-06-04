@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "57",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Swedish",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Progressive ptosis and ophthalmoplegia",
+        "history_of_present_illness": "Muscular involvement commenced cranially and descended in relation to increasing disease duration. The neuromuscular signs were PEO, dysarthria, dysphonia, limb muscle weakness with wasting, absence of Achilles tendon reflexes, and distal vibration sensory loss.",
+        "past_medical_history": "Chronic conditions and prior diagnoses not specified. Surgical history includes bilateral ptosis operation.",
+        "family_history": "First-degree relatives' conditions not specified. Hereditary disease pattern: autosomal dominant progressive external ophthalmoplegia (adPEO) with hypogonadism.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Not specified",
+        "specialty_examination": "Neurological: Motor/sensory/cognitive deficits include PEO, dysarthria, dysphonia, limb muscle weakness with wasting, absence of Achilles tendon reflexes, and distal vibration sensory loss. Cardiovascular: Not specified. Other system-specific abnormal findings: Not specified."
+    }
+}

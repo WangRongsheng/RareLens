@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "R flank pain, SI",
+        "history_of_present_illness": "Patient was released from inpatient Psych hospital this morning to go to court for probation review. He saw Dr. ___ in ___ for hematuria today, prescribed abx, and will follow up with specialist in few weeks. He developed dysuria and hematuria last night, associated with left flank pain. No history of kidney stones. Patient is upset about hematuria and his chronic neck pain (undergoing ACDF). He states he will kill himself by overdosing on pills which he has done in the past when confronted with medical issues. In the ED, initial vitals: 97.8 84 154/98 18 99%. Labs notable for: WBC 10.1, H/H 9.8/32.6, BUN/Cr baseline 1.2-1.7, trop neg x2, UA neg, utox positive for benzos. Imaging: CT abdomen with mild wall thickening of the terminal ileum, CXR negative. Patient met Section 12a criteria on initial eval and plan to monitor overnight.",
+        "past_medical_history": "Hep C, cirrhosis, hypertension, hyperlipidemia, type 2 diabetes, pancreatitis, chronic back and neck and shoulder pain, hypothyroidism, GERD, multiple history of suicide attempts, depression, substance abuse, s/p bowel resection.",
+        "family_history": "Children with substance abuse; sister using heroin; siblings with bipolar disorder; no suicide attempts in family.",
+        "social_history": "Last alcohol use 1 week ago; lives in the ___."
+    },
+    "physical_examination": {
+        "general_examination": "Vitals: 97.5, 148/98, 67, 18, 97% RA. General: Comfortable appearing male, looks well, in NAD. Abdomen: Soft, midline scar, mild RUQ and RLQ tenderness, normoactive bowel sounds.",
+        "specialty_examination": "Neurological: Not specified. Cardiovascular: RRR, no murmurs. Lungs: CTAB, breathing comfortably. Skin: Discrete crusted papules consistent with bug bites on arms and legs bilaterally."
+    }
+}

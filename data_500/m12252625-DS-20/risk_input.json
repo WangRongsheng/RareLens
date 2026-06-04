@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Female",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Left subtrochanteric femur fracture",
+        "history_of_present_illness": "The patient is an ___ year old female presenting to the emergency room after a mechanical fall. The patient states that she stood up from the couch and fell. The patient was admitted to the orthopedics/trauma service and was brought to the OR the following morning following a full medical evaluation.",
+        "past_medical_history": "dementia - mild, htn, osteoporosis, hyperlipidemia",
+        "family_history": "The patient's mother died at age ___ of 'old age'. Her father died at age ___ and suffered from diabetes and coronary artery disease. Her brother is alive at age ___ and is relatively healthy.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Tc: 97, HR: 91, BP: 139/85, RR: 16, O2Sat: 97% on RA. Gen: comfortable. Ext: Left leg shorter than right; palpable pulses distally; no focal weakness.",
+        "specialty_examination": "Neurological: Not specified. Cardiovascular: RRR. Abd: soft, NT, ND, +Bs."
+    }
+}

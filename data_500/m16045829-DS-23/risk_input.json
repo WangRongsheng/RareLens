@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "right shoulder pain, NSTEMI",
+        "history_of_present_illness": "Mr. ___ is a ___ year old male, presenting today with right shoulder pain. Patient reports that he was in his usual state of health, and had a sudden onset of right shoulder pain while trying to clean himself. He initially thought he had strained his right shoulder. Denies chest pains, palpitations, shortness of breath. Over the past 5 days, he has had improvement in his right shoulder, but acute worsening over the past two days, leading to further evaluation. Initial evaluation showed negative ST changes, elevated troponin to 0.42, and elevated creatinine to 1.9, thought to have NSTEMI.",
+        "past_medical_history": "Cardiac risk factors: hypertension, dyslipidemia, diabetes. Cardiac history: cardiac arrest after meniscus surgery requiring 3 defibrillations, dilated cardiomyopathy (LVEF 29%), LBBB with Class II-III heart failure, COPD, paroxysmal AF on Coumadin, diabetes Type 2. Surgical history includes right ankle fracture surgery causing nerve damage, left hamstring surgery, and multiple surgeries related to meniscus repair and cardiac interventions. Recent short term memory loss.",
+        "family_history": "Father had MI at age ___, mother passed away at age ___ from unknown cancer.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "VS: T 98.6, BP 146/59, HR 75, RR 18, O2 Sat 98% RA. Alert and oriented x 3, no acute distress. Obese gentleman.",
+        "specialty_examination": "HEENT: Sclera anicteric, pupils equal, round, reactive to light, extraocular movements intact. Cardiac: regular rate and rhythm, S1, S2, no extra sounds. Lungs: expiratory wheezes faintly heard at bases. Extremities: marked discoloration of extremities, dry skin on feet bilaterally, onychomycosis, palpable pulses, varicosities across feet."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "hematuria; urinary clot retention",
+        "history_of_present_illness": "The patient is a male who presented with worsening hematuria. Admitted for treatment, Foley catheter placed, CBI started. Hematocrit levels dropped from 39.2 to 33.8 to 31. Urinalysis showed nitrite positive.",
+        "past_medical_history": "Gout, Hypertension.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "WDWN, NAD, AVSS. Abdomen soft, non-distended, Foley in place, secured to medial thigh. Bilateral lower extremities without edema, pitting or pain to deep palpation of calves.",
+        "specialty_examination": "Not specified"
+    }
+}

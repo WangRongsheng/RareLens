@@ -1,0 +1,22 @@
+{
+    "basic_information": {
+        "age": "Not specified",
+        "gender": "Male",
+        "weight": "Not specified",
+        "height": "Not specified",
+        "BMI": "Not specified",
+        "ethnicity": "Not specified",
+        "occupation": "Not specified"
+    },
+    "medical_history": {
+        "chief_complaint": "Metastatic Renal CA, cycle 2, week 1 of HD Il-2.",
+        "history_of_present_illness": "Mr. ___ was admitted for cycle 1 week 1 of High Dose IL-2 with response from cycle 1 of therapy. His history began when he was found to have three masses in his pancreas almost replacing his body of the pancreas in ___. He had MRI of abdomen on ___ revealing at least five masses in the body of the pancreas measuring 0.8 mm to 2.6 cm. Also, he has a left subcutaneous lower back mass measuring 2.2 x 3 cm. On ___, he underwent biopsy of left shoulder soft tissue mass and left flank soft tissue mass revealing metastatic renal cell carcinoma. He received cycle 1 of therapy in ___ with dramatic decrease in soft tissue masses and other systemic lesions. He is ready to begin cycle 2 of therapy after undergoing head CT, torso CT for restaging.",
+        "past_medical_history": "CAD ___, 99% stenosis of right coronary artery and he was stented at that time. Renal cell carcinoma resected ___ BPH.",
+        "family_history": "Significant for sister with renal cell carcinoma diagnosed one year ago, clear cell, grade ___. Father has horseshoe kidneys, but without malignancy and had MI at the age of ___. Mother alive and well. Otherwise, no cancer in the family.",
+        "social_history": "Not specified"
+    },
+    "physical_examination": {
+        "general_examination": "Well-appearing gentleman, not in acute distress, accompanied by wife. ECOG 0: Clear oropharynx without oral mucosal lesions. Atraumatic, anicteric. Neck: Supple without JV or thyromegaly or masses. Chest: Clear to auscultation and percussion bilaterally, without wheezes or rhonchi. Heart: Regular rate and rhythm, S1, S2 present and were intense, without murmurs, rubs or gallops. Abdomen: Soft, nontender. Bowel sounds are present in all four quadrants, without hepatosplenomegaly or masses. Lymph Nodes: There is no palpable cervical, supraclavicular, axillary or inguinal lymphadenopathy bilaterally. Skin: difficult to appreciate soft tissue nodules.",
+        "specialty_examination": "Neurological: There is no focal deficit on brief CNS exam. Alert and oriented x3 and fluent in language."
+    }
+}

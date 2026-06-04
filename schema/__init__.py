@@ -39,7 +39,6 @@ from .shared import (
     PhysicalExamination,
     TreatmentHistory,
 )
-from .trace import ReasoningTrace, TraceEvidence, TraceItem
 from .treatment import (
     PerModelTreatmentOutput,
     RareTreatmentBlock,
@@ -113,9 +112,6 @@ __all__ = [
     "validate_prognosis_prediction_output",
     "PatientCase",
     "PipelineCase",
-    "TraceEvidence",
-    "TraceItem",
-    "ReasoningTrace",
     "RawLlmTurn",
     "ParsedLlmJson",
     "RiskLlmPayload",

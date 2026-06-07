@@ -1,43 +1,23 @@
-# Diagnosis Ranking - Reproduction Pipeline
+# RareDiagnosis — Diagnosis Ranking Module
 
-This directory contains scripts to reproduce the diagnosis ranking experiments. The pipeline covers primary consultation and follow-up visit diagnosis, using LLM outputs + XGBoost reranking.
+## Overview
 
-## Pipeline Overview
+We provide the training and evaluation pipeline for rare disease diagnosis ranking, supporting both primary consultation and follow-up visit stages. For methodological details, please refer to the paper.
 
-```
-Step 0: RAG Cache (optional)  ->  orphacode_rag_cache/ (FAISS vector index)
-Step 1: LLM Generation        ->  primary_consultation_output.json + most_likely_diagnosis_orphacode.json
-Step 2: Feature Engineering    ->  features.{train,test}.csv (per visit type)
-Step 3: XGBoost Training       ->  GroupKFold CV ranker (rank:ndcg)
-Step 4: Evaluation             ->  Acc@1/3/5, MRR, NDCG@1/3/5
-```
-
-## Directory Structure
+## Pipeline
 
 ```
-rare_diagnosis/training/
-├── reproduce_diag.sh                      # One-click reproduction (Steps 2-4)
-├── generate_llm_outputs.py                # Step 1: Batch LLM diagnosis generation
-├── orphacode_rag.py                       # OrphaCode RAG enrichment module
-├── build_features_primary.py              # Step 2: Feature engineering (primary)
-├── build_features_followup.py             # Step 2: Feature engineering (followup)
-├── train_ranker.py                        # Step 3: XGBoost ranker training
-├── infer_ranker.py                        # Standalone inference with trained models
-├── best_hyperopt_config_primary.json      # Hyperparameters (primary stage)
-├── best_hyperopt_config_followup.json     # Hyperparameters (followup stage)
-├── orphanet_hierarchy.json                # Disease ontology with parent relationships
-├── eval/
-│   ├── metrics.py                         # Shared metric functions (DCG, NDCG, MRR)
-│   ├── eval_llm.py                        # Step 4a: Per-model LLM evaluation
-│   ├── eval_ml.py                         # Step 4b: ML ranking evaluation
-│   └── eval_secondary_metrics.py          # Step 4c: Convergence & rescue analysis
-└── README.md
+Step 0: RAG Cache (optional)   →  FAISS vector index for OrphaCode resolution
+Step 1: LLM Generation         →  per-model diagnosis outputs + OrphaCode mapping
+Step 2: Feature Engineering     →  features.{train,test}.csv (56+ features per candidate)
+Step 3: XGBoost Training        →  GroupKFold CV ranker (rank:ndcg)
+Step 4: Evaluation              →  Acc@1/3/5, MRR, NDCG@1/3/5
 ```
 
 ## Quick Start
 
 ```bash
-# Full pipeline (primary stage)
+# Full pipeline (primary stage): build features → train → eval ML → eval LLM
 bash rare_diagnosis/training/reproduce_diag.sh \
     --python /path/to/python \
     --visit-type primary \
@@ -45,8 +25,7 @@ bash rare_diagnosis/training/reproduce_diag.sh \
     --gt-root /data/scores \
     --models-root /data/llm_outputs \
     --train-ids /data/splits/train.json \
-    --test-ids /data/splits/test.json \
-    --out-dir /data/output
+    --test-ids /data/splits/test.json
 
 # Follow-up stage
 bash rare_diagnosis/training/reproduce_diag.sh \
@@ -55,38 +34,14 @@ bash rare_diagnosis/training/reproduce_diag.sh \
     --gt-root /data/scores \
     --models-root /data/llm_outputs \
     --train-ids /data/splits/train.json \
-    --test-ids /data/splits/test.json \
-    --out-dir /data/output
+    --test-ids /data/splits/test.json
 ```
 
-## Expected Data Layout
+## Step-by-Step Usage
 
-```
-query_root/
-  {case_id}/primary_consultation.json       # Patient data (basic_information, medical_history, ...)
+### Step 1: LLM Generation
 
-models_root/                                # LLM diagnosis outputs
-  {model_name}/
-    {case_id}/most_likely_diagnosis_orphacode.json
-
-gt_root/                                    # Ground-truth evaluation scores
-  {case_id}/primary_diagnosis_score.json    # Direct path, OR:
-  {model_name}/{case_id}/primary_diagnosis_score.json  # Per-model sub-dirs (auto-detected)
-
-splits/
-  train.json                                # JSON list of train case IDs
-  test.json                                 # JSON list of test case IDs
-```
-
-## Step 0: RAG Cache (Optional, Pre-built)
-
-The OrphaCode RAG cache (`rare_diagnosis/orphacode_rag_cache/`) maps diagnosis names to Orphanet codes:
-- 15,772 disease entries from Orphanet
-- FAISS vector index with BAAI/bge-base-en-v1.5 embeddings (768-dim)
-
-To rebuild: `python rare_diagnosis/tools/build_orphacode_rag_cache.py`
-
-## Step 1: Generate LLM Outputs
+[`generate_llm_outputs.py`](generate_llm_outputs.py) queries LLMs to produce top-5 diagnoses per case. Each diagnosis is optionally enriched with an OrphaCode via semantic retrieval ([`orphacode_rag.py`](orphacode_rag.py)).
 
 ```bash
 # Direct API mode
@@ -100,14 +55,6 @@ python -m rare_diagnosis.training.generate_llm_outputs \
     --out-dir /data/llm_outputs \
     --workers 8
 
-# Config file mode (multiple endpoints)
-python -m rare_diagnosis.training.generate_llm_outputs \
-    --input-root /data/query \
-    --case-ids /data/splits/train.json \
-    --config llm_config.json \
-    --visit-type primary \
-    --out-dir /data/llm_outputs
-
 # With OrphaCode RAG enrichment
 python -m rare_diagnosis.training.generate_llm_outputs \
     ... \
@@ -115,30 +62,9 @@ python -m rare_diagnosis.training.generate_llm_outputs \
     --rag-ontology-path rare_diagnosis/orphacode_rag_cache/orphanet_rare_diseases.json
 ```
 
-**Elite models and weights (used in feature engineering):**
+### Step 2: Feature Engineering
 
-| Model | Weight | Role |
-|-------|--------|------|
-| gpt-5 | 10.0 | King |
-| o3-mini | 8.0 | King |
-| gpt-3.5-turbo | 6.0 | Knight |
-| gemini-2.5-flash-preview-05-20-nothinking | 6.0 | Knight |
-| deepseek-r1-0528 | 5.5 | Knight |
-| qwen3-235b-a22b-instruct-2507 | 4.5 | Knight |
-| claude-haiku-4-5-20251001 | 3.0 | Knight |
-| qwen3-8b | 1.0 | Pawn |
-| qwen3-14b | 1.0 | Pawn |
-| qwen3-32b | 1.0 | Pawn |
-| gpt-4o-mini | 1.0 | Pawn |
-
-## Step 2: Build Features
-
-56 features per diagnosis candidate, grouped into:
-- **Consensus:** weighted_score, agreement_ratio, kings_consensus, appear_count_elite
-- **Semantic:** SentenceTransformer cosine similarity (name, reasoning)
-- **Ontology:** depth, is_leaf, ancestor_match, num_parents
-- **Per-model:** rank, conf, hit, z_conf, r_sim (per elite model)
-- **Text:** input_word_len, negation_count, certainty_score, reasoning_len
+[`build_features_primary.py`](build_features_primary.py) and [`build_features_followup.py`](build_features_followup.py) construct ranking features per candidate from multi-model outputs.
 
 ```bash
 # Primary stage
@@ -150,7 +76,7 @@ python -m rare_diagnosis.training.build_features_primary \
     --test_ids /data/splits/test.json \
     --out_dir /data/features/primary
 
-# Follow-up stage
+# Follow-up stage (includes diagnostic test results)
 python -m rare_diagnosis.training.build_features_followup \
     --query_root /data/query \
     --primary_models_root /data/llm_outputs \
@@ -160,9 +86,9 @@ python -m rare_diagnosis.training.build_features_followup \
     --out_dir /data/features/followup
 ```
 
-Output: `features.{train,test}.csv` + `groups.{train,test}.csv`
+### Step 3: XGBoost Training
 
-## Step 3: Train XGBoost Ranker
+[`train_ranker.py`](train_ranker.py) trains an XGBoost LTR model with GroupKFold (5-fold) cross-validation. Monotonicity constraints are auto-inferred from feature names.
 
 ```bash
 python -m rare_diagnosis.training.train_ranker \
@@ -172,13 +98,7 @@ python -m rare_diagnosis.training.train_ranker \
     --use-gpu
 ```
 
-- Objective: `rank:ndcg` with GroupKFold (5-fold)
-- Monotonicity constraints auto-inferred from feature names
-- Stage-specific hyperparameters (`best_hyperopt_config_{primary,followup}.json`)
-
-Output: `models/xgboost_fold_*.json`, `test_predictions_ranked.{json,csv}`, `feature_importance.csv`
-
-### Standalone Inference
+Standalone inference with trained models:
 
 ```bash
 python -m rare_diagnosis.training.infer_ranker \
@@ -188,29 +108,30 @@ python -m rare_diagnosis.training.infer_ranker \
     --out-dir /data/inference_output
 ```
 
-Supports both `.json` (Booster) and `.pkl` (XGBRanker, legacy) model formats.
+### Step 4: Evaluation
 
-## Step 4: Evaluation
+**LLM-as-judge scoring** ([`eval/run_judge.py`](eval/run_judge.py)): a judge LLM scores each diagnosis prediction (0–5) against ground truth.
 
-### 4a. Evaluate LLM Models
+```bash
+python -m rare_diagnosis.training.eval.run_judge \
+    --pred-root /data/llm_outputs/qwen3-32b \
+    --gt-root /data/gt/diag \
+    --out-root /data/scores/qwen3-32b \
+    --tasks primary_diag follow_diag diag_test \
+    --base-url https://api.openai.com/v1 \
+    --api-key $OPENAI_API_KEY
+```
+
+**LLM baseline evaluation** ([`eval/eval_llm.py`](eval/eval_llm.py)):
 
 ```bash
 python -m rare_diagnosis.training.eval.eval_llm \
     --score-root /data/scores \
     --test-ids /data/splits/test.json \
-    --out-dir /data/results
-
-# Excel output
-python -m rare_diagnosis.training.eval.eval_llm \
-    --score-root /data/scores \
-    --test-ids /data/splits/test.json \
-    --out-dir /data/results \
-    --excel
+    --out-dir /data/results --excel
 ```
 
-Output: `{split}_Top{N}.csv` (Acc@1/3/5 %) + `{split}_ndcg_mrr.csv` (MRR, NDCG@1/3/5)
-
-### 4b. Evaluate ML Ranking
+**ML ranking evaluation** ([`eval/eval_ml.py`](eval/eval_ml.py)):
 
 ```bash
 python -m rare_diagnosis.training.eval.eval_ml \
@@ -218,34 +139,14 @@ python -m rare_diagnosis.training.eval.eval_ml \
     --out-csv /data/results/ml_metrics.csv
 ```
 
-### 4c. Secondary Metrics (Convergence & Rescue)
+**Secondary metrics** ([`eval/eval_secondary_metrics.py`](eval/eval_secondary_metrics.py)): convergence analysis (primary → follow-up) and rescue analysis (ML vs best LLM).
 
-```bash
-# Primary vs follow-up convergence
-python -m rare_diagnosis.training.eval.eval_secondary_metrics \
-    --primary-csv /data/models/primary/test_predictions_ranked.csv \
-    --followup-csv /data/models/followup/test_predictions_ranked.csv \
-    --out-dir /data/results/secondary_metrics
+## Evaluation Metrics
 
-# ML vs best LLM rescue
-python -m rare_diagnosis.training.eval.eval_secondary_metrics \
-    --primary-csv /data/models/primary/test_predictions_ranked.csv \
-    --llm-score-root /data/scores \
-    --test-ids /data/splits/test.json \
-    --out-dir /data/results/secondary_metrics
-```
-
-## Dependencies
-
-```
-numpy
-pandas
-scikit-learn
-xgboost
-openai            # LLM API calls
-tqdm
-torch             # Semantic features (optional, degrades gracefully)
-sentence-transformers
-faiss-cpu         # RAG vector index (or faiss-gpu, optional)
-openpyxl          # Excel output (optional)
-```
+| Metric | Description |
+|---|---|
+| Acc@1 / Acc@3 / Acc@5 | Fraction of cases with a correct diagnosis in top-K |
+| MRR | Mean Reciprocal Rank of first correct diagnosis |
+| NDCG@1 / NDCG@3 / NDCG@5 | Normalized Discounted Cumulative Gain |
+| Rescue rate | Cases where ML succeeds but best LLM baseline fails |
+| Convergence gain | Cases improved from primary to follow-up stage |

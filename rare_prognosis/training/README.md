@@ -1,160 +1,123 @@
-# Prognosis Prediction - Reproduction Pipeline
+# RarePrognosis — Prognosis Prediction Module
 
-This directory contains self-contained scripts to reproduce the prognosis prediction experiments. The pipeline covers 3 sub-tasks: `overall_outcome`, `functional_status`, `symptom_burden`.
+## Overview
 
-## Pipeline Overview
+We provide the training and evaluation pipeline for rare disease prognosis prediction, covering three sub-tasks: overall outcome, functional status, and symptom burden. For methodological details, please refer to the paper.
+
+## Pipeline
 
 ```
-Step 0: Data Preparation        ->  S1 CSVs, model dirs, train/test IDs
-Step 1: Feature Engineering     ->  features.train.csv, features.test.csv (per task)
-Step 2: Train OOF GBDT Models   ->  5-fold stacking models (.pkl)
-Step 3: Inference               ->  S1 CSV predictions
-Step 4: Evaluate LLM Baselines  ->  per-model core + secondary metrics
-Step 5: Evaluate ML Ensemble    ->  ensemble core + secondary metrics
+Step 0: Data Preparation       →  S1 CSVs, model directories, train/test splits
+Step 1: Feature Engineering    →  features.{train,test}.csv per sub-task
+Step 2: Training               →  GBDT stacking models (.pkl)
+Step 3: Inference              →  Predictions written to S1 CSVs
+Step 4: Evaluation             →  Core + secondary metrics (LLM baselines and ML ensemble)
 ```
 
 ## Quick Start
 
 ```bash
-# One-click pipeline (demo data, 6 cases)
-bash run_pipeline.sh --python D:/Anaconda/envs/raredis/python.exe
-
-# Full data with 5-fold CV
-bash run_pipeline.sh \
+# One-click reproduction
+bash rare_prognosis/training/run_pipeline.sh \
+    --python /path/to/python \
     --case-root /data/case_output \
     --llm-root /data/llm \
     --rareprognois-root /data/RarePrognois \
-    --cv-folds 5 \
-    --python python
+    --cv-folds 5
 ```
 
-## Directory Structure
+## Step-by-Step Usage
 
-```
-rare_prognosis/
-├── training/
-│   ├── run_pipeline.sh             # One-click reproduction script
-│   ├── prepare_data.py             # Step 0: Prepare data layout
-│   ├── build_features.py           # Step 1: Build stacking features
-│   ├── train_models.py             # Step 2: Train OOF GBDT models
-│   ├── infer_models.py             # Step 3: Inference with trained models
-│   ├── generate_llm_outputs.py     # Batch LLM output generation
-│   ├── llm_generation.py           # Core LLM generation logic
-│   ├── data_io.py                  # Shared: task config, I/O, label normalization
-│   ├── ensemble_utils.py           # Shared: voting, ML, CV, feature encoding
-│   └── README.md
-├── eval/
-│   ├── eval_llm.py                 # Step 4: Evaluate individual LLM models
-│   ├── eval_ml.py                  # Step 5: Evaluate ML ensemble
-│   └── metrics.py                  # Shared: metric computation
-└── models/
-    ├── overall_outcome_C2_stacking_gbdt.pkl
-    ├── functional_status_C2_stacking_gbdt.pkl
-    └── symptom_burden_C2_stacking_gbdt.pkl
-```
+### Step 0: Data Preparation
 
-## Step 0: Prepare Data
-
-Converts raw case outputs and LLM predictions into the expected directory layout.
+[`prepare_data.py`](prepare_data.py) converts raw case outputs and LLM predictions into S1-format CSVs and the directory structure expected by downstream scripts.
 
 ```bash
-python prepare_data.py \
-    --case-root data_demo/case_output \
-    --llm-root data_demo/pipeline_data/prognoisis/llm \
-    --rareprognois-root data_demo/pipeline_data/prognoisis/RarePrognois \
-    --out-dir prepared
+python -m rare_prognosis.training.prepare_data \
+    --case-root /data/case_output \
+    --llm-root /data/llm \
+    --out-dir /data/prepared
 ```
 
-**Output:**
-- `rareprognosis/{overall,funcational,symptom}/S1_*.csv` (GT labels + split)
-- `models/<model>/<case_id>/prognosis_prediction_output.json`
-- `dataset/train_case_ids.json`, `dataset/test_case_ids.json`
+### Step 1: Feature Engineering
 
-## Step 1: Build Features
+[`build_features.py`](build_features.py) constructs stacking features from multi-model outputs.
 
 ```bash
-python build_features.py \
-    --rareprognosis-root prepared/rareprognosis \
-    --models-root prepared/models \
-    --train-ids prepared/dataset/train_case_ids.json \
-    --test-ids prepared/dataset/test_case_ids.json \
-    --out-dir prepared/features
+python -m rare_prognosis.training.build_features \
+    --rareprognosis-root /data/prepared/rareprognosis \
+    --models-root /data/prepared/models \
+    --train-ids /data/prepared/dataset/train_case_ids.json \
+    --test-ids /data/prepared/dataset/test_case_ids.json \
+    --out-dir /data/prepared/features
 ```
 
-**Output per task:** `features.train.csv`, `features.test.csv`, `meta.json`
+### Step 2: Training
 
-Feature structure: `n_models x n_labels` one-hot base features + 15 explanation text features (5 stats + 10 keyword counts), standardized using train statistics.
-
-## Step 2: Train OOF GBDT Models
-
-All 3 tasks use `GradientBoostingClassifier` with `random_state=42`, default sklearn params. Training uses 5-fold StratifiedKFold OOF for evaluation, saving all fold models for deployment.
+[`train_models.py`](train_models.py) trains a `GradientBoostingClassifier` per sub-task with 5-fold StratifiedKFold OOF evaluation. 
 
 ```bash
-python train_models.py \
-    --features-dir prepared/features \
-    --out-dir prepared/trained_models \
+python -m rare_prognosis.training.train_models \
+    --features-dir /data/prepared/features \
+    --out-dir /data/prepared/trained_models \
     --seed 42 \
     --cv-folds 5
 ```
 
-**Output:** `{task}_C2_stacking_gbdt.pkl` per task
+### Step 3: Inference
 
-**Bundle format:** `{"model": [fold_0, ..., fold_4], "meta": {base_model_names, labels, class_list, expl_keywords, expl_standardize, ...}}`
-
-Inference uses averaged `predict_proba` across all fold models, matching the OOF evaluation behavior.
-
-## Step 3: Inference
+[`infer_models.py`](infer_models.py) loads trained model bundles, builds per-case features, and writes averaged ensemble predictions to S1 CSVs.
 
 ```bash
-python infer_models.py \
-    --rareprognosis-root prepared/rareprognosis \
-    --models-root prepared/models \
-    --train-ids prepared/dataset/train_case_ids.json \
-    --test-ids prepared/dataset/test_case_ids.json \
-    --models-dir prepared/trained_models
+python -m rare_prognosis.training.infer_models \
+    --rareprognosis-root /data/prepared/rareprognosis \
+    --models-root /data/prepared/models \
+    --train-ids /data/prepared/dataset/train_case_ids.json \
+    --test-ids /data/prepared/dataset/test_case_ids.json \
+    --models-dir /data/prepared/trained_models
 ```
 
-Writes predictions back to S1 CSVs.
+### Step 4: Evaluation
 
-## Step 4-5: Evaluation
-
-### Evaluate LLM Baselines
+**LLM baseline evaluation** ([`eval/eval_llm.py`](../eval/eval_llm.py)):
 
 ```bash
-python ../eval/eval_llm.py \
-    --models-root prepared/models \
-    --rareprognosis-root prepared/rareprognosis \
-    --train-ids prepared/dataset/train_case_ids.json \
-    --test-ids prepared/dataset/test_case_ids.json \
+python -m rare_prognosis.training.eval.eval_llm \
+    --models-root /data/prepared/models \
+    --rareprognosis-root /data/prepared/rareprognosis \
+    --train-ids /data/prepared/dataset/train_case_ids.json \
+    --test-ids /data/prepared/dataset/test_case_ids.json \
     --split test \
-    --out-dir prepared/eval_results
+    --out-dir /data/prepared/eval_results
 ```
 
-### Evaluate ML Ensemble
+**ML ensemble evaluation** ([`eval/eval_ml.py`](../eval/eval_ml.py)):
 
 ```bash
-python ../eval/eval_ml.py \
-    --rareprognosis-root prepared/rareprognosis \
+python -m rare_prognosis.training.eval.eval_ml \
+    --rareprognosis-root /data/prepared/rareprognosis \
     --split test \
-    --out-dir prepared/eval_results
+    --out-dir /data/prepared/eval_results
 ```
 
-### Metrics Computed
+## Evaluation Metrics
 
-**Core metrics:** accuracy, MCC, macro F1, balanced accuracy, per-class recall
+**Core metrics:**
+
+| Metric | Description |
+|---|---|
+| Accuracy | Overall classification accuracy |
+| MCC | Matthews Correlation Coefficient |
+| Macro F1 | Macro-averaged F1 score |
+| Balanced Accuracy | Mean of per-class recalls |
+| Per-class Recall | Recall breakdown by label |
 
 **Secondary metrics:**
+
 | Metric | Description |
-|--------|-------------|
-| Severe recall | Recall for severe classes (progression/terminal, severe, persistent_severe) |
-| False optimism | 1 - severe recall (missed severe cases) |
-| MAOE | Mean Absolute Ordinal Error (ordinal distance between pred and GT) |
-| OBI | Optimism Bias Index (signed ordinal error, positive = over-optimistic) |
-| All3 accuracy | Fraction of cases where all 3 tasks are correct simultaneously |
-
-## Dependencies
-
-```
-numpy
-scikit-learn
-```
+|---|---|
+| Severe Recall | Recall on severe-outcome labels (progression/terminal, severe, persistent_severe) |
+| False Optimism | 1 − severe recall (rate of missed severe cases) |
+| MAOE | Mean Absolute Ordinal Error (ordinal distance between prediction and ground truth) |
+| OBI | Optimism Bias Index (signed ordinal error; positive = over-optimistic prediction) |
+| All3 Accuracy | Fraction of cases where all three sub-tasks are predicted correctly |

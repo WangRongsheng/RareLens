@@ -1,60 +1,82 @@
 # RareAlert — Risk Alerting Module
 
-This directory contains the inference pipeline for the RareAlert module, which assesses the risk that a patient may have a rare disease.
+## Overview
 
-## Task
+We provide the training and evaluation pipeline for rare disease risk scoring from structured patient consultation data. For methodological details, please refer to the paper.
 
-Given a patient's structured clinical data (basic information, medical history, physical examination), the model produces:
+## Pipeline
 
-| Field | Type | Description |
-|---|---|---|
-| `risk_score` | int (0–100) | Rare disease risk score; 0 = no risk, 100 = near certainty |
-| `key_insights` | list of 5 items | Top contributing signs/symptoms with weights (sum to 1) and descriptions |
-| `risk_explanation` | str | Plain-language explanation of the risk assessment |
+```
+Step 1: Fine-tuning    →  LoRA SFT on Qwen3-32B via LLaMA-Factory
+Step 2: Inference      →  Online serving with fine-tuned model
+Step 3: Evaluation     →  AUC, Sensitivity, Specificity, F1, F2, MCC, …
+```
 
-Output schema is defined in [`schema/risk.py`](../../schema/risk.py).
+## Quick Start
 
-## Model
+```bash
+# Evaluate
+python -m rare_alert.training.eval.eval_alert \
+    --output-root /data/output \
+    --rare-dir    /data/gt/rare \
+    --nonrare-dir /data/gt/nonrare \
+    --threshold 30 \
+    --out-json    /data/results/alert_metrics.json
+```
 
-The RareAlert module is powered by a **fine-tuned Qwen3-32B** model. Fine-tuning was performed using [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) on domain-specific rare disease clinical data with supervised fine-tuning (SFT). The fine-tuned model is served via an OpenAI-compatible API endpoint (e.g., vLLM).
+## Step-by-Step Usage
 
-> Fine-tuning hyperparameters and model weights are not released.
+### Step 1: Fine-tuning
 
-## Inference
+We fine-tune Qwen3-32B using [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) (LoRA SFT). Fine-tuning hyperparameters and model weights are not released.
 
-The inference entry point is [`inference.py`](inference.py), which implements `RiskStage` — a stateless pipeline that accepts a JSON payload and returns a structured `RiskOutput`.
+### Step 2: Inference
+
+[`inference.py`](inference.py) implements `RiskStage`, a stateless pipeline for API serving (no file I/O).
 
 ```python
 from core_tool.config import RiskStageConfig
 from rare_alert.training.inference import RiskStage
 
 cfg = RiskStageConfig(
-    base_url="http://localhost:8000/v1",  # vLLM or any OpenAI-compatible endpoint
+    base_url="http://localhost:8000/v1",
     model="rare_alert",
     api_key="EMPTY",
 )
 stage = RiskStage(config=cfg)
 
-# payload: JSON string of RiskInput fields
 result = stage.run_sync(payload_json_str)
 # result: dict with keys risk_score, key_insights, risk_explanation
 ```
 
-For async usage, use `await stage.run(payload_json_str)`.
+Supports guided JSON (vLLM), streaming, and parse-failure retries. For async usage: `await stage.run(payload_json_str)`.
 
-## Directory Structure
+### Step 3: Evaluation
 
-```
-rare_alert/
-├── training/
-│   ├── inference.py    # RiskStage inference pipeline
-│   └── README.md
-└── (model weights not included)
+[`eval/eval_alert.py`](eval/eval_alert.py) evaluates predictions by comparing `risk_score` against ground-truth rare/non-rare labels.
+
+```bash
+python -m rare_alert.training.eval.eval_alert \
+    --output-root /data/output \
+    --rare-dir    /data/gt/rare \
+    --nonrare-dir /data/gt/nonrare \
+    --threshold 30 \
+    --out-json    /data/results/alert_metrics.json
 ```
 
-## Dependencies
+## Evaluation Metrics
 
-```
-openai      # OpenAI-compatible API client
-pydantic    # Schema validation
-```
+We compute metrics at four thresholds: fixed (user-specified), and optimal thresholds selected via Youden's J, F1, and F2 grid search.
+
+| Metric | Description |
+|---|---|
+| AUC | ROC Area Under the Curve |
+| Accuracy | (TP+TN) / total |
+| Balanced Accuracy | (Sensitivity + Specificity) / 2 |
+| Sensitivity (Recall) | TP / (TP+FN) |
+| Specificity | TN / (TN+FP) |
+| PPV (Precision) | TP / (TP+FP) |
+| NPV | TN / (TN+FN) |
+| F1 | Harmonic mean of Precision and Recall |
+| F2 | Recall-weighted F-score (beta=2) |
+| MCC | Matthews Correlation Coefficient |

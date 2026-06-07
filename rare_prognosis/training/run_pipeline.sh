@@ -3,8 +3,8 @@
 # One-click reproduction script for RarePrognosis stacking pipeline.
 #
 # Usage:
-#   bash run_pipeline.sh                          # use demo data (6 cases)
-#   bash run_pipeline.sh --llm-root /data/llm --rareprognois-root /data/RarePrognois  # full data
+#   bash run_pipeline.sh                          # use demo data
+#   bash run_pipeline.sh --case-root /data/cases --llm-root /data/llm  # full data
 #
 # Requirements: Python with scikit-learn, numpy
 #
@@ -19,9 +19,8 @@ REPO_ROOT="$(cd "$SCRIPT_DIR/../.." && _pwd)"
 PYTHON="${PYTHON:-python}"
 
 # ── Defaults (demo data) ──────────────────────────────────────────────────
-CASE_ROOT="${REPO_ROOT}/data_demo/case_output"
+CASE_ROOT="${REPO_ROOT}/data_500"
 LLM_ROOT="${REPO_ROOT}/data_demo/pipeline_data/prognoisis/llm"
-RAREPROGNOIS_ROOT="${REPO_ROOT}/data_demo/pipeline_data/prognoisis/RarePrognois"
 OUT_ROOT="${REPO_ROOT}/data_demo/pipeline_data/prognoisis/prepared"
 CV_FOLDS=3         # use 3 for demo (6 cases), 5 for full data
 SEED=42
@@ -32,7 +31,6 @@ while [[ $# -gt 0 ]]; do
     case $1 in
         --case-root)         CASE_ROOT="$2";         shift 2 ;;
         --llm-root)          LLM_ROOT="$2";          shift 2 ;;
-        --rareprognois-root) RAREPROGNOIS_ROOT="$2"; shift 2 ;;
         --out-root)          OUT_ROOT="$2";           shift 2 ;;
         --cv-folds)          CV_FOLDS="$2";           shift 2 ;;
         --seed)              SEED="$2";               shift 2 ;;
@@ -40,9 +38,8 @@ while [[ $# -gt 0 ]]; do
         --python)            PYTHON="$2";             shift 2 ;;
         -h|--help)
             echo "Usage: bash run_pipeline.sh [OPTIONS]"
-            echo "  --case-root DIR          Root of case directories (default: demo data)"
+            echo "  --case-root DIR          Root of case data with prognosis_new.json (default: data_500)"
             echo "  --llm-root DIR           Root of LLM prognosis outputs (default: demo data)"
-            echo "  --rareprognois-root DIR  Root of RarePrognois with S2 CSVs (default: demo data)"
             echo "  --out-root DIR           Output root directory"
             echo "  --cv-folds N             StratifiedKFold splits (default: 3 for demo, use 5 for full)"
             echo "  --seed N                 Random seed (default: 42)"
@@ -65,7 +62,6 @@ echo "RarePrognosis Pipeline Reproduction"
 echo "============================================================"
 echo "  case_root:         ${CASE_ROOT}"
 echo "  llm_root:          ${LLM_ROOT}"
-echo "  rareprognois_root: ${RAREPROGNOIS_ROOT}"
 echo "  out_root:          ${OUT_ROOT}"
 echo "  cv_folds:          ${CV_FOLDS}"
 echo "  seed:              ${SEED}"
@@ -79,7 +75,6 @@ echo "[Step 0/5] Preparing data..."
 "${PYTHON}" "${SCRIPT_DIR}/prepare_data.py" \
     --case-root "${CASE_ROOT}" \
     --llm-root "${LLM_ROOT}" \
-    --rareprognois-root "${RAREPROGNOIS_ROOT}" \
     --out-dir "${PREPARED}"
 echo ""
 

@@ -29,7 +29,6 @@ if "data_io" in sys.modules and not sys.modules["data_io"].__file__.startswith(s
     del sys.modules["data_io"]
 
 from data_io import load_features_csv, export_ranked_json, save_predictions_csv
-from eval.metrics import hit_success_rates, format_hit_table
 
 
 # ---------------------------------------------------------------------------
@@ -403,14 +402,6 @@ def main() -> None:
     save_predictions_csv(df_test, final_scores, out_dir / "test_predictions_ensemble.csv", score_col="ensemble_score")
     export_ranked_json(df_test, final_scores, out_dir / "ranked_results.json", score_col="ensemble_score")
 
-    if "label" in df_test.columns:
-        eval_df = df_test[["case_id", "label"]].copy()
-        eval_df["ensemble_score"] = final_scores
-        rates = hit_success_rates(eval_df, "ensemble_score")
-        title = f"Baseline Reranker ({n_splits}-Fold, obj={args.objective}, k={target_k})"
-        if applied_drop_groups:
-            title += f", drop={sorted(applied_drop_groups)}"
-        print(format_hit_table(rates, title, eval_df["case_id"].nunique()))
 
     fi_path = out_dir / "feature_importance_ensemble.csv"
     fi_df = pd.DataFrame({"feature": feat_cols, "importance": avg_importance})

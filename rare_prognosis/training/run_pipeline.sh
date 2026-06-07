@@ -71,7 +71,7 @@ echo "============================================================"
 echo ""
 
 # ── Step 0: Prepare data ─────────────────────────────────────────────────
-echo "[Step 0/5] Preparing data..."
+echo "[Step 0/3] Preparing data..."
 "${PYTHON}" "${SCRIPT_DIR}/prepare_data.py" \
     --case-root "${CASE_ROOT}" \
     --llm-root "${LLM_ROOT}" \
@@ -79,7 +79,7 @@ echo "[Step 0/5] Preparing data..."
 echo ""
 
 # ── Step 1: Build features ───────────────────────────────────────────────
-echo "[Step 1/5] Building features..."
+echo "[Step 1/3] Building features..."
 "${PYTHON}" "${SCRIPT_DIR}/build_features.py" \
     --rareprognosis-root "${RARE_ROOT}" \
     --models-root "${MODELS_ROOT}" \
@@ -90,7 +90,7 @@ echo "[Step 1/5] Building features..."
 echo ""
 
 # ── Step 2: Train models (OOF GBDT) ─────────────────────────────────────
-echo "[Step 2/5] Training OOF GBDT stacking models..."
+echo "[Step 2/3] Training OOF GBDT stacking models..."
 "${PYTHON}" "${SCRIPT_DIR}/train_models.py" \
     --features-dir "${FEATURES_DIR}" \
     --out-dir "${MODELS_OUT}" \
@@ -100,7 +100,7 @@ echo "[Step 2/5] Training OOF GBDT stacking models..."
 echo ""
 
 # ── Step 3: Inference with trained models ────────────────────────────────
-echo "[Step 3/5] Running inference..."
+echo "[Step 3/3] Running inference..."
 "${PYTHON}" "${SCRIPT_DIR}/infer_models.py" \
     --rareprognosis-root "${RARE_ROOT}" \
     --models-root "${MODELS_ROOT}" \
@@ -110,33 +110,9 @@ echo "[Step 3/5] Running inference..."
     --task "${TASK}"
 echo ""
 
-EVAL_SPLIT="train"  # use train for demo (all cases are train), test for full data
-RESULTS_DIR="${PREPARED}/eval_results"
-EVAL_DIR="${SCRIPT_DIR}/eval"
-
-# ── Step 4: Evaluate LLM baselines ──────────────────────────────────────
-echo "[Step 4/5] Evaluating LLM baselines..."
-"${PYTHON}" "${EVAL_DIR}/eval_llm.py" \
-    --models-root "${MODELS_ROOT}" \
-    --rareprognosis-root "${RARE_ROOT}" \
-    --train-ids "${DATASET_DIR}/train_case_ids.json" \
-    --test-ids "${DATASET_DIR}/test_case_ids.json" \
-    --split "${EVAL_SPLIT}" \
-    --out-dir "${RESULTS_DIR}"
-echo ""
-
-# ── Step 5: Evaluate ML ensemble ────────────────────────────────────────
-echo "[Step 5/5] Evaluating ML ensemble..."
-"${PYTHON}" "${EVAL_DIR}/eval_ml.py" \
-    --rareprognosis-root "${RARE_ROOT}" \
-    --split "${EVAL_SPLIT}" \
-    --out-dir "${RESULTS_DIR}"
-echo ""
-
 echo "============================================================"
 echo "Pipeline complete!"
 echo "  Features:       ${FEATURES_DIR}"
 echo "  Trained models: ${MODELS_OUT}"
 echo "  S1 CSVs:        ${RARE_ROOT}"
-echo "  Eval results:   ${RESULTS_DIR}"
 echo "============================================================"

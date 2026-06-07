@@ -2,7 +2,7 @@
 
 ## Overview
 
-We provide the training and evaluation pipeline for treatment plan ranking. For methodological details, please refer to the paper.
+We provide the training pipeline for treatment plan ranking. For methodological details, please refer to the paper.
 
 ## Pipeline
 
@@ -11,7 +11,6 @@ Step 0: Data Preparation     →  Organized directory structure for downstream s
 Step 1: LLM Generation       →  treatment_plan_output.json per model per case
 Step 2: Feature Engineering   →  features_{train,test}.csv 
 Step 3: Training + Inference  →  XGBoost GroupKFold ranker → ensemble predictions
-Step 4: Evaluation            →  Hit@K, nDCG, MRR, MAP + secondary metrics (M2–M11)
 ```
 
 ## Quick Start
@@ -97,47 +96,3 @@ python -m rare_treatment.training.infer_ranker \
     --out-dir /data/results
 ```
 
-### Step 4: Evaluation
-
-**LLM-as-judge scoring** ([`eval/run_judge.py`](eval/run_judge.py)): a judge LLM evaluates each treatment for appropriateness, completeness, helpfulness, and safety.
-
-```bash
-python -m rare_treatment.training.eval.run_judge \
-    --pred-root /data/llm_outputs/qwen3-32b \
-    --gt-root /data/gt/treat \
-    --out-root /data/scores/qwen3-32b \
-    --base-url https://api.openai.com/v1 \
-    --api-key $OPENAI_API_KEY
-```
-
-**LLM baseline evaluation** ([`eval/eval_llm.py`](eval/eval_llm.py)):
-
-```bash
-python -m rare_treatment.training.eval.eval_llm \
-    --score_root /data/treatment_score \
-    --train_ids /data/dataset/train_cases.json \
-    --test_ids /data/dataset/test_cases.json
-```
-
-**ML ranking evaluation** ([`eval/eval_ml.py`](eval/eval_ml.py)):
-
-```bash
-python -m rare_treatment.training.eval.eval_ml \
-    --input ensemble=/data/results/test_predictions.csv:score \
-    --ks 1,2,3,5
-```
-
-**Secondary metrics** ([`eval/eval_secondary_metrics.py`](eval/eval_secondary_metrics.py)): M2–M11 metrics comparing the ML reranker against individual LLM baselines.
-
-## Evaluation Metrics
-
-| Metric | Description |
-|---|---|
-| Hit@K | Fraction of cases with at least one appropriate treatment in top-K |
-| nDCG@K | Normalized Discounted Cumulative Gain |
-| MRR | Mean Reciprocal Rank |
-| MAP | Mean Average Precision |
-| M3–M6 | Appropriate/inappropriate counts, case positive probability, high-risk ratio |
-| M7–M9 | Completeness, helpfulness, safety scores |
-| M10 | Performed fraction |
-| M11 | Rescue rate (reranker succeeds where baseline fails) |

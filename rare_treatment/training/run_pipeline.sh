@@ -80,7 +80,7 @@ echo "============================================================"
 echo ""
 
 # ── Step 0: Prepare data ─────────────────────────────────────────────────
-echo "[Step 0/5] Preparing data..."
+echo "[Step 0/3] Preparing data..."
 "${PYTHON}" "${SCRIPT_DIR}/prepare_data.py" \
     --case-root "${CASE_ROOT}" \
     --llm-output-root "${LLM_OUTPUT_ROOT}" \
@@ -88,7 +88,7 @@ echo "[Step 0/5] Preparing data..."
 echo ""
 
 # ── Step 1: Build features ───────────────────────────────────────────────
-echo "[Step 1/5] Building features..."
+echo "[Step 1/3] Building features..."
 "${PYTHON}" "${SCRIPT_DIR}/build_features.py" \
     --plan_root "${PREPARED}/plan_root" \
     --treatment_output_root "${PREPARED}/treatment_output" \
@@ -100,7 +100,7 @@ echo "[Step 1/5] Building features..."
 echo ""
 
 # ── Step 2: Train ranker ─────────────────────────────────────────────────
-echo "[Step 2/5] Training XGBoost ranker..."
+echo "[Step 2/3] Training XGBoost ranker..."
 "${PYTHON}" "${SCRIPT_DIR}/train_ranker.py" \
     --data-dir "${FEATURES_DIR}" \
     --out-dir "${MODELS_DIR}" \
@@ -112,26 +112,11 @@ echo "[Step 2/5] Training XGBoost ranker..."
 echo ""
 
 # ── Step 3: Inference ────────────────────────────────────────────────────
-echo "[Step 3/5] Running inference..."
+echo "[Step 3/3] Running inference..."
 "${PYTHON}" "${SCRIPT_DIR}/infer_ranker.py" \
     --model-dir "${MODELS_DIR}/models" \
     --test-csv "${FEATURES_DIR}/features_test.csv" \
     --out-dir "${RESULTS_DIR}"
-echo ""
-
-# ── Step 4: Evaluate LLM baselines ───────────────────────────────────────
-echo "[Step 4/5] Evaluating LLM baselines..."
-"${PYTHON}" "${SCRIPT_DIR}/eval/eval_llm.py" \
-    --score_root "${SCORE_ROOT}" \
-    --train_ids "${DATASET_DIR}/train_cases.json" \
-    --test_ids "${DATASET_DIR}/test_cases.json"
-echo ""
-
-# ── Step 5: Evaluate ML ensemble ─────────────────────────────────────────
-echo "[Step 5/5] Evaluating ML ensemble..."
-"${PYTHON}" "${SCRIPT_DIR}/eval/eval_ml.py" \
-    --input "ensemble=${RESULTS_DIR}/test_predictions.csv:score" \
-    --ks "1,2,3,5"
 echo ""
 
 echo "============================================================"

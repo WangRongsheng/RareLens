@@ -5,8 +5,6 @@
 # Pipeline steps:
 #   Step 1: Build features  (build_features_primary / build_features_followup)
 #   Step 2: Train ranker    (train_ranker — XGBoost GroupKFold)
-#   Step 3: Evaluate ML     (eval.eval_ml)
-#   Step 4: Evaluate LLMs   (eval.eval_llm)
 #
 # Usage:
 #   bash rare_diagnosis/training/reproduce_diag.sh                        # primary stage
@@ -36,7 +34,6 @@ while [[ $# -gt 0 ]]; do
         --models-root)      MODELS_ROOT="$2";       shift 2 ;;
         --train-ids)        TRAIN_IDS="$2";         shift 2 ;;
         --test-ids)         TEST_IDS="$2";          shift 2 ;;
-        --score-root)       SCORE_ROOT="$2";        shift 2 ;;
         --work-dir)         WORK_DIR="$2";          shift 2 ;;
         --out-dir)          OUT_DIR="$2";           shift 2 ;;
         --python)           PYTHON="$2";            shift 2 ;;
@@ -50,9 +47,8 @@ while [[ $# -gt 0 ]]; do
             echo "  --models-root DIR     Root of per-model diagnosis outputs"
             echo "  --train-ids PATH      JSON list of train case IDs"
             echo "  --test-ids PATH       JSON list of test case IDs"
-            echo "  --score-root DIR      Root of evaluation scores (for LLM eval)"
             echo "  --work-dir DIR        Feature output directory"
-            echo "  --out-dir DIR         Model/eval output directory"
+            echo "  --out-dir DIR         Model output directory"
             echo "  --python PATH         Python interpreter (default: python)"
             echo "  --no-gpu              Disable GPU training"
             exit 0 ;;
@@ -66,7 +62,6 @@ GT_ROOT="${GT_ROOT:-${REPO_ROOT}/dataset/diagnosis/diagnosis_score}"
 MODELS_ROOT="${MODELS_ROOT:-${REPO_ROOT}/dataset/diagnosis/diagnosis_output}"
 TRAIN_IDS="${TRAIN_IDS:-${REPO_ROOT}/dataset/diagnosis/splits/train.json}"
 TEST_IDS="${TEST_IDS:-${REPO_ROOT}/dataset/diagnosis/splits/test.json}"
-SCORE_ROOT="${SCORE_ROOT:-${GT_ROOT}}"
 
 # ── Config (stage-specific hyperparameters) ──────────────────────────────
 if [[ "${VISIT_TYPE}" == "primary" ]]; then
@@ -81,10 +76,9 @@ fi
 # ── Output paths ─────────────────────────────────────────────────────────
 WORK_DIR="${WORK_DIR:-${REPO_ROOT}/outputs/diagnosis_features_${VISIT_TYPE}}"
 OUT_DIR="${OUT_DIR:-${REPO_ROOT}/outputs/diagnosis_model_${VISIT_TYPE}}"
-EVAL_DIR="${OUT_DIR}/eval_results"
 USE_GPU="${USE_GPU:-"--use-gpu"}"
 
-mkdir -p "${WORK_DIR}" "${OUT_DIR}" "${EVAL_DIR}"
+mkdir -p "${WORK_DIR}" "${OUT_DIR}"
 
 echo "============================================================"
 echo "RareDiagnosis Pipeline Reproduction"
@@ -103,7 +97,7 @@ echo "============================================================"
 echo ""
 
 # ── Step 1: Build features ───────────────────────────────────────────────
-echo "[Step 1/4] Building features (${VISIT_TYPE})..."
+echo "[Step 1/2] Building features (${VISIT_TYPE})..."
 if [[ "${VISIT_TYPE}" == "primary" ]]; then
     "${PYTHON}" -m rare_diagnosis.training.build_features_primary \
         --query_root "${QUERY_ROOT}" \
@@ -128,7 +122,7 @@ fi
 echo ""
 
 # ── Step 2: Train XGBoost ranker ─────────────────────────────────────────
-echo "[Step 2/4] Training XGBoost ranker..."
+echo "[Step 2/2] Training XGBoost ranker..."
 "${PYTHON}" -m rare_diagnosis.training.train_ranker \
     --input-dir "${WORK_DIR}" \
     --config "${CONFIG_PATH}" \
@@ -136,24 +130,8 @@ echo "[Step 2/4] Training XGBoost ranker..."
     ${USE_GPU}
 echo ""
 
-# ── Step 3: Evaluate ML ranking ─────────────────────────────────────────
-echo "[Step 3/4] Evaluating ML ranking..."
-"${PYTHON}" -m rare_diagnosis.training.eval.eval_ml \
-    --json "${OUT_DIR}/test_predictions_ranked.json" \
-    --out-csv "${EVAL_DIR}/ml_metrics.csv"
-echo ""
-
-# ── Step 4: Evaluate LLM baselines ──────────────────────────────────────
-echo "[Step 4/4] Evaluating LLM baselines..."
-"${PYTHON}" -m rare_diagnosis.training.eval.eval_llm \
-    --score-root "${SCORE_ROOT}" \
-    --test-ids "${TEST_IDS}" \
-    --out-dir "${EVAL_DIR}"
-echo ""
-
 echo "============================================================"
 echo "Pipeline complete!"
 echo "  Features:      ${WORK_DIR}"
 echo "  Model/preds:   ${OUT_DIR}"
-echo "  Eval results:  ${EVAL_DIR}"
 echo "============================================================"

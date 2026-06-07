@@ -2,7 +2,7 @@
 
 ## Overview
 
-We provide the training and evaluation pipeline for rare disease prognosis prediction, covering three sub-tasks: overall outcome, functional status, and symptom burden. For methodological details, please refer to the paper.
+We provide the training pipeline for rare disease prognosis prediction, covering three sub-tasks: overall outcome, functional status, and symptom burden. For methodological details, please refer to the paper.
 
 ## Pipeline
 
@@ -11,7 +11,6 @@ Step 0: Data Preparation       →  S1 CSVs, model directories, train/test split
 Step 1: Feature Engineering    →  features.{train,test}.csv per sub-task
 Step 2: Training               →  GBDT stacking models (.pkl)
 Step 3: Inference              →  Predictions written to S1 CSVs
-Step 4: Evaluation             →  Core + secondary metrics (LLM baselines and ML ensemble)
 ```
 
 ## Quick Start
@@ -77,47 +76,3 @@ python -m rare_prognosis.training.infer_models \
     --models-dir /data/prepared/trained_models
 ```
 
-### Step 4: Evaluation
-
-**LLM baseline evaluation** ([`eval/eval_llm.py`](../eval/eval_llm.py)):
-
-```bash
-python -m rare_prognosis.training.eval.eval_llm \
-    --models-root /data/prepared/models \
-    --rareprognosis-root /data/prepared/rareprognosis \
-    --train-ids /data/prepared/dataset/train_case_ids.json \
-    --test-ids /data/prepared/dataset/test_case_ids.json \
-    --split test \
-    --out-dir /data/prepared/eval_results
-```
-
-**ML ensemble evaluation** ([`eval/eval_ml.py`](../eval/eval_ml.py)):
-
-```bash
-python -m rare_prognosis.training.eval.eval_ml \
-    --rareprognosis-root /data/prepared/rareprognosis \
-    --split test \
-    --out-dir /data/prepared/eval_results
-```
-
-## Evaluation Metrics
-
-**Core metrics:**
-
-| Metric | Description |
-|---|---|
-| Accuracy | Overall classification accuracy |
-| MCC | Matthews Correlation Coefficient |
-| Macro F1 | Macro-averaged F1 score |
-| Balanced Accuracy | Mean of per-class recalls |
-| Per-class Recall | Recall breakdown by label |
-
-**Secondary metrics:**
-
-| Metric | Description |
-|---|---|
-| Severe Recall | Recall on severe-outcome labels (progression/terminal, severe, persistent_severe) |
-| False Optimism | 1 − severe recall (rate of missed severe cases) |
-| MAOE | Mean Absolute Ordinal Error (ordinal distance between prediction and ground truth) |
-| OBI | Optimism Bias Index (signed ordinal error; positive = over-optimistic prediction) |
-| All3 Accuracy | Fraction of cases where all three sub-tasks are predicted correctly |

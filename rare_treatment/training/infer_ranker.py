@@ -29,7 +29,6 @@ if "data_io" in sys.modules and not sys.modules["data_io"].__file__.startswith(s
     del sys.modules["data_io"]
 
 from data_io import load_features_csv, export_ranked_json, save_predictions_csv
-from eval.metrics import hit_success_rates, format_hit_table
 
 
 def get_expected_feature_names(model: xgb.XGBRanker, fallback: List[str]) -> List[str]:
@@ -95,11 +94,6 @@ def main() -> None:
     save_predictions_csv(df_test, preds, out_dir / "test_predictions.csv", score_col="score")
     export_ranked_json(df_test, preds, out_dir / "ranked_results.json", score_col="score")
 
-    if "label" in df_test.columns:
-        eval_df = df_test[["case_id", "label"]].copy()
-        eval_df["score"] = preds
-        rates = hit_success_rates(eval_df, "score")
-        print(format_hit_table(rates, "Ensemble" if len(models) > 1 else "Model", eval_df["case_id"].nunique()))
 
 
 if __name__ == "__main__":

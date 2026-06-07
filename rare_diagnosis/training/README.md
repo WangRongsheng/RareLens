@@ -2,7 +2,7 @@
 
 ## Overview
 
-We provide the training and evaluation pipeline for rare disease diagnosis ranking, supporting both primary consultation and follow-up visit stages. For methodological details, please refer to the paper.
+We provide the training pipeline for rare disease diagnosis ranking, supporting both primary consultation and follow-up visit stages. For methodological details, please refer to the paper.
 
 ## Pipeline
 
@@ -11,13 +11,12 @@ Step 0: RAG Cache (optional)   →  FAISS vector index for OrphaCode resolution
 Step 1: LLM Generation         →  per-model diagnosis outputs + OrphaCode mapping
 Step 2: Feature Engineering     →  features.{train,test}.csv (56+ features per candidate)
 Step 3: XGBoost Training        →  GroupKFold CV ranker (rank:ndcg)
-Step 4: Evaluation              →  Acc@1/3/5, MRR, NDCG@1/3/5
 ```
 
 ## Quick Start
 
 ```bash
-# Full pipeline (primary stage): build features → train → eval ML → eval LLM
+# Full pipeline (primary stage): build features → train
 bash rare_diagnosis/training/reproduce_diag.sh \
     --python /path/to/python \
     --visit-type primary \
@@ -108,45 +107,3 @@ python -m rare_diagnosis.training.infer_ranker \
     --out-dir /data/inference_output
 ```
 
-### Step 4: Evaluation
-
-**LLM-as-judge scoring** ([`eval/run_judge.py`](eval/run_judge.py)): a judge LLM scores each diagnosis prediction (0–5) against ground truth.
-
-```bash
-python -m rare_diagnosis.training.eval.run_judge \
-    --pred-root /data/llm_outputs/qwen3-32b \
-    --gt-root /data/gt/diag \
-    --out-root /data/scores/qwen3-32b \
-    --tasks primary_diag follow_diag diag_test \
-    --base-url https://api.openai.com/v1 \
-    --api-key $OPENAI_API_KEY
-```
-
-**LLM baseline evaluation** ([`eval/eval_llm.py`](eval/eval_llm.py)):
-
-```bash
-python -m rare_diagnosis.training.eval.eval_llm \
-    --score-root /data/scores \
-    --test-ids /data/splits/test.json \
-    --out-dir /data/results --excel
-```
-
-**ML ranking evaluation** ([`eval/eval_ml.py`](eval/eval_ml.py)):
-
-```bash
-python -m rare_diagnosis.training.eval.eval_ml \
-    --json /data/models/primary/test_predictions_ranked.json \
-    --out-csv /data/results/ml_metrics.csv
-```
-
-**Secondary metrics** ([`eval/eval_secondary_metrics.py`](eval/eval_secondary_metrics.py)): convergence analysis (primary → follow-up) and rescue analysis (ML vs best LLM).
-
-## Evaluation Metrics
-
-| Metric | Description |
-|---|---|
-| Acc@1 / Acc@3 / Acc@5 | Fraction of cases with a correct diagnosis in top-K |
-| MRR | Mean Reciprocal Rank of first correct diagnosis |
-| NDCG@1 / NDCG@3 / NDCG@5 | Normalized Discounted Cumulative Gain |
-| Rescue rate | Cases where ML succeeds but best LLM baseline fails |
-| Convergence gain | Cases improved from primary to follow-up stage |

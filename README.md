@@ -29,7 +29,7 @@ The following sections provide instructions for reproducing the model training a
 
 ## Modules
 
-RareLens spans the four canonical stages of the rare-disease clinical workflow — risk alerting, diagnosis, treatment selection, and prognosis — each instantiated as an independently trainable and evaluable module.
+RareLens spans the four canonical stages of the rare-disease clinical workflow — risk alerting, diagnosis, treatment, and prognosis — each instantiated as an independently trainable and evaluable module.
 
 | Module | Path | Task | Approach |
 | --- | --- | --- | --- |
@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-For reproducibility, we release a 500-case demo subset ([`data_500/`](data_500/)) of the full RareBench cohort used in our experiments. See [`data_500/README.md`](data_500/README.md) for format details.
+For reproducibility, we release a 500-case demo subset ([`data_500/`](data_500/)) of the full RareBench used in our experiments. See [`data_500/README.md`](data_500/README.md) for format details.
 
 ## Reproduction Instructions
 

@@ -6,9 +6,8 @@ Converts raw case outputs and LLM predictions into the directory structure
 expected by build_features.py, train_models.py, and infer_models.py.
 
 Inputs:
-  - case_output/<case_id>/6_prognosis/RarePrognosis_output.json  (GT labels)
+  - case_root/<case_id>/prognosis_new.json  (GT labels)
   - llm/<model>/<case_id>/prognosis_prediction_output.json
-  - RarePrognois/{overall,funcational,symptom}/*.csv  (optional fallback for GT)
 
 Outputs (into --out-dir):
   rareprognosis/{overall,funcational,symptom}/S1_*.csv
@@ -18,9 +17,8 @@ Outputs (into --out-dir):
 
 Usage:
     python prepare_data.py \\
-        --case-root data_demo/case_output \\
+        --case-root data_500 \\
         --llm-root data_demo/pipeline_data/prognoisis/llm \\
-        --rareprognois-root data_demo/pipeline_data/prognoisis/RarePrognois \\
         --out-dir data_demo/pipeline_data/prognoisis/prepared
 """
 from __future__ import annotations
@@ -40,47 +38,32 @@ if str(THIS_DIR) not in sys.path:
 from data_io import TASK_CONFIGS
 
 
-def _load_gt_from_case_output(
+def _load_gt_from_prognosis_new(
     case_root: Path,
     case_ids: List[str],
 ) -> Dict[str, Dict[str, str]]:
-    """Extract GT labels per task from RarePrognosis_output.json."""
+    """Extract GT labels per task from <case_root>/<case_id>/prognosis_new.json.
+
+    Structure:
+      { "overall_outcome": "...",
+        "quality_of_life": { "functional_status": "...", "symptom_burden": "..." }, ... }
+    """
     gt: Dict[str, Dict[str, str]] = {t: {} for t in TASK_CONFIGS}
     for cid in case_ids:
-        path = case_root / cid / "6_prognosis" / "RarePrognosis_output.json"
+        path = case_root / cid / "prognosis_new.json"
         if not path.is_file():
             continue
         with path.open("r", encoding="utf-8") as f:
             obj = json.load(f)
-        rp = obj.get("RarePrognosis", {})
-        for task in TASK_CONFIGS:
-            section = rp.get(task, {})
-            label = section.get("gt")
-            if isinstance(label, str) and label.strip():
-                gt[task][cid] = label.strip()
-    return gt
-
-
-def _load_gt_from_s2_csv(
-    rareprognois_root: Path,
-) -> Dict[str, Dict[str, str]]:
-    """Fallback: extract GT from existing S2 CSVs."""
-    gt: Dict[str, Dict[str, str]] = {t: {} for t in TASK_CONFIGS}
-    csv_map = {
-        "overall_outcome":   "overall/S2_meta_weighted_acc.csv",
-        "functional_status": "funcational/S2_meta_weighted_acc.csv",
-        "symptom_burden":    "symptom/S2_meta_stacking_gbdt.csv",
-    }
-    for task, rel_path in csv_map.items():
-        path = rareprognois_root / rel_path
-        if not path.is_file():
-            continue
-        with path.open("r", encoding="utf-8", newline="") as f:
-            for row in csv.DictReader(f):
-                cid = str(row.get("case_id", "")).strip()
-                label = str(row.get("gt", "")).strip()
-                if cid and label:
-                    gt[task][cid] = label
+        label = obj.get("overall_outcome")
+        if isinstance(label, str) and label.strip():
+            gt["overall_outcome"][cid] = label.strip()
+        qol = obj.get("quality_of_life", {})
+        if isinstance(qol, dict):
+            for key in ("functional_status", "symptom_burden"):
+                label = qol.get(key)
+                if isinstance(label, str) and label.strip():
+                    gt[key][cid] = label.strip()
     return gt
 
 
@@ -103,11 +86,9 @@ def _write_s1_csv(
 def main() -> None:
     parser = argparse.ArgumentParser(description="Prepare data for prognosis stacking pipeline.")
     parser.add_argument("--case-root", required=True,
-                        help="Root of case_output/ (contains <case_id>/6_prognosis/RarePrognosis_output.json)")
+                        help="Root of case data (contains <case_id>/prognosis_new.json)")
     parser.add_argument("--llm-root", required=True,
                         help="Root of LLM outputs (contains <model>/<case_id>/prognosis_prediction_output.json)")
-    parser.add_argument("--rareprognois-root", default="",
-                        help="Root of RarePrognois/ with S2 CSVs (optional fallback for GT)")
     parser.add_argument("--out-dir", required=True,
                         help="Output directory for prepared pipeline data")
     args = parser.parse_args()
@@ -115,7 +96,6 @@ def main() -> None:
     case_root = Path(args.case_root)
     llm_root = Path(args.llm_root)
     out_dir = Path(args.out_dir)
-    rareprognois_root = Path(args.rareprognois_root) if args.rareprognois_root else None
 
     # Discover case IDs from LLM output dirs
     model_dirs = sorted([p for p in llm_root.iterdir() if p.is_dir()])
@@ -133,15 +113,8 @@ def main() -> None:
     print(f"Found {len(case_ids)} cases: {case_ids}")
     print(f"Found {len(model_dirs)} models: {[m.name for m in model_dirs]}")
 
-    # 1. Extract GT labels
-    gt = _load_gt_from_case_output(case_root, case_ids)
-    # Fallback to S2 CSVs if case_output GT is incomplete
-    if rareprognois_root and rareprognois_root.is_dir():
-        gt_s2 = _load_gt_from_s2_csv(rareprognois_root)
-        for task in gt:
-            for cid, label in gt_s2[task].items():
-                if cid not in gt[task]:
-                    gt[task][cid] = label
+    # 1. Extract GT labels from prognosis_new.json
+    gt = _load_gt_from_prognosis_new(case_root, case_ids)
 
     for task in gt:
         print(f"  [{task}] GT labels: {len(gt[task])}")

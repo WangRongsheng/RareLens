@@ -23,10 +23,9 @@ Usage:
 from __future__ import annotations
 
 import argparse
-import csv
 import sys
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional
 
 THIS_DIR = Path(__file__).resolve().parent
 TRAINING_DIR = THIS_DIR.parent
@@ -35,47 +34,11 @@ if str(THIS_DIR) not in sys.path:
 if str(TRAINING_DIR) not in sys.path:
     sys.path.insert(0, str(TRAINING_DIR))
 
-from data_io import TASK_CONFIGS, normalize_label
+from data_io import TASK_CONFIGS, load_s1_csv, write_eval_csv
 from metrics import (
     TASKS, ORDINAL_LABELS,
     evaluate_task, compute_all3_accuracy,
 )
-
-
-# ---------------------------------------------------------------------------
-# Data loading
-# ---------------------------------------------------------------------------
-
-def _load_s1_csv(
-    path: Path, task: str, split_filter: str,
-) -> Tuple[List[str], Dict[str, str], Dict[str, str]]:
-    """Load case IDs, GT, and predictions from an S1 CSV.
-
-    Returns (case_ids, gt_by_id, pred_by_id) for the given split.
-    """
-    case_ids = []
-    gt: Dict[str, str] = {}
-    preds: Dict[str, str] = {}
-    with path.open("r", encoding="utf-8", newline="") as f:
-        for row in csv.DictReader(f):
-            cid = str(row.get("case_id", "")).strip()
-            split = str(row.get("split", "")).strip().lower()
-            if not cid:
-                continue
-            if split_filter != "all" and split != split_filter:
-                continue
-
-            label = normalize_label(row.get("gt"), task)
-            if label is not None:
-                gt[cid] = label
-
-            pred = normalize_label(row.get("prediction"), task)
-            if pred is not None:
-                preds[cid] = pred
-
-            case_ids.append(cid)
-
-    return sorted(set(case_ids)), gt, preds
 
 
 # ---------------------------------------------------------------------------
@@ -106,23 +69,6 @@ def _print_task_metrics(task: str, m: dict):
             print(f"    {label:<24s} {_fmt(r)}")
 
 
-def _write_csv(path: Path, rows: List[dict]):
-    if not rows:
-        return
-    path.parent.mkdir(parents=True, exist_ok=True)
-    # Collect all keys across rows (different tasks have different recall columns)
-    seen = set()
-    fieldnames = []
-    for row in rows:
-        for k in row:
-            if k not in seen:
-                seen.add(k)
-                fieldnames.append(k)
-    with path.open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
-        w.writeheader()
-        w.writerows(rows)
-    print(f"  wrote: {path}")
 
 
 # ---------------------------------------------------------------------------
@@ -177,7 +123,15 @@ def main() -> None:
             print(f"[{task}] CSV not found: {path}, skipping")
             continue
 
-        case_ids, gt, preds = _load_s1_csv(path, task, args.split)
+        s1 = load_s1_csv(path, task)
+        if args.split == "all":
+            case_ids = sorted(set(s1.train_ids + s1.test_ids))
+        elif args.split == "train":
+            case_ids = s1.train_ids
+        else:
+            case_ids = s1.test_ids
+        gt = s1.gt_by_id
+        preds = s1.pred_by_id
         if not case_ids:
             print(f"[{task}] no cases for split={args.split}")
             continue
@@ -208,7 +162,7 @@ def main() -> None:
 
     # Write CSV
     if args.out_dir and csv_rows:
-        _write_csv(Path(args.out_dir) / f"eval_ml_{args.split}.csv", csv_rows)
+        write_eval_csv(Path(args.out_dir) / f"eval_ml_{args.split}.csv", csv_rows)
 
 
 if __name__ == "__main__":

@@ -1,4 +1,4 @@
-# RareAlert — Risk Alerting Module
+# RareAlert
 
 ## Overview
 

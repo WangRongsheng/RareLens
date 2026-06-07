@@ -191,40 +191,9 @@ class RiskStage:
         """Async entry: only the blocking LLM call runs in a worker thread."""
         t_pipeline_start = time.perf_counter()
         prompt, client = self._prepare_run(payload)
-        rf, sys_msg = self._llm_rf_and_system()
-        extra_body: Optional[Dict[str, Any]] = (
-            dict(self.cfg.extra_body) if isinstance(self.cfg.extra_body, dict) else None
-        )
-        temperature = 0.0 if self.cfg.use_guided_json else self.cfg.temperature
-        if self.cfg.use_guided_json:
-            if extra_body is None:
-                extra_body = {}
-            extra_body.setdefault("guided_json", risk_guided_json_schema())
         result: dict = {}
         for attempt in range(1 + self.cfg.max_parse_retries):
-            if self.cfg.verbose:
-                logger.info("[RiskStage] 4/5 Calling model: %s", self.cfg.model)
-            t_llm = time.perf_counter()
-            raw_text = await asyncio.to_thread(
-                client.call,
-                prompt,
-                self.cfg.max_tokens,
-                temperature,
-                extra_body,
-                self.cfg.model,
-                rf,
-                system=sys_msg,
-                stream=self.cfg.stream,
-            )
-            # For debugging/raw capture
-            self._last_raw_text = raw_text
-            if self.cfg.verbose:
-                logger.info(
-                    "[RiskStage] 4/5 Done, response_len=%d, %.2f ms",
-                    len(raw_text or ""),
-                    (time.perf_counter() - t_llm) * 1000.0,
-                )
-                logger.info("[RiskStage] 4/5 Raw response:\n%s", raw_text or "(empty)")
+            raw_text = await asyncio.to_thread(self._invoke_llm, client, prompt)
             result = self._parse_and_finish(raw_text, t_pipeline_start)
             if not self._is_parse_failure(result):
                 return result

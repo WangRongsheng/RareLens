@@ -1,4 +1,4 @@
-# RareTreatment — Treatment Ranking Module
+# RareTreatment
 
 ## Overview
 

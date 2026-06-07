@@ -38,6 +38,9 @@ if str(THIS_DIR) not in sys.path:
     sys.path.insert(0, str(THIS_DIR))
 if str(PARENT_DIR) not in sys.path:
     sys.path.insert(0, str(PARENT_DIR))
+for _mod in ("data_io", "metrics"):
+    if _mod in sys.modules and not sys.modules[_mod].__file__.startswith(str(PARENT_DIR)):
+        del sys.modules[_mod]
 
 from data_io import (
     normalize_text, safe_float, clip_score_1_to_5, to_yes, extract_idx, read_json,

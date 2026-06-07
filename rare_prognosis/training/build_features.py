@@ -30,43 +30,9 @@ if str(THIS_DIR) not in sys.path:
 
 from data_io import (
     TASK_CONFIGS, DEFAULT_EXPL_KEYWORDS,
-    load_json, get_nested, normalize_label, list_model_dirs,
+    load_json, get_nested, normalize_label, list_model_dirs, load_s1_csv,
 )
 from ensemble_utils import encode_features, extract_text_features
-
-
-def _dedup(xs: List[str]) -> List[str]:
-    seen: set = set()
-    out: List[str] = []
-    for x in xs:
-        if x not in seen:
-            seen.add(x)
-            out.append(x)
-    return out
-
-
-# ---------------------------------------------------------------------------
-# Data loading
-# ---------------------------------------------------------------------------
-
-def read_gt_from_s1_csv(
-    path: Path, task: str
-) -> Tuple[List[str], List[str], Dict[str, str]]:
-    """Read case splits and GT labels from a S1 CSV file."""
-    train_ids: List[str] = []
-    test_ids: List[str] = []
-    gt_by_id: Dict[str, str] = {}
-    with path.open("r", encoding="utf-8", newline="") as f:
-        for row in csv.DictReader(f):
-            cid = str(row.get("case_id") or "").strip()
-            split = str(row.get("split") or "").strip().lower()
-            if not cid or split not in ("train", "test"):
-                continue
-            gt = normalize_label(row.get("gt"), task)
-            if gt is not None:
-                gt_by_id[cid] = gt
-            (train_ids if split == "train" else test_ids).append(cid)
-    return _dedup(train_ids), _dedup(test_ids), gt_by_id
 
 
 def load_preds_and_expls(
@@ -257,10 +223,10 @@ def main() -> None:
         s1_path = rare_root / cfg.s1_csv[0] / cfg.s1_csv[1]
         if not s1_path.is_file():
             raise SystemExit(f"[{task}] missing S1 csv: {s1_path}")
-        tr, te, gt = read_gt_from_s1_csv(s1_path, task)
-        tr = [cid for cid in tr if cid in train_allow]
-        te = [cid for cid in te if cid in test_allow]
-        gt = {cid: lbl for cid, lbl in gt.items() if cid in train_allow or cid in test_allow}
+        s1 = load_s1_csv(s1_path, task)
+        tr = [cid for cid in s1.train_ids if cid in train_allow]
+        te = [cid for cid in s1.test_ids if cid in test_allow]
+        gt = {cid: lbl for cid, lbl in s1.gt_by_id.items() if cid in train_allow or cid in test_allow}
         print(f"[{task}] train={len(tr)} test={len(te)} gt={len(gt)}")
         build_task_features(
             task=task,

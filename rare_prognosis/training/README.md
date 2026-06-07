@@ -1,4 +1,4 @@
-# RarePrognosis — Prognosis Prediction Module
+# RarePrognosis
 
 ## Overview
 

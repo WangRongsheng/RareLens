@@ -308,6 +308,11 @@ def main() -> None:
         help="Pipeline output root directory (contains <case_id>/risk_output.json).",
     )
     parser.add_argument(
+        "--model", default=None,
+        help="Model subdirectory under output-root (e.g. 'qwen3-32b'). "
+             "When set, the effective output root becomes <output-root>/<model>/.",
+    )
+    parser.add_argument(
         "--rare-dir", required=True,
         help="Ground-truth rare-disease case directory.",
     )
@@ -325,8 +330,12 @@ def main() -> None:
     )
     args = parser.parse_args()
 
+    output_root = Path(args.output_root)
+    if args.model:
+        output_root = output_root / args.model
+
     results = evaluate_alert(
-        output_root=args.output_root,
+        output_root=output_root,
         rare_dir=args.rare_dir,
         nonrare_dir=args.nonrare_dir,
         threshold=args.threshold,

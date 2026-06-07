@@ -6,6 +6,7 @@ are centralized here to avoid duplication across scripts.
 """
 from __future__ import annotations
 
+import csv
 import json
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -76,10 +77,6 @@ TASK_CONFIGS: Dict[str, TaskConfig] = {
     ),
 }
 
-ENSEMBLE_SUBDIR: Dict[str, str] = {
-    t: f"ensemble_output_{t}" for t in TASK_CONFIGS
-}
-
 DEFAULT_EXPL_KEYWORDS: List[str] = [
     "progression", "progress", "stable", "stabil", "terminal",
     "death", "metast", "response", "improve", "worsen",
@@ -97,14 +94,6 @@ def load_json(path: Path) -> Any:
             return json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         return None
-
-
-def load_case_ids(path: Path) -> List[str]:
-    """Load a JSON list of case IDs."""
-    data = load_json(path)
-    if data is None or not isinstance(data, list):
-        raise SystemExit(f"case_ids file must be a JSON list: {path}")
-    return [str(x) for x in data]
 
 
 def get_nested(obj: Any, keys: Tuple[str, ...]) -> Any:
@@ -132,25 +121,73 @@ def normalize_label(label: Any, task: str) -> Optional[str]:
 
 
 # ---------------------------------------------------------------------------
-# GT / prediction extraction
+# S1 CSV loading
 # ---------------------------------------------------------------------------
 
-def get_gt_label(task: str, obj: dict) -> Optional[str]:
-    """Extract ground-truth label from a prognosis_new.json object."""
-    cfg = TASK_CONFIGS[task]
-    section = obj if cfg.gt_section is None else obj.get(cfg.gt_section, {})
-    if not isinstance(section, dict):
-        return None
-    return normalize_label(section.get(cfg.gt_key), task)
+@dataclass
+class S1Data:
+    """Parsed contents of an S1-format CSV."""
+    train_ids: List[str]
+    test_ids: List[str]
+    gt_by_id: Dict[str, str]
+    pred_by_id: Dict[str, str]
+    split_by_id: Dict[str, str]
 
 
-def get_pred_label(task: str, obj: dict) -> Optional[str]:
-    """Extract prediction label from a prognosis_prediction_output.json object."""
-    cfg = TASK_CONFIGS[task]
-    section = obj.get(cfg.pred_section, {})
-    if not isinstance(section, dict):
-        return None
-    return normalize_label(section.get(cfg.pred_key), task)
+def load_s1_csv(path: Path, task: str) -> S1Data:
+    """Load an S1 CSV and return all parsed fields."""
+    train_ids: List[str] = []
+    test_ids: List[str] = []
+    gt_by_id: Dict[str, str] = {}
+    pred_by_id: Dict[str, str] = {}
+    split_by_id: Dict[str, str] = {}
+    seen: set = set()
+    with path.open("r", encoding="utf-8", newline="") as f:
+        for row in csv.DictReader(f):
+            cid = str(row.get("case_id") or "").strip()
+            split = str(row.get("split") or "").strip().lower()
+            if not cid or split not in ("train", "test"):
+                continue
+            split_by_id[cid] = split
+            gt = normalize_label(row.get("gt"), task)
+            if gt is not None:
+                gt_by_id[cid] = gt
+            pred = normalize_label(row.get("prediction"), task)
+            if pred is not None:
+                pred_by_id[cid] = pred
+            if cid not in seen:
+                seen.add(cid)
+                (train_ids if split == "train" else test_ids).append(cid)
+    return S1Data(
+        train_ids=train_ids,
+        test_ids=test_ids,
+        gt_by_id=gt_by_id,
+        pred_by_id=pred_by_id,
+        split_by_id=split_by_id,
+    )
+
+
+# ---------------------------------------------------------------------------
+# CSV writing helper
+# ---------------------------------------------------------------------------
+
+def write_eval_csv(path: Path, rows: List[Dict]) -> None:
+    """Write a list of row dicts to CSV, auto-detecting fieldnames."""
+    if not rows:
+        return
+    path.parent.mkdir(parents=True, exist_ok=True)
+    seen: set = set()
+    fieldnames: List[str] = []
+    for row in rows:
+        for k in row:
+            if k not in seen:
+                seen.add(k)
+                fieldnames.append(k)
+    with path.open("w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
+        w.writeheader()
+        w.writerows(rows)
+    print(f"  wrote: {path}")
 
 
 # ---------------------------------------------------------------------------

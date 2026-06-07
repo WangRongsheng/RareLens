@@ -19,7 +19,6 @@ Usage:
 from __future__ import annotations
 
 import argparse
-import csv
 import json
 import sys
 from pathlib import Path
@@ -32,35 +31,11 @@ if str(THIS_DIR) not in sys.path:
 if str(TRAINING_DIR) not in sys.path:
     sys.path.insert(0, str(TRAINING_DIR))
 
-from data_io import TASK_CONFIGS, load_json, normalize_label, list_model_dirs
+from data_io import TASK_CONFIGS, load_json, load_s1_csv, normalize_label, list_model_dirs, write_eval_csv
 from metrics import (
     TASKS, ORDINAL_LABELS,
     evaluate_task, compute_all3_accuracy,
 )
-
-
-# ---------------------------------------------------------------------------
-# Data loading
-# ---------------------------------------------------------------------------
-
-def _load_gt_from_s1(path: Path, task: str):
-    """Load GT and split info from S1 CSV."""
-    train_ids, test_ids = [], []
-    gt: Dict[str, str] = {}
-    with path.open("r", encoding="utf-8", newline="") as f:
-        for row in csv.DictReader(f):
-            cid = str(row.get("case_id", "")).strip()
-            split = str(row.get("split", "")).strip().lower()
-            if not cid:
-                continue
-            label = normalize_label(row.get("gt"), task)
-            if label is not None:
-                gt[cid] = label
-            if split == "train":
-                train_ids.append(cid)
-            elif split == "test":
-                test_ids.append(cid)
-    return sorted(set(train_ids)), sorted(set(test_ids)), gt
 
 
 def _load_llm_predictions(
@@ -115,22 +90,6 @@ def _print_row(name: str, m: dict):
     print("  " + " ".join(cols))
 
 
-def _write_csv(path: Path, rows: List[dict]):
-    if not rows:
-        return
-    path.parent.mkdir(parents=True, exist_ok=True)
-    seen = set()
-    fieldnames = []
-    for row in rows:
-        for k in row:
-            if k not in seen:
-                seen.add(k)
-                fieldnames.append(k)
-    with path.open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
-        w.writeheader()
-        w.writerows(rows)
-    print(f"  wrote: {path}")
 
 
 # ---------------------------------------------------------------------------
@@ -185,14 +144,15 @@ def main() -> None:
             print(f"[{task}] S1 CSV not found: {s1_path}, skipping")
             continue
 
-        s1_train, s1_test, gt = _load_gt_from_s1(s1_path, task)
+        s1 = load_s1_csv(s1_path, task)
 
         if args.split == "train":
-            eval_ids = s1_train
+            eval_ids = s1.train_ids
         elif args.split == "test":
-            eval_ids = s1_test if s1_test else s1_train
+            eval_ids = s1.test_ids if s1.test_ids else s1.train_ids
         else:
-            eval_ids = sorted(set(s1_train + s1_test))
+            eval_ids = sorted(set(s1.train_ids + s1.test_ids))
+        gt = s1.gt_by_id
 
         if train_allow or test_allow:
             allowed = train_allow | test_allow
@@ -229,9 +189,9 @@ def main() -> None:
         for task in TASKS:
             cfg = TASK_CONFIGS[task]
             s1_path = rare_root / cfg.s1_csv[0] / cfg.s1_csv[1]
-            _, _, gt = _load_gt_from_s1(s1_path, task)
-            gt_by_task[task] = gt
-            task_ids = set(gt.keys())
+            s1 = load_s1_csv(s1_path, task)
+            gt_by_task[task] = s1.gt_by_id
+            task_ids = set(s1.gt_by_id.keys())
             common_ids = task_ids if common_ids is None else common_ids & task_ids
 
         if train_allow or test_allow:
@@ -251,7 +211,7 @@ def main() -> None:
     if args.out_dir:
         out_dir = Path(args.out_dir)
         for task, rows in all_csv_rows.items():
-            _write_csv(out_dir / f"eval_llm_{task}_{args.split}.csv", rows)
+            write_eval_csv(out_dir / f"eval_llm_{task}_{args.split}.csv", rows)
 
 
 if __name__ == "__main__":

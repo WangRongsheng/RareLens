@@ -34,6 +34,8 @@ import pandas as pd
 THIS_DIR = Path(__file__).resolve().parent
 if str(THIS_DIR) not in sys.path:
     sys.path.insert(0, str(THIS_DIR))
+if "metrics" in sys.modules and not sys.modules["metrics"].__file__.startswith(str(THIS_DIR)):
+    del sys.modules["metrics"]
 
 from metrics import evaluate_all_metrics
 

@@ -26,7 +26,7 @@ THIS_DIR = Path(__file__).resolve().parent
 if str(THIS_DIR) not in sys.path:
     sys.path.insert(0, str(THIS_DIR))
 
-from data_io import TASK_CONFIGS, load_json, get_nested, normalize_label
+from data_io import TASK_CONFIGS, load_json, load_s1_csv, get_nested, normalize_label
 from ensemble_utils import encode_features, extract_text_features
 
 
@@ -143,26 +143,6 @@ def _build_features_for_case(
     return row
 
 
-# ---------------------------------------------------------------------------
-# S1 CSV I/O
-# ---------------------------------------------------------------------------
-
-def _read_s1_csv(path: Path, task: str) -> Tuple[Dict[str, str], Dict[str, str]]:
-    split_by: Dict[str, str] = {}
-    gt_by: Dict[str, str] = {}
-    with path.open("r", encoding="utf-8", newline="") as f:
-        for row in csv.DictReader(f):
-            cid = str(row.get("case_id") or "").strip()
-            split = str(row.get("split") or "").strip().lower()
-            if not cid or split not in ("train", "test"):
-                continue
-            split_by[cid] = split
-            gt = normalize_label(row.get("gt"), task)
-            if gt is not None:
-                gt_by[cid] = gt
-    return split_by, gt_by
-
-
 def _write_s1_csv(path: Path, rows: List[Dict]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="") as f:
@@ -199,7 +179,9 @@ def infer_task(
     if not bundle_path.is_file():
         raise SystemExit(f"[{task}] missing bundle: {bundle_path}")
 
-    split_by, gt_by = _read_s1_csv(s1_csv, task)
+    s1 = load_s1_csv(s1_csv, task)
+    split_by = s1.split_by_id
+    gt_by = s1.gt_by_id
     task_train = [cid for cid in train_ids if cid in gt_by]
     task_test = [cid for cid in test_ids if cid in gt_by]
     all_ids = task_train + task_test

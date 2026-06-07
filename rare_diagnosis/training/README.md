@@ -1,4 +1,4 @@
-# RareDiagnosis — Diagnosis Ranking Module
+# RareDiagnosis
 
 ## Overview
 

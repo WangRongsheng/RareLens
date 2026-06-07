@@ -24,12 +24,20 @@ import argparse
 import csv
 import math
 import os
+import sys
 from pathlib import Path
 from typing import Any, Dict, List, Tuple, Set
 from collections import Counter
 import multiprocessing as mp
 
 import numpy as np
+
+THIS_DIR = Path(__file__).resolve().parent
+if str(THIS_DIR) not in sys.path:
+    sys.path.insert(0, str(THIS_DIR))
+# Ensure we import data_io from this package, not a same-named sibling module
+if "data_io" in sys.modules and not sys.modules["data_io"].__file__.startswith(str(THIS_DIR)):
+    del sys.modules["data_io"]
 
 try:
     import torch

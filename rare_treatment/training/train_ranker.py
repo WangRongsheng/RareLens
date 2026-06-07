@@ -25,6 +25,8 @@ from sklearn.model_selection import GroupKFold
 THIS_DIR = Path(__file__).resolve().parent
 if str(THIS_DIR) not in sys.path:
     sys.path.insert(0, str(THIS_DIR))
+if "data_io" in sys.modules and not sys.modules["data_io"].__file__.startswith(str(THIS_DIR)):
+    del sys.modules["data_io"]
 
 from data_io import load_features_csv, export_ranked_json, save_predictions_csv
 from eval.metrics import hit_success_rates, format_hit_table

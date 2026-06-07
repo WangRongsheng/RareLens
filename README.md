@@ -3,7 +3,6 @@
 <!-- TODO[badges]: Add links once paper/dataset/project page are finalized.
 <div style='display:flex; gap: 0.6rem; '>
 <a href='ARXIV_LINK'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
-<a href='HUGGINGFACE_DATASET_LINK'><img src='https://img.shields.io/badge/RareBench-Dataset-blue'></a>
 <a href='PROJECT_HOMEPAGE'><img src='https://img.shields.io/badge/Project-Homepage-pink'></a>
 <a href='LICENSE'><img src='https://img.shields.io/badge/License-Apache--2.0-lightgrey'></a>
 </div>
@@ -85,26 +84,29 @@ For reproducibility, we release a 500-case demo subset ([`data_500/`](data_500/)
 
 ## Reproduction Instructions
 
-We provide two entry points per module:
-- **Training scripts** under `rare_<task>/training/` — reproduce the models reported in the paper with fixed hyperparameters.
-- **Inference scripts** (`infer_*.py`) — run trained models on new data.
+Each module provides a one-click training pipeline and a standalone inference script.
 
 ### Alert
 
-Fine-tuned Qwen3-32B via [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) (LoRA SFT). Model weights are not released.
+Fine-tuned Qwen3-32B via [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) (LoRA SFT). 
+
+**Inference:**
 
 ```bash
-python -m rare_alert.training.eval.eval_alert \
-    --output-root /data/pipeline_output \
-    --rare-dir    /data/gt/rare \
-    --nonrare-dir /data/gt/nonrare \
-    --threshold 30 \
-    --out-json    /data/results/alert_metrics.json
+python -c "
+from rare_alert.training.inference import RiskStage, RiskStageConfig
+cfg = RiskStageConfig(base_url='http://localhost:8000/v1', api_key='EMPTY', model='rare_alert')
+stage = RiskStage(cfg)
+result = stage.run_sync(open('/data/case/primary_consultation.json').read())
+print(result)
+"
 ```
 
 See [`rare_alert/training/README.md`](rare_alert/training/README.md) for details.
 
 ### Diagnosis
+
+**Training:**
 
 ```bash
 bash rare_diagnosis/training/reproduce_diag.sh \
@@ -117,9 +119,21 @@ bash rare_diagnosis/training/reproduce_diag.sh \
     --test-ids /data/splits/test.json
 ```
 
+**Inference:**
+
+```bash
+python -m rare_diagnosis.training.infer_ranker \
+    --input-dir /data/features \
+    --model-dir /data/models/primary/models \
+    --config rare_diagnosis/training/best_hyperopt_config_primary.json \
+    --out-dir /data/inference_output
+```
+
 See [`rare_diagnosis/training/README.md`](rare_diagnosis/training/README.md) for details.
 
 ### Treatment
+
+**Training:**
 
 ```bash
 bash rare_treatment/training/run_pipeline.sh \
@@ -128,53 +142,41 @@ bash rare_treatment/training/run_pipeline.sh \
     --llm-output-root /data/treatment_llm
 ```
 
+**Inference:**
+
+```bash
+python -m rare_treatment.training.infer_ranker \
+    --model-dir /data/models/models \
+    --test-csv /data/features/features_test.csv \
+    --out-dir /data/inference_output
+```
+
 See [`rare_treatment/training/README.md`](rare_treatment/training/README.md) for details.
 
 ### Prognosis
+
+**Training :**
 
 ```bash
 bash rare_prognosis/training/run_pipeline.sh \
     --python /path/to/python \
     --case-root /data/case_output \
-    --llm-root /data/llm \
-    --rareprognois-root /data/RarePrognois
+    --llm-root /data/llm
+```
+
+**Inference:**
+
+```bash
+python -m rare_prognosis.training.infer_models \
+    --rareprognosis-root /data/rareprognosis \
+    --models-root /data/models \
+    --train-ids /data/dataset/train_case_ids.json \
+    --test-ids /data/dataset/test_case_ids.json \
+    --models-dir /data/trained_models \
+    --task all
 ```
 
 See [`rare_prognosis/training/README.md`](rare_prognosis/training/README.md) for details.
-
-### Standalone Inference
-
-After training (or using pre-trained weights), run inference on new data:
-
-```bash
-# Alert
-python -c "
-from rare_alert.training.inference import RiskStage, RiskStageConfig
-cfg = RiskStageConfig(base_url='http://localhost:8000/v1', api_key='EMPTY', model='rare_alert')
-stage = RiskStage(cfg)
-result = stage.run_sync(open('/data/case/primary_consultation.json').read())
-print(result)
-"
-
-# Diagnosis
-python -m rare_diagnosis.training.infer_ranker \
-    --input-dir /data/features \
-    --model-dir /data/models/primary/models \
-    --config rare_diagnosis/training/best_hyperopt_config_primary.json \
-    --out-dir /data/inference_output
-
-# Treatment
-python -m rare_treatment.training.infer_ranker \
-    --input-dir /data/features \
-    --model-dir /data/models \
-    --out-dir /data/inference_output
-
-# Prognosis
-python -m rare_prognosis.training.infer_models \
-    --input-dir /data/features \
-    --model-dir /data/models \
-    --out-dir /data/inference_output
-```
 
 ## Citation
 

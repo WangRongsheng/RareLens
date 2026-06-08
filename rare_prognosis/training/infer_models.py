@@ -16,11 +16,19 @@ from __future__ import annotations
 
 import argparse
 import csv
+import logging
 import pickle
 import sys
 import time
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%H:%M:%S",
+)
+logger = logging.getLogger(__name__)
 
 THIS_DIR = Path(__file__).resolve().parent
 if str(THIS_DIR) not in sys.path:
@@ -242,10 +250,11 @@ def infer_task(
         return (c / t) if t else 0.0, c, t
 
     test_acc, test_c, test_n = _acc(task_test)
-    print(
-        f"[{task}] train={len(task_train)} test={len(task_test)} "
-        f"missing_feat={missing_feat} elapsed={time.time() - t0:.1f}s | "
-        f"test_acc={test_acc:.6f} ({test_c}/{test_n})"
+    logger.info(
+        "[%s] train=%d test=%d missing_feat=%d elapsed=%.1fs | test_acc=%.6f (%d/%d)",
+        task, len(task_train), len(task_test),
+        missing_feat, time.time() - t0,
+        test_acc, test_c, test_n,
     )
 
     if no_write:
@@ -268,7 +277,7 @@ def infer_task(
             correct=correct, method=bundle_path.stem,
         ))
     _write_s1_csv(s1_csv, out_rows)
-    print(f"[OK] wrote: {s1_csv}")
+    logger.info("[OK] wrote: %s", s1_csv)
 
 
 # ---------------------------------------------------------------------------
@@ -302,6 +311,7 @@ def main() -> None:
             test_ids=test_ids,
             no_write=args.no_write,
         )
+    logger.info("Finished. Inference complete.")
 
 
 if __name__ == "__main__":

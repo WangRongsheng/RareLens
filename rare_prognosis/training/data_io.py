@@ -62,7 +62,7 @@ TASK_CONFIGS: Dict[str, TaskConfig] = {
         pred_section="functional_status",
         pred_key="status",
         synonyms={},
-        s1_csv=("funcational", "S1_stacking_gbdt.csv"),
+        s1_csv=("functional", "S1_stacking_gbdt.csv"),
         bundle="functional_status_C2_stacking_gbdt.pkl",
     ),
     "symptom_burden": TaskConfig(
@@ -72,7 +72,7 @@ TASK_CONFIGS: Dict[str, TaskConfig] = {
         pred_section="symptom_burden",
         pred_key="burden",
         synonyms={},
-        s1_csv=("symptom", "S1_catboost.csv"),
+        s1_csv=("symptom", "S1_stacking_gbdt.csv"),
         bundle="symptom_burden_C2_stacking_gbdt.pkl",
     ),
 }

@@ -22,8 +22,7 @@ We fine-tune Qwen3-32B using [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Fa
 [`inference.py`](inference.py) implements `RiskStage`, a stateless pipeline for API serving (no file I/O).
 
 ```python
-from core_tool.config import RiskStageConfig
-from rare_alert.training.inference import RiskStage
+from rare_alert.training.inference import RiskStage, RiskStageConfig
 
 cfg = RiskStageConfig(
     base_url="http://localhost:8000/v1",
@@ -37,3 +36,11 @@ result = stage.run_sync(payload_json_str)
 ```
 
 Supports guided JSON (vLLM), streaming, and parse-failure retries. For async usage: `await stage.run(payload_json_str)`.
+
+## File Structure
+
+| File | Description |
+|------|-------------|
+| [`inference.py`](inference.py) | `RiskStage` pipeline, config classes, prompt template, guided JSON schema |
+| [`llm_client.py`](llm_client.py) | OpenAI-compatible LLM client with retry, streaming, and `.env` loading |
+| [`output_parser.py`](output_parser.py) | Multi-strategy JSON extraction and risk output parsing |

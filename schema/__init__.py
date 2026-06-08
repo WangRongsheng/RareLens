@@ -1,36 +1,5 @@
-"""Stage-organized schema package with backward-compatible re-exports."""
+"""Stage-organized schema package — Input/Output format definitions for each pipeline stage."""
 
-from .diagnosis import (
-    DiagnosisFollowUpConsultationLLMOutput,
-    DiagnosisLLMOutputs,
-    DiagnosisLlmModelOutput,
-    DiagnosisPrimaryConsultationLLMOutput,
-    DiagnosisReason,
-    DiagnosisRerankBundle,
-    DiagnosisRerankOutput,
-    DiagnosisStagePrediction,
-    DiagnosisTestRecommendationModelOutput,
-    DiagnosisTestScoreItem,
-    FirstVisitDiagnosisOutput,
-    FollowUpDiagnosisOutput,
-    FollowUpInput,
-    TestRecommendation,
-)
-from .diagnosis_config import DiagnosisConfig
-from .llm_meta import LLMCallRecord, ParsedLlmJson, RawLlmTurn, RiskLlmPayload
-from .pipeline import PatientCase, PipelineCase
-from .prognosis import (
-    ClinicalEvent,
-    FunctionalStatus,
-    OverallOutcome,
-    PrognosisAggregateOutput,
-    PrognosisInput,
-    PrognosisPredictionOutput,
-    PrognosisTarget,
-    SymptomBurden,
-    validate_prognosis_prediction_output,
-)
-from .risk import InsightItem, RiskInput, RiskOutput
 from .shared import (
     BasicInformation,
     DiagnosisInfo,
@@ -39,68 +8,56 @@ from .shared import (
     PhysicalExamination,
     TreatmentHistory,
 )
+from .risk import InsightItem, RiskInput, RiskOutput
+from .diagnosis import (
+    DiagnosisReason,
+    FirstVisitDiagnosisOutput,
+    FollowUpDiagnosisOutput,
+    FollowUpInput,
+    PrimaryInput,
+    TestRecommendation,
+)
 from .treatment import (
-    PerModelTreatmentOutput,
-    RareTreatmentBlock,
-    RareTreatmentRankedIntermediate,
-    RareTreatmentRankedItem,
-    TreatmentAggregateOutput,
     TreatmentGoal,
     TreatmentInput,
     TreatmentItem,
-    TreatmentMatchedRecommendation,
-    TreatmentPlanLlmOutput,
-    TreatmentScoreItem,
-    TreatmentScoreOutput,
-    TreatmentScoreOverallEvaluation,
-    validate_rare_treatment_output,
-    validate_rare_treatment_ranked_intermediate,
-    validate_treatment_plan_llm_output,
-    validate_treatment_score_output,
+    TreatmentOutput,
+)
+from .prognosis import (
+    ClinicalEvent,
+    FunctionalStatus,
+    OverallOutcome,
+    PrognosisInput,
+    PrognosisPredictionOutput,
+    PrognosisTarget,
+    SymptomBurden,
 )
 
 __all__ = [
+    # shared
     "BasicInformation",
     "MedicalHistory",
     "PhysicalExamination",
     "ExaminationItem",
     "DiagnosisInfo",
     "TreatmentHistory",
+    # risk (alert)
     "RiskInput",
     "InsightItem",
     "RiskOutput",
+    # diagnosis
+    "PrimaryInput",
     "FollowUpInput",
     "DiagnosisReason",
     "TestRecommendation",
     "FirstVisitDiagnosisOutput",
     "FollowUpDiagnosisOutput",
-    "DiagnosisPrimaryConsultationLLMOutput",
-    "DiagnosisFollowUpConsultationLLMOutput",
-    "DiagnosisLlmModelOutput",
-    "DiagnosisTestScoreItem",
-    "DiagnosisTestRecommendationModelOutput",
-    "DiagnosisLLMOutputs",
-    "DiagnosisRerankBundle",
-    "DiagnosisStagePrediction",
-    "DiagnosisRerankOutput",
-    "DiagnosisConfig",
+    # treatment
     "TreatmentInput",
     "TreatmentGoal",
     "TreatmentItem",
-    "TreatmentPlanLlmOutput",
-    "TreatmentAggregateOutput",
-    "TreatmentScoreItem",
-    "TreatmentScoreOverallEvaluation",
-    "TreatmentScoreOutput",
-    "TreatmentMatchedRecommendation",
-    "PerModelTreatmentOutput",
-    "RareTreatmentRankedItem",
-    "RareTreatmentBlock",
-    "RareTreatmentRankedIntermediate",
-    "validate_treatment_plan_llm_output",
-    "validate_rare_treatment_ranked_intermediate",
-    "validate_rare_treatment_output",
-    "validate_treatment_score_output",
+    "TreatmentOutput",
+    # prognosis
     "PrognosisInput",
     "PrognosisTarget",
     "OverallOutcome",
@@ -108,12 +65,4 @@ __all__ = [
     "SymptomBurden",
     "ClinicalEvent",
     "PrognosisPredictionOutput",
-    "PrognosisAggregateOutput",
-    "validate_prognosis_prediction_output",
-    "PatientCase",
-    "PipelineCase",
-    "RawLlmTurn",
-    "ParsedLlmJson",
-    "RiskLlmPayload",
-    "LLMCallRecord",
 ]

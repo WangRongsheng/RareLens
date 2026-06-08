@@ -2,17 +2,22 @@
 
 from __future__ import annotations
 
-from typing import Any, Dict, List, Optional
+from typing import List
 
-from pydantic import BaseModel, ConfigDict, ValidationError
+from pydantic import BaseModel, ConfigDict
 
 from .treatment import TreatmentInput
 from .shared import TreatmentHistory
 
 
+# ── Input ───────────────────────────────────────────────────────────────────
+
 class PrognosisInput(TreatmentInput):
+    """Prognosis stage input (TreatmentInput + treatment history)."""
     treatment_information: List[TreatmentHistory]
 
+
+# ── Building blocks ─────────────────────────────────────────────────────────
 
 class PrognosisTarget(BaseModel):
     confidence_score: int
@@ -38,8 +43,10 @@ class ClinicalEvent(BaseModel):
     explanation: str
 
 
+# ── Output ──────────────────────────────────────────────────────────────────
+
 class PrognosisPredictionOutput(BaseModel):
-    """Canonical prognosis final output schema."""
+    """LLM output for prognosis prediction."""
 
     model_config = ConfigDict(extra="forbid")
 
@@ -47,24 +54,6 @@ class PrognosisPredictionOutput(BaseModel):
     functional_status: FunctionalStatus
     symptom_burden: SymptomBurden
     clinical_events: List[ClinicalEvent]
-
-
-class PrognosisAggregateOutput(BaseModel):
-    overall_outcome: OverallOutcome
-    functional_status: FunctionalStatus
-    symptom_burden: SymptomBurden
-    clinical_events: List[ClinicalEvent]
-    raw_llm_outputs: Optional[List[Dict[str, Any]]] = None
-
-
-def validate_prognosis_prediction_output(
-    data: Dict[str, Any], *, source: Optional[str] = None
-) -> PrognosisPredictionOutput:
-    try:
-        return PrognosisPredictionOutput.model_validate(data)
-    except ValidationError as exc:
-        suffix = f" ({source})" if source else ""
-        raise ValueError(f"prognosis_prediction_output does not match schema{suffix}: {exc}") from exc
 
 
 __all__ = [
@@ -75,6 +64,4 @@ __all__ = [
     "SymptomBurden",
     "ClinicalEvent",
     "PrognosisPredictionOutput",
-    "PrognosisAggregateOutput",
-    "validate_prognosis_prediction_output",
 ]

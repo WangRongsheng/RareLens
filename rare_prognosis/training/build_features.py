@@ -20,9 +20,17 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import logging
 import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%H:%M:%S",
+)
+logger = logging.getLogger(__name__)
 
 THIS_DIR = Path(__file__).resolve().parent
 if str(THIS_DIR) not in sys.path:
@@ -116,7 +124,7 @@ def build_task_features(
         raise SystemExit(f"[{task}] no model dirs found under {models_root}")
 
     base_model_names = sorted(d.name for d in model_dirs)
-    print(f"[{task}] models={len(base_model_names)}")
+    logger.info("[%s] models=%d", task, len(base_model_names))
 
     preds, expls = load_preds_and_expls(model_dirs, all_ids, task)
     labels = build_label_list(gt_by_id, preds, train_ids)
@@ -175,7 +183,7 @@ def build_task_features(
             w.writerow(["case_id", "gt_label"] + col_names)
             for i, cid in enumerate(ids):
                 w.writerow([cid, gt_by_id.get(cid, "")] + X[i])
-        print(f"  wrote {path} ({len(ids)} rows)")
+        logger.info("  wrote %s (%d rows)", path, len(ids))
 
     _write_csv(task_dir / "features.train.csv", train_ids_gt, X_train)
     if test_ids_gt:
@@ -191,7 +199,7 @@ def build_task_features(
     (task_dir / "meta.json").write_text(
         json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-    print(f"  wrote meta: {task_dir / 'meta.json'}")
+    logger.info("  wrote meta: %s", task_dir / "meta.json")
 
 
 # ---------------------------------------------------------------------------
@@ -218,7 +226,7 @@ def main() -> None:
         raise SystemExit(f"train ids empty: {args.train_ids}")
 
     tasks = list(TASK_CONFIGS) if args.task == "all" else [args.task]
-    for task in tasks:
+    for i, task in enumerate(tasks, 1):
         cfg = TASK_CONFIGS[task]
         s1_path = rare_root / cfg.s1_csv[0] / cfg.s1_csv[1]
         if not s1_path.is_file():
@@ -227,7 +235,7 @@ def main() -> None:
         tr = [cid for cid in s1.train_ids if cid in train_allow]
         te = [cid for cid in s1.test_ids if cid in test_allow]
         gt = {cid: lbl for cid, lbl in s1.gt_by_id.items() if cid in train_allow or cid in test_allow}
-        print(f"[{task}] train={len(tr)} test={len(te)} gt={len(gt)}")
+        logger.info("[%s] train=%d test=%d gt=%d", task, len(tr), len(te), len(gt))
         build_task_features(
             task=task,
             models_root=models_root,
@@ -237,6 +245,9 @@ def main() -> None:
             expl_keywords=list(args.expl_keywords),
             out_dir=out_dir,
         )
+        logger.info("[%s] done (%d/%d)", task, i, len(tasks))
+
+    logger.info("Finished. Features saved to %s", out_dir)
 
 
 if __name__ == "__main__":

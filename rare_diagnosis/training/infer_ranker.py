@@ -136,8 +136,7 @@ def infer(args):
         with open(args.config, "r", encoding="utf-8") as f:
             config = json.load(f)
         feat_cols = config.get("feature_names")
-        logger.info("Loaded config: %s (%d features)", args.config,
-                     len(feat_cols) if feat_cols else 0)
+        logger.info("Loaded config: %s (%d features)", args.config, len(feat_cols) if feat_cols else 0)
 
     # Load data (try features.test.csv first, then features.csv)
     df = None
@@ -156,7 +155,7 @@ def infer(args):
         feat_cols = [f for f in feat_cols if f in available]
     else:
         feat_cols = [c for c in df.columns if c not in META_COLS]
-    logger.info("Feature count: %d", len(feat_cols))
+    logger.info("  %d rows, %d features", len(df), len(feat_cols))
 
     # Load fold models
     models = load_fold_models(args.model_dir)
@@ -166,16 +165,18 @@ def infer(args):
     X = df[feat_cols]
 
     # Ensemble prediction (average across folds)
+    logger.info("Running inference with %d model(s)...", len(models))
     preds = np.zeros(len(df))
     is_booster = isinstance(models[0], xgb.Booster)
     if is_booster:
         dmat = xgb.DMatrix(X)
-    for model in models:
+    for i, model in enumerate(models, 1):
         if is_booster:
             preds += model.predict(dmat)
         else:
             # XGBRanker (sklearn API)
             preds += model.predict(X)
+        logger.info("  Model %d/%d predicted", i, len(models))
     preds /= len(models)
 
     df = df.copy()
@@ -246,7 +247,7 @@ def infer(args):
         os.path.join(args.out_dir, "test_predictions_ranked.csv"), index=False
     )
 
-    logger.info("Done. Results saved to %s", args.out_dir)
+    logger.info("Finished. Results saved to %s", args.out_dir)
 
 
 if __name__ == "__main__":

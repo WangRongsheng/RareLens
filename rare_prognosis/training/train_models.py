@@ -1,8 +1,10 @@
 """
 Train prognosis stacking models (GBDT) from feature CSVs built by build_features.py.
 
-Training uses 5-fold StratifiedKFold OOF (out-of-fold) for evaluation,
-then fits a final model on ALL training data for the deployment pkl bundle.
+Training uses K-fold StratifiedKFold OOF (out-of-fold) for evaluation.
+All K fold models are saved into the deployment pkl bundle; downstream
+inference (infer_models.py) averages their predicted probabilities for
+ensemble prediction.
 
 Best parameters (fixed, no search):
   overall_outcome   -> GradientBoostingClassifier(random_state=seed)
@@ -21,11 +23,19 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import logging
 import pickle
 import sys
 from collections import Counter
 from pathlib import Path
 from typing import Any, Dict, List, Tuple
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%H:%M:%S",
+)
+logger = logging.getLogger(__name__)
 
 import numpy as np
 from sklearn.model_selection import StratifiedKFold
@@ -185,7 +195,7 @@ def train_task(
             X_test = np.asarray(X_test_list)
 
     model_factory = _make_gbdt_factory(seed)
-    print(f"[{task}] train={len(y_train)} test={len(test_ids)} features={X_train.shape[1]}")
+    logger.info("[%s] train=%d test=%d features=%d", task, len(y_train), len(test_ids), X_train.shape[1])
 
     # --- OOF training: save all fold models ---
     oof_pred, test_pred, fold_models, class_list = _cv_predict(
@@ -196,15 +206,15 @@ def train_task(
     # OOF train accuracy
     oof_correct = sum(1 for p, g in zip(oof_pred, y_train) if p == g)
     oof_acc = oof_correct / len(y_train)
-    print(f"  OOF train acc: {oof_acc:.6f} ({oof_correct}/{len(y_train)})")
+    logger.info("  OOF train acc: %.6f (%d/%d)", oof_acc, oof_correct, len(y_train))
 
     # Test accuracy (if available)
     if test_pred and y_test:
         test_correct = sum(1 for p, g in zip(test_pred, y_test) if p == g)
         test_acc = test_correct / len(y_test)
-        print(f"  Test acc:      {test_acc:.6f} ({test_correct}/{len(y_test)})")
+        logger.info("  Test acc:      %.6f (%d/%d)", test_acc, test_correct, len(y_test))
 
-    print(f"  Saving {len(fold_models)} fold model(s)")
+    logger.info("  Saving %d fold model(s)", len(fold_models))
 
     from datetime import datetime
     bundle_meta = {
@@ -220,7 +230,7 @@ def train_task(
     }
     out_path = out_dir / TASK_BUNDLE_NAME[task]
     _write_bundle(out_path, model=fold_models, meta=bundle_meta)
-    print(f"[OK] {task} -> {out_path}")
+    logger.info("[OK] %s -> %s", task, out_path)
 
 
 # ---------------------------------------------------------------------------
@@ -246,6 +256,7 @@ def main() -> None:
             seed=args.seed,
             cv_folds=args.cv_folds,
         )
+    logger.info("Finished. Models saved to %s", args.out_dir)
 
 
 if __name__ == "__main__":

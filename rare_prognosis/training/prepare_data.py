@@ -10,7 +10,7 @@ Inputs:
   - llm/<model>/<case_id>/prognosis_prediction_output.json
 
 Outputs (into --out-dir):
-  rareprognosis/{overall,funcational,symptom}/S1_*.csv
+  rareprognosis/{overall,functional,symptom}/S1_*.csv
   models/<model>/<case_id>/prognosis_prediction_output.json
   dataset/train_case_ids.json
   dataset/test_case_ids.json
@@ -26,10 +26,18 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import logging
 import shutil
 import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%H:%M:%S",
+)
+logger = logging.getLogger(__name__)
 
 THIS_DIR = Path(__file__).resolve().parent
 if str(THIS_DIR) not in sys.path:
@@ -110,14 +118,14 @@ def main() -> None:
     case_ids = sorted(case_ids_set)
     if not case_ids:
         raise SystemExit("No case IDs found")
-    print(f"Found {len(case_ids)} cases: {case_ids}")
-    print(f"Found {len(model_dirs)} models: {[m.name for m in model_dirs]}")
+    logger.info("Found %d cases: %s", len(case_ids), case_ids)
+    logger.info("Found %d models: %s", len(model_dirs), [m.name for m in model_dirs])
 
     # 1. Extract GT labels from prognosis_new.json
     gt = _load_gt_from_prognosis_new(case_root, case_ids)
 
     for task in gt:
-        print(f"  [{task}] GT labels: {len(gt[task])}")
+        logger.info("  [%s] GT labels: %d", task, len(gt[task]))
 
     # 2. Create S1 CSVs under rareprognosis/
     rare_root = out_dir / "rareprognosis"
@@ -125,7 +133,7 @@ def main() -> None:
         subdir, fname = cfg.s1_csv
         s1_path = rare_root / subdir / fname
         _write_s1_csv(s1_path, case_ids, gt[task], split="train")
-        print(f"  S1 CSV: {s1_path}")
+        logger.info("  S1 CSV: %s", s1_path)
 
     # 3. Set up models dir: <out_dir>/models/<model>/<case_id>/prognosis_prediction_output.json
     models_out = out_dir / "models"
@@ -139,7 +147,7 @@ def main() -> None:
             dst = dst_dir / "prognosis_prediction_output.json"
             if not dst.exists():
                 shutil.copy2(src, dst)
-    print(f"Models output ready: {models_out}")
+    logger.info("Models output ready: %s", models_out)
 
     # 4. Create train/test case ID JSONs
     # For demo: all cases as both train and test (smoke test)
@@ -149,15 +157,8 @@ def main() -> None:
         json.dump(case_ids, f, indent=2)
     with (dataset_dir / "test_case_ids.json").open("w", encoding="utf-8") as f:
         json.dump(case_ids, f, indent=2)
-    print(f"Dataset splits: {dataset_dir} (all {len(case_ids)} cases as train+test)")
-
-    # Summary
-    print(f"\n{'='*60}")
-    print("Prepared data summary:")
-    print(f"  rareprognosis root: {rare_root}")
-    print(f"  models root:        {models_out}")
-    print(f"  dataset:            {dataset_dir}")
-    print(f"{'='*60}")
+    logger.info("Dataset splits: %s (all %d cases as train+test)", dataset_dir, len(case_ids))
+    logger.info("Finished. Prepared data saved to %s", out_dir)
 
 
 if __name__ == "__main__":

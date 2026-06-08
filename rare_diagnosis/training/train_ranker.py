@@ -30,7 +30,7 @@ from sklearn.model_selection import GroupKFold
 
 logging.basicConfig(
     level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s",
+    format="%(asctime)s [%(levelname)s] %(message)s",
     datefmt="%H:%M:%S",
 )
 logger = logging.getLogger(__name__)
@@ -140,9 +140,9 @@ def train(args):
     # Load data
     train_path = os.path.join(args.input_dir, "features.train.csv")
     test_path = os.path.join(args.input_dir, "features.test.csv")
-    logger.info(f"Loading: {train_path}")
+    logger.info("Loading: %s", train_path)
     df_train = load_data(train_path)
-    logger.info(f"Loading: {test_path}")
+    logger.info("Loading: %s", test_path)
     df_test = load_data(test_path)
 
     # Feature columns
@@ -159,7 +159,7 @@ def train(args):
         if config_features:
             available = set(df_train.columns)
             feat_cols = [f for f in config_features if f in available]
-        logger.info(f"Loaded config: {args.config} ({len(best_params)} params, {len(feat_cols)} features)")
+        logger.info("Loaded config: %s (%d params, %d features)", args.config, len(best_params), len(feat_cols))
 
     # Override with CLI args
     if args.lr:
@@ -168,7 +168,7 @@ def train(args):
         params["n_estimators"] = args.n_estimators
 
     constraints = get_monotone_constraints(feat_cols)
-    logger.info(f"Feature count: {len(feat_cols)}")
+    logger.info("Feature count: %d", len(feat_cols))
 
     # Prepare test set
     X_test, _, _, sorted_test_df = prep_data(df_test, feat_cols)
@@ -183,10 +183,12 @@ def train(args):
     cv_scores = []
     importance_list = []
 
+    logger.info("Training %d-fold GroupKFold on %d rows, %d features", n_splits, len(df_train), len(feat_cols))
+
     for fold, (train_idx, val_idx) in enumerate(
         gkf.split(df_train, df_train["label"], groups=df_train["case_id"])
     ):
-        logger.info(f"--- Fold {fold + 1} / {n_splits} ---")
+        logger.info("  Fold %d/%d: training...", fold + 1, n_splits)
         fold_train = df_train.iloc[train_idx].sort_values("case_id").reset_index(drop=True)
         fold_val = df_train.iloc[val_idx].sort_values("case_id").reset_index(drop=True)
 
@@ -236,8 +238,10 @@ def train(args):
         metrics = calculate_metrics(sorted_val)
         cv_scores.append(metrics["acc@1"])
         logger.info(
-            f"Fold {fold + 1} Acc@1={metrics['acc@1']:.2%} Acc@3={metrics['acc@3']:.2%} "
-            f"Acc@5={metrics['acc@5']:.2%} MRR={metrics['mrr']:.4f}"
+            "  Fold %d/%d: Acc@1=%.2f%% Acc@3=%.2f%% Acc@5=%.2f%% MRR=%.4f",
+            fold + 1, n_splits,
+            metrics["acc@1"] * 100, metrics["acc@3"] * 100,
+            metrics["acc@5"] * 100, metrics["mrr"],
         )
 
         # Test predictions
@@ -245,8 +249,8 @@ def train(args):
         del model, X_tr, y_tr, g_tr, X_val, y_val, g_val
         gc.collect()
 
-    logger.info(f"{'='*40}")
-    logger.info(f"Avg CV Acc@1: {np.mean(cv_scores):.2%} (Std: {np.std(cv_scores):.4f})")
+    logger.info("=" * 40)
+    logger.info("Avg CV Acc@1: %.2f%% (Std: %.4f)", np.mean(cv_scores) * 100, np.std(cv_scores))
 
     # Aggregate feature importance
     agg_imp: Dict[str, float] = {}
@@ -268,8 +272,9 @@ def train(args):
     # Final test metrics
     test_metrics = calculate_metrics(sorted_test_df)
     logger.info(
-        f"Test Acc@1={test_metrics['acc@1']:.2%} Acc@3={test_metrics['acc@3']:.2%} "
-        f"Acc@5={test_metrics['acc@5']:.2%} MRR={test_metrics['mrr']:.4f}"
+        "Test Acc@1=%.2f%% Acc@3=%.2f%% Acc@5=%.2f%% MRR=%.4f",
+        test_metrics["acc@1"] * 100, test_metrics["acc@3"] * 100,
+        test_metrics["acc@5"] * 100, test_metrics["mrr"],
     )
 
     # Save predictions JSON
@@ -309,7 +314,7 @@ def train(args):
         os.path.join(args.out_dir, "test_predictions_ranked.csv"), index=False
     )
 
-    logger.info(f"Done. Results saved to {args.out_dir}")
+    logger.info("Finished. Results saved to %s", args.out_dir)
 
 
 if __name__ == "__main__":

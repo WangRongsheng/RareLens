@@ -1,5 +1,14 @@
 # RareLens — Python 3.10+
 # pip install -r requirements.txt
+#
+# GPU acceleration (recommended):
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+#   pip install -r requirements.txt
+#
+# The default `pip install -r requirements.txt` installs CPU-only PyTorch.
+# For GPU-accelerated feature engineering (SentenceTransformer / NLI),
+# install the CUDA version of PyTorch FIRST using the command above.
+# Adjust cu121 to match your CUDA version (cu118, cu121, cu124).
 
 openai>=1.40.0
 pydantic>=2.5.0

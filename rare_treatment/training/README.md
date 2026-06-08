@@ -83,7 +83,7 @@ python -m rare_treatment.training.train_ranker \
     --objective rank:ndcg \
     --n-splits 5 \
     --target-k 3 \
-    --drop-feature-groups stage3_eval,model_support \
+    --drop-feature-groups stage3_eval \
     --save-models
 ```
 

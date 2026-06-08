@@ -14,6 +14,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import logging
 import sys
 from pathlib import Path
 
@@ -21,6 +22,13 @@ import numpy as np
 import pandas as pd
 import xgboost as xgb
 from sklearn.model_selection import GroupKFold
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%H:%M:%S",
+)
+logger = logging.getLogger(__name__)
 
 THIS_DIR = Path(__file__).resolve().parent
 if str(THIS_DIR) not in sys.path:
@@ -373,6 +381,9 @@ def main() -> None:
     test_pred_sum = np.zeros(len(df_test), dtype=float)
     avg_importance = np.zeros(len(feat_cols), dtype=float)
 
+    logger.info("Training %d-fold GroupKFold on %d rows, %d features, objective=%s, target_k=%d",
+                n_splits, len(df_train), len(feat_cols), args.objective, target_k)
+
     for fold, (train_idx, val_idx) in enumerate(gkf.split(df_train, df_train["label"], df_train["case_id"])):
         df_fold_train = df_train.iloc[train_idx].copy().sort_values("case_id")
         df_fold_val = df_train.iloc[val_idx].copy().sort_values("case_id")
@@ -383,10 +394,12 @@ def main() -> None:
         y_fold_train = build_train_relevance(df_fold_train, bool(args.use_aux_supervision), args.objective)
         y_fold_val = build_train_relevance(df_fold_val, bool(args.use_aux_supervision), args.objective)
 
+        logger.info("  Fold %d/%d: train=%d val=%d ... training", fold + 1, n_splits, len(df_fold_train), len(df_fold_val))
         model = train_one_fold(
             df_fold_train, df_fold_val, feat_cols,
             y_fold_train, y_fold_val, args.objective, target_k, args.force_cpu,
         )
+        logger.info("  Fold %d/%d: done", fold + 1, n_splits)
 
         test_pred_sum += np.asarray(model.predict(df_test[feat_cols]), dtype=float)
         avg_importance += np.asarray(model.feature_importances_, dtype=float)
@@ -406,6 +419,8 @@ def main() -> None:
     fi_path = out_dir / "feature_importance_ensemble.csv"
     fi_df = pd.DataFrame({"feature": feat_cols, "importance": avg_importance})
     fi_df.sort_values(by="importance", ascending=False).to_csv(fi_path, index=False)
+
+    logger.info("Finished. Results saved to %s", out_dir)
 
     feat_used_path = out_dir / "feature_columns_used.txt"
     with feat_used_path.open("w", encoding="utf-8") as f:

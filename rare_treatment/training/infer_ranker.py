@@ -13,6 +13,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import logging
 import sys
 from glob import glob
 from pathlib import Path
@@ -21,6 +22,13 @@ from typing import List
 import numpy as np
 import pandas as pd
 import xgboost as xgb
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%H:%M:%S",
+)
+logger = logging.getLogger(__name__)
 
 THIS_DIR = Path(__file__).resolve().parent
 if str(THIS_DIR) not in sys.path:
@@ -80,19 +88,26 @@ def main() -> None:
     parser.add_argument("--out-dir", required=True, help="Output directory")
     args = parser.parse_args()
 
+    logger.info("Loading test data: %s", args.test_csv)
     df_test, feat_cols = load_features_csv(Path(args.test_csv))
-    models = load_models(args.model_path, args.model_dir)
+    logger.info("  %d rows, %d features", len(df_test), len(feat_cols))
 
+    models = load_models(args.model_path, args.model_dir)
+    logger.info("Loaded %d model(s)", len(models))
+
+    logger.info("Running inference...")
     preds = np.zeros(len(df_test), dtype=float)
-    for model in models:
+    for i, model in enumerate(models, 1):
         expected = get_expected_feature_names(model, feat_cols)
         x_test = align_features_for_model(df_test, expected)
         preds += np.asarray(model.predict(x_test), dtype=float)
+        logger.info("  Model %d/%d predicted", i, len(models))
     preds /= len(models)
 
     out_dir = Path(args.out_dir)
     save_predictions_csv(df_test, preds, out_dir / "test_predictions.csv", score_col="score")
     export_ranked_json(df_test, preds, out_dir / "ranked_results.json", score_col="score")
+    logger.info("Finished. Results saved to %s", out_dir)
 
 
 

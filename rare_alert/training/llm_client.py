@@ -1,19 +1,18 @@
 """
-core/llm/client.py — Unified LLM call interface (shared across all modules)
+LLM client for rare-alert risk stage.
 
-Uses the official ``openai.OpenAI`` client; concurrent ``chat.completions.create`` calls
-from multiple threads are supported (underlying HTTP client is thread-safe).
-
-For now: OpenAI-compatible sync calls (non-stream and stream).
-Future: async client variant if needed.
+Unified OpenAI-compatible sync client with retry, streaming, dotenv,
+and a factory function to build from config.
 """
 
+from __future__ import annotations
+
+import hashlib
 import json
 import logging
 import os
-import time
 import threading
-import hashlib
+import time
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
@@ -21,6 +20,10 @@ logger = logging.getLogger(__name__)
 _DOTENV_LOADED = False
 _DOTENV_LOCK = threading.Lock()
 
+
+# ---------------------------------------------------------------------------
+# .env loader
+# ---------------------------------------------------------------------------
 
 def _load_dotenv_if_present(*, force: bool = False) -> None:
     """
@@ -30,8 +33,9 @@ def _load_dotenv_if_present(*, force: bool = False) -> None:
     - Use force=True in tests to re-read .env after changing the file or guard state.
     """
     global _DOTENV_LOADED
-    # Allow disabling implicit .env loading in library code (recommended for services/tests).
-    disable = str(os.getenv("CORE_TOOL_DOTENV_AUTOLOAD", "") or "").strip().lower() in {"0", "false", "no", "off"}
+    disable = str(os.getenv("CORE_TOOL_DOTENV_AUTOLOAD", "") or "").strip().lower() in {
+        "0", "false", "no", "off",
+    }
     if disable and not force:
         return
 
@@ -67,10 +71,14 @@ def _load_dotenv_if_present(*, force: bool = False) -> None:
             _DOTENV_LOADED = True
 
 
+# ---------------------------------------------------------------------------
+# LLMClient
+# ---------------------------------------------------------------------------
+
 class LLMClient:
     """
     Minimal LLM client for reasoning synthesis.
-    dry_run=True → returns concatenated text without calling any API.
+    dry_run=True -> returns concatenated text without calling any API.
     """
 
     def __init__(
@@ -110,15 +118,10 @@ class LLMClient:
 
     def _debug_print(self, msg: str) -> None:
         if self.debug:
-            # Use print for "obvious" CLI visibility (logging config may be absent).
             print(msg)
 
     @staticmethod
     def _debug_allow_content() -> bool:
-        """
-        Whether debug output may include prompt/response raw text.
-        Default: False (avoid leaking PHI/PII into logs/terminals).
-        """
         v = str(os.getenv("LLM_DEBUG_CONTENT", "") or "").strip().lower()
         return v in {"1", "true", "yes", "y", "on"}
 
@@ -167,13 +170,7 @@ class LLMClient:
         system: Optional[str] = None,
         stream: bool = False,
     ) -> str:
-        """
-        Send a prompt, return raw text response. Returns '' on failure.
-
-        There is **no** instance-level default for ``stream`` beyond this parameter:
-        each call site decides (``stream=False`` unless you pass ``True``). Stages that
-        read YAML (e.g. rare_alert ``RiskStageConfig.stream``) pass it through explicitly.
-        """
+        """Send a prompt, return raw text response. Returns '' on failure."""
         if self.dry_run:
             return ""
 
@@ -269,15 +266,7 @@ class LLMClient:
         model: str,
         input: List[str],
     ) -> Optional[List[List[float]]]:
-        """
-        Call OpenAI-compatible /v1/embeddings.
-
-        Behaviors aligned with ``call()``:
-        - honors dry_run (returns None)
-        - uses same underlying OpenAI client + base_url/api_key
-        - retries with max_retries/retry_delay_sec
-        - prints debug preview when debug=True
-        """
+        """Call OpenAI-compatible /v1/embeddings."""
         if self.dry_run:
             return None
         client = self._get_client()
@@ -329,63 +318,6 @@ class LLMClient:
             return s
         return s[: limit - 3] + "..."
 
-    def _format_extracted_json(self, parsed: Dict[str, Any], key: Optional[str], preview: str) -> str:
-        """Return string value for key, or full JSON string when key is None."""
-        if not key:
-            return json.dumps(parsed, ensure_ascii=False)
-        val = parsed.get(key, "")
-        if val is None or (isinstance(val, str) and not val.strip()):
-            logger.warning(
-                "call_and_parse_json: JSON parsed but field %r is missing or empty; actual keys=%s; response_preview=%r",
-                key,
-                list(parsed.keys()),
-                preview,
-            )
-            return ""
-        if isinstance(val, str):
-            return val
-        return json.dumps(val, ensure_ascii=False)
-
-    def call_and_parse_json(
-        self,
-        prompt: str,
-        key: Optional[str] = None,
-        **call_kwargs: Any,
-    ) -> str:
-        """
-        Call LLM, then parse JSON with ``json_extractor.extract`` only (single strategy chain).
-        Extra keyword arguments are forwarded to ``call()`` (e.g. system=..., stream=...).
-        """
-        raw = self.call(prompt, **call_kwargs)
-        if not raw:
-            logger.warning(
-                "call_and_parse_json: LLM returned empty string (model=%r, dry_run=%s, api_key_set=%s). "
-                "Check QWEN_API_KEY / Alert_API_KEY, QWEN_BASE_URL / Alert_URL, quota, and any 'LLM call failed' warnings above.",
-                self.model,
-                self.dry_run,
-                bool(self.api_key),
-            )
-            return ""
-        preview = self._response_preview(raw)
-        try:
-            from core_tool.parser.json_extractor import extract
-
-            parsed = extract(raw)
-        except Exception as e:
-            logger.warning("call_and_parse_json: extract raised an exception: %s", e)
-            parsed = None
-
-        if isinstance(parsed, dict):
-            return self._format_extracted_json(parsed, key, preview)
-
-        logger.warning(
-            "call_and_parse_json: could not extract a JSON object from the response; preview=%r",
-            preview,
-        )
-        if key:
-            return ""
-        return raw
-
     def get_stats(self) -> dict:
         return {
             "calls": self.call_count,
@@ -393,3 +325,22 @@ class LLMClient:
             "completion_tokens": self.completion_tokens,
             "total_tokens": self.total_tokens,
         }
+
+
+# ---------------------------------------------------------------------------
+# Factory
+# ---------------------------------------------------------------------------
+
+def build_llm_client(config) -> LLMClient:
+    """Construct ``LLMClient`` from a config object with LLM fields (env vars fill missing URL/key)."""
+    _load_dotenv_if_present()
+    api_key = (config.api_key or "").strip() or os.getenv("Alert_API_KEY", "") or os.getenv("QWEN_API_KEY", "")
+    base_url = (config.base_url or "").strip() or os.getenv("Alert_URL", "") or os.getenv("QWEN_BASE_URL", "")
+    return LLMClient(
+        api_key=api_key,
+        base_url=base_url,
+        model=config.model,
+        dry_run=config.dry_run,
+        max_retries=config.max_retries,
+        retry_delay_sec=config.retry_delay_sec,
+    )

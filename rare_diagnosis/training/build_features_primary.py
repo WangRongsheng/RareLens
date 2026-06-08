@@ -28,6 +28,7 @@ import logging
 import os
 import numpy as np
 import concurrent.futures
+import multiprocessing as mp
 from typing import Any, Dict, List, Optional, Tuple, Set
 from pathlib import Path
 from functools import partial
@@ -80,6 +81,13 @@ RE_ALPHANUM = re.compile(r"[^a-z0-9\s]")
 # ── Semantic model (per-worker) ──────────────────────────────────────────────
 
 _GLOBAL_SEMANTIC_MODEL = None
+_worker_counter = None  # mp.Value shared counter for deterministic GPU assignment
+
+
+def _init_worker_counter(counter):
+    """Store the shared counter in each worker process."""
+    global _worker_counter
+    _worker_counter = counter
 
 
 def init_worker(model_name: str, num_gpus: int):
@@ -87,13 +95,23 @@ def init_worker(model_name: str, num_gpus: int):
     if not HAS_SENTENCE_TRANSFORMERS:
         return
     try:
-        worker_id = int(os.getpid())
-        gpu_id = worker_id % num_gpus
-        device = f"cuda:{gpu_id}" if torch.cuda.is_available() else "cpu"
+        # Use a shared atomic counter so workers get IDs 0, 1, 2, ...
+        with _worker_counter.get_lock():
+            worker_id = _worker_counter.value
+            _worker_counter.value += 1
+        gpu_id = worker_id % num_gpus if num_gpus > 0 else 0
+        device = f"cuda:{gpu_id}" if torch.cuda.is_available() and num_gpus > 0 else "cpu"
         _GLOBAL_SEMANTIC_MODEL = SentenceTransformer(model_name, device=device)
         _GLOBAL_SEMANTIC_MODEL.encode("Warmup sequence.", show_progress_bar=False)
+        logger.info("Worker %d initialized on %s", worker_id, device)
     except Exception as e:
-        logger.error(f"Worker {worker_id} failed initialization: {e}")
+        logger.error("Worker initialization failed: %s", e)
+
+
+def _pool_initializer(counter, model_name, num_gpus):
+    """Top-level initializer for ProcessPoolExecutor (must be picklable on Windows)."""
+    _init_worker_counter(counter)
+    init_worker(model_name, num_gpus)
 
 
 # ── Ontology manager ────────────────────────────────────────────────────────
@@ -511,8 +529,11 @@ def main():
     ap.add_argument("--gt_root", required=True)
     ap.add_argument("--primary_models_root", required=True)
     ap.add_argument("--semantic_model", default="pritamdeka/S-PubMedBert-MS-MARCO")
-    ap.add_argument("--num_gpus", type=int, default=4)
-    ap.add_argument("--workers", type=int, default=32)
+    ap.add_argument("--num_gpus", type=int, default=1,
+                    help="Number of GPUs for semantic model (0 = CPU only)")
+    ap.add_argument("--workers", type=int, default=4,
+                    help="Number of parallel worker processes (each loads a model copy; "
+                         "keep <= 2 * num_gpus to avoid GPU OOM)")
     ap.add_argument("--ontology_path", default="orphanet_hierarchy.json")
     ap.add_argument("--train_ids", default="dataset/train.json")
     ap.add_argument("--test_ids", default="dataset/test.json")
@@ -547,8 +568,15 @@ def main():
         func = partial(process_single_case, split_name=split, args_dict=args_dict, available_model_dirs=avail_models)
         total_rows = total_pos = 0
 
+        counter = mp.Value("i", 0)
+        # Use 'spawn' to avoid CUDA-in-fork deadlocks on Linux
+        mp_ctx = mp.get_context("spawn")
+
         with concurrent.futures.ProcessPoolExecutor(
-            max_workers=args.workers, initializer=init_worker, initargs=(args.semantic_model, args.num_gpus)
+            max_workers=args.workers,
+            mp_context=mp_ctx,
+            initializer=_pool_initializer,
+            initargs=(counter, args.semantic_model, args.num_gpus),
         ) as executor:
             futures = {executor.submit(func, cid): cid for cid in ids}
             it = (
@@ -581,6 +609,7 @@ def main():
     logger.info("Building PRIMARY features (V4.4 Relaxed Recall + Greedy Label) on %d GPUs...", args.num_gpus)
     run_split("train", train_ids)
     run_split("test", test_ids)
+    logger.info("Finished. Features saved to %s", args.out_dir)
 
 
 if __name__ == "__main__":

@@ -75,6 +75,10 @@ All providers use the OpenAI-compatible protocol and can be pointed to a local v
 ```bash
 git clone <REPO_URL>
 cd RareLens
+
+# (Optional) For GPU-accelerated feature engineering, install CUDA PyTorch first:
+pip install torch --index-url https://download.pytorch.org/whl/cu121  # adjust cu121 to your CUDA version
+
 pip install -r requirements.txt
 ```
 

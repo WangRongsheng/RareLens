@@ -27,7 +27,7 @@ NUM_GPUS=1
 N_SPLITS=3          # use 3 for demo (6 cases), 5 for full data
 TARGET_K=3
 OBJECTIVE="rank:ndcg"
-DROP_GROUPS="stage3_eval,model_support"
+DROP_GROUPS="stage3_eval"
 
 # ── Parse arguments ───────────────────────────────────────────────────────
 while [[ $# -gt 0 ]]; do

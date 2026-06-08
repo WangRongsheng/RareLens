@@ -22,6 +22,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import logging
 import math
 import os
 import sys
@@ -31,6 +32,13 @@ from collections import Counter
 import multiprocessing as mp
 
 import numpy as np
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%H:%M:%S",
+)
+logger = logging.getLogger(__name__)
 
 THIS_DIR = Path(__file__).resolve().parent
 if str(THIS_DIR) not in sys.path:
@@ -297,11 +305,11 @@ def featurize_cases_on_one_gpu(
     device = "cuda:0" if torch.cuda.is_available() else "cpu"
 
     if HAS_ST:
-        print(f"[GPU {visible_gpu_id}] Loading Embedding Model: {args_dict['semantic_model']}")
+        logger.info("[GPU %s] Loading Embedding Model: %s", visible_gpu_id, args_dict['semantic_model'])
         semantic_model = SentenceTransformer(args_dict["semantic_model"], device=device)
         semantic_model.encode("warmup", show_progress_bar=False)
 
-        print(f"[GPU {visible_gpu_id}] Loading NLI Model: {NLI_MODEL_NAME}")
+        logger.info("[GPU %s] Loading NLI Model: %s", visible_gpu_id, NLI_MODEL_NAME)
         nli_model = CrossEncoder(NLI_MODEL_NAME, device=device)
 
     plan_root = Path(args_dict["plan_root"])
@@ -672,12 +680,14 @@ def main():
     args_dict["active_models"] = get_active_models(Path(args.treatment_output_root), Path(args.treatment_score_root))
     if not args_dict["active_models"]:
         raise SystemExit("No overlapping model directories between output_root and score_root.")
+    logger.info("Active models (%d): %s", len(args_dict['active_models']), sorted(args_dict['active_models']))
+    logger.info("Train cases: %d, Test cases: %d, GPUs: %d", len(train_ids), len(test_ids), use_gpus)
 
     def run_split(split_name: str, ids: List[str]) -> None:
         if not ids:
             return
         use_eval_aux_features = not (split_name == "test" and int(args.disable_eval_aux_on_test) == 1)
-        print(f"[{split_name}] use_eval_aux_features={int(use_eval_aux_features)}")
+        logger.info("[%s] use_eval_aux_features=%d", split_name, int(use_eval_aux_features))
         shards = [shard_list(ids, use_gpus, i) for i in range(use_gpus)]
         ctx = mp.get_context("spawn")
         with ctx.Pool(processes=use_gpus) as pool_mp:
@@ -721,10 +731,11 @@ def main():
 
         if all_rows:
             pos = sum(int(r["label"]) for r in all_rows)
-            print(f"[{split_name}] rows={len(all_rows)} pos={pos} pos%={(pos/len(all_rows))*100:.4f}%")
+            logger.info("[%s] rows=%d pos=%d pos%%=%.4f%%", split_name, len(all_rows), pos, (pos/len(all_rows))*100)
 
     run_split("train", train_ids)
     run_split("test", test_ids)
+    logger.info("Finished. Features saved to %s", out_dir)
 
 
 if __name__ == "__main__":

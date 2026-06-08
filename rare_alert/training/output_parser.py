@@ -1,19 +1,232 @@
-"""Parse free-form risk LLM output into legacy structured RiskOutput fields."""
+"""Parse free-form risk LLM output into structured RiskOutput.
+
+Includes JSON extraction (multi-strategy) and legacy field recovery.
+"""
 
 from __future__ import annotations
 
+import json
 import logging
 import re
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List, Optional, Tuple, Type
 
-from pydantic import ValidationError
+from pydantic import BaseModel, ValidationError
 
-from core_tool.parser.json_extractor import extract as extract_json_object
 from schema import InsightItem, RiskOutput
 
 logger = logging.getLogger(__name__)
 
-# Stable warning codes for monitoring; values are confidence penalties (sum capped in _finalize_parse_meta).
+
+# ═══════════════════════════════════════════════════════════════════════════
+# JSON extractor (multi-strategy)
+# ═══════════════════════════════════════════════════════════════════════════
+
+def _first_balanced_object(text: str, start: int = 0) -> Optional[str]:
+    """Extract by bracket depth to the matching ``}``, respecting quotes."""
+    i = text.find("{", start)
+    if i < 0:
+        return None
+    depth = 0
+    in_string = False
+    escape = False
+    n = len(text)
+    j = i
+    while j < n:
+        c = text[j]
+        if in_string:
+            if escape:
+                escape = False
+            elif c == "\\":
+                escape = True
+            elif c == '"':
+                in_string = False
+            j += 1
+            continue
+        if c == '"':
+            in_string = True
+            j += 1
+            continue
+        if c == "{":
+            depth += 1
+        elif c == "}":
+            depth -= 1
+            if depth == 0:
+                return text[i : j + 1]
+        j += 1
+    return None
+
+
+def _strip_think_blocks(text: str) -> str:
+    """Strip <think>...</think> reasoning blocks from thinking model outputs."""
+    return re.sub(r"<think>[\s\S]*?</think>", "", text, flags=re.IGNORECASE).strip()
+
+
+def _repair_missing_open_braces(text: str) -> str:
+    """Complete object members that are missing an opening brace { in an array context."""
+    out: list[str] = []
+    i = 0
+    n = len(text)
+    stack: list[str] = []
+    in_str = False
+    esc = False
+    prev_non_ws = ""
+
+    while i < n:
+        c = text[i]
+
+        if esc:
+            out.append(c)
+            esc = False
+            i += 1
+            continue
+
+        if in_str:
+            if c == "\\":
+                esc = True
+            elif c == '"':
+                in_str = False
+            out.append(c)
+            i += 1
+            continue
+
+        if c == '"':
+            if stack and stack[-1] == "[" and prev_non_ws in (",", "["):
+                j = i + 1
+                while j < n:
+                    if text[j] == "\\":
+                        j += 2
+                        continue
+                    if text[j] == '"':
+                        break
+                    j += 1
+                k = j + 1
+                while k < n and text[k] in " \t":
+                    k += 1
+                if k < n and text[k] == ":":
+                    out.append("{")
+                    out.append(" ")
+                    stack.append("{")
+            in_str = True
+            out.append(c)
+            prev_non_ws = c
+            i += 1
+            continue
+
+        if c == "{":
+            stack.append("{")
+            prev_non_ws = c
+        elif c == "[":
+            stack.append("[")
+            prev_non_ws = c
+        elif c == "}":
+            if stack and stack[-1] == "{":
+                stack.pop()
+            prev_non_ws = c
+        elif c == "]":
+            if stack and stack[-1] == "[":
+                stack.pop()
+            prev_non_ws = c
+        elif c not in " \t\n\r":
+            prev_non_ws = c
+
+        out.append(c)
+        i += 1
+
+    return "".join(out)
+
+
+def _close_unclosed_last_array_item(text: str) -> str:
+    """Insert missing closing brace } for last array element before ]."""
+    return re.sub(r'([^}\]\s])(\s*\n\s*\])', r'\1 }\2', text, count=1)
+
+
+def extract_json(raw_text: str) -> Optional[Dict[str, Any]]:
+    """
+    Multi-strategy JSON extraction: full json.loads -> code block ->
+    balanced-brace -> greedy -> repair -> json_repair library.
+    """
+    if not raw_text or not str(raw_text).strip():
+        return None
+
+    s = _strip_think_blocks(str(raw_text).strip())
+
+    try:
+        obj = json.loads(s)
+        if isinstance(obj, dict):
+            return obj
+    except json.JSONDecodeError:
+        pass
+
+    fence = re.search(r"```(?:json)?\s*([\s\S]*?)```", s, re.IGNORECASE)
+    if fence:
+        chunk = fence.group(1).strip()
+        try:
+            obj = json.loads(chunk)
+            if isinstance(obj, dict):
+                return obj
+        except json.JSONDecodeError:
+            pass
+
+    balanced = _first_balanced_object(s, 0)
+    if balanced:
+        try:
+            obj = json.loads(balanced)
+            if isinstance(obj, dict):
+                return obj
+        except json.JSONDecodeError:
+            pass
+
+    m = re.search(r"\{[\s\S]*\}", s, re.DOTALL)
+    if m:
+        try:
+            obj = json.loads(m.group(0))
+            if isinstance(obj, dict):
+                return obj
+        except json.JSONDecodeError:
+            pass
+
+    patched = _repair_missing_open_braces(s)
+    if patched != s:
+        try:
+            obj = json.loads(patched)
+            if isinstance(obj, dict):
+                return obj
+        except json.JSONDecodeError:
+            pass
+        patched2 = _close_unclosed_last_array_item(patched)
+        if patched2 != patched:
+            try:
+                obj = json.loads(patched2)
+                if isinstance(obj, dict):
+                    return obj
+            except json.JSONDecodeError:
+                pass
+        balanced2 = _first_balanced_object(patched2 if patched2 != patched else patched, 0)
+        if balanced2:
+            try:
+                obj = json.loads(balanced2)
+                if isinstance(obj, dict):
+                    return obj
+            except json.JSONDecodeError:
+                pass
+
+    try:
+        from json_repair import repair_json  # type: ignore
+
+        candidate = patched if patched != s else (m.group(0) if m else s)
+        repaired = repair_json(candidate, return_objects=True)
+        if isinstance(repaired, dict) and repaired:
+            return repaired
+    except Exception:
+        pass
+
+    return None
+
+
+# ═══════════════════════════════════════════════════════════════════════════
+# Risk output parser
+# ═══════════════════════════════════════════════════════════════════════════
+
 _WARNING_PENALTIES: Dict[str, float] = {
     "json_used_prefix_strip": 0.12,
     "risk_score_from_text_fragment": 0.08,
@@ -39,24 +252,13 @@ def _clip_score(score: int) -> int:
     return max(0, min(100, int(score)))
 
 
-def _extract_json_blob(text: str) -> Dict[str, Any] | None:
-    """Delegate to ``json_extractor.extract`` (with balanced-brace support); no need to re-implement greedy regex."""
-    shared = extract_json_object(text)
-    return shared if isinstance(shared, dict) else None
-
-
 def _strip_common_llm_prefixes(text: str) -> str:
-    """Remove wrappers like **Final Output**: before JSON / code fences."""
     s = text.strip()
     s = re.sub(r"(?is)^\s*\*\*final output\*\*:\s*", "", s)
     return s.strip()
 
 
 def _recover_risk_score_from_jsonish(text: str) -> int:
-    """
-    When the model prints JSON but it is invalid / not fully parsed, recover
-    score from fragments like \"risk_score\": 90 (last occurrence wins).
-    """
     matches = list(re.finditer(r'["\']risk_score["\']\s*:\s*(\d{1,3})', text))
     if not matches:
         return 0
@@ -64,82 +266,54 @@ def _recover_risk_score_from_jsonish(text: str) -> int:
 
 
 def _strip_opening_code_fence(text: str) -> str:
-    """Remove a leading ```json / ``` fence without requiring a closing fence."""
     s = text.strip()
     return re.sub(r"^```(?:json)?\s*\n?", "", s, count=1, flags=re.IGNORECASE)
 
 
 def _decode_json_string_content(raw: str) -> str:
-    """Decode escapes inside a JSON string fragment (handles truncated tail)."""
     i = 0
     out: List[str] = []
     while i < len(raw):
         if raw[i] == "\\" and i + 1 < len(raw):
             esc = raw[i + 1]
             if esc == '"':
-                out.append('"')
-                i += 2
-                continue
+                out.append('"'); i += 2; continue
             if esc == "\\":
-                out.append("\\")
-                i += 2
-                continue
+                out.append("\\"); i += 2; continue
             if esc == "/":
-                out.append("/")
-                i += 2
-                continue
+                out.append("/"); i += 2; continue
             if esc == "n":
-                out.append("\n")
-                i += 2
-                continue
+                out.append("\n"); i += 2; continue
             if esc == "r":
-                out.append("\r")
-                i += 2
-                continue
+                out.append("\r"); i += 2; continue
             if esc == "t":
-                out.append("\t")
-                i += 2
-                continue
+                out.append("\t"); i += 2; continue
             if esc == "u" and i + 6 <= len(raw):
                 hexpart = raw[i + 2 : i + 6]
                 try:
-                    out.append(chr(int(hexpart, 16)))
-                    i += 6
-                    continue
+                    out.append(chr(int(hexpart, 16))); i += 6; continue
                 except ValueError:
                     pass
-            out.append(raw[i])
-            i += 1
-            continue
-        out.append(raw[i])
-        i += 1
+            out.append(raw[i]); i += 1; continue
+        out.append(raw[i]); i += 1
     return "".join(out)
 
 
 def _extract_risk_explanation_string_value(text: str) -> str | None:
-    """
-    When outer JSON is invalid or truncated (no closing fence / brace), pull the
-    value of \"risk_explanation\" from the text.
-    Handles both quoted and unquoted values.
-    """
     m = re.search(r'"risk_explanation"\s*:\s*"', text)
     if m:
         i = m.end()
         raw_parts: List[str] = []
         while i < len(text):
             if text[i] == "\\" and i + 1 < len(text):
-                raw_parts.append(text[i : i + 2])
-                i += 2
-                continue
+                raw_parts.append(text[i : i + 2]); i += 2; continue
             if text[i] == '"':
                 break
-            raw_parts.append(text[i])
-            i += 1
+            raw_parts.append(text[i]); i += 1
         raw = "".join(raw_parts)
         if raw:
             return _decode_json_string_content(raw)
 
-    # Fallback: unquoted value — "risk_explanation": The text here...
     m2 = re.search(r'"risk_explanation"\s*:\s*(?!")(.+?)(?=\s*\n\s*[}\]]|\Z)', text, re.DOTALL)
     if m2:
         val = m2.group(1).strip().rstrip("}").strip()
@@ -149,12 +323,6 @@ def _extract_risk_explanation_string_value(text: str) -> str | None:
 
 
 def _extract_insights_from_colon_format(text: str) -> List[Tuple[str, float, str]]:
-    """
-    Handle model output format: "insightN": "label": description_text
-    where description is unquoted and weight is missing.
-    Example:
-        "insight1": "Progressive dysphagia": The patient has a chronic...
-    """
     rows: List[Tuple[str, float, str]] = []
     pattern = re.compile(
         r'"insight(\d)"\s*:\s*"([^"]+)"\s*:\s*([^\n"{}[\]]+)',
@@ -168,10 +336,6 @@ def _extract_insights_from_colon_format(text: str) -> List[Tuple[str, float, str
 
 
 def _unwrap_nested_json_explanation(explanation: str) -> str:
-    """
-    If risk_explanation itself contains a full JSON (or ```json ... ```) with a
-    real human-readable risk_explanation field, return that inner string.
-    """
     if not explanation or not str(explanation).strip():
         return explanation
     original = str(explanation)
@@ -179,7 +343,7 @@ def _unwrap_nested_json_explanation(explanation: str) -> str:
     s = _strip_opening_code_fence(s)
     s = re.sub(r"\n?```\s*$", "", s).strip()
 
-    blob = extract_json_object(s)
+    blob = extract_json(s)
     if isinstance(blob, dict):
         inner = blob.get("risk_explanation")
         if isinstance(inner, str) and inner.strip():
@@ -198,11 +362,9 @@ def _extract_score(text: str) -> int:
     m = re.search(r"RISK_SCORE\s*[:：]\s*(\d{1,3})", text, re.IGNORECASE)
     if m:
         return _clip_score(int(m.group(1)))
-
     m = re.search(r"risk\s*score[^0-9]{0,20}(\d{1,3})", text, re.IGNORECASE)
     if m:
         return _clip_score(int(m.group(1)))
-
     m = re.search(r"\b(\d{1,3})\s*/\s*100\b", text)
     if m:
         return _clip_score(int(m.group(1)))
@@ -230,8 +392,7 @@ def _parse_key_insight_line(line: str) -> Tuple[str, float, str] | None:
     for f in fields[1:]:
         w = re.search(r"weight\s*=\s*([0-9]*\.?[0-9]+)", f, re.IGNORECASE)
         if w:
-            weight = float(w.group(1))
-            continue
+            weight = float(w.group(1)); continue
         d = re.search(r"description\s*=\s*(.+)", f, re.IGNORECASE)
         if d:
             description = d.group(1).strip()
@@ -241,10 +402,6 @@ def _parse_key_insight_line(line: str) -> Tuple[str, float, str] | None:
 
 
 def _insight_text_from_json_item(item: Dict[str, Any], slot_index: int) -> str:
-    """
-    Prefer the key matching this array position (insight1 for index 0, …) so we do not
-    pick generic \"insight\" when insight1 also exists. Bare \"insight\" is last resort.
-    """
     preferred = f"insight{slot_index + 1}"
     v = item.get(preferred)
     if v is not None and str(v).strip():
@@ -275,20 +432,12 @@ def _coerce_weight(v: Any, default: float = 0.2) -> float:
 
 
 def _reassemble_flat_insights(raw_list: List[Any]) -> List[Dict[str, Any]]:
-    """
-    Pattern A: the model sometimes expands each insight's fields into separate string elements, e.g.:
-        ["insight4", "weight", "description", "Barium enema...", "0.2", "Microcolon..."]
-    Reassemble adjacent insightN labels and the following text/weight/description triplet back into a dict.
-    Elements that are already dicts are left unchanged.
-    """
     result: List[Dict[str, Any]] = []
     i = 0
     while i < len(raw_list):
         item = raw_list[i]
         if isinstance(item, dict):
-            result.append(item)
-            i += 1
-            continue
+            result.append(item); i += 1; continue
         _im = re.match(r"^(insight\d+)(?::\s*(.*))?$", item.strip(), re.IGNORECASE) if isinstance(item, str) else None
         if _im:
             tag = _im.group(1).lower()
@@ -300,24 +449,17 @@ def _reassemble_flat_insights(raw_list: List[Any]) -> List[Dict[str, Any]]:
                 nxt = raw_list[j]
                 if isinstance(nxt, str):
                     if nxt.strip().lower() in ("weight", "description"):
-                        j += 1
-                        continue
+                        j += 1; continue
                     try:
-                        pending["weight"] = float(nxt.strip())
-                        filled += 1
-                        j += 1
-                        continue
+                        pending["weight"] = float(nxt.strip()); filled += 1; j += 1; continue
                     except ValueError:
                         pass
                     if pending[tag] is None:
-                        pending[tag] = nxt.strip()
-                        filled += 1
+                        pending[tag] = nxt.strip(); filled += 1
                     elif not pending["description"]:
-                        pending["description"] = nxt.strip()
-                        filled += 1
+                        pending["description"] = nxt.strip(); filled += 1
                 elif isinstance(nxt, (int, float)):
-                    pending["weight"] = float(nxt)
-                    filled += 1
+                    pending["weight"] = float(nxt); filled += 1
                 elif isinstance(nxt, dict):
                     break
                 j += 1
@@ -326,20 +468,12 @@ def _reassemble_flat_insights(raw_list: List[Any]) -> List[Dict[str, Any]]:
             if not pending["description"]:
                 pending["description"] = str(pending[tag])
             result.append(pending)
-            i = j
-            continue
+            i = j; continue
         i += 1
     return result
 
 
 def _lift_flat_insight_dict(obj: Dict[str, Any]) -> Dict[str, Any]:
-    """
-    Pattern B: top-level key_insights is missing or not an array, but insight appears as flat keys in the same dict.
-
-    B1 — only one insightN key: treat the whole dict as a single insight (with weight/description at the same level).
-    B2 — multiple insightN keys: split into multiple items, each containing only the corresponding insightN;
-         share weight/description, or prefer matching numeric suffixes like weight2, description3.
-    """
     ki = obj.get("key_insights")
     if isinstance(ki, list) and len(ki) > 0:
         return obj
@@ -390,7 +524,6 @@ def _is_placeholder_insight_row(row: Tuple[str, float, str], slot_1based: int) -
 
 
 def _has_any_root_insight(obj: Dict[str, Any]) -> bool:
-    """Still a valid signal when the model flattened insights at the root level (no key_insights array)."""
     for slot in range(5):
         key = f"insight{slot + 1}"
         val = obj.get(key)
@@ -402,10 +535,6 @@ def _has_any_root_insight(obj: Dict[str, Any]) -> bool:
 
 
 def _rows_from_root_insight_keys(obj: Dict[str, Any]) -> List[Tuple[str, float, str]]:
-    """
-    Build one row per insight1~insight5 slot (order consistent with _to_legacy_insight_items).
-    Missing slots use a placeholder tuple so results can be merged with array-parsed rows by tail segment.
-    """
     rows: List[Tuple[str, float, str]] = []
     for slot in range(5):
         key = f"insight{slot + 1}"
@@ -415,40 +544,49 @@ def _rows_from_root_insight_keys(obj: Dict[str, Any]) -> List[Tuple[str, float, 
             if insight:
                 w = _coerce_weight(val.get("weight"), 0.2)
                 desc = str(val.get("description") or insight).strip() or insight
-                rows.append((insight, w, desc))
-                continue
+                rows.append((insight, w, desc)); continue
         if isinstance(val, str) and val.strip():
             s = val.strip()
-            rows.append((s, 0.2, s))
-            continue
+            rows.append((s, 0.2, s)); continue
         sb = slot + 1
         rows.append((f"insight_{sb}_missing", 0.0, "model response missing"))
     return rows
 
 
 def _failure_risk_output(reason: str = "") -> RiskOutput:
-    """Return a schema-compliant placeholder when parsing fails, to avoid polluting fields with heuristic text fragments."""
     msg = (reason or "").strip() or (
         "Failed to parse model output into a schema-compliant JSON. "
         "Recommended: keep json_object_response: true, set stream: false, and increase max_tokens as needed."
     )
-    short = "(parse failure placeholder — not a clinical conclusion)"
+    short = "(parse failure placeholder \u2014 not a clinical conclusion)"
     items: List[InsightItem] = []
     for idx in range(1, 6):
         items.append(
             InsightItem.model_validate(
-                {
-                    f"insight{idx}": short,
-                    "weight": 0.2,
-                    "description": short,
-                }
+                {f"insight{idx}": short, "weight": 0.2, "description": short}
             )
         )
     return RiskOutput(key_insights=items, risk_score=0, risk_explanation=msg)
 
 
+def _to_legacy_insight_items(rows: List[Tuple[str, float, str]]) -> List[InsightItem]:
+    out: List[InsightItem] = []
+    normalized = list(rows[:5])
+    while len(normalized) < 5:
+        idx = len(normalized) + 1
+        normalized.append((f"insight_{idx}_missing", 0.0, "model response missing"))
+
+    for idx, (insight, wt, desc) in enumerate(normalized, start=1):
+        payload: Dict[str, Any] = {
+            f"insight{idx}": insight,
+            "weight": wt,
+            "description": desc,
+        }
+        out.append(InsightItem.model_validate(payload))
+    return out
+
+
 def _risk_output_from_loose_dict(obj: Dict[str, Any], text: str, warnings: List[str]) -> RiskOutput:
-    """A dict was extracted from the text but does not validate as RiskOutput: extract fields using legacy logic and pad to 5 items."""
     pre_lift = dict(obj)
     obj = _lift_flat_insight_dict(obj)
     _ki_before = pre_lift.get("key_insights")
@@ -486,7 +624,6 @@ def _risk_output_from_loose_dict(obj: Dict[str, Any], text: str, warnings: List[
                 rows.append(root_rows[i])
             warnings.append("key_insights_merged_root_tail")
 
-    # If still short, try colon-format extraction from raw text as last resort
     if len(rows) < 5:
         colon_rows = _extract_insights_from_colon_format(text)
         if len(colon_rows) > len(rows):
@@ -506,7 +643,6 @@ def _risk_output_from_loose_dict(obj: Dict[str, Any], text: str, warnings: List[
         warnings.append("risk_score_from_text_fragment")
 
     explanation_raw = str(obj.get("risk_explanation", "") or "")
-    # If dict yielded no explanation, try recovering from raw text (handles unquoted values)
     if not explanation_raw.strip():
         recovered_expl = _extract_risk_explanation_string_value(text)
         if recovered_expl:
@@ -519,8 +655,7 @@ def _risk_output_from_loose_dict(obj: Dict[str, Any], text: str, warnings: List[
     if wcodes:
         logger.warning(
             "[parse_risk_response] confidence=%s codes=%s (loose_dict)",
-            confidence,
-            wcodes,
+            confidence, wcodes,
         )
     return RiskOutput(
         key_insights=_to_legacy_insight_items(rows),
@@ -529,28 +664,10 @@ def _risk_output_from_loose_dict(obj: Dict[str, Any], text: str, warnings: List[
     )
 
 
-def _to_legacy_insight_items(rows: List[Tuple[str, float, str]]) -> List[InsightItem]:
-    out: List[InsightItem] = []
-    normalized = list(rows[:5])
-    while len(normalized) < 5:
-        idx = len(normalized) + 1
-        normalized.append((f"insight_{idx}_missing", 0.0, "model response missing"))
-
-    for idx, (insight, wt, desc) in enumerate(normalized, start=1):
-        payload: Dict[str, Any] = {
-            f"insight{idx}": insight,
-            "weight": wt,
-            "description": desc,
-        }
-        out.append(InsightItem.model_validate(payload))
-    return out
-
-
 def _extract_key_insights(text: str, warnings: List[str]) -> List[InsightItem]:
     block_match = re.search(
         r"KEY_INSIGHTS\s*[:：]\s*([\s\S]*?)(?:\n\s*RISK_EXPLANATION\s*[:：]|\Z)",
-        text,
-        re.IGNORECASE,
+        text, re.IGNORECASE,
     )
     candidate = block_match.group(1) if block_match else text
     lines = [ln for ln in candidate.splitlines() if ln.strip()]
@@ -573,19 +690,23 @@ def _extract_key_insights(text: str, warnings: List[str]) -> List[InsightItem]:
     return _to_legacy_insight_items(fallback_rows)
 
 
+# ═══════════════════════════════════════════════════════════════════════════
+# Public API
+# ═══════════════════════════════════════════════════════════════════════════
+
 def parse_risk_response(raw_text: str, *, allow_freeform_fallback: bool = False) -> RiskOutput:
     """
     Convert model output to ``RiskOutput``.
 
-    ``allow_freeform_fallback`` is **disabled** by default: only JSON (full or balanced-brace extraction)
-    is accepted; on failure a placeholder is returned to avoid sentence-splitting "parsing" of raw text.
+    ``allow_freeform_fallback`` is **disabled** by default: only JSON is accepted;
+    on failure a placeholder is returned.
     """
     warnings: List[str] = []
     text = (raw_text or "").strip()
 
-    obj = _extract_json_blob(text)
+    obj = extract_json(text)
     if not obj:
-        obj = _extract_json_blob(_strip_common_llm_prefixes(text))
+        obj = extract_json(_strip_common_llm_prefixes(text))
         if obj:
             warnings.append("json_used_prefix_strip")
 
@@ -594,8 +715,7 @@ def parse_risk_response(raw_text: str, *, allow_freeform_fallback: bool = False)
             return RiskOutput.model_validate(obj)
         except ValidationError as e:
             logger.warning(
-                "[parse_risk_response] Direct JSON→RiskOutput validation failed, attempting loose field extraction: %s",
-                e,
+                "[parse_risk_response] Direct JSON->RiskOutput validation failed, attempting loose field extraction: %s", e,
             )
         try:
             return _risk_output_from_loose_dict(obj, text, warnings)
@@ -611,13 +731,11 @@ def parse_risk_response(raw_text: str, *, allow_freeform_fallback: bool = False)
 
     warnings.append("parse_fallback_freeform")
     score = max(_extract_score(text), _recover_risk_score_from_jsonish(text))
-    # Try colon-format insights ("insightN": "label": description) before generic line parse
     colon_rows = _extract_insights_from_colon_format(text)
     if colon_rows:
         key_insights = _to_legacy_insight_items(colon_rows)
     else:
         key_insights = _extract_key_insights(text, warnings)
-    # Try unquoted risk_explanation before generic paragraph extraction
     explanation_raw = _extract_risk_explanation_string_value(text) or _extract_explanation(text)
     explanation = _unwrap_nested_json_explanation(explanation_raw)
     if explanation.strip() != explanation_raw.strip():
@@ -626,8 +744,7 @@ def parse_risk_response(raw_text: str, *, allow_freeform_fallback: bool = False)
     confidence, wcodes = _finalize_parse_meta(warnings)
     logger.warning(
         "[parse_risk_response] confidence=%s codes=%s (freeform_fallback)",
-        confidence,
-        wcodes,
+        confidence, wcodes,
     )
     return RiskOutput(
         key_insights=key_insights,

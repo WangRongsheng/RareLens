@@ -15,6 +15,8 @@
 
 ## Web Application
 
+https://github.com/user-attachments/assets/046a0fb0-f5a5-4fde-b446-38a52ce74938
+
 This repository is intended only for reproducing the model of each individual module. For the full end-to-end clinical pipeline — risk alerting, diagnosis, treatment, and prognosis — we strongly recommend using our pre-deployed web application [**RareLens**](https://www.rarelens.org/) for easy access and testing, without any local setup or LLM API keys.
 
 ## Demo

@@ -23,14 +23,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img width="100%" alt="RareAlert demo" src="https://cdn.jsdelivr.net/gh/WangRongsheng/RareLens@main/assets/demos/RareAlert.gif" />
+      <img width="100%" alt="RareAlert demo" src="https://raw.githubusercontent.com/WangRongsheng/RareLens/main/assets/demos/RareAlert.gif" />
       <h3 align="center">RareAlert</h3>
       <p align="left">
         Screens patient history and physical examination at the initial visit to flag potential rare-disease cases early and reduce diagnostic delays.
       </p>
     </td>
     <td width="50%" valign="top">
-      <img width="100%" alt="RareDiagnosis demo" src="https://cdn.jsdelivr.net/gh/WangRongsheng/RareLens@main/assets/demos/RareDiagnosis.gif" />
+      <img width="100%" alt="RareDiagnosis demo" src="https://raw.githubusercontent.com/WangRongsheng/RareLens/main/assets/demos/RareDiagnosis.gif" />
       <h3 align="center">RareDiagnosis</h3>
       <p align="left">
         Generates diagnostic hypotheses, recommends additional investigations, and refines final and differential diagnoses after workup completion.
@@ -39,14 +39,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img width="100%" alt="RareTreatment demo" src="https://cdn.jsdelivr.net/gh/WangRongsheng/RareLens@main/assets/demos/RareTreatment.gif" />
+      <img width="100%" alt="RareTreatment demo" src="https://raw.githubusercontent.com/WangRongsheng/RareLens/main/assets/demos/RareTreatment.gif" />
       <h3 align="center">RareTreatment</h3>
       <p align="left">
         Provides evidence-based treatment plans with goals, interventions, implementation details, clinical significance, and safety considerations.
       </p>
     </td>
     <td width="50%" valign="top">
-      <img width="100%" alt="RarePrognosis demo" src="https://cdn.jsdelivr.net/gh/WangRongsheng/RareLens@main/assets/demos/RarePrognosis.gif" />
+      <img width="100%" alt="RarePrognosis demo" src="https://raw.githubusercontent.com/WangRongsheng/RareLens/main/assets/demos/RarePrognosis.gif" />
       <h3 align="center">RarePrognosis</h3>
       <p align="left">
         Models disease progression and long-term prognosis to support patient communication, follow-up planning, and care coordination.

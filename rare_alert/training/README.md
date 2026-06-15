@@ -44,3 +44,5 @@ Supports guided JSON (vLLM), streaming, and parse-failure retries. For async usa
 | [`inference.py`](inference.py) | `RiskStage` pipeline, config classes, prompt template, guided JSON schema |
 | [`llm_client.py`](llm_client.py) | OpenAI-compatible LLM client with retry, streaming, and `.env` loading |
 | [`output_parser.py`](output_parser.py) | Multi-strategy JSON extraction and risk output parsing |
+| [`data_template.md`](data_template.md) | SFT data format spec (single- / multi-hypothesis) |
+| [`data_template.jsonl`](data_template.jsonl) | Copy-paste-ready training example (1 and 10 hypotheses) |

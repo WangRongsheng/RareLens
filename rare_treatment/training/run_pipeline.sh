@@ -4,7 +4,7 @@
 #
 # Usage:
 #   bash run_pipeline.sh                          # use demo data (6 cases)
-#   bash run_pipeline.sh --case-root /data/cases --llm-output-root /data/llm_outputs  # use full data
+#   bash run_pipeline.sh --case-root /data/cases --llm-root /data/llm_outputs  # use full data
 #
 # Requirements: Python with xgboost, pandas, scikit-learn, numpy
 #               Optional: sentence-transformers, torch (for semantic/NLI features)
@@ -40,7 +40,7 @@ DROP_GROUPS="stage3_eval"
 while [[ $# -gt 0 ]]; do
     case $1 in
         --case-root)       CASE_ROOT="$2";       shift 2 ;;
-        --llm-output-root) LLM_OUTPUT_ROOT="$2"; shift 2 ;;
+        --llm-root)        LLM_OUTPUT_ROOT="$2"; shift 2 ;;
         --score-root)      SCORE_ROOT_ARG="$2";  shift 2 ;;
         --train-ids)       TRAIN_IDS_ARG="$2";   shift 2 ;;
         --test-ids)        TEST_IDS_ARG="$2";    shift 2 ;;
@@ -54,7 +54,7 @@ while [[ $# -gt 0 ]]; do
         -h|--help)
             echo "Usage: bash run_pipeline.sh [OPTIONS]"
             echo "  --case-root DIR        Root of case directories (default: demo data)"
-            echo "  --llm-output-root DIR  Root of LLM treatment outputs (default: demo data)"
+            echo "  --llm-root DIR         Root of LLM treatment outputs (default: demo data)"
             echo "  --score-root DIR       Pre-split per-model judge scores"
             echo "                         (<model>/<case>/treatment_score.json). Read directly, no splitting."
             echo "  --train-ids PATH       JSON list of train case IDs (default: all cases, smoke mode)"
@@ -103,7 +103,7 @@ echo ""
 echo "[Step 0/3] Preparing data..."
 "${PYTHON}" "${SCRIPT_DIR}/prepare_data.py" \
     --case-root "${CASE_ROOT}" \
-    --llm-output-root "${LLM_OUTPUT_ROOT}" \
+    --llm-root "${LLM_OUTPUT_ROOT}" \
     ${SCORE_ROOT_ARG:+--score-root "${SCORE_ROOT_ARG}"} \
     --out-dir "${PREPARED}"
 echo ""

@@ -16,7 +16,7 @@ Step 3: Training + Inference  →  XGBoost GroupKFold ranker → ensemble predic
 ## Quick Start
 
 Prepare → build features → train → infer. The per-model LLM plans
-(`--llm-output-root`) come from Step 1 below; the judge scores (`--score-root`, the
+(`--llm-root`) come from Step 1 below; the judge scores (`--score-root`, the
 ground truth) follow the paper's method (see the note under the table). Both must
 exist before running.
 
@@ -24,7 +24,7 @@ exist before running.
 bash rare_treatment/training/run_pipeline.sh \
     --python /path/to/python \
     --case-root /data/case_output \
-    --llm-output-root /data/treatment_llm \
+    --llm-root /data/treatment_llm \
     --score-root /data/treatment_scores \
     --train-ids /data/splits/train.json \
     --test-ids /data/splits/test.json \
@@ -34,7 +34,7 @@ bash rare_treatment/training/run_pipeline.sh \
 | Flag | Holds |
 | --- | --- |
 | `--case-root`        | raw cases (`<case>/treatment_plan.json`, flat or `1_raw_data/`) |
-| `--llm-output-root`  | per-model LLM plans (`<model>/<case>/treatment_plan_output.json`) |
+| `--llm-root`  | per-model LLM plans (`<model>/<case>/treatment_plan_output.json`) |
 | `--score-root`       | per-model judge scores (`<model>/<case>/treatment_score.json`) |
 
 > The judge scores (the ground truth used here) are produced by LLM-as-judge
@@ -55,7 +55,7 @@ by the training step. Use `--num-gpus 0` if GPU feature workers fail.
 ```bash
 python -m rare_treatment.training.prepare_data \
     --case-root /data/case_output \
-    --llm-output-root /data/treatment_llm \
+    --llm-root /data/treatment_llm \
     --out-dir /data/prepared
 ```
 

@@ -20,7 +20,7 @@ Outputs (into --out-dir):
 Usage:
     python prepare_demo_data.py \
         --case-root ../data_demo/case_output \
-        --llm-output-root ../data_demo/pipeline_data/treatment/treatment_llm \
+        --llm-root ../data_demo/pipeline_data/treatment/treatment_llm \
         --out-dir ../data_demo/pipeline_data/treatment/prepared
 """
 from __future__ import annotations
@@ -44,7 +44,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Prepare demo data for treatment ranking pipeline.")
     parser.add_argument("--case-root", required=True,
                         help="Root of case_output/ (contains <case_id>/1_raw_data/treatment_plan.json)")
-    parser.add_argument("--llm-output-root", required=True,
+    parser.add_argument("--llm-root", dest="llm_output_root", required=True,
                         help="Root of treatment_llm/ (contains <model>/<case_id>/treatment_plan_output.json)")
     parser.add_argument("--out-dir", required=True,
                         help="Output directory for prepared pipeline data")

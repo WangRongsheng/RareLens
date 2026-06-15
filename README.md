@@ -1,12 +1,11 @@
 # RareLens
 
-<!-- TODO[badges]: Add links once paper/dataset/project page are finalized.
 <div style='display:flex; gap: 0.6rem; '>
-<a href='ARXIV_LINK'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
-<a href='PROJECT_HOMEPAGE'><img src='https://img.shields.io/badge/Project-Homepage-pink'></a>
+<!-- TODO[badges]: Add the Paper-PDF badge once the arXiv link is finalized.
+<a href='ARXIV_LINK'><img src='https://img.shields.io/badge/Paper-PDF-red'></a> -->
+<a href='https://www.rarelens.org/'><img src='https://img.shields.io/badge/RareLens-WebApp-pink'></a>
 <a href='LICENSE'><img src='https://img.shields.io/badge/License-Apache--2.0-lightgrey'></a>
 </div>
--->
 
 ## Overview
 
@@ -119,24 +118,19 @@ All providers use the OpenAI-compatible protocol and can be pointed to a local v
    pip install -r requirements.txt
    ```
 
-### Feature-engineering models
+4. **(Optional) Pre-cache feature-engineering models.** The Diagnosis and Treatment feature builders download these from HuggingFace on first run (Prognosis needs none):
 
-The Diagnosis and Treatment feature builders download models from HuggingFace on
-first run (Prognosis needs none):
+   | Used by | Model | Purpose |
+   | --- | --- | --- |
+   | Diagnosis, Treatment | `pritamdeka/S-PubMedBert-MS-MARCO` | semantic similarity embeddings |
+   | Treatment | `cross-encoder/nli-deberta-v3-large` | NLI entailment (needs `sentencepiece`) |
 
-| Used by | Model | Purpose |
-| --- | --- | --- |
-| Diagnosis, Treatment | `pritamdeka/S-PubMedBert-MS-MARCO` | semantic similarity embeddings |
-| Treatment | `cross-encoder/nli-deberta-v3-large` | NLI entailment (needs `sentencepiece`) |
-
-They are fetched automatically from HuggingFace on first run. To pre-cache them:
-
-```bash
-pip install sentencepiece                     # required by the deberta-v3 tokenizer
-python -c "from sentence_transformers import SentenceTransformer, CrossEncoder; \
-SentenceTransformer('pritamdeka/S-PubMedBert-MS-MARCO'); \
-CrossEncoder('cross-encoder/nli-deberta-v3-large'); print('models cached')"
-```
+   ```bash
+   pip install sentencepiece                     # required by the deberta-v3 tokenizer
+   python -c "from sentence_transformers import SentenceTransformer, CrossEncoder; \
+   SentenceTransformer('pritamdeka/S-PubMedBert-MS-MARCO'); \
+   CrossEncoder('cross-encoder/nli-deberta-v3-large'); print('models cached')"
+   ```
 
 ## Dataset
 
@@ -146,8 +140,8 @@ For reproducibility, we release a 500-case demo subset ([`data_500/`](data_500/)
 
 Each module provides a one-click training pipeline and a standalone inference script.
 
-> The judge scores used as ground truth for ranking (Diagnosis `--gt-root`, Treatment
-> `--score-root`) are produced by LLM-as-judge evaluation following the method described
+> The judge scores used as ground truth for ranking (the `--score-root` for Diagnosis
+> and Treatment) are produced by LLM-as-judge evaluation following the method described
 > in the paper. That scoring code is not included here — please refer to the paper to
 > reproduce them.
 
@@ -177,9 +171,9 @@ See [`rare_alert/training/README.md`](rare_alert/training/README.md) for details
    bash rare_diagnosis/training/reproduce_diag.sh \
        --python /path/to/python \
        --visit-type primary \
-       --query-root /data/query \
-       --gt-root /data/scores \
-       --models-root /data/llm_outputs \
+       --case-root /data/cases \
+       --score-root /data/scores \
+       --llm-root /data/llm_outputs \
        --train-ids /data/splits/train.json \
        --test-ids /data/splits/test.json
    ```
@@ -204,7 +198,7 @@ See [`rare_diagnosis/training/README.md`](rare_diagnosis/training/README.md) for
    bash rare_treatment/training/run_pipeline.sh \
        --python /path/to/python \
        --case-root /data/case_output \
-       --llm-output-root /data/treatment_llm \
+       --llm-root /data/treatment_llm \
        --score-root /data/treatment_scores
    ```
 

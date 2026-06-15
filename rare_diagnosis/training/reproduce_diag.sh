@@ -29,9 +29,9 @@ VISIT_TYPE="${VISIT_TYPE:-primary}"
 while [[ $# -gt 0 ]]; do
     case $1 in
         --visit-type)       VISIT_TYPE="$2";        shift 2 ;;
-        --query-root)       QUERY_ROOT="$2";        shift 2 ;;
-        --gt-root)          GT_ROOT="$2";           shift 2 ;;
-        --models-root)      MODELS_ROOT="$2";       shift 2 ;;
+        --case-root)        QUERY_ROOT="$2";        shift 2 ;;
+        --score-root)       GT_ROOT="$2";           shift 2 ;;
+        --llm-root)         MODELS_ROOT="$2";       shift 2 ;;
         --train-ids)        TRAIN_IDS="$2";         shift 2 ;;
         --test-ids)         TEST_IDS="$2";          shift 2 ;;
         --primary-fname)    PRIMARY_FNAME="$2";     shift 2 ;;
@@ -46,9 +46,9 @@ while [[ $# -gt 0 ]]; do
             echo "Usage: bash reproduce_diag.sh [OPTIONS]"
             echo ""
             echo "  --visit-type TYPE     primary (default) or followup"
-            echo "  --query-root DIR      Root of query data (primary_consultation.json)"
-            echo "  --gt-root DIR         Root of ground-truth scores"
-            echo "  --models-root DIR     Root of per-model diagnosis outputs"
+            echo "  --case-root DIR       Root of case data (primary_consultation.json)"
+            echo "  --score-root DIR      Root of ground-truth scores"
+            echo "  --llm-root DIR        Root of per-model diagnosis outputs"
             echo "  --train-ids PATH      JSON list of train case IDs"
             echo "  --test-ids PATH       JSON list of test case IDs"
             echo "  --primary-fname NAME  Per-model output filename (default depends on visit-type)"

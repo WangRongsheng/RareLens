@@ -16,7 +16,7 @@ Step 3: XGBoost Training        →  GroupKFold CV ranker (rank:ndcg)
 ## Quick Start
 
 Build features → train (feature engineering + ranking). The per-model LLM outputs
-(`--models-root`) come from Step 1 below; the judge scores (`--gt-root`, the ground
+(`--llm-root`) come from Step 1 below; the judge scores (`--score-root`, the ground
 truth) follow the paper's method (see the note under the table). Both must exist
 before running.
 
@@ -25,27 +25,27 @@ before running.
 bash rare_diagnosis/training/reproduce_diag.sh \
     --python /path/to/python \
     --visit-type primary \
-    --query-root /data/query \
-    --gt-root /data/scores \
-    --models-root /data/llm_outputs \
+    --case-root /data/cases \
+    --score-root /data/scores \
+    --llm-root /data/llm_outputs \
     --train-ids /data/splits/train.json \
     --test-ids /data/splits/test.json
 
 # Follow-up stage 
 bash rare_diagnosis/training/reproduce_diag.sh \
     --visit-type followup \
-    --query-root /data/query \
-    --gt-root /data/scores \
-    --models-root /data/llm_outputs \
+    --case-root /data/cases \
+    --score-root /data/scores \
+    --llm-root /data/llm_outputs \
     --train-ids /data/splits/train.json \
     --test-ids /data/splits/test.json
 ```
 
 | Flag | Holds |
 | --- | --- |
-| `--query-root`  | raw cases (`<case>/primary_consultation.json`) |
-| `--models-root` | per-model LLM outputs (`<model>/<case>/…`) |
-| `--gt-root`     | per-model judge scores (GT) |
+| `--case-root`  | raw cases (`<case>/primary_consultation.json`) |
+| `--llm-root`   | per-model LLM outputs (`<model>/<case>/…`) |
+| `--score-root` | per-model judge scores (GT) |
 
 > The judge scores (the ground truth used here) are produced by LLM-as-judge
 > evaluation following the method described in the paper. The scoring code is not

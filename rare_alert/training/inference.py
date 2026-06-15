@@ -80,7 +80,7 @@ class LLMCallConfig(BaseModel):
 class RiskStageConfig(LLMCallConfig):
     """RareAlert risk stage: LLM settings + CLI/runtime flags."""
 
-    model: str = Field(default="/root/autodl-tmp/qwen3_32b/med_h1")
+    model: str = Field(default="rare_alert")
     verbose: bool = False
     early_stop_threshold: int = 30
     use_guided_json: bool = False

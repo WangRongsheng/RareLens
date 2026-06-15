@@ -329,6 +329,35 @@ def train_one_fold(
 VALID_OBJECTIVES = {"rank:ndcg", "rank:map", "rank:pairwise"}
 
 
+def calculate_metrics(df: pd.DataFrame, scores: np.ndarray, k_values=(1, 3, 5)) -> dict:
+    """Hit@k / MRR per case_id (candidates ranked by score desc).
+
+    Mirrors rare_diagnosis.training.train_ranker.calculate_metrics: every case
+    counts toward the denominator; cases with no positive label score 0.
+    """
+    work = df[["case_id", "label"]].copy()
+    work["_score"] = np.asarray(scores, dtype=float)
+    work["_rank"] = work.groupby("case_id")["_score"].rank(ascending=False, method="first")
+    hits = {k: 0 for k in k_values}
+    mrr_sum = 0.0
+    total = 0
+    for _, group in work.groupby("case_id"):
+        total += 1
+        gt = group[group["label"] == 1]
+        if len(gt) == 0:
+            continue
+        found_rank = gt["_rank"].min()
+        for k in k_values:
+            if found_rank <= k:
+                hits[k] += 1
+        mrr_sum += 1.0 / found_rank
+    res = {"total": total}
+    for k in k_values:
+        res[f"hit@{k}"] = hits[k] / total if total else 0.0
+    res["mrr"] = mrr_sum / total if total else 0.0
+    return res
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Step 3: Train XGBoost L2R with GroupKFold and output ensemble scores."
@@ -384,6 +413,8 @@ def main() -> None:
     logger.info("Training %d-fold GroupKFold on %d rows, %d features, objective=%s, target_k=%d",
                 n_splits, len(df_train), len(feat_cols), args.objective, target_k)
 
+    cv_hit1: list[float] = []
+    cv_mrr: list[float] = []
     for fold, (train_idx, val_idx) in enumerate(gkf.split(df_train, df_train["label"], df_train["case_id"])):
         df_fold_train = df_train.iloc[train_idx].copy().sort_values("case_id")
         df_fold_val = df_train.iloc[val_idx].copy().sort_values("case_id")
@@ -399,7 +430,12 @@ def main() -> None:
             df_fold_train, df_fold_val, feat_cols,
             y_fold_train, y_fold_val, args.objective, target_k, args.force_cpu,
         )
-        logger.info("  Fold %d/%d: done", fold + 1, n_splits)
+        val_scores = np.asarray(model.predict(df_fold_val[feat_cols]), dtype=float)
+        vm = calculate_metrics(df_fold_val, val_scores)
+        cv_hit1.append(vm["hit@1"])
+        cv_mrr.append(vm["mrr"])
+        logger.info("  Fold %d/%d: Hit@1=%.2f%% Hit@3=%.2f%% Hit@5=%.2f%% MRR=%.4f",
+                    fold + 1, n_splits, vm["hit@1"] * 100, vm["hit@3"] * 100, vm["hit@5"] * 100, vm["mrr"])
 
         test_pred_sum += np.asarray(model.predict(df_test[feat_cols]), dtype=float)
         avg_importance += np.asarray(model.feature_importances_, dtype=float)
@@ -411,6 +447,12 @@ def main() -> None:
 
     final_scores = test_pred_sum / n_splits
     avg_importance /= n_splits
+
+    if cv_hit1:
+        logger.info("Avg CV Hit@1: %.2f%% (Std: %.4f)", np.mean(cv_hit1) * 100, np.std(cv_hit1))
+    tm = calculate_metrics(df_test, final_scores)
+    logger.info("Test Hit@1=%.2f%% Hit@3=%.2f%% Hit@5=%.2f%% MRR=%.4f",
+                tm["hit@1"] * 100, tm["hit@3"] * 100, tm["hit@5"] * 100, tm["mrr"])
 
     save_predictions_csv(df_test, final_scores, out_dir / "test_predictions_ensemble.csv", score_col="ensemble_score")
     export_ranked_json(df_test, final_scores, out_dir / "ranked_results.json", score_col="ensemble_score")

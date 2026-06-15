@@ -48,11 +48,17 @@ def main() -> None:
                         help="Root of treatment_llm/ (contains <model>/<case_id>/treatment_plan_output.json)")
     parser.add_argument("--out-dir", required=True,
                         help="Output directory for prepared pipeline data")
+    parser.add_argument("--score-root", default=None,
+                        help="Optional: root of already-split per-model scores "
+                             "(<model>/<case_id>/treatment_score.json). "
+                             "When given, scores are taken directly from here instead of splitting "
+                             "<case_id>/5_treatment/llm_outputs.json.")
     args = parser.parse_args()
 
     case_root = Path(args.case_root)
     llm_output_root = Path(args.llm_output_root)
     out_dir = Path(args.out_dir)
+    score_root = Path(args.score_root) if args.score_root else None
 
     # Discover case IDs — support both layouts:
     #   <case_id>/1_raw_data/treatment_plan.json  (case_output format)
@@ -96,29 +102,37 @@ def main() -> None:
                 shutil.copy2(src, dst)
     logger.info("Treatment output ready: %s (%d models)", treatment_output, len(models))
 
-    # 3. Split llm_outputs.json into per-model treatment_score.json
+    # 3. Assemble per-model treatment_score.json
     treatment_score = out_dir / "treatment_score"
-    for case_id in case_ids:
-        llm_outputs_path = case_root / case_id / "5_treatment" / "llm_outputs.json"
-        if not llm_outputs_path.exists():
-            logger.warning("  %s not found, skipping", llm_outputs_path)
-            continue
+    if score_root is not None:
+        # 3a. Scores are already split per model.
+        # Downstream build_features.py reads them directly via --treatment_score_root,
+        # so there is nothing to split/copy here — point build_features at score_root.
+        logger.info("Using per-model scores directly from --score-root %s "
+                    "(pass it to build_features.py --treatment_score_root)", score_root)
+    else:
+        # 3b. Legacy layout — split <case_id>/5_treatment/llm_outputs.json per model.
+        for case_id in case_ids:
+            llm_outputs_path = case_root / case_id / "5_treatment" / "llm_outputs.json"
+            if not llm_outputs_path.exists():
+                logger.warning("  %s not found, skipping", llm_outputs_path)
+                continue
 
-        with llm_outputs_path.open("r", encoding="utf-8") as f:
-            llm_data = json.load(f)
+            with llm_outputs_path.open("r", encoding="utf-8") as f:
+                llm_data = json.load(f)
 
-        models_data = llm_data.get("models", {})
-        for model_name, model_eval in models_data.items():
-            score_obj = {
-                "suggested_treatment_score": model_eval.get("suggested_treatment_score", {})
-            }
-            dst_dir = treatment_score / model_name / case_id
-            dst_dir.mkdir(parents=True, exist_ok=True)
-            dst = dst_dir / "treatment_score.json"
-            with dst.open("w", encoding="utf-8") as f:
-                json.dump(score_obj, f, indent=2, ensure_ascii=False)
+            models_data = llm_data.get("models", {})
+            for model_name, model_eval in models_data.items():
+                score_obj = {
+                    "suggested_treatment_score": model_eval.get("suggested_treatment_score", {})
+                }
+                dst_dir = treatment_score / model_name / case_id
+                dst_dir.mkdir(parents=True, exist_ok=True)
+                dst = dst_dir / "treatment_score.json"
+                with dst.open("w", encoding="utf-8") as f:
+                    json.dump(score_obj, f, indent=2, ensure_ascii=False)
 
-    logger.info("Treatment scores ready: %s", treatment_score)
+        logger.info("Treatment scores ready: %s", treatment_score)
 
     # 4. Create train/test split JSON files
     dataset_dir = out_dir / "dataset"

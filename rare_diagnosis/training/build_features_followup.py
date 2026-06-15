@@ -614,24 +614,48 @@ def main():
         func = partial(process_single_case, split_name=split, args_dict=args_dict, available_model_dirs=avail_models)
         total_rows = total_pos = 0
 
-        counter = mp.Value("i", 0)
-        # Use 'spawn' to avoid CUDA-in-fork deadlocks on Linux
-        mp_ctx = mp.get_context("spawn")
+        if args.workers and args.workers > 0:
+            # Use 'spawn' to avoid CUDA-in-fork deadlocks on Linux. Create the
+            # shared counter from the SAME context — Python 3.12 forbids sharing
+            # a fork-context SemLock with a spawn-context process.
+            mp_ctx = mp.get_context("spawn")
+            counter = mp_ctx.Value("i", 0)
 
-        with concurrent.futures.ProcessPoolExecutor(
-            max_workers=args.workers,
-            mp_context=mp_ctx,
-            initializer=_pool_initializer,
-            initargs=(counter, args.semantic_model, args.num_gpus),
-        ) as executor:
-            futures = {executor.submit(func, cid): cid for cid in ids}
-            it = (
-                tqdm(concurrent.futures.as_completed(futures), total=len(ids), desc=split, ncols=100)
-                if tqdm else concurrent.futures.as_completed(futures)
-            )
-            for fut in it:
+            with concurrent.futures.ProcessPoolExecutor(
+                max_workers=args.workers,
+                mp_context=mp_ctx,
+                initializer=_pool_initializer,
+                initargs=(counter, args.semantic_model, args.num_gpus),
+            ) as executor:
+                futures = {executor.submit(func, cid): cid for cid in ids}
+                it = (
+                    tqdm(concurrent.futures.as_completed(futures), total=len(ids), desc=split, ncols=100)
+                    if tqdm else concurrent.futures.as_completed(futures)
+                )
+                for fut in it:
+                    try:
+                        rows, grps = fut.result()
+                        for x in rows:
+                            w_f.writerow(x)
+                            total_rows += 1
+                            if x["label"] == 1:
+                                total_pos += 1
+                        for x in grps:
+                            w_g.writerow(x)
+                    except Exception as e:
+                        msg = f"Error processing case {futures[fut]}: {e}"
+                        (tqdm.write(msg) if tqdm else logger.error(msg))
+        else:
+            # Serial, in-process (no subprocess pool). Use --workers 0 on hosts
+            # where spawned workers crash loading the model; the model is loaded
+            # once in this process, which is known to work where spawn does not.
+            global _worker_counter
+            _worker_counter = mp.Value("i", 0)
+            init_worker(args.semantic_model, args.num_gpus)
+            it = tqdm(ids, total=len(ids), desc=split, ncols=100) if tqdm else ids
+            for cid in it:
                 try:
-                    rows, grps = fut.result()
+                    rows, grps = func(cid)
                     for x in rows:
                         w_f.writerow(x)
                         total_rows += 1
@@ -640,7 +664,7 @@ def main():
                     for x in grps:
                         w_g.writerow(x)
                 except Exception as e:
-                    msg = f"Error processing case {futures[fut]}: {e}"
+                    msg = f"Error processing case {cid}: {e}"
                     (tqdm.write(msg) if tqdm else logger.error(msg))
 
         f_csv.close()

@@ -82,6 +82,28 @@ pip install torch --index-url https://download.pytorch.org/whl/cu121  # adjust c
 pip install -r requirements.txt
 ```
 
+> **Verified environment:** Python 3.10, torch 2.7.1+cu118, transformers 4.57.3,
+> sentence-transformers 5.2.0, numpy 1.26.4.
+
+### Feature-engineering models
+
+The Diagnosis and Treatment feature builders download models from HuggingFace on
+first run (Prognosis needs none):
+
+| Used by | Model | Purpose |
+| --- | --- | --- |
+| Diagnosis, Treatment | `pritamdeka/S-PubMedBert-MS-MARCO` | semantic similarity embeddings |
+| Treatment | `cross-encoder/nli-deberta-v3-large` | NLI entailment (needs `sentencepiece`) |
+
+They are fetched automatically from HuggingFace on first run. To pre-cache them:
+
+```bash
+pip install sentencepiece                     # required by the deberta-v3 tokenizer
+python -c "from sentence_transformers import SentenceTransformer, CrossEncoder; \
+SentenceTransformer('pritamdeka/S-PubMedBert-MS-MARCO'); \
+CrossEncoder('cross-encoder/nli-deberta-v3-large'); print('models cached')"
+```
+
 ## Dataset
 
 For reproducibility, we release a 500-case demo subset ([`data_500/`](data_500/)) of the full RareBench used in our experiments. See [`data_500/README.md`](data_500/README.md) for format details.
@@ -89,6 +111,11 @@ For reproducibility, we release a 500-case demo subset ([`data_500/`](data_500/)
 ## Reproduction Instructions
 
 Each module provides a one-click training pipeline and a standalone inference script.
+
+> The judge scores used as ground truth for ranking (Diagnosis `--gt-root`, Treatment
+> `--score-root`) are produced by LLM-as-judge evaluation following the method described
+> in the paper. That scoring code is not included here — please refer to the paper to
+> reproduce them.
 
 ### Alert
 
@@ -143,7 +170,8 @@ See [`rare_diagnosis/training/README.md`](rare_diagnosis/training/README.md) for
 bash rare_treatment/training/run_pipeline.sh \
     --python /path/to/python \
     --case-root /data/case_output \
-    --llm-output-root /data/treatment_llm
+    --llm-output-root /data/treatment_llm \
+    --score-root /data/treatment_scores
 ```
 
 **Inference:**

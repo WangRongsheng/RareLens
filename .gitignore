@@ -4,6 +4,9 @@
 !.env.example
 *.key
 *.pem
+APIkey.txt
+llm_config.json
+!llm_config.example.json
 
 # ---------- Python ----------
 __pycache__/
@@ -55,6 +58,10 @@ logs/
 # ---------- Data / Eval / Reproduce ----------
 data_demo/
 LLM500/
+LLM500_judge/
+data_test1/
+splits/
+scripts/
 /eval/
 reproduce_module/
 

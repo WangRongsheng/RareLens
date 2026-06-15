@@ -15,15 +15,26 @@ Step 3: Inference              →  Predictions written to S1 CSVs
 
 ## Quick Start
 
+Prepare → build features → train → infer. The per-model LLM predictions (`--llm-root`)
+must already exist — generate them with Step 1. Ground-truth labels come from each
+case's `prognosis_new.json` under `--case-root`.
+
 ```bash
-# One-click reproduction
 bash rare_prognosis/training/run_pipeline.sh \
     --python /path/to/python \
     --case-root /data/case_output \
     --llm-root /data/llm \
-    --rareprognois-root /data/RarePrognois \
+    --train-ids /data/splits/train.json \
+    --test-ids /data/splits/test.json \
     --cv-folds 5
 ```
+
+| Flag | Holds |
+| --- | --- |
+| `--case-root` | cases with GT labels (`<case>/prognosis_new.json`) |
+| `--llm-root`  | per-model LLM predictions (`<model>/<case>/prognosis_prediction_output.json`) |
+
+
 
 ## Step-by-Step Usage
 

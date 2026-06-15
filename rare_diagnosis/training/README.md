@@ -15,8 +15,13 @@ Step 3: XGBoost Training        →  GroupKFold CV ranker (rank:ndcg)
 
 ## Quick Start
 
+Build features → train (feature engineering + ranking). The per-model LLM outputs
+(`--models-root`) come from Step 1 below; the judge scores (`--gt-root`, the ground
+truth) follow the paper's method (see the note under the table). Both must exist
+before running.
+
 ```bash
-# Full pipeline (primary stage): build features → train
+# Primary stage
 bash rare_diagnosis/training/reproduce_diag.sh \
     --python /path/to/python \
     --visit-type primary \
@@ -26,7 +31,7 @@ bash rare_diagnosis/training/reproduce_diag.sh \
     --train-ids /data/splits/train.json \
     --test-ids /data/splits/test.json
 
-# Follow-up stage
+# Follow-up stage 
 bash rare_diagnosis/training/reproduce_diag.sh \
     --visit-type followup \
     --query-root /data/query \
@@ -36,34 +41,62 @@ bash rare_diagnosis/training/reproduce_diag.sh \
     --test-ids /data/splits/test.json
 ```
 
+| Flag | Holds |
+| --- | --- |
+| `--query-root`  | raw cases (`<case>/primary_consultation.json`) |
+| `--models-root` | per-model LLM outputs (`<model>/<case>/…`) |
+| `--gt-root`     | per-model judge scores (GT) |
+
+> The judge scores (the ground truth used here) are produced by LLM-as-judge
+> evaluation following the method described in the paper. The scoring code is not
+> included in this repository — please refer to the paper to reproduce them.
+
+The per-model output filename differs by stage and is handled automatically; override
+with `--primary-fname` / `--gt-fname` if needed. Run feature extraction on CPU with
+`--num-gpus 0` if GPU workers fail.
+
 ## Step-by-Step Usage
 
 ### Step 1: LLM Generation
 
 [`generate_llm_outputs.py`](generate_llm_outputs.py) queries LLMs to produce top-5 diagnoses per case. Each diagnosis is optionally enriched with an OrphaCode via semantic retrieval ([`orphacode_rag.py`](orphacode_rag.py)).
 
+The first two arguments are positional (`input_folder` `output_folder`), and `--model` runs **one** model per invocation — loop over models to produce the multi-LLM outputs.
+
 ```bash
-# Direct API mode
+# Direct API mode (one model per run)
 python -m rare_diagnosis.training.generate_llm_outputs \
-    --input-root /data/query \
-    --case-ids /data/splits/train.json \
+    /data/query  /data/llm_outputs \
+    --model gpt-4o-mini \
     --base-url https://api.openai.com/v1 \
     --api-key $OPENAI_API_KEY \
-    --models gpt-5 o3-mini gpt-3.5-turbo gpt-4o-mini \
     --visit-type primary \
-    --out-dir /data/llm_outputs \
-    --workers 8
+    --num-workers 8
+
+# Config-file mode (multiple providers in one JSON list; still one --model per run)
+for m in gpt-5 o3-mini gpt-3.5-turbo gpt-4o-mini; do
+    python -m rare_diagnosis.training.generate_llm_outputs \
+        /data/query  /data/llm_outputs \
+        --model "$m" --config llm_config.json \
+        --visit-type primary --num-workers 8
+done
 
 # With OrphaCode RAG enrichment
 python -m rare_diagnosis.training.generate_llm_outputs \
-    ... \
+    /data/query  /data/llm_outputs \
+    --model gpt-4o-mini --config llm_config.json \
+    --visit-type primary --num-workers 8 \
     --enable-orphacode-rag \
-    --rag-ontology-path rare_diagnosis/orphacode_rag_cache/orphanet_rare_diseases.json
+    --rag-ontology-path rare_diagnosis/training/orphanet_hierarchy.json
 ```
 
 ### Step 2: Feature Engineering
 
 [`build_features_primary.py`](build_features_primary.py) and [`build_features_followup.py`](build_features_followup.py) construct ranking features per candidate from multi-model outputs.
+
+> Downloads `pritamdeka/S-PubMedBert-MS-MARCO` (semantic features) from HuggingFace on
+> first run — see the main README's *Feature-engineering models* note for the mirror /
+> pre-cache and the `--num_gpus 0 --workers 2` CPU fallback if GPU workers crash.
 
 ```bash
 # Primary stage

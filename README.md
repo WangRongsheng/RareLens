@@ -16,7 +16,7 @@
 
 ## Web Application
 
-<!-- TODO[webapp]: Live URL, backend stack, deployed modules. -->
+This repository is intended only for reproducing the model of each individual module. For the full end-to-end clinical pipeline — risk alerting, diagnosis, treatment, and prognosis — we strongly recommend using our pre-deployed web application [**RareLens**](https://www.rarelens.org/) for easy access and testing, without any local setup or LLM API keys.
 
 ## Demo
 
@@ -70,8 +70,6 @@ RareLens spans the four canonical stages of the rare-disease clinical workflow �
 | Treatment | `rare_treatment/` | Treatment plan ranking | Learning-to-rank over multi-LLM-generated candidates (XGBoost, GroupKFold) |
 | Prognosis | `rare_prognosis/` | Outcome / functional status / symptom burden prediction | Stacking ensemble over multi-LLM predictions (GBDT, 5-fold CV) |
 
-The Diagnosis, Treatment, and Prognosis modules share a common paradigm: **multi-LLM generation → feature engineering → ML training → evaluation**, differing in feature design, label schema, and metrics.
-
 ## System Requirements
 
 ### Hardware
@@ -85,6 +83,7 @@ The Diagnosis, Treatment, and Prognosis modules share a common paradigm: **multi
 ### Software
 - **OS**: Any 64-bit operating system
 - **Python**: 3.10+
+- **Verified environment**: Python 3.10, torch 2.7.1+cu118, transformers 4.57.3, sentence-transformers 5.2.0, numpy 1.26.4
 
 ## LLM API Key Requirements
 
@@ -104,18 +103,21 @@ All providers use the OpenAI-compatible protocol and can be pointed to a local v
 
 ## Installation
 
-```bash
-git clone <REPO_URL>
-cd RareLens
+1. **Clone the repository:**
+   ```bash
+   git clone <REPO_URL>
+   cd RareLens
+   ```
 
-# (Optional) For GPU-accelerated feature engineering, install CUDA PyTorch first:
-pip install torch --index-url https://download.pytorch.org/whl/cu121  # adjust cu121 to your CUDA version
+2. **(Optional) Install CUDA PyTorch** for GPU-accelerated feature engineering:
+   ```bash
+   pip install torch --index-url https://download.pytorch.org/whl/cu121  # adjust cu121 to your CUDA version
+   ```
 
-pip install -r requirements.txt
-```
-
-> **Verified environment:** Python 3.10, torch 2.7.1+cu118, transformers 4.57.3,
-> sentence-transformers 5.2.0, numpy 1.26.4.
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ### Feature-engineering models
 
@@ -151,94 +153,93 @@ Each module provides a one-click training pipeline and a standalone inference sc
 
 ### Alert
 
-Fine-tuned Qwen3-32B via [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) (LoRA SFT). 
+1. **Training:** fine-tuned Qwen3-32B via [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) (LoRA SFT).
 
-**Inference:**
-
-```bash
-python -c "
-from rare_alert.training.inference import RiskStage, RiskStageConfig
-cfg = RiskStageConfig(base_url='http://localhost:8000/v1', api_key='EMPTY', model='rare_alert')
-stage = RiskStage(cfg)
-result = stage.run_sync(open('/data/case/primary_consultation.json').read())
-print(result)
-"
-```
+2. **Inference:**
+   ```bash
+   python -c "
+   from rare_alert.training.inference import RiskStage, RiskStageConfig
+   cfg = RiskStageConfig(base_url='http://localhost:8000/v1', api_key='EMPTY', model='rare_alert')
+   stage = RiskStage(cfg)
+   result = stage.run_sync(open('/data/case/primary_consultation.json').read())
+   print(result)
+   "
+   ```
 
 See [`rare_alert/training/README.md`](rare_alert/training/README.md) for details.
 
+---
+
 ### Diagnosis
 
-**Training:**
+1. **Training:**
+   ```bash
+   bash rare_diagnosis/training/reproduce_diag.sh \
+       --python /path/to/python \
+       --visit-type primary \
+       --query-root /data/query \
+       --gt-root /data/scores \
+       --models-root /data/llm_outputs \
+       --train-ids /data/splits/train.json \
+       --test-ids /data/splits/test.json
+   ```
 
-```bash
-bash rare_diagnosis/training/reproduce_diag.sh \
-    --python /path/to/python \
-    --visit-type primary \
-    --query-root /data/query \
-    --gt-root /data/scores \
-    --models-root /data/llm_outputs \
-    --train-ids /data/splits/train.json \
-    --test-ids /data/splits/test.json
-```
-
-**Inference:**
-
-```bash
-python -m rare_diagnosis.training.infer_ranker \
-    --input-dir /data/features \
-    --model-dir /data/models/primary/models \
-    --config rare_diagnosis/training/best_hyperopt_config_primary.json \
-    --out-dir /data/inference_output
-```
+2. **Inference:**
+   ```bash
+   python -m rare_diagnosis.training.infer_ranker \
+       --input-dir /data/features \
+       --model-dir /data/models/primary/models \
+       --config rare_diagnosis/training/best_hyperopt_config_primary.json \
+       --out-dir /data/inference_output
+   ```
 
 See [`rare_diagnosis/training/README.md`](rare_diagnosis/training/README.md) for details.
 
+---
+
 ### Treatment
 
-**Training:**
+1. **Training:**
+   ```bash
+   bash rare_treatment/training/run_pipeline.sh \
+       --python /path/to/python \
+       --case-root /data/case_output \
+       --llm-output-root /data/treatment_llm \
+       --score-root /data/treatment_scores
+   ```
 
-```bash
-bash rare_treatment/training/run_pipeline.sh \
-    --python /path/to/python \
-    --case-root /data/case_output \
-    --llm-output-root /data/treatment_llm \
-    --score-root /data/treatment_scores
-```
-
-**Inference:**
-
-```bash
-python -m rare_treatment.training.infer_ranker \
-    --model-dir /data/models/models \
-    --test-csv /data/features/features_test.csv \
-    --out-dir /data/inference_output
-```
+2. **Inference:**
+   ```bash
+   python -m rare_treatment.training.infer_ranker \
+       --model-dir /data/models/models \
+       --test-csv /data/features/features_test.csv \
+       --out-dir /data/inference_output
+   ```
 
 See [`rare_treatment/training/README.md`](rare_treatment/training/README.md) for details.
 
+---
+
 ### Prognosis
 
-**Training :**
+1. **Training:**
+   ```bash
+   bash rare_prognosis/training/run_pipeline.sh \
+       --python /path/to/python \
+       --case-root /data/case_output \
+       --llm-root /data/llm
+   ```
 
-```bash
-bash rare_prognosis/training/run_pipeline.sh \
-    --python /path/to/python \
-    --case-root /data/case_output \
-    --llm-root /data/llm
-```
-
-**Inference:**
-
-```bash
-python -m rare_prognosis.training.infer_models \
-    --rareprognosis-root /data/rareprognosis \
-    --models-root /data/models \
-    --train-ids /data/dataset/train_case_ids.json \
-    --test-ids /data/dataset/test_case_ids.json \
-    --models-dir /data/trained_models \
-    --task all
-```
+2. **Inference:**
+   ```bash
+   python -m rare_prognosis.training.infer_models \
+       --rareprognosis-root /data/rareprognosis \
+       --models-root /data/models \
+       --train-ids /data/dataset/train_case_ids.json \
+       --test-ids /data/dataset/test_case_ids.json \
+       --models-dir /data/trained_models \
+       --task all
+   ```
 
 See [`rare_prognosis/training/README.md`](rare_prognosis/training/README.md) for details.
 

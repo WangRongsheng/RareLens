@@ -20,9 +20,41 @@
 
 ## Demo
 
-<!-- TODO[demo]:
-![Demo](video/rarelens_demo.gif)
--->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" alt="RareAlert demo" src="assets/demos/RareAlert.gif" />
+      <h3 align="center">RareAlert</h3>
+      <p align="left">
+        Screens patient history and physical examination at the initial visit to flag potential rare-disease cases early and reduce diagnostic delays.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" alt="RareDiagnosis demo" src="assets/demos/RareDiagnosis.gif" />
+      <h3 align="center">RareDiagnosis</h3>
+      <p align="left">
+        Generates diagnostic hypotheses, recommends additional investigations, and refines final and differential diagnoses after workup completion.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" alt="RareTreatment demo" src="assets/demos/RareTreatment.gif" />
+      <h3 align="center">RareTreatment</h3>
+      <p align="left">
+        Provides evidence-based treatment plans with goals, interventions, implementation details, clinical significance, and safety considerations.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" alt="RarePrognosis demo" src="assets/demos/RarePrognosis.gif" />
+      <h3 align="center">RarePrognosis</h3>
+      <p align="left">
+        Models disease progression and long-term prognosis to support patient communication, follow-up planning, and care coordination.
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 The following sections provide instructions for reproducing the model training and evaluation reported in the paper. For the full end-to-end clinical pipeline, see the [Web Application](#web-application) above.
